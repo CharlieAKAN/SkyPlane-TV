@@ -22,9 +22,22 @@ async function main() {
         const result = await res.json();
         
         if (result.items && result.items.length > 0) {
-          channel.isLive = true;
-          channel.currentVideoId = result.items[0].id.videoId;
-          console.log(`[LIVE] ${channel.channelName} is currently streaming!`);
+          const videoId = result.items[0].id.videoId;
+          
+          // Step 2: VERIFY EMBEDDING IS ENABLED
+          const videoCheckUrl = `https://www.googleapis.com/youtube/v3/videos?part=status&id=${videoId}&key=${YOUTUBE_API_KEY}`;
+          const videoRes = await fetch(videoCheckUrl);
+          const videoResult = await videoRes.json();
+          const isEmbeddable = videoResult.items && videoResult.items.length > 0 && videoResult.items[0].status.embeddable;
+
+          if (isEmbeddable) {
+            channel.isLive = true;
+            channel.currentVideoId = videoId;
+            console.log(`[LIVE] ${channel.channelName} is streaming and allows embeds!`);
+          } else {
+            channel.isLive = false;
+            console.log(`[BLOCKED] ${channel.channelName} is live, but creator disabled embeds. Showing VOD instead.`);
+          }
         } else {
           channel.isLive = false;
           // If not live, we could ideally fetch their latest uploaded video.
