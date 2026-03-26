@@ -14,7 +14,7 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
   useEffect(() => {
     const fetchChannels = async () => {
       try {
-        const res = await fetch(`/channels.json?t=${new Date().getTime()}`);
+        const res = await fetch(`${import.meta.env.BASE_URL}channels.json?t=${new Date().getTime()}`);
         if (!res.ok) throw new Error('Failed to fetch channels');
         const data: Channel[] = await res.json();
         setChannels(data);
