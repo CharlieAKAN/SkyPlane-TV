@@ -1,0 +1,41 @@
+[
+  {
+    "channelName": "LA Flights (LAX)",
+    "youtubeChannelId": "UC6s-d2H8q9F4_P162x_z8Ew",
+    "airportCode": "LAX",
+    "currentVideoId": "ScMZTXRqR20",
+    "isLive": true,
+    "bbox": {
+      "lamin": 33.85,
+      "lamax": 34.05,
+      "lomin": -118.55,
+      "lomax": -118.25
+    }
+  },
+  {
+    "channelName": "Airliners Live (MAN)",
+    "youtubeChannelId": "UCD9I3Bw2uT1Vl2Q-FmsBdfQ",
+    "airportCode": "MAN",
+    "currentVideoId": "BqzP15gT_E8",
+    "isLive": true,
+    "bbox": {
+      "lamin": 53.3,
+      "lamax": 53.4,
+      "lomin": -2.35,
+      "lomax": -2.2
+    }
+  },
+  {
+    "channelName": "Big Jet TV (LHR)",
+    "youtubeChannelId": "UCgjc7qj1TqD7N0Pymh07DdQ",
+    "airportCode": "LHR",
+    "currentVideoId": "tGzGkP-qU58",
+    "isLive": false,
+    "bbox": {
+      "lamin": 51.4,
+      "lamax": 51.55,
+      "lomin": -0.55,
+      "lomax": -0.35
+    }
+  }
+]
