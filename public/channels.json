@@ -4,7 +4,7 @@
     "youtubeChannelId": "UC6s-d2H8q9F4_P162x_z8Ew",
     "airportCode": "LAX",
     "currentVideoId": "ScMZTXRqR20",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 33.85,
       "lamax": 34.05,
@@ -17,7 +17,7 @@
     "youtubeChannelId": "UCD9I3Bw2uT1Vl2Q-FmsBdfQ",
     "airportCode": "MAN",
     "currentVideoId": "BqzP15gT_E8",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 53.3,
       "lamax": 53.4,
