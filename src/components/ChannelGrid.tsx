@@ -28,6 +28,8 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
     const el = scrollRef.current;
     if (!el) return;
     el.scrollBy({ left: dir === 'right' ? 300 : -300, behavior: 'smooth' });
+    // Smooth scroll is async — poll state once animation has settled (~300ms)
+    setTimeout(updateScrollState, 320);
   };
 
   // Allow horizontal scroll via mouse wheel
