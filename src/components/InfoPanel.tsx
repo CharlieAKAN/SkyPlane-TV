@@ -1,10 +1,18 @@
-import { useState } from 'react';
+import { useState, lazy, Suspense } from 'react';
 import { Map, CloudSun } from 'lucide-react';
-import { FlightMap } from './FlightMap';
-import { MetarPanel } from './MetarPanel';
 import type { AircraftState } from '../hooks/useOpenSky';
 import type { MetarData } from '../hooks/useMetar';
 import type { BoundingBox } from '../types';
+import { MetarPanel } from './MetarPanel';
+
+// Lazy-load Leaflet — keeps the initial JS bundle lean and unblocking
+const FlightMap = lazy(() => import('./FlightMap').then(m => ({ default: m.FlightMap })));
+
+const MapFallback = () => (
+  <div className="w-full h-full flex items-center justify-center text-neutral-700 text-sm">
+    <span className="animate-spin h-4 w-4 border-2 border-neutral-700 border-t-blue-500 rounded-full" />
+  </div>
+);
 
 interface InfoPanelProps {
   aircraftStates: AircraftState[];
@@ -12,7 +20,6 @@ interface InfoPanelProps {
   metarLoading: boolean;
   airportCode: string | undefined;
   bbox: BoundingBox | undefined;
-  /** On mobile, render as tabs below the player */
   mobile?: boolean;
 }
 
@@ -22,14 +29,16 @@ export function InfoPanel({ aircraftStates, metar, metarLoading, airportCode, bb
   const [tab, setTab] = useState<Tab>('map');
 
   if (mobile) {
-    // ── Mobile: tabs strip ────────────────────────────────────────────────
     return (
       <div className="flex flex-col bg-neutral-950 border-t border-white/10" style={{ height: 280 }}>
         {/* Tab bar */}
-        <div className="flex shrink-0 border-b border-white/10">
+        <div className="flex shrink-0 border-b border-white/10" role="tablist">
           {(['map', 'weather'] as Tab[]).map(t => (
             <button
               key={t}
+              role="tab"
+              aria-selected={tab === t}
+              aria-label={t === 'map' ? 'Live flight map' : 'Airport weather'}
               onClick={() => setTab(t)}
               className={`flex-1 flex items-center justify-center gap-1.5 py-2 text-xs font-bold tracking-wider uppercase transition-colors ${
                 tab === t
@@ -37,15 +46,15 @@ export function InfoPanel({ aircraftStates, metar, metarLoading, airportCode, bb
                   : 'text-neutral-500 hover:text-neutral-300'
               }`}
             >
-              {t === 'map' ? <Map size={13} /> : <CloudSun size={13} />}
+              {t === 'map' ? <Map size={13} aria-hidden /> : <CloudSun size={13} aria-hidden />}
               {t === 'map' ? 'Live Map' : 'Weather'}
             </button>
           ))}
         </div>
         {/* Tab content */}
-        <div className="flex-1 min-h-0 overflow-hidden">
+        <div className="flex-1 min-h-0 overflow-hidden" role="tabpanel">
           {tab === 'map'
-            ? <FlightMap aircraftStates={aircraftStates} bbox={bbox} />
+            ? <Suspense fallback={<MapFallback />}><FlightMap aircraftStates={aircraftStates} bbox={bbox} /></Suspense>
             : <MetarPanel metar={metar} loading={metarLoading} airportCode={airportCode} />
           }
         </div>
@@ -53,12 +62,14 @@ export function InfoPanel({ aircraftStates, metar, metarLoading, airportCode, bb
     );
   }
 
-  // ── Desktop: vertical sidebar ───────────────────────────────────────────
+  // Desktop sidebar
   return (
     <div className="hidden md:flex flex-col w-[280px] xl:w-[320px] shrink-0 bg-neutral-950/80 border-l border-white/10 overflow-hidden">
       {/* Map — top half */}
       <div className="flex-1 min-h-0 p-2 pb-1">
-        <FlightMap aircraftStates={aircraftStates} bbox={bbox} />
+        <Suspense fallback={<MapFallback />}>
+          <FlightMap aircraftStates={aircraftStates} bbox={bbox} />
+        </Suspense>
       </div>
 
       {/* Divider */}

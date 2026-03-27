@@ -20,11 +20,17 @@ function App() {
       {/* Header */}
       <header className="z-50 bg-neutral-950/80 backdrop-blur-xl border-b border-neutral-800/60 px-4 md:px-8 py-3 flex items-center justify-between shrink-0 shadow-2xl">
         <div className="flex items-center gap-3">
-          <img
-            src={`${import.meta.env.BASE_URL}logo.png`}
-            alt="SkySpotting TV"
-            className="h-10 w-auto object-contain drop-shadow-[0_0_10px_rgba(59,130,246,0.4)]"
-          />
+          <picture>
+            <source srcSet={`${import.meta.env.BASE_URL}logo.webp`} type="image/webp" />
+            <img
+              src={`${import.meta.env.BASE_URL}logo.png`}
+              alt="SkySpotting TV"
+              width={40}
+              height={40}
+              fetchPriority="high"
+              className="h-10 w-10 object-contain drop-shadow-[0_0_10px_rgba(59,130,246,0.4)]"
+            />
+          </picture>
           <div>
             <h1 className="text-lg font-black bg-gradient-to-r from-white via-blue-100 to-neutral-400 bg-clip-text text-transparent tracking-tight">
               SkySpotting TV
