@@ -11,7 +11,8 @@ export function useOpenSky(activeChannel: Channel | null) {
 
     const fetchFlights = async () => {
       try {
-        const { lamin, lomin, lamax, lomax } = activeChannel.bbox;
+        const bbox = activeChannel.bbox!;
+        const { lamin, lomin, lamax, lomax } = bbox;
         const res = await fetch(
           `https://opensky-network.org/api/states/all?lamin=${lamin}&lomin=${lomin}&lamax=${lamax}&lomax=${lomax}`
         );
