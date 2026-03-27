@@ -1,0 +1,62 @@
+{
+  "LAX": {
+    "lamin": 33.79,
+    "lamax": 34.09,
+    "lomin": -118.55,
+    "lomax": -118.25
+  },
+  "ORD": {
+    "lamin": 41.83,
+    "lamax": 42.13,
+    "lomin": -88.05,
+    "lomax": -87.75
+  },
+  "LHR": {
+    "lamin": 51.32,
+    "lamax": 51.62,
+    "lomin": -0.60,
+    "lomax": -0.30
+  },
+  "JFK": {
+    "lamin": 40.49,
+    "lamax": 40.79,
+    "lomin": -73.93,
+    "lomax": -73.63
+  },
+  "MIA": {
+    "lamin": 25.64,
+    "lamax": 25.94,
+    "lomin": -80.44,
+    "lomax": -80.14
+  },
+  "MAN": {
+    "lamin": 53.20,
+    "lamax": 53.50,
+    "lomin": -2.42,
+    "lomax": -2.12
+  },
+  "SYD": {
+    "lamin": -34.09,
+    "lamax": -33.79,
+    "lomin": 151.02,
+    "lomax": 151.32
+  },
+  "FRA": {
+    "lamin": 50.03,
+    "lamax": 50.05,
+    "lomin": 8.57,
+    "lomax": 8.59
+  },
+  "CDG": {
+    "lamin": 49.00,
+    "lamax": 49.02,
+    "lomin": 2.54,
+    "lomax": 2.56
+  },
+  "HND": {
+    "lamin": 35.55,
+    "lamax": 35.56,
+    "lomin": 139.77,
+    "lomax": 139.79
+  }
+}
