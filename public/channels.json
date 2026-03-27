@@ -10,20 +10,24 @@
       "lamax": 34.05,
       "lomin": -118.55,
       "lomax": -118.25
-    }
+    },
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L &amp; 25R | LIVE Plane Spotting with ATC!"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "Kvr5nTLdsCA",
+    "currentVideoId": "2aP-Z9VQYrQ",
     "isLive": false,
     "bbox": {
-      "lamin": 53.3,
-      "lamax": 53.4,
-      "lomin": -2.35,
-      "lomax": -2.2
-    }
+      "lamin": 41.83,
+      "lamax": 42.13,
+      "lomin": -88.05,
+      "lomax": -87.75
+    },
+    "streamStatus": "vod",
+    "streamTitle": "[v] 🔴 LIVE from  Chicago O’Hare ✈️"
   },
   {
     "channelName": "Big Jet TV (LHR)",
