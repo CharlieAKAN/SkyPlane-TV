@@ -14,25 +14,27 @@ export function YouTubePlayer({ videoId }: YouTubePlayerProps) {
     width: '100%',
     playerVars: {
       autoplay: 1,
-      mute: 1, // Autoplay usually requires mute
+      mute: 1,
       playsinline: 1,
-      host: 'https://www.youtube-nocookie.com'
+      host: 'https://www.youtube-nocookie.com',
     },
   };
 
   return (
-    <div className="w-full aspect-video bg-black rounded-xl overflow-hidden shadow-2xl ring-1 ring-white/10 relative group">
+    // w-full h-full — no aspect-video, just fill the flex-1 parent
+    <div className="w-full h-full bg-black relative">
       {!videoId && (
-        <div className="absolute inset-0 flex items-center justify-center text-neutral-500">
-          Loading signal...
+        <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 text-neutral-600">
+          <div className="w-10 h-10 border-2 border-neutral-700 border-t-blue-500 rounded-full animate-spin" />
+          <span className="text-sm font-medium tracking-widest uppercase">Loading signal...</span>
         </div>
       )}
       {videoId && (
-        <YouTube 
-          videoId={videoId} 
-          opts={opts} 
-          onReady={onPlayerReady} 
-          className="w-full h-full" 
+        <YouTube
+          videoId={videoId}
+          opts={opts}
+          onReady={onPlayerReady}
+          className="w-full h-full"
           iframeClassName="w-full h-full"
         />
       )}

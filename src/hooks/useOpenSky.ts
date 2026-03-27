@@ -6,7 +6,8 @@ export function useOpenSky(activeChannel: Channel | null) {
   const seenFlights = useRef<Set<string>>(new Set());
 
   useEffect(() => {
-    if (!activeChannel?.bbox) return;
+    // Only poll OpenSky if the channel is currently live and has bounds
+    if (!activeChannel?.bbox || !activeChannel.isLive) return;
 
     const fetchFlights = async () => {
       try {

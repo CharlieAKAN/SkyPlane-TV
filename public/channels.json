@@ -27,7 +27,7 @@
   },
   {
     "channelName": "Big Jet TV (LHR)",
-    "youtubeChannelId": "UCgjc7qj1TqD7N0Pymh07DdQ",
+    "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "tGzGkP-qU58",
     "isLive": false,
@@ -37,5 +37,10 @@
       "lomin": -0.55,
       "lomax": -0.35
     }
+  },
+  {
+    "channelName": "LAS Vegas Airport LIVE",
+    "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
+    "airportCode": "LAS"
   }
 ]

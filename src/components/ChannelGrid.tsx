@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import type { Channel } from '../types';
 import { ChannelCard } from './ChannelCard';
 
@@ -10,6 +10,19 @@ interface ChannelGridProps {
 export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridProps) {
   const [channels, setChannels] = useState<Channel[]>([]);
   const [loading, setLoading] = useState(true);
+  const scrollRef = useRef<HTMLDivElement>(null);
+
+  // Allow horizontal scroll via mouse wheel
+  useEffect(() => {
+    const el = scrollRef.current;
+    if (!el) return;
+    const onWheel = (e: WheelEvent) => {
+      e.preventDefault();
+      el.scrollLeft += e.deltaY + e.deltaX;
+    };
+    el.addEventListener('wheel', onWheel, { passive: false });
+    return () => el.removeEventListener('wheel', onWheel);
+  }, []);
 
   useEffect(() => {
     const fetchChannels = async () => {
@@ -18,7 +31,7 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
         if (!res.ok) throw new Error('Failed to fetch channels');
         const data: Channel[] = await res.json();
         setChannels(data);
-        
+
         if (!selectedChannel && data.length > 0) {
           const firstLive = data.find(c => c.isLive) || data[0];
           onSelectChannel(firstLive);
@@ -31,25 +44,30 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
     };
 
     fetchChannels();
-    const interval = setInterval(fetchChannels, 5 * 60 * 1000); // 5 mins
+    const interval = setInterval(fetchChannels, 5 * 60 * 1000);
     return () => clearInterval(interval);
   }, []);
 
   if (loading) {
     return (
-      <div className="h-64 flex gap-3 items-center justify-center text-neutral-500 font-medium">
-        <span className="animate-spin h-5 w-5 border-2 border-neutral-600 border-t-blue-500 rounded-full"></span>
+      <div className="h-full flex items-center justify-center gap-3 text-neutral-500 font-medium">
+        <span className="animate-spin h-5 w-5 border-2 border-neutral-600 border-t-blue-500 rounded-full" />
         Loading aviation channels...
       </div>
     );
   }
 
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+    <div
+      ref={scrollRef}
+      // Horizontal carousel — no scrollbar visible, scroll with wheel/swipe
+      className="h-full flex flex-row gap-3 overflow-x-auto overflow-y-hidden px-4 py-3 items-stretch
+                 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+    >
       {channels.map((channel) => (
-        <ChannelCard 
-          key={channel.youtubeChannelId} 
-          channel={channel} 
+        <ChannelCard
+          key={channel.youtubeChannelId}
+          channel={channel}
           isSelected={selectedChannel?.youtubeChannelId === channel.youtubeChannelId}
           onSelect={onSelectChannel}
         />
