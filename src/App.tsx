@@ -52,15 +52,41 @@ function App() {
           )}
         </div>
 
-        <a
-          href="https://forms.google.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center gap-2 group px-3 py-1.5 bg-neutral-800/50 hover:bg-neutral-800 text-sm font-bold rounded-xl transition-all border border-neutral-700 hover:border-neutral-600"
-        >
-          Submit Channel
-          <ExternalLink size={13} className="text-neutral-500 group-hover:text-blue-400 transition-colors" />
-        </a>
+        {/* Header action buttons */}
+        <div className="flex items-center gap-2">
+          {/* Buy Me a Coffee */}
+          <a
+            href="https://buymeacoffee.com/charlieakan"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black tracking-wide transition-all border border-yellow-500/40 bg-yellow-500/10 text-yellow-400 hover:bg-yellow-500/20 hover:border-yellow-500/60 shadow-[0_0_12px_rgba(234,179,8,0.15)] hover:shadow-[0_0_18px_rgba(234,179,8,0.25)]"
+          >
+            <span>☕</span>
+            <span className="hidden sm:inline">Buy Me a Coffee</span>
+          </a>
+
+          {/* Submit Channel */}
+          <a
+            href="https://forms.gle/AEjkq9zcPg768maE8"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-300 hover:bg-neutral-800 hover:border-neutral-600 hover:text-white"
+          >
+            <ExternalLink size={12} />
+            <span className="hidden sm:inline">Submit Channel</span>
+          </a>
+
+          {/* Report Bug */}
+          <a
+            href="https://forms.gle/owzqH1nj7wnKZ2EF9"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Report a Bug"
+            className="flex items-center justify-center w-8 h-8 rounded-xl text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-500 hover:bg-red-950/50 hover:border-red-800/60 hover:text-red-400"
+          >
+            🐛
+          </a>
+        </div>
       </header>
 
       {/* Main content area */}
