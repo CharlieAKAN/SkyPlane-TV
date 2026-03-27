@@ -104,33 +104,39 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
   return (
     <div className="relative h-full">
 
-      {/* Left gradient fade */}
+      {/* Left gradient fade — only when scrollable */}
       {canScrollLeft && (
         <div className="absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-r from-neutral-950 to-transparent pointer-events-none z-10" />
       )}
-      {/* Left arrow button */}
-      {canScrollLeft && (
-        <button
-          onClick={() => scroll('left')}
-          className="absolute left-1 top-1/2 -translate-y-1/2 z-20 h-10 w-10 flex items-center justify-center rounded-full bg-neutral-800/90 border border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 transition-all shadow-xl text-neutral-300 hover:text-white"
-        >
-          <ChevronLeft size={20} />
-        </button>
-      )}
+      {/* Left arrow — always visible, disabled at start */}
+      <button
+        onClick={() => scroll('left')}
+        disabled={!canScrollLeft}
+        className={`absolute left-1 top-1/2 -translate-y-1/2 z-20 h-10 w-10 flex items-center justify-center rounded-full border transition-all shadow-xl ${
+          canScrollLeft
+            ? 'bg-neutral-800/90 border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 text-neutral-300 hover:text-white cursor-pointer'
+            : 'bg-neutral-900/50 border-neutral-800 text-neutral-700 cursor-default opacity-40'
+        }`}
+      >
+        <ChevronLeft size={20} />
+      </button>
 
-      {/* Right gradient fade */}
+      {/* Right gradient fade — only when scrollable */}
       {canScrollRight && (
         <div className="absolute right-0 top-0 bottom-0 w-20 bg-gradient-to-l from-neutral-950 to-transparent pointer-events-none z-10" />
       )}
-      {/* Right arrow button */}
-      {canScrollRight && (
-        <button
-          onClick={() => scroll('right')}
-          className="absolute right-1 top-1/2 -translate-y-1/2 z-20 h-10 w-10 flex items-center justify-center rounded-full bg-neutral-800/90 border border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 transition-all shadow-xl text-neutral-300 hover:text-white"
-        >
-          <ChevronRight size={20} />
-        </button>
-      )}
+      {/* Right arrow — always visible, disabled at end */}
+      <button
+        onClick={() => scroll('right')}
+        disabled={!canScrollRight}
+        className={`absolute right-1 top-1/2 -translate-y-1/2 z-20 h-10 w-10 flex items-center justify-center rounded-full border transition-all shadow-xl ${
+          canScrollRight
+            ? 'bg-neutral-800/90 border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 text-neutral-300 hover:text-white cursor-pointer'
+            : 'bg-neutral-900/50 border-neutral-800 text-neutral-700 cursor-default opacity-40'
+        }`}
+      >
+        <ChevronRight size={20} />
+      </button>
 
       {/* Scrollable carousel */}
       <div

@@ -3,7 +3,7 @@ import type { Channel } from './types';
 import { YouTubePlayer } from './components/YouTubePlayer';
 import { ChannelGrid } from './components/ChannelGrid';
 import { InfoPanel } from './components/InfoPanel';
-import { Plane, ExternalLink, Radio } from 'lucide-react';
+import { ExternalLink, Radio } from 'lucide-react';
 import { useOpenSky } from './hooks/useOpenSky';
 import { useMetar } from './hooks/useMetar';
 import { ToastAlerts } from './components/ToastAlerts';
@@ -20,9 +20,11 @@ function App() {
       {/* Header */}
       <header className="z-50 bg-neutral-950/80 backdrop-blur-xl border-b border-neutral-800/60 px-4 md:px-8 py-3 flex items-center justify-between shrink-0 shadow-2xl">
         <div className="flex items-center gap-3">
-          <div className="p-2 bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-xl border border-blue-500/30 text-blue-400 shadow-[0_0_15px_rgba(59,130,246,0.2)]">
-            <Plane size={22} className="transform -rotate-45" />
-          </div>
+          <img
+            src={`${import.meta.env.BASE_URL}logo.png`}
+            alt="SkySpotting TV"
+            className="h-10 w-auto object-contain drop-shadow-[0_0_10px_rgba(59,130,246,0.4)]"
+          />
           <div>
             <h1 className="text-lg font-black bg-gradient-to-r from-white via-blue-100 to-neutral-400 bg-clip-text text-transparent tracking-tight">
               SkySpotting TV
