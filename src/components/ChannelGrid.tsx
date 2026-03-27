@@ -30,10 +30,19 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
         const res = await fetch(`${import.meta.env.BASE_URL}channels.json?t=${new Date().getTime()}`);
         if (!res.ok) throw new Error('Failed to fetch channels');
         const data: Channel[] = await res.json();
-        setChannels(data);
 
-        if (!selectedChannel && data.length > 0) {
-          const firstLive = data.find(c => c.isLive) || data[0];
+        // Sort: live first → upcoming → vod/offline
+        const order = { live: 0, upcoming: 1, vod: 2 };
+        const sorted = [...data].sort((a, b) => {
+          const aOrder = order[a.streamStatus ?? 'vod'] ?? 2;
+          const bOrder = order[b.streamStatus ?? 'vod'] ?? 2;
+          return aOrder - bOrder;
+        });
+
+        setChannels(sorted);
+
+        if (!selectedChannel && sorted.length > 0) {
+          const firstLive = sorted.find(c => c.isLive) || sorted[0];
           onSelectChannel(firstLive);
         }
       } catch (error) {

@@ -16,6 +16,14 @@ export function YouTubePlayer({ videoId }: YouTubePlayerProps) {
       autoplay: 1,
       mute: 1,
       playsinline: 1,
+      // Reduce adaptive quality switching that causes jitter on live streams
+      vq: 'hd1080',
+      // Suppress annotations/cards which cause repaints
+      iv_load_policy: 3,
+      // No related videos overlay
+      rel: 0,
+      // Hide extra controls
+      modestbranding: 1,
       host: 'https://www.youtube-nocookie.com',
     },
   };
