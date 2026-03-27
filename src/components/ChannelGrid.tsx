@@ -104,30 +104,32 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
   return (
     <div className="relative h-full">
 
-      {/* Left fade + arrow */}
+      {/* Left gradient fade */}
       {canScrollLeft && (
-        <div className="absolute left-0 top-0 bottom-0 z-10 flex items-center">
-          <div className="absolute inset-0 bg-gradient-to-r from-neutral-950 to-transparent w-20 pointer-events-none" />
-          <button
-            onClick={() => scroll('left')}
-            className="relative z-10 ml-1 h-10 w-10 flex items-center justify-center rounded-full bg-neutral-800/90 border border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 transition-all shadow-xl text-neutral-300 hover:text-white"
-          >
-            <ChevronLeft size={20} />
-          </button>
-        </div>
+        <div className="absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-r from-neutral-950 to-transparent pointer-events-none z-10" />
+      )}
+      {/* Left arrow button */}
+      {canScrollLeft && (
+        <button
+          onClick={() => scroll('left')}
+          className="absolute left-1 top-1/2 -translate-y-1/2 z-20 h-10 w-10 flex items-center justify-center rounded-full bg-neutral-800/90 border border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 transition-all shadow-xl text-neutral-300 hover:text-white"
+        >
+          <ChevronLeft size={20} />
+        </button>
       )}
 
-      {/* Right fade + arrow */}
+      {/* Right gradient fade */}
       {canScrollRight && (
-        <div className="absolute right-0 top-0 bottom-0 z-10 flex items-center justify-end">
-          <div className="absolute inset-0 bg-gradient-to-l from-neutral-950 to-transparent w-20 pointer-events-none" />
-          <button
-            onClick={() => scroll('right')}
-            className="relative z-10 mr-1 h-10 w-10 flex items-center justify-center rounded-full bg-neutral-800/90 border border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 transition-all shadow-xl text-neutral-300 hover:text-white"
-          >
-            <ChevronRight size={20} />
-          </button>
-        </div>
+        <div className="absolute right-0 top-0 bottom-0 w-20 bg-gradient-to-l from-neutral-950 to-transparent pointer-events-none z-10" />
+      )}
+      {/* Right arrow button */}
+      {canScrollRight && (
+        <button
+          onClick={() => scroll('right')}
+          className="absolute right-1 top-1/2 -translate-y-1/2 z-20 h-10 w-10 flex items-center justify-center rounded-full bg-neutral-800/90 border border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 transition-all shadow-xl text-neutral-300 hover:text-white"
+        >
+          <ChevronRight size={20} />
+        </button>
       )}
 
       {/* Scrollable carousel */}

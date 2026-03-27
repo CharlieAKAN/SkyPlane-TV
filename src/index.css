@@ -15,3 +15,21 @@ body {
   margin: 0;
   padding: 0;
 }
+
+/* Old-school TV channel change effect */
+@keyframes tv-noise {
+  0%   { opacity: 0.85; background-position: 0% 0%; }
+  20%  { opacity: 1;    background-position: 40% 60%; }
+  40%  { opacity: 0.6;  background-position: 80% 20%; }
+  60%  { opacity: 0.9;  background-position: 20% 80%; }
+  80%  { opacity: 0.4;  background-position: 60% 40%; }
+  100% { opacity: 0;    background-position: 100% 100%; }
+}
+
+@keyframes tv-scanline {
+  0%   { top: 50%; height: 4px; opacity: 1; }
+  30%  { top: 50%; height: 100%; opacity: 0.9; }
+  60%  { top: 50%; height: 4px; opacity: 0.7; }
+  80%  { top: 50%; height: 2px; opacity: 0.4; }
+  100% { top: 50%; height: 0px; opacity: 0; }
+}
