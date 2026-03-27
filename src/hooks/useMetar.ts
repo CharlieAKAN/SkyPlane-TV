@@ -28,20 +28,33 @@ export interface MetarData {
 }
 
 function parseMetar(raw: any): MetarData {
+  // Find lowest ceiling layer (BKN, OVC, OVX)
+  const ceilingLayer = (raw.clouds ?? []).find((s: any) =>
+    ['BKN', 'OVC', 'OVX'].includes(s.cover)
+  );
+
+  // altim from the API is in hPa — convert to inHg
+  const altimHpa = raw.altim ?? null;
+  const altimInHg = altimHpa != null ? altimHpa * 0.02953 : null;
+
+  // visib can be a string like "6+" or a number
+  const visibRaw = raw.visib;
+  const visibility = visibRaw != null ? parseFloat(String(visibRaw)) : null;
+
   return {
-    raw: raw.raw_text ?? raw.metar_id ?? '',
-    icao: raw.station_id ?? '',
-    flightCategory: raw.flight_category ?? 'UNKNOWN',
-    windDir: raw.wind_dir_degrees ?? null,
-    windSpeed: raw.wind_speed_kt ?? 0,
-    windGust: raw.wind_gust_kt ?? null,
-    visibility: raw.visibility_statute_mi ?? null,
-    ceiling: raw.sky_condition?.find((s: any) => ['BKN', 'OVC', 'OVX'].includes(s.sky_cover))?.cloud_base_ft_agl ?? null,
-    temp: raw.temp_c ?? null,
-    dewpoint: raw.dewpoint_c ?? null,
-    altimeter: raw.altim_in_hg ?? null,
-    conditions: raw.wx_string ?? '',
-    observationTime: raw.observation_time ?? '',
+    raw: raw.rawOb ?? '',
+    icao: raw.icaoId ?? '',
+    flightCategory: raw.fltCat ?? 'UNKNOWN',
+    windDir: raw.wdir === 'VRB' ? null : (raw.wdir ?? null),
+    windSpeed: raw.wspd ?? 0,
+    windGust: raw.wgst ?? null,
+    visibility,
+    ceiling: ceilingLayer?.base ?? null,
+    temp: raw.temp ?? null,
+    dewpoint: raw.dewp ?? null,
+    altimeter: altimInHg != null ? Math.round(altimInHg * 100) / 100 : null,
+    conditions: raw.wxString ?? '',
+    observationTime: raw.reportTime ?? '',
   };
 }
 
