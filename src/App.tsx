@@ -2,20 +2,22 @@ import { useState } from 'react';
 import type { Channel } from './types';
 import { YouTubePlayer } from './components/YouTubePlayer';
 import { ChannelGrid } from './components/ChannelGrid';
+import { InfoPanel } from './components/InfoPanel';
 import { Plane, ExternalLink, Radio } from 'lucide-react';
 import { useOpenSky } from './hooks/useOpenSky';
+import { useMetar } from './hooks/useMetar';
 import { ToastAlerts } from './components/ToastAlerts';
 
 function App() {
   const [activeChannel, setActiveChannel] = useState<Channel | null>(null);
-  const { alerts, dismissAlert } = useOpenSky(activeChannel);
+  const { alerts, dismissAlert, aircraftStates } = useOpenSky(activeChannel);
+  const { metar, loading: metarLoading } = useMetar(activeChannel?.airportCode);
 
   return (
-    // Lock to full screen — no body scroll
     <div className="h-screen w-screen overflow-hidden flex flex-col bg-black text-neutral-50 font-sans selection:bg-blue-500/30">
       <ToastAlerts alerts={alerts} onDismiss={dismissAlert} />
 
-      {/* Header — glassmorphism strip */}
+      {/* Header */}
       <header className="z-50 bg-neutral-950/80 backdrop-blur-xl border-b border-neutral-800/60 px-4 md:px-8 py-3 flex items-center justify-between shrink-0 shadow-2xl">
         <div className="flex items-center gap-3">
           <div className="p-2 bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-xl border border-blue-500/30 text-blue-400 shadow-[0_0_15px_rgba(59,130,246,0.2)]">
@@ -29,7 +31,7 @@ function App() {
           </div>
         </div>
 
-        {/* Now Playing label — center */}
+        {/* Now Playing — center, desktop only */}
         <div className="hidden md:flex items-center gap-2 text-sm font-semibold text-neutral-300">
           {activeChannel?.isLive ? (
             <span className="relative flex h-2.5 w-2.5">
@@ -59,20 +61,46 @@ function App() {
         </a>
       </header>
 
-      {/* Main — cinematic player takes all remaining space */}
-      <main className="flex-1 min-h-0 flex flex-col">
-        {/* Video Player — flex-1 fills all available space */}
-        <div className="flex-1 min-h-0 bg-black">
-          <YouTubePlayer videoId={activeChannel?.currentVideoId || ''} />
+      {/* Main content area */}
+      <main className="flex-1 min-h-0 flex flex-col md:flex-row overflow-hidden">
+
+        {/* ── Left / Primary column: video + mobile info panel ── */}
+        <div className="flex-1 min-w-0 min-h-0 flex flex-col overflow-hidden">
+
+          {/* Video player — fills all space above mobile tabs / channel dock */}
+          <div className="flex-1 min-h-0 bg-black">
+            <YouTubePlayer videoId={activeChannel?.currentVideoId || ''} />
+          </div>
+
+          {/* Mobile-only: Map + Weather tabs below video */}
+          <div className="md:hidden shrink-0">
+            <InfoPanel
+              mobile
+              aircraftStates={aircraftStates}
+              metar={metar}
+              metarLoading={metarLoading}
+              airportCode={activeChannel?.airportCode}
+              bbox={activeChannel?.bbox}
+            />
+          </div>
+
+          {/* Channel Dock */}
+          <div className="shrink-0 h-44 border-t border-white/10 bg-neutral-950/90 backdrop-blur-sm">
+            <ChannelGrid
+              selectedChannel={activeChannel}
+              onSelectChannel={setActiveChannel}
+            />
+          </div>
         </div>
 
-        {/* TV Guide Dock — horizontal carousel, fixed height */}
-        <div className="shrink-0 h-48 border-t border-white/10 bg-neutral-950/90 backdrop-blur-sm">
-          <ChannelGrid
-            selectedChannel={activeChannel}
-            onSelectChannel={setActiveChannel}
-          />
-        </div>
+        {/* ── Right sidebar: desktop flight map + METAR ── */}
+        <InfoPanel
+          aircraftStates={aircraftStates}
+          metar={metar}
+          metarLoading={metarLoading}
+          airportCode={activeChannel?.airportCode}
+          bbox={activeChannel?.bbox}
+        />
       </main>
     </div>
   );

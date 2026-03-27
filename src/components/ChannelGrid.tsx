@@ -1,6 +1,7 @@
-import { useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import type { Channel } from '../types';
 import { ChannelCard } from './ChannelCard';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface ChannelGridProps {
   selectedChannel: Channel | null;
@@ -10,7 +11,24 @@ interface ChannelGridProps {
 export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridProps) {
   const [channels, setChannels] = useState<Channel[]>([]);
   const [loading, setLoading] = useState(true);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(false);
   const scrollRef = useRef<HTMLDivElement>(null);
+
+  // Update arrow visibility based on scroll position
+  const updateScrollState = useCallback(() => {
+    const el = scrollRef.current;
+    if (!el) return;
+    setCanScrollLeft(el.scrollLeft > 8);
+    setCanScrollRight(el.scrollLeft < el.scrollWidth - el.clientWidth - 8);
+  }, []);
+
+  // Arrow button scroll
+  const scroll = (dir: 'left' | 'right') => {
+    const el = scrollRef.current;
+    if (!el) return;
+    el.scrollBy({ left: dir === 'right' ? 300 : -300, behavior: 'smooth' });
+  };
 
   // Allow horizontal scroll via mouse wheel
   useEffect(() => {
@@ -19,10 +37,15 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
     const onWheel = (e: WheelEvent) => {
       e.preventDefault();
       el.scrollLeft += e.deltaY + e.deltaX;
+      updateScrollState();
     };
     el.addEventListener('wheel', onWheel, { passive: false });
-    return () => el.removeEventListener('wheel', onWheel);
-  }, []);
+    el.addEventListener('scroll', updateScrollState);
+    return () => {
+      el.removeEventListener('wheel', onWheel);
+      el.removeEventListener('scroll', updateScrollState);
+    };
+  }, [updateScrollState]);
 
   useEffect(() => {
     const fetchChannels = async () => {
@@ -62,6 +85,13 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
     return () => clearInterval(interval);
   }, []);
 
+  // Check scroll arrows after channels load
+  useEffect(() => {
+    // Short delay so DOM has painted
+    const t = setTimeout(updateScrollState, 100);
+    return () => clearTimeout(t);
+  }, [channels, updateScrollState]);
+
   if (loading) {
     return (
       <div className="h-full flex items-center justify-center gap-3 text-neutral-500 font-medium">
@@ -72,20 +102,49 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
   }
 
   return (
-    <div
-      ref={scrollRef}
-      // Horizontal carousel — no scrollbar visible, scroll with wheel/swipe
-      className="h-full flex flex-row gap-3 overflow-x-auto overflow-y-hidden px-4 py-3 items-stretch
-                 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
-    >
-      {channels.map((channel) => (
-        <ChannelCard
-          key={channel.youtubeChannelId}
-          channel={channel}
-          isSelected={selectedChannel?.youtubeChannelId === channel.youtubeChannelId}
-          onSelect={onSelectChannel}
-        />
-      ))}
+    <div className="relative h-full">
+
+      {/* Left fade + arrow */}
+      {canScrollLeft && (
+        <div className="absolute left-0 top-0 bottom-0 z-10 flex items-center">
+          <div className="absolute inset-0 bg-gradient-to-r from-neutral-950 to-transparent w-20 pointer-events-none" />
+          <button
+            onClick={() => scroll('left')}
+            className="relative z-10 ml-1 h-10 w-10 flex items-center justify-center rounded-full bg-neutral-800/90 border border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 transition-all shadow-xl text-neutral-300 hover:text-white"
+          >
+            <ChevronLeft size={20} />
+          </button>
+        </div>
+      )}
+
+      {/* Right fade + arrow */}
+      {canScrollRight && (
+        <div className="absolute right-0 top-0 bottom-0 z-10 flex items-center justify-end">
+          <div className="absolute inset-0 bg-gradient-to-l from-neutral-950 to-transparent w-20 pointer-events-none" />
+          <button
+            onClick={() => scroll('right')}
+            className="relative z-10 mr-1 h-10 w-10 flex items-center justify-center rounded-full bg-neutral-800/90 border border-neutral-700 hover:bg-neutral-700 hover:border-neutral-500 transition-all shadow-xl text-neutral-300 hover:text-white"
+          >
+            <ChevronRight size={20} />
+          </button>
+        </div>
+      )}
+
+      {/* Scrollable carousel */}
+      <div
+        ref={scrollRef}
+        className="h-full flex flex-row gap-3 overflow-x-auto overflow-y-hidden px-4 py-3 items-stretch
+                   [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+      >
+        {channels.map((channel) => (
+          <ChannelCard
+            key={channel.youtubeChannelId}
+            channel={channel}
+            isSelected={selectedChannel?.youtubeChannelId === channel.youtubeChannelId}
+            onSelect={onSelectChannel}
+          />
+        ))}
+      </div>
     </div>
   );
 }
