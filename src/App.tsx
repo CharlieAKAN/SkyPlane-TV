@@ -25,7 +25,7 @@ function App() {
           </div>
           <div>
             <h1 className="text-lg font-black bg-gradient-to-r from-white via-blue-100 to-neutral-400 bg-clip-text text-transparent tracking-tight">
-              SpotterTV Guide
+              SkySpotting TV
             </h1>
             <p className="text-[10px] text-blue-400/80 font-bold tracking-[0.2em] uppercase">Live Aviation Network</p>
           </div>
