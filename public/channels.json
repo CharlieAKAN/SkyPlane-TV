@@ -33,18 +33,30 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "tGzGkP-qU58",
+    "currentVideoId": "m9pQcYz8qYo",
     "isLive": false,
     "bbox": {
-      "lamin": 51.4,
-      "lamax": 51.55,
-      "lomin": -0.55,
-      "lomax": -0.35
-    }
+      "lamin": 51.32,
+      "lamax": 51.62,
+      "lomin": -0.6,
+      "lomax": -0.3
+    },
+    "streamStatus": "vod",
+    "streamTitle": "SIM CHALLENGE: EGLL to EHAM"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
-    "airportCode": "LAS"
+    "airportCode": "LAS",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "NEW LAS Vegas Airport LIVE 24/7 FEED",
+    "currentVideoId": "euH5-K8dzZ0",
+    "bbox": {
+      "lamin": 35.93,
+      "lamax": 36.23,
+      "lomin": -115.3,
+      "lomax": -115
+    }
   }
 ]
