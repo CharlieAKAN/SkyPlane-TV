@@ -5,7 +5,19 @@ import { OpenAI } from 'openai';
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const CHANNELS_JSON_PATH = path.join(process.cwd(), 'public', 'channels.json');
+const METAR_JSON_PATH = path.join(process.cwd(), 'public', 'metar.json');
 const AIRPORTS_JSON_PATH = path.join(process.cwd(), 'scripts', 'airports.json');
+
+// IATA → ICAO mapping for METAR lookups
+const IATA_TO_ICAO = {
+  LAX: 'KLAX', ORD: 'KORD', JFK: 'KJFK', MIA: 'KMIA',
+  LAS: 'KLAS', SFO: 'KSFO', ATL: 'KATL', DFW: 'KDFW',
+  SEA: 'KSEA', BOS: 'KBOS', DEN: 'KDEN', PHX: 'KPHX',
+  LHR: 'EGLL', MAN: 'EGCC', CDG: 'LFPG', FRA: 'EDDF',
+  AMS: 'EHAM', MAD: 'LEMD', BCN: 'LEBL', FCO: 'LIRF',
+  DXB: 'OMDB', SIN: 'WSSS', HND: 'RJTT', NRT: 'RJAA',
+  SYD: 'YSSY', MEL: 'YMML', HKG: 'VHHH',
+};
 
 // Initialize OpenAI only if key exists
 const openai = OPENAI_API_KEY ? new OpenAI({ apiKey: OPENAI_API_KEY }) : null;
@@ -71,6 +83,59 @@ async function checkEmbeddable(videoId) {
   return result.items && result.items.length > 0 && result.items[0].status.embeddable;
 }
 
+async function fetchAllMetar(channels) {
+  // Collect unique IATA codes that have an ICAO mapping
+  const iataSet = [...new Set(
+    channels.map(c => c.airportCode).filter(Boolean)
+  )];
+  const icaos = iataSet.map(iata => IATA_TO_ICAO[iata]).filter(Boolean);
+
+  if (icaos.length === 0) {
+    console.log('No ICAO codes to fetch METAR for.');
+    return {};
+  }
+
+  const ids = icaos.join(',');
+  const url = `https://aviationweather.gov/api/data/metar?ids=${ids}&format=json&hours=1`;
+  console.log(`\nFetching METAR for: ${ids}`);
+
+  try {
+    const res = await fetch(url);
+    if (!res.ok) { console.warn(`METAR API returned ${res.status}`); return {}; }
+    const data = await res.json();
+
+    const metarMap = {};
+    for (const m of data) {
+      // Key by IATA for easy frontend lookup
+      const iata = Object.entries(IATA_TO_ICAO).find(([, v]) => v === m.icaoId)?.[0];
+      if (iata) {
+        const ceilingLayer = (m.clouds ?? []).find(s => ['BKN','OVC','OVX'].includes(s.cover));
+        const altimHpa = m.altim ?? null;
+        metarMap[iata] = {
+          raw: m.rawOb ?? '',
+          icao: m.icaoId ?? '',
+          flightCategory: m.fltCat ?? 'UNKNOWN',
+          windDir: m.wdir === 'VRB' ? null : (m.wdir ?? null),
+          windSpeed: m.wspd ?? 0,
+          windGust: m.wgst ?? null,
+          visibility: m.visib != null ? parseFloat(String(m.visib)) : null,
+          ceiling: ceilingLayer?.base ?? null,
+          temp: m.temp ?? null,
+          dewpoint: m.dewp ?? null,
+          altimeter: altimHpa != null ? Math.round(altimHpa * 0.02953 * 100) / 100 : null,
+          conditions: m.wxString ?? '',
+          observationTime: m.reportTime ?? '',
+        };
+        console.log(`  -> METAR ${iata} (${m.icaoId}): ${m.fltCat ?? '?'} ${m.rawOb ?? ''}`);
+      }
+    }
+    return metarMap;
+  } catch (err) {
+    console.error('METAR fetch error:', err);
+    return {};
+  }
+}
+
 async function main() {
   if (!YOUTUBE_API_KEY) {
     console.warn("⚠️ No YOUTUBE_API_KEY provided. Exiting.");
@@ -104,7 +169,6 @@ async function main() {
       const isEmbeddable = await checkEmbeddable(videoId);
       
       if (isEmbeddable) {
-        // Did the basic status change?
         if (channel.isLive !== isLive || channel.streamStatus !== bestVideo.streamStatus) {
             channel.isLive = isLive;
             channel.streamStatus = bestVideo.streamStatus;
@@ -113,7 +177,6 @@ async function main() {
 
         channel.streamTitle = title;
         
-        // Only ask OpenAI if the video ID changed (save tokens and time!)
         if (channel.currentVideoId !== videoId || !channel.airportCode) {
           channel.currentVideoId = videoId;
           hasUpdates = true;
@@ -126,15 +189,14 @@ async function main() {
           if (extractedCode) {
             console.log(`  -> AI thinks it's at: ${extractedCode}`);
             if (airportsData[extractedCode]) {
-              // Ensure bbox gets completely replaced
               channel.airportCode = extractedCode;
               channel.bbox = { ...airportsData[extractedCode] };
               console.log(`  -> Mapped ${extractedCode} to bounding box successfully!`);
             } else {
-              console.log(`  -> Note: Airport Code ${extractedCode} not in airports.json. Using fallback or existing bbox.`);
+              console.log(`  -> Note: Airport Code ${extractedCode} not in airports.json.`);
             }
           } else {
-             console.log(`  -> AI couldn't determine location or no API key. Keeping existing bounding box.`);
+             console.log(`  -> AI couldn't determine location. Keeping existing bounding box.`);
           }
         } else {
            console.log(`  -> Video ID (${videoId}) hasn't changed. Skipping OpenAI request.`);
@@ -148,9 +210,14 @@ async function main() {
     }
   }
 
-  // Write changes
+  // Write channels.json
   fs.writeFileSync(CHANNELS_JSON_PATH, JSON.stringify(channelsData, null, 2));
-  console.log("✅ Successfully finished polling and saved channels.json");
+  console.log('\n✅ Saved channels.json');
+
+  // Fetch and write metar.json (no CORS issues in Node.js!)
+  const metarData = await fetchAllMetar(channelsData);
+  fs.writeFileSync(METAR_JSON_PATH, JSON.stringify(metarData, null, 2));
+  console.log('✅ Saved metar.json');
 }
 
 main();
