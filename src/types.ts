@@ -9,9 +9,11 @@ export interface Channel {
   channelName: string;
   youtubeChannelId: string;
   airportCode: string;
-  currentVideoId: string;
-  isLive: boolean;
-  bbox: BoundingBox;
+  currentVideoId?: string;
+  isLive?: boolean;
+  bbox?: BoundingBox;
+  streamStatus?: 'live' | 'upcoming' | 'vod';
+  streamTitle?: string;
 }
 
 export interface FlightAlert {
