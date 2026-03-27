@@ -202,7 +202,11 @@ async function main() {
            console.log(`  -> Video ID (${videoId}) hasn't changed. Skipping OpenAI request.`);
         }
       } else {
-        console.log(`  -> [BLOCKED] Video ${videoId} is not embeddable.`);
+        // Non-embeddable — always reset live status so stale badges don't appear
+        console.log(`  -> [BLOCKED] Video ${videoId} is not embeddable. Resetting live status.`);
+        channel.isLive = false;
+        channel.streamStatus = 'vod';
+        hasUpdates = true;
       }
     } else {
       channel.isLive = false;
