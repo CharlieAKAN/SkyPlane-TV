@@ -95,7 +95,7 @@ export function useOpenSky(activeChannel: Channel | null) {
     };
 
     fetchFlights();
-    const interval = setInterval(fetchFlights, 30 * 1000);
+    const interval = setInterval(fetchFlights, 60 * 1000); // 60s — stay within OpenSky free tier
     return () => clearInterval(interval);
 
   }, [activeChannel]);

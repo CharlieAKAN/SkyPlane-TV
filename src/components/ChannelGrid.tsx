@@ -53,9 +53,15 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
 
         setChannels(sorted);
 
-        if (!selectedChannel && sorted.length > 0) {
+        if (!selectedChannel) {
+          // First load: auto-select first live channel
           const firstLive = sorted.find(c => c.isLive) || sorted[0];
           onSelectChannel(firstLive);
+        } else {
+          // Subsequent polls: refresh the active channel object with latest data
+          // so useOpenSky always sees the current isLive/bbox values
+          const updated = sorted.find(c => c.youtubeChannelId === selectedChannel.youtubeChannelId);
+          if (updated) onSelectChannel(updated);
         }
       } catch (error) {
         console.error("Error fetching channels:", error);
