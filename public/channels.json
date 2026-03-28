@@ -73,5 +73,35 @@
       "lomin": -0.6,
       "lomax": -0.3
     }
+  },
+  {
+    "channelName": "SydSquad",
+    "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "",
+    "currentVideoId": "",
+    "airportCode": "SYD",
+    "bbox": {
+      "lamin": -34.1,
+      "lamax": -33.8,
+      "lomin": 150.9,
+      "lomax": 151.3
+    }
+  },
+  {
+    "channelName": "Chicago Flights",
+    "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "",
+    "currentVideoId": "",
+    "airportCode": "ORD",
+    "bbox": {
+      "lamin": 41.83,
+      "lamax": 42.13,
+      "lomin": -88.05,
+      "lomax": -87.75
+    }
   }
 ]
