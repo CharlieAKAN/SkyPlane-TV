@@ -14,7 +14,7 @@ function App() {
   const { metar, loading: metarLoading } = useMetar(activeChannel?.airportCode);
 
   return (
-    <div className="h-screen w-screen overflow-hidden flex flex-col bg-black text-neutral-50 font-sans selection:bg-blue-500/30">
+    <div className="h-[100dvh] w-screen overflow-hidden flex flex-col bg-black text-neutral-50 font-sans selection:bg-blue-500/30">
       <ToastAlerts alerts={alerts} onDismiss={dismissAlert} />
 
       {/* Header */}

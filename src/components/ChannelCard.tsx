@@ -23,7 +23,7 @@ export function ChannelCard({ channel, isSelected, onSelect }: ChannelCardProps)
         <div className="absolute top-0 left-0 right-0 h-0.5 bg-gradient-to-r from-blue-500 via-purple-500 to-blue-500" />
       )}
 
-      <div className="p-4 flex flex-col gap-2 h-full">
+      <div className="p-3 flex flex-col gap-2 h-full">
         {/* Airport badge + channel name */}
         <div className="flex items-start justify-between gap-2">
           <h3 className={`text-sm font-bold leading-snug line-clamp-2 transition-colors ${

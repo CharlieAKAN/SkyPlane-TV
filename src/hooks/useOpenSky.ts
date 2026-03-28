@@ -9,8 +9,10 @@ export interface AircraftState {
   altitude: number;    // meters
   velocity: number;    // m/s
   heading: number;     // degrees
+  verticalRate: number; // m/s
   onGround: boolean;
   squawk: string;
+  country: string;
 }
 
 export function useOpenSky(activeChannel: Channel | null) {
@@ -52,8 +54,10 @@ export function useOpenSky(activeChannel: Channel | null) {
             altitude: s[7] ?? s[13] ?? 0,
             velocity: s[9] ?? 0,
             heading: s[10] ?? 0,
+            verticalRate: s[11] ?? 0,
             onGround: s[8] ?? false,
             squawk: s[14] ?? '',
+            country: s[2] ?? 'Unknown',
           }));
 
         setAircraftStates(parsed);
