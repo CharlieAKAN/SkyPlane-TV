@@ -4,7 +4,7 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
@@ -49,9 +49,9 @@
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
     "airportCode": "LAS",
     "isLive": false,
-    "streamStatus": "live",
-    "streamTitle": "NEW LAS Vegas Airport LIVE 24/7 FEED",
-    "currentVideoId": "euH5-K8dzZ0",
+    "streamStatus": "vod",
+    "streamTitle": "Floating KLM Boeing 787-10 PH-BKD \"Baardbloem\" Arrival From AMSterdam into LAS Vegas.",
+    "currentVideoId": "HImGrMwWfjk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
+    "isLive": true,
     "streamStatus": "live",
-    "streamTitle": "Heathrow Airport Live - Friday 27th March 2026",
-    "currentVideoId": "dfSLffACZBg",
+    "streamTitle": "Heathrow Airport Live - Saturday 28th March 2026",
+    "currentVideoId": "ovcpZ_A0fE4",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
