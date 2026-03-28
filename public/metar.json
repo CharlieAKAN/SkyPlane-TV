@@ -1,4 +1,19 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 282000Z 26009KT 9999 FEW037 16/10 Q1020",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 260,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 16,
+    "dewpoint": 10,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-03-28T20:00:00.000Z"
+  },
   "LHR": {
     "raw": "METAR EGLL 281950Z COR AUTO 31009KT 9999 NCD 08/M02 Q1029 NOSIG",
     "icao": "EGLL",
@@ -13,21 +28,6 @@
     "altimeter": 30.39,
     "conditions": "",
     "observationTime": "2026-03-28T20:00:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 281930Z 25009KT 9999 FEW040 16/10 Q1019",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 250,
-    "windSpeed": 9,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 16,
-    "dewpoint": 10,
-    "altimeter": 30.09,
-    "conditions": "",
-    "observationTime": "2026-03-28T19:30:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 281956Z 21013G25KT 10SM FEW200 FEW250 32/M13 A2996 RMK AO2 PK WND 22028/1858 SLP120 T03171133",
