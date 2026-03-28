@@ -3,16 +3,16 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "UQaSS4_VAV4",
-    "isLive": false,
+    "currentVideoId": "12KqO5IBLeY",
+    "isLive": true,
     "bbox": {
-      "lamin": 33.85,
-      "lamax": 34.05,
+      "lamin": 33.79,
+      "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
     "streamStatus": "live",
-    "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L &amp; 25R | LIVE Plane Spotting with ATC!"
+    "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
