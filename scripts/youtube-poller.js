@@ -48,39 +48,92 @@ Description: ${description.substring(0, 500)}`;
   }
 }
 
+/**
+ * Fetch the channel's RSS feed (free, no quota) to get recent video IDs,
+ * then check their live/upcoming/vod status via the Videos API (1 unit/call).
+ * 
+ * Old approach: 3× Search API calls = 300 quota units per channel
+ * New approach: 0 (RSS) + 1 (Videos API batch) = 1 quota unit per channel
+ */
 async function fetchBestVideo(channelId) {
-  // 1. Check for Live Streams
-  let url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&type=video&eventType=live&key=${YOUTUBE_API_KEY}`;
-  let res = await fetch(url);
-  let result = await res.json();
-  if (result.items && result.items.length > 0) {
-    return { ...result.items[0], streamStatus: 'live' };
+  // Step 1: Get recent video IDs from the free RSS feed (no API key needed)
+  const rssUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
+  let videoIds = [];
+  try {
+    const rssRes = await fetch(rssUrl);
+    if (!rssRes.ok) throw new Error(`RSS ${rssRes.status}`);
+    const xml = await rssRes.text();
+    // Extract yt:videoId values
+    const matches = [...xml.matchAll(/<yt:videoId>([^<]+)<\/yt:videoId>/g)];
+    videoIds = matches.map(m => m[1]).slice(0, 10); // check latest 10
+  } catch (err) {
+    console.error(`  -> RSS fetch failed for ${channelId}:`, err.message);
+    return null;
   }
 
-  // 2. Check for Upcoming (Scheduled) Streams
-  url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&type=video&eventType=upcoming&key=${YOUTUBE_API_KEY}`;
-  res = await fetch(url);
-  result = await res.json();
-  if (result.items && result.items.length > 0) {
-    return { ...result.items[0], streamStatus: 'upcoming' };
+  if (videoIds.length === 0) {
+    console.log(`  -> No videos in RSS feed for ${channelId}`);
+    return null;
   }
 
-  // 3. Fallback to the latest VOD (Video on Demand)
-  url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&type=video&order=date&maxResults=1&key=${YOUTUBE_API_KEY}`;
-  res = await fetch(url);
-  result = await res.json();
-  if (result.items && result.items.length > 0) {
-    return { ...result.items[0], streamStatus: 'vod' };
+  // Step 2: Batch-check all IDs in one Videos API call (1 quota unit)
+  const ids = videoIds.join(',');
+  const apiUrl = `https://www.googleapis.com/youtube/v3/videos?part=snippet,liveStreamingDetails,status&id=${ids}&key=${YOUTUBE_API_KEY}`;
+  let items = [];
+  try {
+    const apiRes = await fetch(apiUrl);
+    const apiData = await apiRes.json();
+    items = apiData.items || [];
+  } catch (err) {
+    console.error(`  -> Videos API failed:`, err.message);
+    return null;
   }
-  
+
+  // Step 3: Find best result — prefer live > upcoming > vod
+  const live = items.find(v =>
+    v.liveStreamingDetails &&
+    v.liveStreamingDetails.actualStartTime &&
+    !v.liveStreamingDetails.actualEndTime
+  );
+  if (live) {
+    return {
+      id: { videoId: live.id },
+      snippet: live.snippet,
+      status: live.status,
+      streamStatus: 'live',
+    };
+  }
+
+  const upcoming = items.find(v =>
+    v.liveStreamingDetails &&
+    v.liveStreamingDetails.scheduledStartTime &&
+    !v.liveStreamingDetails.actualStartTime
+  );
+  if (upcoming) {
+    return {
+      id: { videoId: upcoming.id },
+      snippet: upcoming.snippet,
+      status: upcoming.status,
+      streamStatus: 'upcoming',
+    };
+  }
+
+  // Fallback: latest video (first in RSS = most recent)
+  const latest = items[0];
+  if (latest) {
+    return {
+      id: { videoId: latest.id },
+      snippet: latest.snippet,
+      status: latest.status,
+      streamStatus: 'vod',
+    };
+  }
+
   return null;
 }
 
-async function checkEmbeddable(videoId) {
-  const url = `https://www.googleapis.com/youtube/v3/videos?part=status&id=${videoId}&key=${YOUTUBE_API_KEY}`;
-  const res = await fetch(url);
-  const result = await res.json();
-  return result.items && result.items.length > 0 && result.items[0].status.embeddable;
+function isEmbeddable(videoItem) {
+  return videoItem?.status?.embeddable !== false;
 }
 
 async function fetchAllMetar(channels) {
@@ -175,8 +228,7 @@ async function main() {
       channel.streamTitle = title;
 
       // ── Only update videoId if the video is actually embeddable ──
-      const isEmbeddable = await checkEmbeddable(videoId);
-      if (isEmbeddable) {
+      if (isEmbeddable(bestVideo)) {
         if (channel.currentVideoId !== videoId || !channel.airportCode) {
           channel.currentVideoId = videoId;
           hasUpdates = true;
