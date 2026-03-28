@@ -12,6 +12,7 @@ jobs:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     permissions:
       contents: write
+      actions: write
 
     steps:
       - name: Checkout repository
@@ -38,3 +39,8 @@ jobs:
           git add public/channels.json public/metar.json
           git commit -m "chore(data): auto-update channels.json + metar.json" || echo "No changes to commit"
           git push
+
+      - name: Trigger deployment
+        run: gh workflow run deploy.yml
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
