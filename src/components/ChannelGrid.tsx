@@ -35,8 +35,9 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
   useEffect(() => {
     const fetchChannels = async () => {
       try {
-        const CHANNELS_URL = `https://cdn.jsdelivr.net/gh/CharlieAKAN/SkyPlane-TV@main/public/channels.json`;
-        const res = await fetch(`${CHANNELS_URL}?t=${new Date().getTime()}`, {
+        // Fetch directly from same origin — no CDN caching issues.
+        // cache: 'no-store' + timestamp forces a fresh hit every poll.
+        const res = await fetch(`${import.meta.env.BASE_URL}channels.json?t=${Date.now()}`, {
           cache: 'no-store',
         });
         if (!res.ok) throw new Error('Failed to fetch channels');
