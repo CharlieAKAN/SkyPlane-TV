@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - CROSSWIND Saturday 28th March 2026",
-    "currentVideoId": "ovcpZ_A0fE4",
+    "currentVideoId": "lu1hfniyBfs",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE - China Southern A359 Special Livery - Plane-Spotting at Sydney Airport with Kurt - 29.03.26🔴",
     "currentVideoId": "LxsgyKWUr5I",
     "airportCode": "SYD",
