@@ -102,7 +102,7 @@ export function useOpenSky(activeChannel: Channel | null) {
               id: `${flightId}-livery`,
               callsign: aircraft.callsign,
               type: 'SPECIAL_LIVERY',
-              message: `${livery.icon} Spotted: ${livery.desc}!`,
+              message: `${livery.icon} ${livery.desc} spotted near ${activeChannel.airportCode}!`,
               timestamp: Date.now(),
               isRead: false,
             };
@@ -129,7 +129,7 @@ export function useOpenSky(activeChannel: Channel | null) {
               id: `${flightId}-7500`,
               callsign: aircraft.callsign,
               type: 'EMERGENCY',
-              message: `🛑 Unlawful Interference (7500) (${aircraft.callsign})`,
+              message: `🛑 Unlawful Interference (7500) near ${activeChannel.airportCode} (${aircraft.callsign})`,
               timestamp: Date.now(),
               isRead: false,
             };
@@ -138,7 +138,7 @@ export function useOpenSky(activeChannel: Channel | null) {
               id: `${flightId}-vip`,
               callsign: aircraft.callsign,
               type: 'VIP_MILITARY',
-              message: `🎖️ Military/VIP Aircraft detected! (${aircraft.callsign})`,
+              message: `🎖️ Military/VIP Aircraft detected near ${activeChannel.airportCode}! (${aircraft.callsign})`,
               timestamp: Date.now(),
               isRead: false,
             };
@@ -147,7 +147,7 @@ export function useOpenSky(activeChannel: Channel | null) {
               id: `${flightId}-heavy`,
               callsign: aircraft.callsign,
               type: 'HEAVY_AIRCRAFT',
-              message: `✈️ Heavy Airliner on approach/departure! (${aircraft.callsign})`,
+              message: `✈️ Heavy Airliner on approach/departure at ${activeChannel.airportCode}! (${aircraft.callsign})`,
               timestamp: Date.now(),
               isRead: false,
             };
