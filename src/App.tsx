@@ -8,6 +8,7 @@ import { useOpenSky } from './hooks/useOpenSky';
 import { useMetar } from './hooks/useMetar';
 import { ToastAlerts } from './components/ToastAlerts';
 import { AlertsDrawer } from './components/AlertsDrawer';
+import { LiveViewers } from './components/LiveViewers';
 
 function App() {
   const [activeChannel, setActiveChannel] = useState<Channel | null>(null);
@@ -70,6 +71,9 @@ function App() {
 
         {/* Header action buttons */}
         <div className="flex items-center gap-2">
+          {/* Live Viewers Tracker */}
+          <LiveViewers />
+
           {/* Buy Me a Coffee */}
           <a
             href="https://buymeacoffee.com/charlieakan"
