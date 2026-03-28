@@ -1,4 +1,19 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 281450Z AUTO 32016KT 290V350 9999 //////CB 10/M03 Q1025 TEMPO SHRA",
+    "icao": "EGLL",
+    "flightCategory": "UNKNOWN",
+    "windDir": 320,
+    "windSpeed": 16,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 10,
+    "dewpoint": -3,
+    "altimeter": 30.27,
+    "conditions": "",
+    "observationTime": "2026-03-28T15:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 281456Z 19005KT 10SM FEW200 SCT250 23/M04 A2997 RMK AO2 SLP126 T02281039 53015",
     "icao": "KLAS",
@@ -43,20 +58,5 @@
     "altimeter": 30.64,
     "conditions": "",
     "observationTime": "2026-03-28T15:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 281420Z AUTO 30013KT 9999 //////CB 11/M02 Q1025 TEMPO SHRA",
-    "icao": "EGLL",
-    "flightCategory": "UNKNOWN",
-    "windDir": 300,
-    "windSpeed": 13,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 11,
-    "dewpoint": -2,
-    "altimeter": 30.27,
-    "conditions": "",
-    "observationTime": "2026-03-28T14:20:00.000Z"
   }
 }
