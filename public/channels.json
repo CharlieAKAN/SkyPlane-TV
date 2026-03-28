@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "2aP-Z9VQYrQ",
+    "currentVideoId": "tG_O5U_EViQ",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,8 +26,8 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "[v] 🔴 LIVE from  Chicago O’Hare ✈️"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴✈️ LIVE Plane Spotting at Chicago O’Hare  – Heavy Arrivals + Departures 🔴"
   },
   {
     "channelName": "Big Jet TV (LHR)",
