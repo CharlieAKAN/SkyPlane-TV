@@ -1,4 +1,19 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 281650Z COR AUTO 31015G26KT 9999 NCD 09/M02 Q1026 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 310,
+    "windSpeed": 15,
+    "windGust": 26,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 9,
+    "dewpoint": -2,
+    "altimeter": 30.3,
+    "conditions": "",
+    "observationTime": "2026-03-28T17:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 281656Z 03005KT 10SM FEW200 FEW250 27/M04 A2999 RMK AO2 SLP133 T02671039",
     "icao": "KLAS",
@@ -43,20 +58,5 @@
     "altimeter": 30.6,
     "conditions": "",
     "observationTime": "2026-03-28T17:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 281620Z COR AUTO 32012G24KT 280V340 9999 NCD 09/M02 Q1026 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 320,
-    "windSpeed": 12,
-    "windGust": 24,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 9,
-    "dewpoint": -2,
-    "altimeter": 30.3,
-    "conditions": "",
-    "observationTime": "2026-03-28T16:20:00.000Z"
   }
 }
