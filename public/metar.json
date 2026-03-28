@@ -1,4 +1,19 @@
 {
+  "LAS": {
+    "raw": "METAR KLAS 281556Z 00000KT 10SM FEW200 FEW250 24/M03 A2998 RMK AO2 SLP130 T02441028",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 0,
+    "windSpeed": 0,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 24.4,
+    "dewpoint": -2.8,
+    "altimeter": 29.98,
+    "conditions": "",
+    "observationTime": "2026-03-28T16:00:00.000Z"
+  },
   "LAX": {
     "raw": "METAR KLAX 281553Z 29006KT 5SM BR FEW004 BKN007 BKN220 16/14 A3002 RMK AO2 SLP165 T01560139 $",
     "icao": "KLAX",
