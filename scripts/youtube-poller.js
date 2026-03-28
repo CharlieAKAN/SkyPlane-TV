@@ -166,17 +166,17 @@ async function main() {
       const description = bestVideo.snippet.description;
       const isLive = bestVideo.streamStatus === 'live';
 
-      const isEmbeddable = await checkEmbeddable(videoId);
-      
-      if (isEmbeddable) {
-        if (channel.isLive !== isLive || channel.streamStatus !== bestVideo.streamStatus) {
-            channel.isLive = isLive;
-            channel.streamStatus = bestVideo.streamStatus;
-            hasUpdates = true;
-        }
+      // ── Always update live status from search result (most reliable source) ──
+      if (channel.isLive !== isLive || channel.streamStatus !== bestVideo.streamStatus) {
+        channel.isLive = isLive;
+        channel.streamStatus = bestVideo.streamStatus;
+        hasUpdates = true;
+      }
+      channel.streamTitle = title;
 
-        channel.streamTitle = title;
-        
+      // ── Only update videoId if the video is actually embeddable ──
+      const isEmbeddable = await checkEmbeddable(videoId);
+      if (isEmbeddable) {
         if (channel.currentVideoId !== videoId || !channel.airportCode) {
           channel.currentVideoId = videoId;
           hasUpdates = true;
@@ -202,11 +202,8 @@ async function main() {
            console.log(`  -> Video ID (${videoId}) hasn't changed. Skipping OpenAI request.`);
         }
       } else {
-        // Non-embeddable — always reset live status so stale badges don't appear
-        console.log(`  -> [BLOCKED] Video ${videoId} is not embeddable. Resetting live status.`);
-        channel.isLive = false;
-        channel.streamStatus = 'vod';
-        hasUpdates = true;
+        // Video not embeddable — keep existing videoId but status is already set correctly above
+        console.log(`  -> [BLOCKED] Video ${videoId} is not embeddable. Status preserved, keeping existing videoId.`);
       }
     } else {
       channel.isLive = false;
