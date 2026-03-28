@@ -19,7 +19,8 @@ export interface Channel {
 export interface FlightAlert {
   id: string;
   callsign: string;
-  type: 'EMERGENCY' | 'RARE_AIRCRAFT';
+  type: 'EMERGENCY' | 'VIP_MILITARY' | 'HEAVY_AIRCRAFT' | 'SPECIAL_LIVERY';
   message: string;
   timestamp: number;
+  isRead: boolean;
 }

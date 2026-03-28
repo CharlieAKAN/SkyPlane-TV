@@ -3,19 +3,29 @@ import type { Channel } from './types';
 import { YouTubePlayer } from './components/YouTubePlayer';
 import { ChannelGrid } from './components/ChannelGrid';
 import { InfoPanel } from './components/InfoPanel';
-import { ExternalLink, Radio } from 'lucide-react';
+import { ExternalLink, Radio, Bell } from 'lucide-react';
 import { useOpenSky } from './hooks/useOpenSky';
 import { useMetar } from './hooks/useMetar';
 import { ToastAlerts } from './components/ToastAlerts';
+import { AlertsDrawer } from './components/AlertsDrawer';
 
 function App() {
   const [activeChannel, setActiveChannel] = useState<Channel | null>(null);
-  const { alerts, dismissAlert, aircraftStates } = useOpenSky(activeChannel);
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
+  const { alerts, markAlertsRead, aircraftStates } = useOpenSky(activeChannel);
   const { metar, loading: metarLoading } = useMetar(activeChannel?.airportCode);
+
+  const unreadAlertsCount = alerts.filter(a => !a.isRead).length;
 
   return (
     <div className="h-[100dvh] w-screen overflow-hidden flex flex-col bg-black text-neutral-50 font-sans selection:bg-blue-500/30">
-      <ToastAlerts alerts={alerts} onDismiss={dismissAlert} />
+      <ToastAlerts alerts={alerts} />
+      <AlertsDrawer 
+        isOpen={isDrawerOpen} 
+        onClose={() => setIsDrawerOpen(false)} 
+        alerts={alerts} 
+        markAlertsRead={markAlertsRead} 
+      />
 
       {/* Header */}
       <header className="z-50 bg-neutral-950/80 backdrop-blur-xl border-b border-neutral-800/60 px-4 md:px-8 py-3 flex items-center justify-between shrink-0 shadow-2xl">
@@ -92,6 +102,22 @@ function App() {
           >
             🐛
           </a>
+
+          {/* Alerts Bell */}
+          <button
+            onClick={() => setIsDrawerOpen(true)}
+            className="relative flex items-center justify-center ml-1 w-8 h-8 rounded-xl transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-300 hover:bg-neutral-800 hover:border-neutral-500 hover:text-white"
+          >
+            <Bell size={16} />
+            {unreadAlertsCount > 0 && (
+              <span className="absolute -top-1 -right-1 flex h-3 w-3">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-3 w-3 bg-red-500 text-[8px] font-bold text-white flex items-center justify-center">
+                  {unreadAlertsCount > 9 ? '9+' : unreadAlertsCount}
+                </span>
+              </span>
+            )}
+          </button>
         </div>
       </header>
 
