@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "2aP-Z9VQYrQ",
-    "isLive": false,
+    "currentVideoId": "tG_O5U_EViQ",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "[v] 🔴 LIVE from  Chicago O’Hare ✈️"
+    "streamStatus": "live",
+    "streamTitle": "🔴✈️ LIVE Plane Spotting at Chicago O’Hare  – Heavy Arrivals + Departures 🔴"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -79,14 +79,14 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "",
-    "currentVideoId": "",
+    "streamTitle": "🔴 WILD WINDY Single Runway Ops RWY25 - Plane-Spotting with Kurt - 27.03.26🔴",
+    "currentVideoId": "eLUTGDHQRO8",
     "airportCode": "SYD",
     "bbox": {
-      "lamin": -34.1,
-      "lamax": -33.8,
-      "lomin": 150.9,
-      "lomax": 151.3
+      "lamin": -34.09,
+      "lamax": -33.79,
+      "lomin": 151.02,
+      "lomax": 151.32
     }
   },
   {
@@ -94,8 +94,8 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "",
-    "currentVideoId": "",
+    "streamTitle": "🔴LIVE LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANES",
+    "currentVideoId": "yWrYStJXpqI",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
