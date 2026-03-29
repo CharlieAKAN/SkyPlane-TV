@@ -47,7 +47,7 @@ export function AlertsDrawer({ isOpen, onClose, alerts, markAlertsRead }: Alerts
       {/* Backdrop */}
       {isOpen && (
         <div 
-          className="fixed inset-0 z-[100] bg-black/60 backdrop-blur-sm transition-opacity"
+          className="fixed inset-0 z-[100] bg-black/80 transition-opacity"
           onClick={onClose}
         />
       )}
