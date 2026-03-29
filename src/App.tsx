@@ -43,10 +43,10 @@ function App() {
             />
           </picture>
           <div>
-            <h1 className="text-lg font-black bg-gradient-to-r from-white via-blue-100 to-neutral-400 bg-clip-text text-transparent tracking-tight">
+            <h1 className="text-base sm:text-lg font-black bg-gradient-to-r from-white via-blue-100 to-neutral-400 bg-clip-text text-transparent tracking-tight whitespace-nowrap">
               SkySpotting TV
             </h1>
-            <p className="text-[10px] text-blue-400/80 font-bold tracking-[0.2em] uppercase">Live Aviation Network</p>
+            <p className="text-[9px] sm:text-[10px] text-blue-400/80 font-bold tracking-[0.2em] uppercase whitespace-nowrap">Live Aviation Network</p>
           </div>
         </div>
 
@@ -70,7 +70,7 @@ function App() {
         </div>
 
         {/* Header action buttons */}
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-1.5 sm:gap-2">
           {/* Live Viewers Tracker */}
           <LiveViewers />
 
@@ -79,30 +79,32 @@ function App() {
             href="https://buymeacoffee.com/charlieakan"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black tracking-wide transition-all border border-yellow-500/40 bg-yellow-500/10 text-yellow-400 hover:bg-yellow-500/20 hover:border-yellow-500/60 shadow-[0_0_12px_rgba(234,179,8,0.15)] hover:shadow-[0_0_18px_rgba(234,179,8,0.25)]"
+            title="Buy Me a Coffee"
+            className="flex items-center justify-center sm:justify-start gap-1.5 w-8 h-8 sm:w-auto sm:px-3 sm:py-1.5 rounded-xl text-xs font-black tracking-wide transition-all border border-yellow-500/40 bg-yellow-500/10 text-yellow-400 hover:bg-yellow-500/20 hover:border-yellow-500/60 shadow-[0_0_12px_rgba(234,179,8,0.15)] hover:shadow-[0_0_18px_rgba(234,179,8,0.25)]"
           >
-            <span>☕</span>
+            <span className="text-sm sm:text-xs text-center -mt-0.5 sm:mt-0">☕</span>
             <span className="hidden sm:inline">Buy Me a Coffee</span>
           </a>
 
-          {/* Submit Channel */}
+          {/* Submit Channel - Hidden on small mobile */}
           <a
             href="https://forms.gle/AEjkq9zcPg768maE8"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-300 hover:bg-neutral-800 hover:border-neutral-600 hover:text-white"
+            title="Submit Channel"
+            className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-300 hover:bg-neutral-800 hover:border-neutral-600 hover:text-white"
           >
             <ExternalLink size={12} />
-            <span className="hidden sm:inline">Submit Channel</span>
+            <span className="hidden md:inline">Submit Channel</span>
           </a>
 
-          {/* Report Bug */}
+          {/* Report Bug - Hidden on small mobile */}
           <a
             href="https://forms.gle/owzqH1nj7wnKZ2EF9"
             target="_blank"
             rel="noopener noreferrer"
             title="Report a Bug"
-            className="flex items-center justify-center w-8 h-8 rounded-xl text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-500 hover:bg-red-950/50 hover:border-red-800/60 hover:text-red-400"
+            className="hidden sm:flex items-center justify-center w-8 h-8 rounded-xl text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-500 hover:bg-red-950/50 hover:border-red-800/60 hover:text-red-400"
           >
             🐛
           </a>

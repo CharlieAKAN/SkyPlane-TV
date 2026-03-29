@@ -5,16 +5,55 @@ export function LiveViewers() {
   const [viewers, setViewers] = useState(0);
 
   useEffect(() => {
-    // Start with a believable base number of global viewers (e.g. 1400 - 2200)
-    const baseViewers = Math.floor(Math.random() * 800) + 1400;
+    // 1. Get from localStorage or generate a believable baseline
+    const saved = localStorage.getItem('__skyspotting_live');
+    let baseViewers = 0;
+    
+    if (saved) {
+      try {
+        const { count, timestamp } = JSON.parse(saved);
+        // If they refreshed within the last 15 minutes, keep the illusion going
+        if (Date.now() - timestamp < 15 * 60 * 1000) {
+          baseViewers = count;
+        }
+      } catch (e) { /* ignore */ }
+    }
+
+    if (baseViewers === 0) {
+      // Base amount between 1400 and 2200
+      baseViewers = Math.floor(Math.random() * 800) + 1400;
+    }
+
     setViewers(baseViewers);
 
-    // Fluctuate the number every 3 to 7 seconds to look authentic
+    // 2. Twitch-style fluctuation every 3 to 6 seconds
     const interval = setInterval(() => {
-      // Random change between -6 and +9
-      const change = Math.floor(Math.random() * 16) - 6;
-      setViewers(prev => Math.max(100, prev + change));
-    }, Math.floor(Math.random() * 4000) + 3000);
+      setViewers(prev => {
+        let change = 0;
+        const diceRoll = Math.random();
+        
+        if (diceRoll > 0.90) {
+          // 10% chance of a massive jump/drop (e.g. host/raid or stream crash) => -200 to +250
+          change = Math.floor(Math.random() * 450) - 200;
+        } else if (diceRoll > 0.70) {
+          // 20% chance of a medium jump/drop => -50 to +70
+          change = Math.floor(Math.random() * 120) - 50;
+        } else {
+          // 70% chance of standard Twitch fluctuation => -5 to +12
+          change = Math.floor(Math.random() * 18) - 5;
+        }
+
+        const newCount = Math.max(800, prev + change); // Never drop below 800 entirely
+        
+        // Save to localStorage so it persists on rapid refresh
+        localStorage.setItem('__skyspotting_live', JSON.stringify({
+          count: newCount,
+          timestamp: Date.now()
+        }));
+
+        return newCount;
+      });
+    }, Math.floor(Math.random() * 3000) + 3000);
 
     return () => clearInterval(interval);
   }, []);
@@ -23,7 +62,7 @@ export function LiveViewers() {
 
   return (
     <div 
-      className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all border border-green-500/30 bg-green-500/10 text-green-400 shadow-[0_0_12px_rgba(34,197,94,0.15)] select-none cursor-default"
+      className="flex items-center gap-1 sm:gap-1.5 px-2 py-1.5 sm:px-3 sm:py-1.5 rounded-xl text-xs font-bold transition-all border border-green-500/30 bg-green-500/10 text-green-400 shadow-[0_0_12px_rgba(34,197,94,0.15)] select-none cursor-default"
       title="Live users currently utilizing SkySpotting TV"
     >
       <span className="relative flex h-2 w-2 mr-0.5">
