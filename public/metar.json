@@ -1,18 +1,33 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 292030Z 32006KT 9999 -SHRA FEW018 BKN040 18/14 Q1024",
+    "raw": "METAR YSSY 292100Z 27003KT 9999 -DZ VCSH FEW018 BKN040 19/15 Q1024",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 320,
-    "windSpeed": 6,
+    "windDir": 270,
+    "windSpeed": 3,
     "windGust": null,
     "visibility": 6,
     "ceiling": 4000,
-    "temp": 18,
-    "dewpoint": 14,
+    "temp": 19,
+    "dewpoint": 15,
     "altimeter": 30.24,
-    "conditions": "-SHRA",
-    "observationTime": "2026-03-29T20:30:00.000Z"
+    "conditions": "-DZ VCSH",
+    "observationTime": "2026-03-29T21:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 292050Z AUTO 24016KT 9999 OVC012 10/08 Q1020 BECMG BKN015",
+    "icao": "EGLL",
+    "flightCategory": "MVFR",
+    "windDir": 240,
+    "windSpeed": 16,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 1200,
+    "temp": 10,
+    "dewpoint": 8,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-03-29T21:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 292056Z 22011G22KT 10SM FEW160 FEW200 BKN250 33/M07 A2993 RMK AO2 SLP109 T03281072 58022 $",
@@ -58,20 +73,5 @@
     "altimeter": 30.06,
     "conditions": "",
     "observationTime": "2026-03-29T21:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 292020Z AUTO 25015KT 9999 BKN011 10/07 Q1021 BECMG BKN015",
-    "icao": "EGLL",
-    "flightCategory": "MVFR",
-    "windDir": 250,
-    "windSpeed": 15,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 1100,
-    "temp": 10,
-    "dewpoint": 7,
-    "altimeter": 30.15,
-    "conditions": "",
-    "observationTime": "2026-03-29T20:20:00.000Z"
   }
 }
