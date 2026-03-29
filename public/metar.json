@@ -1,4 +1,19 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 292030Z 32006KT 9999 -SHRA FEW018 BKN040 18/14 Q1024",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 320,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 4000,
+    "temp": 18,
+    "dewpoint": 14,
+    "altimeter": 30.24,
+    "conditions": "-SHRA",
+    "observationTime": "2026-03-29T20:30:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 292056Z 22011G22KT 10SM FEW160 FEW200 BKN250 33/M07 A2993 RMK AO2 SLP109 T03281072 58022 $",
     "icao": "KLAS",
@@ -58,20 +73,5 @@
     "altimeter": 30.15,
     "conditions": "",
     "observationTime": "2026-03-29T20:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 292000Z 27004KT 9999 FEW017 SCT040 BKN060 17/14 Q1024",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 270,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 6000,
-    "temp": 17,
-    "dewpoint": 14,
-    "altimeter": 30.24,
-    "conditions": "",
-    "observationTime": "2026-03-29T20:00:00.000Z"
   }
 }
