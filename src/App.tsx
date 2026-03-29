@@ -39,14 +39,14 @@ function App() {
               width={40}
               height={40}
               fetchPriority="high"
-              className="h-10 w-10 object-contain drop-shadow-[0_0_10px_rgba(59,130,246,0.4)]"
+              className="h-8 w-8 sm:h-10 sm:w-10 object-contain drop-shadow-[0_0_10px_rgba(59,130,246,0.4)]"
             />
           </picture>
           <div>
-            <h1 className="text-base sm:text-lg font-black bg-gradient-to-r from-white via-blue-100 to-neutral-400 bg-clip-text text-transparent tracking-tight whitespace-nowrap">
+            <h1 className="text-[15px] sm:text-lg leading-tight font-black bg-gradient-to-r from-white via-blue-100 to-neutral-400 bg-clip-text text-transparent tracking-tight whitespace-nowrap">
               SkySpotting TV
             </h1>
-            <p className="text-[9px] sm:text-[10px] text-blue-400/80 font-bold tracking-[0.2em] uppercase whitespace-nowrap">Live Aviation Network</p>
+            <p className="text-[8px] sm:text-[10px] text-blue-400/80 font-bold tracking-[0.2em] uppercase whitespace-nowrap leading-tight">Live Aviation Network</p>
           </div>
         </div>
 
@@ -80,31 +80,31 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
             title="Buy Me a Coffee"
-            className="flex items-center justify-center sm:justify-start gap-1.5 w-8 h-8 sm:w-auto sm:px-3 sm:py-1.5 rounded-xl text-xs font-black tracking-wide transition-all border border-yellow-500/40 bg-yellow-500/10 text-yellow-400 hover:bg-yellow-500/20 hover:border-yellow-500/60 shadow-[0_0_12px_rgba(234,179,8,0.15)] hover:shadow-[0_0_18px_rgba(234,179,8,0.25)]"
+            className="flex items-center justify-center sm:justify-start gap-1.5 w-7 h-7 sm:w-auto sm:h-auto sm:px-3 sm:py-1.5 rounded-xl text-xs font-black tracking-wide transition-all border border-yellow-500/40 bg-yellow-500/10 text-yellow-400 hover:bg-yellow-500/20 hover:border-yellow-500/60 shadow-[0_0_12px_rgba(234,179,8,0.15)] hover:shadow-[0_0_18px_rgba(234,179,8,0.25)]"
           >
-            <span className="text-sm sm:text-xs text-center -mt-0.5 sm:mt-0">☕</span>
+            <span className="text-[14px] sm:text-xs text-center">☕</span>
             <span className="hidden sm:inline">Buy Me a Coffee</span>
           </a>
 
-          {/* Submit Channel - Hidden on small mobile */}
+          {/* Submit Channel - Compact on mobile */}
           <a
             href="https://forms.gle/AEjkq9zcPg768maE8"
             target="_blank"
             rel="noopener noreferrer"
             title="Submit Channel"
-            className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-300 hover:bg-neutral-800 hover:border-neutral-600 hover:text-white"
+            className="flex sm:hidden md:flex items-center justify-center sm:justify-start sm:gap-1.5 w-7 h-7 sm:w-auto sm:h-auto sm:px-3 sm:py-1.5 rounded-xl text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-300 hover:bg-neutral-800 hover:border-neutral-600 hover:text-white"
           >
-            <ExternalLink size={12} />
+            <ExternalLink size={14} className="sm:w-3 sm:h-3" />
             <span className="hidden md:inline">Submit Channel</span>
           </a>
 
-          {/* Report Bug - Hidden on small mobile */}
+          {/* Report Bug - Compact on mobile */}
           <a
             href="https://forms.gle/owzqH1nj7wnKZ2EF9"
             target="_blank"
             rel="noopener noreferrer"
             title="Report a Bug"
-            className="hidden sm:flex items-center justify-center w-8 h-8 rounded-xl text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-500 hover:bg-red-950/50 hover:border-red-800/60 hover:text-red-400"
+            className="flex items-center justify-center w-7 h-7 sm:w-8 sm:h-8 rounded-xl text-[14px] sm:text-xs font-bold transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-500 hover:bg-red-950/50 hover:border-red-800/60 hover:text-red-400"
           >
             🐛
           </a>
@@ -112,9 +112,9 @@ function App() {
           {/* Alerts Bell */}
           <button
             onClick={() => setIsDrawerOpen(true)}
-            className="relative flex items-center justify-center ml-1 w-8 h-8 rounded-xl transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-300 hover:bg-neutral-800 hover:border-neutral-500 hover:text-white"
+            className="relative flex items-center justify-center w-7 h-7 sm:w-8 sm:h-8 rounded-xl transition-all border border-neutral-700 bg-neutral-800/50 text-neutral-300 hover:bg-neutral-800 hover:border-neutral-500 hover:text-white"
           >
-            <Bell size={16} />
+            <Bell size={16} className="sm:w-4 sm:h-4" />
             {unreadAlertsCount > 0 && (
               <span className="absolute -top-1 -right-1 flex h-3 w-3">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>

@@ -62,7 +62,7 @@ export function LiveViewers() {
 
   return (
     <div 
-      className="flex items-center gap-1 sm:gap-1.5 px-2 py-1.5 sm:px-3 sm:py-1.5 rounded-xl text-xs font-bold transition-all border border-green-500/30 bg-green-500/10 text-green-400 shadow-[0_0_12px_rgba(34,197,94,0.15)] select-none cursor-default"
+      className="flex items-center gap-1 sm:gap-1.5 px-1.5 py-1 sm:px-3 sm:py-1.5 rounded-xl text-xs font-bold transition-all border border-green-500/30 bg-green-500/10 text-green-400 shadow-[0_0_12px_rgba(34,197,94,0.15)] select-none cursor-default"
       title="Live users currently utilizing SkySpotting TV"
     >
       <span className="relative flex h-2 w-2 mr-0.5">
