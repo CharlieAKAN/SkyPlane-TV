@@ -4,7 +4,7 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
@@ -62,7 +62,7 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
+    "isLive": true,
     "streamStatus": "live",
     "streamTitle": "Heathrow Airport Live - Sunday 29th March 2026",
     "currentVideoId": "lu1hfniyBfs",
