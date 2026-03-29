@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import type { Channel } from './types';
 import { YouTubePlayer } from './components/YouTubePlayer';
 import { ChannelGrid } from './components/ChannelGrid';
@@ -12,8 +12,49 @@ import { LiveViewers } from './components/LiveViewers';
 
 function App() {
   const [activeChannel, setActiveChannel] = useState<Channel | null>(null);
+  const [channels, setChannels] = useState<Channel[]>([]);
+  const [channelsLoading, setChannelsLoading] = useState(true);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
-  const { alerts, markAlertsRead, aircraftStates } = useOpenSky(activeChannel);
+
+  useEffect(() => {
+    const fetchChannels = async () => {
+      try {
+        const res = await fetch(`${import.meta.env.BASE_URL}channels.json?t=${Date.now()}`, {
+          cache: 'no-store',
+        });
+        if (!res.ok) throw new Error('Failed to fetch channels');
+        const data: Channel[] = await res.json();
+
+        const order: Record<string, number> = { live: 0, upcoming: 1, vod: 2 };
+        const sorted = [...data].sort((a, b) => {
+          const aOrder = order[a.streamStatus ?? 'vod'] ?? 2;
+          const bOrder = order[b.streamStatus ?? 'vod'] ?? 2;
+          return aOrder - bOrder;
+        });
+
+        setChannels(sorted);
+
+        setActiveChannel(currentActive => {
+          if (!currentActive) {
+            return sorted.find(c => c.isLive) || sorted[0];
+          } else {
+            const updated = sorted.find(c => c.youtubeChannelId === currentActive.youtubeChannelId);
+            return updated || currentActive;
+          }
+        });
+      } catch (error) {
+        console.error("Error fetching channels:", error);
+      } finally {
+        setChannelsLoading(false);
+      }
+    };
+
+    fetchChannels();
+    const interval = setInterval(fetchChannels, 5 * 60 * 1000);
+    return () => clearInterval(interval);
+  }, []);
+
+  const { alerts, markAlertsRead, aircraftStates } = useOpenSky(activeChannel, channels);
   const { metar, loading: metarLoading } = useMetar(activeChannel?.airportCode);
 
   const unreadAlertsCount = alerts.filter(a => !a.isRead).length;
@@ -153,6 +194,8 @@ function App() {
           {/* Channel Dock */}
           <div className="shrink-0 h-44 border-t border-white/10 bg-neutral-950/90 backdrop-blur-sm">
             <ChannelGrid
+              channels={channels}
+              loading={channelsLoading}
               selectedChannel={activeChannel}
               onSelectChannel={setActiveChannel}
             />

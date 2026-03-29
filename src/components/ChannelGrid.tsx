@@ -1,16 +1,16 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 import type { Channel } from '../types';
 import { ChannelCard } from './ChannelCard';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface ChannelGridProps {
+  channels: Channel[];
+  loading: boolean;
   selectedChannel: Channel | null;
   onSelectChannel: (channel: Channel) => void;
 }
 
-export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridProps) {
-  const [channels, setChannels] = useState<Channel[]>([]);
-  const [loading, setLoading] = useState(true);
+export function ChannelGrid({ channels, loading, selectedChannel, onSelectChannel }: ChannelGridProps) {
   const scrollRef = useRef<HTMLDivElement>(null);
 
   // Scroll the carousel — no state, just imperatively read/write scrollLeft
@@ -32,48 +32,7 @@ export function ChannelGrid({ selectedChannel, onSelectChannel }: ChannelGridPro
     return () => el.removeEventListener('wheel', onWheel);
   }, []);
 
-  useEffect(() => {
-    const fetchChannels = async () => {
-      try {
-        // Fetch directly from same origin — no CDN caching issues.
-        // cache: 'no-store' + timestamp forces a fresh hit every poll.
-        const res = await fetch(`${import.meta.env.BASE_URL}channels.json?t=${Date.now()}`, {
-          cache: 'no-store',
-        });
-        if (!res.ok) throw new Error('Failed to fetch channels');
-        const data: Channel[] = await res.json();
 
-        // Sort: live first → upcoming → vod/offline
-        const order = { live: 0, upcoming: 1, vod: 2 };
-        const sorted = [...data].sort((a, b) => {
-          const aOrder = order[a.streamStatus ?? 'vod'] ?? 2;
-          const bOrder = order[b.streamStatus ?? 'vod'] ?? 2;
-          return aOrder - bOrder;
-        });
-
-        setChannels(sorted);
-
-        if (!selectedChannel) {
-          // First load: auto-select first live channel
-          const firstLive = sorted.find(c => c.isLive) || sorted[0];
-          onSelectChannel(firstLive);
-        } else {
-          // Subsequent polls: refresh the active channel object with latest data
-          // so useOpenSky always sees the current isLive/bbox values
-          const updated = sorted.find(c => c.youtubeChannelId === selectedChannel.youtubeChannelId);
-          if (updated) onSelectChannel(updated);
-        }
-      } catch (error) {
-        console.error("Error fetching channels:", error);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchChannels();
-    const interval = setInterval(fetchChannels, 5 * 60 * 1000);
-    return () => clearInterval(interval);
-  }, []);
 
   if (loading) {
     return (

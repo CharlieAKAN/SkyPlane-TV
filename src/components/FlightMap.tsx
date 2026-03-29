@@ -73,7 +73,7 @@ export function FlightMap({ aircraftStates, bbox }: FlightMapProps) {
   return (
     <div className="w-full h-full rounded-xl overflow-hidden relative group">
       {/* Dark overlay label */}
-      <div className="absolute top-2 left-2 z-[1000] bg-black/70 backdrop-blur-sm px-2.5 py-1.5 rounded-lg text-xs font-bold border border-white/10 flex items-center gap-2">
+      <div className="absolute top-2 left-2 z-40 bg-black/70 backdrop-blur-sm px-2.5 py-1.5 rounded-lg text-xs font-bold border border-white/10 flex items-center gap-2">
         <span className="relative flex h-2 w-2">
           {secondsAgo < 5 && <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>}
           <span className="relative inline-flex rounded-full h-2 w-2 bg-blue-500"></span>
@@ -156,7 +156,7 @@ export function FlightMap({ aircraftStates, bbox }: FlightMapProps) {
         })}
       </MapContainer>
       {aircraftStates.length === 0 && secondsAgo > 2 && (
-        <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-[999]">
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-40">
           <div className="bg-black/60 backdrop-blur-sm rounded-xl px-4 py-2 text-neutral-500 text-sm font-medium border border-white/10 text-center shadow-2xl">
             <span className="block mb-1">📡 Scanning airspace...</span>
             <span className="text-[10px] text-neutral-600 block max-w-xs leading-tight">
