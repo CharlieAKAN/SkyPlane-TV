@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANES",
-    "currentVideoId": "yWrYStJXpqI",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE WELCOME BACK LUFTHANSA 747-8 at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
+    "currentVideoId": "Yr1bAELO6F8",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
