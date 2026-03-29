@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "12KqO5IBLeY",
+    "currentVideoId": "N2Lwh5rLzQY",
     "isLive": true,
     "bbox": {
       "lamin": 33.79,
@@ -12,7 +12,7 @@
       "lomax": -118.25
     },
     "streamStatus": "live",
-    "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockeys (March 29th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - CROSSWIND Saturday 28th March 2026",
-    "currentVideoId": "ovcpZ_A0fE4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - WINDY Sunday 29th March 2026",
+    "currentVideoId": "lu1hfniyBfs",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - China Southern A359 Special Livery - Plane-Spotting at Sydney Airport with Kurt - 29.03.26🔴",
+    "streamTitle": "🔴SPECIAL LIVERY - China Southern A359 - Plane-Spotting at Sydney Airport with Kurt - 29.03.26🔴",
     "currentVideoId": "LxsgyKWUr5I",
     "airportCode": "SYD",
     "bbox": {
@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANES",
-    "currentVideoId": "yWrYStJXpqI",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE WELCOME BACK LUFTHANSA 747-8 at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
+    "currentVideoId": "Yr1bAELO6F8",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
