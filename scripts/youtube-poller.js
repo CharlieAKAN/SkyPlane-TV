@@ -59,7 +59,12 @@ async function fetchBestVideo(channelId) {
   // Step 1: Rapid 0-quota scrape of the /live URL
   // YouTube redirects or canonicalizes this to the actively featured live stream.
   try {
-    const liveHtmlRes = await fetch(`https://www.youtube.com/channel/${channelId}/live`);
+    const liveHtmlRes = await fetch(`https://www.youtube.com/channel/${channelId}/live`, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Cookie': 'SOCS=CAI'
+      }
+    });
     const html = await liveHtmlRes.text();
     const match = html.match(/<link rel="canonical" href="https:\/\/www\.youtube\.com\/watch\?v=([\w-]+)">/);
     if (match && match[1]) {
