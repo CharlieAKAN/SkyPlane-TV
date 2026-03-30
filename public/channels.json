@@ -48,8 +48,8 @@
     "channelName": "LAS Vegas Airport LIVE",
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
     "airportCode": "LAS",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Embraer Legacy 600, N611BV Private Jet Arrival from Nashville QQN ✈️ Into LAS Vegas.",
     "currentVideoId": "jK8V757VKYY",
     "bbox": {
