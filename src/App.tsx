@@ -9,6 +9,7 @@ import { useMetar } from './hooks/useMetar';
 import { ToastAlerts } from './components/ToastAlerts';
 import { AlertsDrawer } from './components/AlertsDrawer';
 import { LiveViewers } from './components/LiveViewers';
+import { useSchedule } from './hooks/useSchedule';
 
 function App() {
   const [activeChannel, setActiveChannel] = useState<Channel | null>(null);
@@ -54,8 +55,9 @@ function App() {
     return () => clearInterval(interval);
   }, []);
 
-  const { alerts, markAlertsRead, aircraftStates } = useOpenSky(activeChannel, channels);
+  const { alerts, markAlertsRead, aircraftStates, addAlert } = useOpenSky(activeChannel, channels);
   const { metar, loading: metarLoading } = useMetar(activeChannel?.airportCode);
+  const scheduledLiveries = useSchedule(activeChannel?.airportCode, Boolean(activeChannel?.isLive), addAlert);
 
   const unreadAlertsCount = alerts.filter(a => !a.isRead).length;
 
@@ -188,6 +190,7 @@ function App() {
               metarLoading={metarLoading}
               airportCode={activeChannel?.airportCode}
               bbox={activeChannel?.bbox}
+              scheduledLiveries={scheduledLiveries}
             />
           </div>
 
@@ -209,6 +212,7 @@ function App() {
           metarLoading={metarLoading}
           airportCode={activeChannel?.airportCode}
           bbox={activeChannel?.bbox}
+          scheduledLiveries={scheduledLiveries}
         />
       </main>
     </div>

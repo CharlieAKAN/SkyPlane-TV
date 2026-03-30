@@ -1,0 +1,21 @@
+export const SPECIAL_LIVERIES: Record<string, { desc: string; icon: string }> = {
+  'A6B435': { desc: "Alaska (N531AS) - Captain Marvel", icon: "🦸‍♀️" },
+  'E8027D': { desc: "LATAM (CC-BGM) - Harry Potter", icon: "🪄" },
+  '75002B': { desc: "AirAsia X (9M-XXU) - Sonic & Persona 5", icon: "🎮" },
+  '750315': { desc: "AirAsia X (9M-XXU) - Sonic & Persona 5", icon: "🎮" },
+  'A6D05E': { desc: "Alaska (N538AS) - Star Wars Galaxy Edge", icon: "🌌" },
+  'A720EB': { desc: "Alaska (N559AS) - Salmon People", icon: "🐟" },
+  'A6C665': { desc: "Alaska (N519AS) - Incredibles 2", icon: "🦸‍♂️" },
+  '86E7BC': { desc: "ANA (JA873A) - R2-D2 Star Wars", icon: "🤖" },
+  '868338': { desc: "ANA (JA743A) - C-3PO Star Wars", icon: "🤖" },
+  '849313': { desc: "ANA (JA743A) - C-3PO Star Wars", icon: "🤖" },
+  'A41722': { desc: "United (N36272) - Rise of Skywalker", icon: "⚔️" },
+  'A6CA7F': { desc: "Alaska (N537AS) - Pixar Pier", icon: "🎡" },
+  'A74E7A': { desc: "Alaska (N570AS) - Cars Land", icon: "🚗" },
+  'A6DA39': { desc: "Alaska (N596AS) - Tiana's Bayou Adventure", icon: "👑" },
+  'C064B4': { desc: "WestJet (C-GWSZ) - Sorcerer Mickey", icon: "✨" },
+  '86EF06': { desc: "ANA (JA894A) - Pikachu Jet NH", icon: "⚡" },
+  '8691AA': { desc: "ANA (JA784A) - Eevee Jet NH", icon: "🦊" },
+  '861BA8': { desc: "Air Do (JA607A) - Vulpix Jet", icon: "🦊" },
+  '8990E4': { desc: "China Airlines (B-18101) - Pikachu Jet CI", icon: "⭐" }
+};

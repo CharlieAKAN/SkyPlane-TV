@@ -24,3 +24,12 @@ export interface FlightAlert {
   timestamp: number;
   isRead: boolean;
 }
+
+export interface ScheduledLivery {
+  id: string;
+  desc: string;
+  icon: string;
+  icao24: string;
+  scheduledTime: number; 
+  status: 'en_route' | 'arriving' | 'arrived';
+}
