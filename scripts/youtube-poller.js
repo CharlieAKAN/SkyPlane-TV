@@ -49,35 +49,53 @@ Description: ${description.substring(0, 500)}`;
 }
 
 /**
- * Fetch the channel's RSS feed (free, no quota) to get recent video IDs,
- * then check their live/upcoming/vod status via the Videos API (1 unit/call).
- * 
- * Old approach: 3× Search API calls = 300 quota units per channel
- * New approach: 0 (RSS) + 1 (Videos API batch) = 1 quota unit per channel
+ * Fetch the exact live video ID by scraping the channel's /live page (0 quota),
+ * then check its status via Videos API (1 quota).
+ * If no live stream is found, fallback to RSS feed to get the latest VOD/Upcoming videos.
  */
 async function fetchBestVideo(channelId) {
-  // Step 1: Get recent video IDs from the free RSS feed (no API key needed)
+  let liveVideoId = null;
+  
+  // Step 1: Rapid 0-quota scrape of the /live URL
+  // YouTube redirects or canonicalizes this to the actively featured live stream.
+  try {
+    const liveHtmlRes = await fetch(`https://www.youtube.com/channel/${channelId}/live`);
+    const html = await liveHtmlRes.text();
+    const match = html.match(/<link rel="canonical" href="https:\/\/www\.youtube\.com\/watch\?v=([\w-]+)">/);
+    if (match && match[1]) {
+      liveVideoId = match[1];
+    }
+  } catch (err) {
+    console.error(`  -> HTML scrape failed for ${channelId}:`, err.message);
+  }
+
+  // Step 2: Get recent video IDs from the free RSS feed (no API key needed) as a fallback/addition
   const rssUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
   let videoIds = [];
   try {
     const rssRes = await fetch(rssUrl);
     if (!rssRes.ok) throw new Error(`RSS ${rssRes.status}`);
     const xml = await rssRes.text();
-    // Extract yt:videoId values
     const matches = [...xml.matchAll(/<yt:videoId>([^<]+)<\/yt:videoId>/g)];
-    videoIds = matches.map(m => m[1]).slice(0, 10); // check latest 10
+    videoIds = matches.map(m => m[1]).slice(0, 10);
   } catch (err) {
     console.error(`  -> RSS fetch failed for ${channelId}:`, err.message);
+  }
+
+  // Combine the scraped live ID and the RSS IDs (deduplicated)
+  const allIdsCandid = [];
+  if (liveVideoId) allIdsCandid.push(liveVideoId);
+  for (const id of videoIds) {
+    if (!allIdsCandid.includes(id)) allIdsCandid.push(id);
+  }
+
+  if (allIdsCandid.length === 0) {
+    console.log(`  -> No videos found through any method for ${channelId}`);
     return null;
   }
 
-  if (videoIds.length === 0) {
-    console.log(`  -> No videos in RSS feed for ${channelId}`);
-    return null;
-  }
-
-  // Step 2: Batch-check all IDs in one Videos API call (1 quota unit)
-  const ids = videoIds.join(',');
+  // Step 3: Batch-check all IDs in one Videos API call (1 quota unit)
+  const ids = allIdsCandid.join(',');
   const apiUrl = `https://www.googleapis.com/youtube/v3/videos?part=snippet,liveStreamingDetails,status&id=${ids}&key=${YOUTUBE_API_KEY}`;
   let items = [];
   try {
@@ -89,7 +107,7 @@ async function fetchBestVideo(channelId) {
     return null;
   }
 
-  // Step 3: Find best result — prefer live > upcoming > vod
+  // Step 4: Find best result — prefer live > upcoming > vod
   const live = items.find(v =>
     v.liveStreamingDetails &&
     v.liveStreamingDetails.actualStartTime &&
@@ -118,7 +136,7 @@ async function fetchBestVideo(channelId) {
     };
   }
 
-  // Fallback: latest video (first in RSS = most recent)
+  // Fallback: latest video (prefer the scraped one if it wasn't live but still valid, or first RSS)
   const latest = items[0];
   if (latest) {
     return {
@@ -259,7 +277,8 @@ async function main() {
       }
     } else {
       channel.isLive = false;
-      console.log(`  -> No videos found for ${channel.channelName}.`);
+      channel.streamStatus = 'vod'; // Properly fallback to visually align UI
+      console.log(`  -> No usable videos found/fetch failed for ${channel.channelName}. Marking VOD.`);
     }
   }
 
