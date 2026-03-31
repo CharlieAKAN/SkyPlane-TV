@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Tuesday 31st March 2026",
-    "currentVideoId": "pnZ4PQJfZzo",
+    "currentVideoId": "c2VLHKlHn-E",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
