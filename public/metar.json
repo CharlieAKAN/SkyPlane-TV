@@ -1,4 +1,19 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 311900Z 32004KT CAVOK 18/16 Q1023",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 320,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 18,
+    "dewpoint": 16,
+    "altimeter": 30.21,
+    "conditions": "",
+    "observationTime": "2026-03-31T19:00:00.000Z"
+  },
   "LHR": {
     "raw": "METAR EGLL 311850Z COR AUTO 16004KT 130V210 9999 NCD 16/09 Q1029 NOSIG",
     "icao": "EGLL",
@@ -13,21 +28,6 @@
     "altimeter": 30.39,
     "conditions": "",
     "observationTime": "2026-03-31T19:00:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 311830Z AUTO 35005KT 9999 // NCD 18/15 Q1022",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 350,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 18,
-    "dewpoint": 15,
-    "altimeter": 30.18,
-    "conditions": "",
-    "observationTime": "2026-03-31T18:30:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 311856Z 22017G25KT 10SM SCT100 BKN130 OVC200 26/01 A2990 RMK AO2 PK WND 19038/1808 SLP103 ACSL DSNT NW T02560006",
