@@ -1,4 +1,19 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 312250Z COR AUTO 29004KT 9999 NCD 11/06 Q1028 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 290,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 11,
+    "dewpoint": 6,
+    "altimeter": 30.36,
+    "conditions": "",
+    "observationTime": "2026-03-31T23:00:00.000Z"
+  },
   "ORD": {
     "raw": "METAR KORD 312251Z 03011KT 10SM FEW014 OVC019 09/06 A2987 RMK AO2 SLP115 T00890061 $",
     "icao": "KORD",
@@ -58,20 +73,5 @@
     "altimeter": 29.95,
     "conditions": "",
     "observationTime": "2026-03-31T23:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 312220Z COR AUTO 28007KT 9999 NCD 12/07 Q1028 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 280,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 12,
-    "dewpoint": 7,
-    "altimeter": 30.36,
-    "conditions": "",
-    "observationTime": "2026-03-31T22:20:00.000Z"
   }
 }
