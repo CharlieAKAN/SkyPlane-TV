@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Southwest Airlines 737-800 N8646B \"Nevada One\" Departure to Chicago MDW! ✈️❤️ From LAS Vegas",
-    "currentVideoId": "6sxrPbXQjtU",
+    "streamTitle": "Amazon Prime Air 737-800 Freighter, N5683A Arrival from Minnesota MSP! 📦✈️ Into LAS Vegas.",
+    "currentVideoId": "S3nZJGeA2rw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 31st March 2026",
-    "currentVideoId": "pnZ4PQJfZzo",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 1st April 2026",
+    "currentVideoId": "c2VLHKlHn-E",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANE SPOTTING",
+    "streamTitle": "🔴LIVE WINDY at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANE SPOTTING",
     "currentVideoId": "e5RZRjvdqEs",
     "airportCode": "ORD",
     "bbox": {
