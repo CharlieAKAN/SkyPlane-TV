@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Caught Live: United Airlines (UA928) Captain Last Flight Before Retirement | Chicago O'Hare Airport",
-    "currentVideoId": "FFrl0TM7Yj8",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANE SPOTTING",
+    "currentVideoId": "e5RZRjvdqEs",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
