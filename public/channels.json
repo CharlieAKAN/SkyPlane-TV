@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴SPECIAL LIVERY - China Southern A359 - Plane-Spotting at Sydney Airport with Kurt - 29.03.26🔴",
-    "currentVideoId": "LxsgyKWUr5I",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE Plane-Spotting at Sydney Airport with SydSquad - 01.04.26🔴",
+    "currentVideoId": "m3t2o2ymP8U",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE WINDY at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANE SPOTTING",
+    "streamTitle": "🔴LIVE WINDY LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | AVGEEK ORD PLANE SPOTTING ",
     "currentVideoId": "e5RZRjvdqEs",
     "airportCode": "ORD",
     "bbox": {
