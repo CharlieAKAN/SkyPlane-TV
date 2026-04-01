@@ -1,4 +1,34 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 012100Z 30007KT CAVOK 19/17 Q1023",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 300,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 19,
+    "dewpoint": 17,
+    "altimeter": 30.21,
+    "conditions": "",
+    "observationTime": "2026-04-01T21:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 012050Z COR AUTO 28007KT 9999 OVC047 11/05 Q1021 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 280,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 4700,
+    "temp": 11,
+    "dewpoint": 5,
+    "altimeter": 30.15,
+    "conditions": "",
+    "observationTime": "2026-04-01T21:00:00.000Z"
+  },
   "ORD": {
     "raw": "METAR KORD 012051Z 05015KT 10SM BKN015 OVC025 04/M01 A3016 RMK AO2 SLP220 T00391006 58016",
     "icao": "KORD",
@@ -13,21 +43,6 @@
     "altimeter": 30.16,
     "conditions": "",
     "observationTime": "2026-04-01T21:00:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 012030Z 30008KT CAVOK 18/16 Q1023",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 300,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 18,
-    "dewpoint": 16,
-    "altimeter": 30.21,
-    "conditions": "",
-    "observationTime": "2026-04-01T20:30:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 012056Z 19007G16KT 10SM FEW080 SCT200 23/02 A2984 RMK AO2 SLP087 T02330022 58014",
@@ -58,20 +73,5 @@
     "altimeter": 29.99,
     "conditions": "",
     "observationTime": "2026-04-01T21:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 012020Z COR AUTO 28006KT 9999 OVC045 11/05 Q1021 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 280,
-    "windSpeed": 6,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 4500,
-    "temp": 11,
-    "dewpoint": 5,
-    "altimeter": 30.15,
-    "conditions": "",
-    "observationTime": "2026-04-01T20:20:00.000Z"
   }
 }
