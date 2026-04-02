@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE WINDY AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANES",
-    "currentVideoId": "nyzI7C789cA",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE  TORNADO RISK with WINDY SEVERE STORMS at CHICAGO O'HARE AIRPORT | WIND ADVISORY | ORD PLANES",
+    "currentVideoId": "UIo0Nk3qM5g",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
