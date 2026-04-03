@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴NIGHT Plane-Spotting at Shep's Mound Sydney Airport with Kurt and Andrew - 01.04.26🔴",
-    "currentVideoId": "m3t2o2ymP8U",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE WINDY Plane-Spotting at Sydney Airport with SydSquad- 03.04.26🔴",
+    "currentVideoId": "14XcjKpZC38",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
