@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE WINDY Plane-Spotting at Sydney Airport with SydSquad- 03.04.26🔴",
     "currentVideoId": "14XcjKpZC38",
     "airportCode": "SYD",
