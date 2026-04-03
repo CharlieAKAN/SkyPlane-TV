@@ -1,21 +1,21 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 030630Z AUTO 16017KT 9999 // SCT019 BKN026 BKN055 23/18 Q1022",
+    "raw": "METAR YSSY 030700Z AUTO 16016KT 9999 // FEW021 SCT032 OVC056 22/18 Q1022",
     "icao": "YSSY",
-    "flightCategory": "MVFR",
+    "flightCategory": "VFR",
     "windDir": 160,
-    "windSpeed": 17,
+    "windSpeed": 16,
     "windGust": null,
     "visibility": 6,
-    "ceiling": 2600,
-    "temp": 23,
+    "ceiling": 5600,
+    "temp": 22,
     "dewpoint": 18,
     "altimeter": 30.18,
     "conditions": "",
-    "observationTime": "2026-04-03T06:30:00.000Z"
+    "observationTime": "2026-04-03T07:00:00.000Z"
   },
   "LHR": {
-    "raw": "METAR EGLL 030620Z COR AUTO 21013KT 9999 -RA OVC011 09/07 Q1012 NOSIG",
+    "raw": "METAR EGLL 030650Z COR AUTO 21013KT 180V240 9999 OVC011 09/08 Q1012 NOSIG",
     "icao": "EGLL",
     "flightCategory": "MVFR",
     "windDir": 210,
@@ -24,9 +24,9 @@
     "visibility": 6,
     "ceiling": 1100,
     "temp": 9,
-    "dewpoint": 7,
+    "dewpoint": 8,
     "altimeter": 29.88,
-    "conditions": "-RA",
-    "observationTime": "2026-04-03T06:20:00.000Z"
+    "conditions": "",
+    "observationTime": "2026-04-03T07:00:00.000Z"
   }
 }
