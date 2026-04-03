@@ -1,18 +1,33 @@
 {
-  "LHR": {
-    "raw": "METAR EGLL 031550Z COR AUTO 25018KT 9999 BKN023 OVC033 16/10 Q1009 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "MVFR",
-    "windDir": 250,
-    "windSpeed": 18,
+  "SYD": {
+    "raw": "METAR YSSY 031600Z AUTO 20013KT 9999 // FEW030 BKN045 21/17 Q1023",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 200,
+    "windSpeed": 13,
     "windGust": null,
     "visibility": 6,
-    "ceiling": 2300,
+    "ceiling": 4500,
+    "temp": 21,
+    "dewpoint": 17,
+    "altimeter": 30.21,
+    "conditions": "",
+    "observationTime": "2026-04-03T16:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 031620Z COR AUTO 25021KT 9999 FEW026 BKN035 BKN044 16/10 Q1009 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 250,
+    "windSpeed": 21,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 3500,
     "temp": 16,
     "dewpoint": 10,
     "altimeter": 29.8,
     "conditions": "",
-    "observationTime": "2026-04-03T16:00:00.000Z"
+    "observationTime": "2026-04-03T16:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 031556Z 01014G24KT 10SM CLR 14/M12 A3025 RMK AO2 SLP234 T01391122",
@@ -29,21 +44,6 @@
     "conditions": "",
     "observationTime": "2026-04-03T16:00:00.000Z"
   },
-  "SYD": {
-    "raw": "METAR YSSY 031530Z AUTO 14009KT 9999 // NCD 21/16 Q1024",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 140,
-    "windSpeed": 9,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 21,
-    "dewpoint": 16,
-    "altimeter": 30.24,
-    "conditions": "",
-    "observationTime": "2026-04-03T15:30:00.000Z"
-  },
   "LAX": {
     "raw": "METAR KLAX 031553Z 13003KT 10SM FEW010 SCT160 BKN180 17/12 A3001 RMK AO2 SLP160 T01720122 $",
     "icao": "KLAX",
@@ -58,20 +58,5 @@
     "altimeter": 30.01,
     "conditions": "",
     "observationTime": "2026-04-03T16:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "SPECI KORD 031533Z 26007KT 10SM BKN015 BKN250 09/05 A3006 RMK AO2 T00890050",
-    "icao": "KORD",
-    "flightCategory": "MVFR",
-    "windDir": 260,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 1500,
-    "temp": 8.9,
-    "dewpoint": 5,
-    "altimeter": 30.06,
-    "conditions": "",
-    "observationTime": "2026-04-03T15:33:00.000Z"
   }
 }
