@@ -1,4 +1,19 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 040730Z AUTO 19016KT 9999 // FEW061 19/15 Q1025",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 190,
+    "windSpeed": 16,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 19,
+    "dewpoint": 15,
+    "altimeter": 30.27,
+    "conditions": "",
+    "observationTime": "2026-04-04T07:30:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 040756Z 00000KT 10SM CLR 16/M09 A3024 RMK AO2 SLP231 T01561094 402170122",
     "icao": "KLAS",
@@ -45,33 +60,18 @@
     "observationTime": "2026-04-04T07:31:00.000Z"
   },
   "LHR": {
-    "raw": "METAR EGLL 040720Z COR AUTO 21008KT 180V240 9999 SCT040 09/06 Q1018 NOSIG",
+    "raw": "METAR EGLL 040750Z COR AUTO 20007KT 170V250 9999 BKN031 OVC040 10/06 Q1017 NOSIG",
     "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 210,
-    "windSpeed": 8,
+    "windDir": 200,
+    "windSpeed": 7,
     "windGust": null,
     "visibility": 6,
-    "ceiling": null,
-    "temp": 9,
+    "ceiling": 3100,
+    "temp": 10,
     "dewpoint": 6,
-    "altimeter": 30.06,
+    "altimeter": 30.03,
     "conditions": "",
-    "observationTime": "2026-04-04T07:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 040700Z AUTO 19017KT 9999 // NCD 19/16 Q1024",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 190,
-    "windSpeed": 17,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 19,
-    "dewpoint": 16,
-    "altimeter": 30.24,
-    "conditions": "",
-    "observationTime": "2026-04-04T07:00:00.000Z"
+    "observationTime": "2026-04-04T08:00:00.000Z"
   }
 }
