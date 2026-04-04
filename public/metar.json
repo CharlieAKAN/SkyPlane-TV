@@ -1,33 +1,48 @@
 {
-  "ORD": {
-    "raw": "SPECI KORD 040941Z COR 36007G25KT 330V040 7SM TS OVC003CB 07/06 A2988 RMK AO2 RAE0857 TSB39 OCNL LTGIC E AND SW-W TS E AND SW-W MOV NE P0000 T00670061 $",
-    "icao": "KORD",
-    "flightCategory": "LIFR",
-    "windDir": 360,
-    "windSpeed": 7,
-    "windGust": 25,
-    "visibility": 7,
-    "ceiling": 300,
-    "temp": 6.7,
-    "dewpoint": 6.1,
-    "altimeter": 29.88,
-    "conditions": "TS",
-    "observationTime": "2026-04-04T09:41:00.000Z"
-  },
   "SYD": {
-    "raw": "METAR YSSY 040930Z AUTO 19015KT 9999 // FEW025 19/16 Q1025",
+    "raw": "METAR YSSY 041000Z AUTO 20015KT 9999 // FEW024 BKN040 19/16 Q1025",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 190,
+    "windDir": 200,
     "windSpeed": 15,
     "windGust": null,
     "visibility": 6,
-    "ceiling": null,
+    "ceiling": 4000,
     "temp": 19,
     "dewpoint": 16,
     "altimeter": 30.27,
     "conditions": "",
-    "observationTime": "2026-04-04T09:30:00.000Z"
+    "observationTime": "2026-04-04T10:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 040950Z AUTO 20013KT 9999 OVC012 12/09 Q1017 TEMPO BKN009",
+    "icao": "EGLL",
+    "flightCategory": "MVFR",
+    "windDir": 200,
+    "windSpeed": 13,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 1200,
+    "temp": 12,
+    "dewpoint": 9,
+    "altimeter": 30.03,
+    "conditions": "",
+    "observationTime": "2026-04-04T10:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 040951Z 36013G18KT 7SM R10L/2800VP6000FT -TSRA OVC003CB 07/06 A2987 RMK AO2 RAE0857B46 TSB39 SLP118 OCNL LTGIC OHD TS OHD MOV NE P0001 T00670061 $",
+    "icao": "KORD",
+    "flightCategory": "LIFR",
+    "windDir": 360,
+    "windSpeed": 13,
+    "windGust": 18,
+    "visibility": 7,
+    "ceiling": 300,
+    "temp": 6.7,
+    "dewpoint": 6.1,
+    "altimeter": 29.87,
+    "conditions": "-TSRA",
+    "observationTime": "2026-04-04T10:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 040956Z 07010KT 10SM CLR 14/M09 A3023 RMK AO2 SLP227 T01441094",
@@ -58,20 +73,5 @@
     "altimeter": 30.02,
     "conditions": "",
     "observationTime": "2026-04-04T10:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 040920Z AUTO 19011KT 160V240 9999 BKN012 BKN017 OVC021 12/08 Q1017 TEMPO BKN009",
-    "icao": "EGLL",
-    "flightCategory": "MVFR",
-    "windDir": 190,
-    "windSpeed": 11,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 1200,
-    "temp": 12,
-    "dewpoint": 8,
-    "altimeter": 30.03,
-    "conditions": "",
-    "observationTime": "2026-04-04T09:20:00.000Z"
   }
 }
