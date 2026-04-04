@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - WINDY Saturday 4th April 2026",
-    "currentVideoId": "dGxceq6-Bs8",
+    "currentVideoId": "eGp50xv_h1k",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
