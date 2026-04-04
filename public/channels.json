@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "t9i7rgfHVrY",
+    "currentVideoId": "RS2V3SI83N0",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "A message from Jerry. Miss you all!"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: London Heathrow - Jerry's back where he belongs"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
