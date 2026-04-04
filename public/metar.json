@@ -1,4 +1,49 @@
 {
+  "SYD": {
+    "raw": "SPECI YSSY 041113Z AUTO 16011G21KT 5000 -SHRA BKN011 BKN025 BKN040 18/17 Q1026 RESHRA",
+    "icao": "YSSY",
+    "flightCategory": "MVFR",
+    "windDir": 160,
+    "windSpeed": 11,
+    "windGust": 21,
+    "visibility": 3.11,
+    "ceiling": 1100,
+    "temp": 18,
+    "dewpoint": 17,
+    "altimeter": 30.3,
+    "conditions": "-SHRA",
+    "observationTime": "2026-04-04T11:13:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 041156Z 07007KT 10SM CLR 13/M09 A3023 RMK AO2 SLP225 T01331089 10178 20133 55003",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 70,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 13.3,
+    "dewpoint": -8.9,
+    "altimeter": 30.23,
+    "conditions": "",
+    "observationTime": "2026-04-04T12:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 041153Z 00000KT 10SM FEW240 FEW290 16/11 A2998 RMK AO2 SLP148 T01560106 10200 20133 58019 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 0,
+    "windSpeed": 0,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 15.6,
+    "dewpoint": 10.6,
+    "altimeter": 29.98,
+    "conditions": "",
+    "observationTime": "2026-04-04T12:00:00.000Z"
+  },
   "ORD": {
     "raw": "SPECI KORD 041125Z 06004KT 4SM RA BR BKN004 BKN080 OVC100 08/07 A2980 RMK AO2 RAB1054 PRESFR P0002 T00780072 $",
     "icao": "KORD",
@@ -28,35 +73,5 @@
     "altimeter": 30,
     "conditions": "",
     "observationTime": "2026-04-04T11:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 041100Z AUTO 15008KT 8000 -SHRA FEW015 SCT025 BKN042 18/17 Q1026",
-    "icao": "YSSY",
-    "flightCategory": "MVFR",
-    "windDir": 150,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 4.97,
-    "ceiling": 4200,
-    "temp": 18,
-    "dewpoint": 17,
-    "altimeter": 30.3,
-    "conditions": "-SHRA",
-    "observationTime": "2026-04-04T11:00:00.000Z"
-  },
-  "LAS": {
-    "raw": "METAR KLAS 041056Z 05005KT 10SM CLR 14/M09 A3023 RMK AO2 SLP224 T01391094",
-    "icao": "KLAS",
-    "flightCategory": "VFR",
-    "windDir": 50,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 13.9,
-    "dewpoint": -9.4,
-    "altimeter": 30.23,
-    "conditions": "",
-    "observationTime": "2026-04-04T11:00:00.000Z"
   }
 }
