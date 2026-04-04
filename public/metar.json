@@ -1,10 +1,40 @@
 {
+  "ORD": {
+    "raw": "METAR KORD 040651Z 06007KT 10SM FEW005 OVC007 06/04 A2993 RMK AO2 RAE20 TSB0558E19 SLP137 P0000 T00560044 $",
+    "icao": "KORD",
+    "flightCategory": "IFR",
+    "windDir": 60,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 700,
+    "temp": 5.6,
+    "dewpoint": 4.4,
+    "altimeter": 29.93,
+    "conditions": "",
+    "observationTime": "2026-04-04T07:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 040650Z COR AUTO 22008KT 180V240 9999 NCD 09/06 Q1018 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 220,
+    "windSpeed": 8,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 9,
+    "dewpoint": 6,
+    "altimeter": 30.06,
+    "conditions": "",
+    "observationTime": "2026-04-04T07:00:00.000Z"
+  },
   "SYD": {
-    "raw": "METAR YSSY 040630Z AUTO 19016KT 9999 // FEW073 SCT085 19/16 Q1024",
+    "raw": "METAR YSSY 040700Z AUTO 19017KT 9999 // NCD 19/16 Q1024",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 190,
-    "windSpeed": 16,
+    "windSpeed": 17,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
@@ -12,7 +42,7 @@
     "dewpoint": 16,
     "altimeter": 30.24,
     "conditions": "",
-    "observationTime": "2026-04-04T06:30:00.000Z"
+    "observationTime": "2026-04-04T07:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 040656Z 05008KT 10SM CLR 17/M09 A3024 RMK AO2 SLP228 T01671094",
@@ -43,35 +73,5 @@
     "altimeter": 30.04,
     "conditions": "",
     "observationTime": "2026-04-04T07:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "SPECI KORD 040625Z 08010G18KT 10SM FEW005 BKN007 OVC020 05/04 A2994 RMK AO2 RAE20 TSB0558E19 OCNL LTGIC DSNT NE CB DSNT NE MOV NE P0000 T00500039 $",
-    "icao": "KORD",
-    "flightCategory": "IFR",
-    "windDir": 80,
-    "windSpeed": 10,
-    "windGust": 18,
-    "visibility": 10,
-    "ceiling": 700,
-    "temp": 5,
-    "dewpoint": 3.9,
-    "altimeter": 29.94,
-    "conditions": "",
-    "observationTime": "2026-04-04T06:25:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 040620Z COR AUTO 20007KT 9999 BKN047 08/06 Q1018 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 200,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 4700,
-    "temp": 8,
-    "dewpoint": 6,
-    "altimeter": 30.06,
-    "conditions": "",
-    "observationTime": "2026-04-04T06:20:00.000Z"
   }
 }
