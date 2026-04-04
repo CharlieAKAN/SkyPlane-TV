@@ -1,19 +1,4 @@
 {
-  "LAX": {
-    "raw": "METAR KLAX 040953Z 06003KT 10SM FEW240 SCT290 16/14 A3002 RMK AO2 SLP162 T01610144 $",
-    "icao": "KLAX",
-    "flightCategory": "VFR",
-    "windDir": 60,
-    "windSpeed": 3,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 16.1,
-    "dewpoint": 14.4,
-    "altimeter": 30.02,
-    "conditions": "",
-    "observationTime": "2026-04-04T10:00:00.000Z"
-  },
   "ORD": {
     "raw": "SPECI KORD 040941Z COR 36007G25KT 330V040 7SM TS OVC003CB 07/06 A2988 RMK AO2 RAE0857 TSB39 OCNL LTGIC E AND SW-W TS E AND SW-W MOV NE P0000 T00670061 $",
     "icao": "KORD",
@@ -29,6 +14,51 @@
     "conditions": "TS",
     "observationTime": "2026-04-04T09:41:00.000Z"
   },
+  "SYD": {
+    "raw": "METAR YSSY 040930Z AUTO 19015KT 9999 // FEW025 19/16 Q1025",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 190,
+    "windSpeed": 15,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 19,
+    "dewpoint": 16,
+    "altimeter": 30.27,
+    "conditions": "",
+    "observationTime": "2026-04-04T09:30:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 040956Z 07010KT 10SM CLR 14/M09 A3023 RMK AO2 SLP227 T01441094",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 70,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 14.4,
+    "dewpoint": -9.4,
+    "altimeter": 30.23,
+    "conditions": "",
+    "observationTime": "2026-04-04T10:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 040953Z 06003KT 10SM FEW240 SCT290 16/14 A3002 RMK AO2 SLP162 T01610144 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 60,
+    "windSpeed": 3,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 16.1,
+    "dewpoint": 14.4,
+    "altimeter": 30.02,
+    "conditions": "",
+    "observationTime": "2026-04-04T10:00:00.000Z"
+  },
   "LHR": {
     "raw": "METAR EGLL 040920Z AUTO 19011KT 160V240 9999 BKN012 BKN017 OVC021 12/08 Q1017 TEMPO BKN009",
     "icao": "EGLL",
@@ -43,20 +73,5 @@
     "altimeter": 30.03,
     "conditions": "",
     "observationTime": "2026-04-04T09:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 040900Z AUTO 20015KT 9999 // BKN027 19/16 Q1025",
-    "icao": "YSSY",
-    "flightCategory": "MVFR",
-    "windDir": 200,
-    "windSpeed": 15,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 2700,
-    "temp": 19,
-    "dewpoint": 16,
-    "altimeter": 30.27,
-    "conditions": "",
-    "observationTime": "2026-04-04T09:00:00.000Z"
   }
 }
