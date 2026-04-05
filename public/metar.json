@@ -1,18 +1,18 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 051230Z AUTO 24008KT 9999 // FEW042 OVC057 18/14 Q1023",
+    "raw": "METAR YSSY 051300Z AUTO 24006KT 9999 // OVC053 OVC066 17/14 Q1023",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 240,
-    "windSpeed": 8,
+    "windSpeed": 6,
     "windGust": null,
     "visibility": 6,
-    "ceiling": 5700,
-    "temp": 18,
+    "ceiling": 5300,
+    "temp": 17,
     "dewpoint": 14,
     "altimeter": 30.21,
     "conditions": "",
-    "observationTime": "2026-04-05T12:30:00.000Z"
+    "observationTime": "2026-04-05T13:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 051256Z 20004KT 10SM CLR 13/M09 A3012 RMK AO2 SLP184 T01331094",
