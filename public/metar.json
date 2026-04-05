@@ -1,4 +1,19 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 051950Z COR AUTO 27009KT 9999 -RA NCD 08/M01 Q1024 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 270,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 8,
+    "dewpoint": -1,
+    "altimeter": 30.24,
+    "conditions": "-RA",
+    "observationTime": "2026-04-05T20:00:00.000Z"
+  },
   "SYD": {
     "raw": "METAR YSSY 051930Z AUTO 29004KT 9999 // NCD 15/13 Q1021",
     "icao": "YSSY",
@@ -58,20 +73,5 @@
     "altimeter": 30.16,
     "conditions": "",
     "observationTime": "2026-04-05T20:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 051920Z COR AUTO 27010KT 9999 NCD 08/M01 Q1023 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 270,
-    "windSpeed": 10,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 8,
-    "dewpoint": -1,
-    "altimeter": 30.21,
-    "conditions": "",
-    "observationTime": "2026-04-05T19:20:00.000Z"
   }
 }
