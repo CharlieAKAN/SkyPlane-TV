@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "2EXHkZJi1LE",
-    "isLive": false,
+    "currentVideoId": "8CBTKpRG_kw",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "Show Alert 🚨 Jerry Returns! "
+    "streamStatus": "live",
+    "streamTitle": "Change of plans - Road-Trip to the Paddock"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",

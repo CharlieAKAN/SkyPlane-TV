@@ -1,4 +1,49 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 051230Z AUTO 24008KT 9999 // FEW042 OVC057 18/14 Q1023",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 240,
+    "windSpeed": 8,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 5700,
+    "temp": 18,
+    "dewpoint": 14,
+    "altimeter": 30.21,
+    "conditions": "",
+    "observationTime": "2026-04-05T12:30:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 051256Z 20004KT 10SM CLR 13/M09 A3012 RMK AO2 SLP184 T01331094",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 200,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 13.3,
+    "dewpoint": -9.4,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-04-05T13:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 051253Z 11003KT 10SM FEW250 15/08 A2998 RMK AO2 SLP148 T01500083 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 110,
+    "windSpeed": 3,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 15,
+    "dewpoint": 8.3,
+    "altimeter": 29.98,
+    "conditions": "",
+    "observationTime": "2026-04-05T13:00:00.000Z"
+  },
   "ORD": {
     "raw": "METAR KORD 051251Z 29008G20KT 10SM BKN029 OVC037 03/M03 A3007 RMK AO2 SLP186 T00281028 $",
     "icao": "KORD",
@@ -14,27 +59,12 @@
     "conditions": "",
     "observationTime": "2026-04-05T13:00:00.000Z"
   },
-  "SYD": {
-    "raw": "METAR YSSY 051200Z AUTO 19004KT 150V210 9999 // FEW040 SCT048 OVC060 18/12 Q1023",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 190,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 6000,
-    "temp": 18,
-    "dewpoint": 12,
-    "altimeter": 30.21,
-    "conditions": "",
-    "observationTime": "2026-04-05T12:00:00.000Z"
-  },
   "LHR": {
-    "raw": "METAR EGLL 051220Z COR AUTO 27024KT 9999 NCD 12/M01 Q1018 NOSIG",
+    "raw": "METAR EGLL 051250Z COR AUTO 28018KT 9999 NCD 12/M01 Q1018 NOSIG",
     "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 270,
-    "windSpeed": 24,
+    "windDir": 280,
+    "windSpeed": 18,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
@@ -42,21 +72,6 @@
     "dewpoint": -1,
     "altimeter": 30.06,
     "conditions": "",
-    "observationTime": "2026-04-05T12:20:00.000Z"
-  },
-  "LAS": {
-    "raw": "METAR KLAS 051156Z 20004KT 10SM CLR 13/M08 A3011 RMK AO2 SLP181 T01331083 10200 20133 56005",
-    "icao": "KLAS",
-    "flightCategory": "VFR",
-    "windDir": 200,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 13.3,
-    "dewpoint": -8.3,
-    "altimeter": 30.11,
-    "conditions": "",
-    "observationTime": "2026-04-05T12:00:00.000Z"
+    "observationTime": "2026-04-05T13:00:00.000Z"
   }
 }
