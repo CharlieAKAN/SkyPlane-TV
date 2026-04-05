@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "United Airlines 757-300, N57868 Floating Into LAS Vegas From Washington (IAS)",
-    "currentVideoId": "dEhHY_Sak-o",
+    "streamTitle": "Bear In The Air, Frontier A320NEO, N366FR Departing LAS Vegas to DENver.",
+    "currentVideoId": "p6n4pjOGq-Q",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - WINDY Saturday 4th April 2026",
-    "currentVideoId": "dGxceq6-Bs8",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 5th April 2026",
+    "currentVideoId": "eGp50xv_h1k",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
