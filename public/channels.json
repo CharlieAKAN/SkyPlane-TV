@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴LIVE - NEW CA Pokemon A350 livery + Terra Avia 747-400F at Sydney Airport with Kurt - 06.04.26🔴",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - NEW Pokemon A350 livery + Terra Avia 747-400F at Sydney Airport with Kurt - 06.04.26🔴",
     "currentVideoId": "hEvT_dyfNIg",
     "airportCode": "SYD",
     "bbox": {
