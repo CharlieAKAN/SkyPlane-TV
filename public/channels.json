@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "h9PrFTg9t7Q",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE: Plane Spotting at Chicago O’Hare Airport ✈️"
   },
   {
@@ -48,10 +48,10 @@
     "channelName": "LAS Vegas Airport LIVE",
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
     "airportCode": "LAS",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "New Delta Air Lines Airbus A330-900neo, N433DX Final Approach & Landing In LAS Vegas With BBF.",
-    "currentVideoId": "LqR1Sairg84",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "LIVE LAS Vegas Airport 24/7",
+    "currentVideoId": "euH5-K8dzZ0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
