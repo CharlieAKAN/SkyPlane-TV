@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "h9PrFTg9t7Q",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE: Plane Spotting at Chicago O’Hare Airport ✈️"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Beautiful Hawaiian Airlines A330-200, N374HA On Final Approach & Landing In LAS Vegas From HoNoLulu.",
-    "currentVideoId": "k6HkE_eXVCs",
+    "streamTitle": "New Delta Air Lines Airbus A330-900neo, N433DX Final Approach & Landing In LAS Vegas With BBF.",
+    "currentVideoId": "LqR1Sairg84",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE - NEW Pokemon A350 livery + Terra Avia 747-400F at Sydney Airport with Kurt - 06.04.26🔴",
     "currentVideoId": "hEvT_dyfNIg",
     "airportCode": "SYD",
