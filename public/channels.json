@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Impressive Korean Air 777-300ER, HL8008 On Final Approach, Landing In LAS Vegas From Seoul (ICN)!",
-    "currentVideoId": "vtL6zqjNS-Y",
+    "streamTitle": "Beautiful Hawaiian Airlines A330-200, N374HA On Final Approach & Landing In LAS Vegas From HoNoLulu.",
+    "currentVideoId": "k6HkE_eXVCs",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - STRONG WINDS Sunday 5th April 2026",
-    "currentVideoId": "eGp50xv_h1k",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 6th April 2026",
+    "currentVideoId": "5tEkYVQUIWQ",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴Easter Sunday Special + Terra Avia 747-400F @ Sydney Airport with Tim - 05.04.26 🔴",
-    "currentVideoId": "FYlLa5CtHLY",
+    "streamTitle": "[4K]🔵NEW China Airlines 'Pokemon Air Adventures ' A350 B-18916 - Sydney Airport First Visit!",
+    "currentVideoId": "_-ZS9DrvfWI",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
