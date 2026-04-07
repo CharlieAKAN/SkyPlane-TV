@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE Cathay Pacific Retro 80th Ann. B748 - Plane Spotting @ Sydney Airport with Kurt - 07.04.26🔴",
     "currentVideoId": "CI3plamkR_Y",
     "airportCode": "SYD",
