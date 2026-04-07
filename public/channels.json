@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Oopsies\" for Pilot Announcement From British Airways 787-9, G-Z8KG Landing In LAS Vegas from London",
-    "currentVideoId": "G43vLggJ48I",
+    "streamTitle": "Veteran Delta Air Lines A330-300, N814NW Approach & landing into LAS Vegas arriving from ATLanta!",
+    "currentVideoId": "fqEk6kwlWj0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 6th April 2026",
-    "currentVideoId": "5tEkYVQUIWQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 7tth April 2026",
+    "currentVideoId": "uMiES_7Vh_Q",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
