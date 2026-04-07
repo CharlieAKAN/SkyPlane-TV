@@ -65,7 +65,7 @@
     "isLive": false,
     "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Tuesday 7th April 2026",
-    "currentVideoId": "TvQliFABn8o",
+    "currentVideoId": "uMiES_7Vh_Q",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Caught Live: LIGHTNING STORM | BIG HEAVY CARGO PLANE BLAST OFF DURING RAINY NIGHT at CHICAGO O'HARE",
-    "currentVideoId": "oTl1lNWvHIc",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE CHASING BIG PLANES at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANES",
+    "currentVideoId": "ceKHffTUgQY",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
