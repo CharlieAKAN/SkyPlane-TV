@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "b2EZim_YI2c",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE: Plane Spotting at Chicago O’Hare Airport ✈️"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Veteran Delta Air Lines A330-300, N814NW Approach & landing into LAS Vegas arriving from ATLanta!",
-    "currentVideoId": "fqEk6kwlWj0",
+    "streamTitle": "Elegant KLM Royal Dutch Airlines 777-206ER, PH-BQL \"Litomyšl Castle\" on final, landing in LAS Vegas.",
+    "currentVideoId": "VtsWwXuK3b4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
