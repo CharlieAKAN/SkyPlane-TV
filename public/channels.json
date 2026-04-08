@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE CROSSWIND LANDINGS at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANE SPOTTING",
-    "currentVideoId": "fuxmRG9qmic",
+    "currentVideoId": "s9df_S4Lxfc",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
