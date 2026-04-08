@@ -19,15 +19,15 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "WnN06Qsidf0",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴 LIVE: Plane Spotting from the OTHER LOCATION  | Chicago O’Hare ✈️👀"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE: Plane Spotting from Chicago O’Hare ✈️👀"
   },
   {
     "channelName": "Big Jet TV (LHR)",
