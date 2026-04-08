@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE - \"CPT Emily\" on EK413 + Terra Avia 747-400F - Sydney Airport Spotting with Kurt - 08.04.26🔴",
     "currentVideoId": "7o3p1iMp5Og",
     "airportCode": "SYD",
