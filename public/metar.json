@@ -1,4 +1,34 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 080600Z 13009KT 9999 FEW035 BKN290 25/18 Q1014",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 130,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 29000,
+    "temp": 25,
+    "dewpoint": 18,
+    "altimeter": 29.94,
+    "conditions": "",
+    "observationTime": "2026-04-08T06:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 080550Z COR AUTO VRB02KT 9999 NCD 09/06 Q1022 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": null,
+    "windSpeed": 2,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 9,
+    "dewpoint": 6,
+    "altimeter": 30.18,
+    "conditions": "",
+    "observationTime": "2026-04-08T06:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 080556Z 18005KT 10SM CLR 25/M08 A2986 RMK AO2 SLP090 T02501083 10322 20250 51011",
     "icao": "KLAS",
@@ -15,19 +45,19 @@
     "observationTime": "2026-04-08T06:00:00.000Z"
   },
   "LAX": {
-    "raw": "SPECI KLAX 080545Z 23005KT 10SM FEW007 FEW015 17/15 A2994 RMK AO2 T01670150 $",
+    "raw": "METAR KLAX 080553Z 23004KT 10SM FEW007 FEW015 17/15 A2993 RMK AO2 SLP134 T01670150 10194 20167 51008 $",
     "icao": "KLAX",
     "flightCategory": "VFR",
     "windDir": 230,
-    "windSpeed": 5,
+    "windSpeed": 4,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
     "temp": 16.7,
     "dewpoint": 15,
-    "altimeter": 29.94,
+    "altimeter": 29.93,
     "conditions": "",
-    "observationTime": "2026-04-08T05:45:00.000Z"
+    "observationTime": "2026-04-08T06:00:00.000Z"
   },
   "ORD": {
     "raw": "METAR KORD 080551Z 12005KT 10SM FEW080 BKN120 OVC250 02/M03 A3033 RMK AO2 SLP279 T00171028 10017 20000 400891022 58018 $",
@@ -43,35 +73,5 @@
     "altimeter": 30.33,
     "conditions": "",
     "observationTime": "2026-04-08T06:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 080520Z COR AUTO 07003KT 9999 NCD 08/05 Q1022 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 70,
-    "windSpeed": 3,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 8,
-    "dewpoint": 5,
-    "altimeter": 30.18,
-    "conditions": "",
-    "observationTime": "2026-04-08T05:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 080530Z 13008KT 9999 FEW030 BKN290 24/18 Q1014",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 130,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 29000,
-    "temp": 24,
-    "dewpoint": 18,
-    "altimeter": 29.94,
-    "conditions": "",
-    "observationTime": "2026-04-08T05:30:00.000Z"
   }
 }
