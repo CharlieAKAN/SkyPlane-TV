@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Two Southwest Airplanes In The Same Video Frame Landing & Departing LAS Vegas!  What are those odds?",
-    "currentVideoId": "lPKesJzbE2w",
+    "streamTitle": "Veteran Delta Air Lines A330-300, N803NW Departing from LAS Vegas headed back to ATLanta!",
+    "currentVideoId": "MBCO8tO1ZZU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 8th April 2026",
-    "currentVideoId": "TvQliFABn8o",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -Thursday 9th April 2026",
+    "currentVideoId": "rntdrkyyfb0",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
