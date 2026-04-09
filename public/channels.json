@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Beautiful Hawaiian Airlines A330-200, N375HA Departing LAS Vegas headed to HoNoLulu!",
-    "currentVideoId": "ITy8GpmvXEI",
+    "streamTitle": "Simon Says, \"Can You See A Rare VIVA Livery On A A321, XA-VBU Arriving From MonTereY Mexico Today?\"",
+    "currentVideoId": "bwB3gSKFlXc",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE CROSSWIND LANDINGS at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANE SPOTTING",
-    "currentVideoId": "s9df_S4Lxfc",
+    "currentVideoId": "fuxmRG9qmic",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
