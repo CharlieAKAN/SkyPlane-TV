@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Old Rauma\" KLM 777-206, PH-BQO Arrival Into LAS Vegas from AMSterdam.",
-    "currentVideoId": "_P-oEWztxBE",
+    "streamTitle": "Two Southwest Airplanes In The Same Video Frame Landing & Departing LAS Vegas!  What are those odds?",
+    "currentVideoId": "lPKesJzbE2w",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
