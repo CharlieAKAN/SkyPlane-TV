@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Veteran Delta Air Lines A330-300, N803NW Departing from LAS Vegas headed back to ATLanta!",
-    "currentVideoId": "MBCO8tO1ZZU",
+    "streamTitle": "Classic United Airlines 757-300 Pencil, N57868 Departing LAS Vegas headed to Washington IAD! RB211",
+    "currentVideoId": "j_0Jo1xUfd4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE Plane-Spotting at Sydney Airport with SPECIAL GUESTS and Kurt - 09.04.26🔴",
     "currentVideoId": "7Bd8MZriCAo",
     "airportCode": "SYD",
