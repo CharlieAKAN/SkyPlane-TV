@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE LUFTHANSA 747-8 100-YEAR ANNIVERSARY LIVERY  (D-ABYN)| CHICAGO O'HARE AIRPORT | AVGEEK PLANES",
     "currentVideoId": "IT6k1ulUQwA",
     "airportCode": "ORD",
