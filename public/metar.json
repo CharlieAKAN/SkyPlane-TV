@@ -15,19 +15,34 @@
     "observationTime": "2026-04-10T08:00:00.000Z"
   },
   "SYD": {
-    "raw": "METAR YSSY 100730Z AUTO 35011KT 9999 // NCD 28/16 Q1007",
+    "raw": "METAR YSSY 100800Z AUTO 03011KT 9999 // NCD 27/18 Q1008",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 350,
+    "windDir": 30,
     "windSpeed": 11,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 28,
-    "dewpoint": 16,
-    "altimeter": 29.74,
+    "temp": 27,
+    "dewpoint": 18,
+    "altimeter": 29.77,
     "conditions": "",
-    "observationTime": "2026-04-10T07:30:00.000Z"
+    "observationTime": "2026-04-10T08:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 100750Z COR AUTO 29004KT 240V330 9999 NCD 08/00 Q1021 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 290,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 8,
+    "dewpoint": 0,
+    "altimeter": 30.15,
+    "conditions": "",
+    "observationTime": "2026-04-10T08:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 100756Z 21008KT 10SM BKN180 23/06 A2986 RMK AO2 SLP087 T02330061 403170206",
@@ -45,33 +60,18 @@
     "observationTime": "2026-04-10T08:00:00.000Z"
   },
   "LAX": {
-    "raw": "SPECI KLAX 100734Z 26010KT 10SM BKN008 BKN012 16/14 A2997 RMK AO2 T01610144 $",
+    "raw": "METAR KLAX 100753Z 25007KT 10SM BKN008 BKN012 16/14 A2997 RMK AO2 SLP145 T01610139 402220156 $",
     "icao": "KLAX",
     "flightCategory": "IFR",
-    "windDir": 260,
-    "windSpeed": 10,
+    "windDir": 250,
+    "windSpeed": 7,
     "windGust": null,
     "visibility": 10,
     "ceiling": 800,
     "temp": 16.1,
-    "dewpoint": 14.4,
+    "dewpoint": 13.9,
     "altimeter": 29.97,
     "conditions": "",
-    "observationTime": "2026-04-10T07:34:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 100720Z COR AUTO 27004KT 210V330 9999 NCD 07/00 Q1021 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 270,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 7,
-    "dewpoint": 0,
-    "altimeter": 30.15,
-    "conditions": "",
-    "observationTime": "2026-04-10T07:20:00.000Z"
+    "observationTime": "2026-04-10T08:00:00.000Z"
   }
 }
