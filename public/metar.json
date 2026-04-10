@@ -1,6 +1,21 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 101850Z COR AUTO 16011KT 9999 NCD 10/M00 Q1013 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 160,
+    "windSpeed": 11,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 10,
+    "dewpoint": 0,
+    "altimeter": 29.91,
+    "conditions": "",
+    "observationTime": "2026-04-10T19:00:00.000Z"
+  },
   "SYD": {
-    "raw": "METAR YSSY 101830Z AUTO 24010KT 9999 // NCD 20/13 Q1007",
+    "raw": "METAR YSSY 101900Z AUTO 24010KT 9999 // NCD 20/12 Q1007",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 240,
@@ -9,10 +24,10 @@
     "visibility": 6,
     "ceiling": null,
     "temp": 20,
-    "dewpoint": 13,
+    "dewpoint": 12,
     "altimeter": 29.74,
     "conditions": "",
-    "observationTime": "2026-04-10T18:30:00.000Z"
+    "observationTime": "2026-04-10T19:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 101856Z 24013G29KT 10SM FEW120 FEW200 SCT250 26/03 A2990 RMK AO2 PK WND 26031/1806 SLP104 T02610028",
@@ -30,19 +45,19 @@
     "observationTime": "2026-04-10T19:00:00.000Z"
   },
   "LAX": {
-    "raw": "SPECI KLAX 101816Z 22010KT 10SM FEW008 SCT016 BKN280 18/13 A3000 RMK AO2 T01830133",
+    "raw": "METAR KLAX 101853Z 26010KT 10SM SCT013 BKN100 BKN280 18/13 A3000 RMK AO2 SLP157 T01830133",
     "icao": "KLAX",
     "flightCategory": "VFR",
-    "windDir": 220,
+    "windDir": 260,
     "windSpeed": 10,
     "windGust": null,
     "visibility": 10,
-    "ceiling": 28000,
+    "ceiling": 10000,
     "temp": 18.3,
     "dewpoint": 13.3,
     "altimeter": 30,
     "conditions": "",
-    "observationTime": "2026-04-10T18:16:00.000Z"
+    "observationTime": "2026-04-10T19:00:00.000Z"
   },
   "ORD": {
     "raw": "METAR KORD 101851Z 34007KT 10SM OVC021 09/05 A3028 RMK AO2 SLP255 T00940050",
@@ -58,20 +73,5 @@
     "altimeter": 30.28,
     "conditions": "",
     "observationTime": "2026-04-10T19:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 101820Z COR AUTO 15009KT 9999 NCD 10/M01 Q1013 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 150,
-    "windSpeed": 9,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 10,
-    "dewpoint": -1,
-    "altimeter": 29.91,
-    "conditions": "",
-    "observationTime": "2026-04-10T18:20:00.000Z"
   }
 }
