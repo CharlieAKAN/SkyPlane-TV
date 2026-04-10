@@ -1,4 +1,34 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 101450Z COR AUTO 18013KT 160V240 9999 NCD 12/M02 Q1017 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 180,
+    "windSpeed": 13,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 12,
+    "dewpoint": -2,
+    "altimeter": 30.03,
+    "conditions": "",
+    "observationTime": "2026-04-10T15:00:00.000Z"
+  },
+  "SYD": {
+    "raw": "METAR YSSY 101500Z AUTO 23006KT 9999 // NCD 22/17 Q1007",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 230,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 22,
+    "dewpoint": 17,
+    "altimeter": 29.74,
+    "conditions": "",
+    "observationTime": "2026-04-10T15:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 101456Z 20011G19KT 10SM FEW150 SCT200 21/06 A2989 RMK AO2 SLP102 ACSL DSNT NW T02110056 53014",
     "icao": "KLAS",
@@ -30,48 +60,18 @@
     "observationTime": "2026-04-10T15:00:00.000Z"
   },
   "ORD": {
-    "raw": "SPECI KORD 101409Z 03009KT 6SM BR OVC007 07/06 A3019 RMK AO2 RAE1358 P0000 T00720061",
+    "raw": "METAR KORD 101451Z 01011KT 10SM OVC007 08/06 A3021 RMK AO2 RAE1358 SLP233 P0000 60001 T00780056 53017",
     "icao": "KORD",
     "flightCategory": "IFR",
-    "windDir": 30,
-    "windSpeed": 9,
+    "windDir": 10,
+    "windSpeed": 11,
     "windGust": null,
-    "visibility": 6,
+    "visibility": 10,
     "ceiling": 700,
-    "temp": 7.2,
-    "dewpoint": 6.1,
-    "altimeter": 30.19,
-    "conditions": "BR",
-    "observationTime": "2026-04-10T14:09:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 101420Z COR AUTO 18012KT 140V230 9999 NCD 13/M01 Q1017 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 180,
-    "windSpeed": 12,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 13,
-    "dewpoint": -1,
-    "altimeter": 30.03,
+    "temp": 7.8,
+    "dewpoint": 5.6,
+    "altimeter": 30.21,
     "conditions": "",
-    "observationTime": "2026-04-10T14:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 101430Z AUTO 21007KT 9999 // NCD 22/18 Q1007",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 210,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 22,
-    "dewpoint": 18,
-    "altimeter": 29.74,
-    "conditions": "",
-    "observationTime": "2026-04-10T14:30:00.000Z"
+    "observationTime": "2026-04-10T15:00:00.000Z"
   }
 }
