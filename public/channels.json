@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "-I_5xfuqyRA",
+    "currentVideoId": "12KqO5IBLeY",
     "isLive": true,
     "bbox": {
       "lamin": 33.79,
@@ -12,7 +12,7 @@
       "lomax": -118.25
     },
     "streamStatus": "live",
-    "streamTitle": "🔴 LIVE Behind-the-Scenes at the 5 YEAR PARTY! (April 10th, 2026)"
+    "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE: RARE Lufthansa 100th Anniversary Livery ARRIVES at O’Hare  ✈️🔥"
+    "streamTitle": "Lufthansa 100th Anniversary Livery ARRIVES at O’Hare for the first time"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -Friday 10th April 2026",
-    "currentVideoId": "lBmm6d76mRo",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -Saturday 11th April 2026",
+    "currentVideoId": "C5XtGn0Tt40",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
