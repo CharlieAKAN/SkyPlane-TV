@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "0X1--LGhbU0",
+    "currentVideoId": "DLpxNknWp7o",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,8 +26,8 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "Lufthansa 100th Anniversary Livery ARRIVES at O’Hare for the first time"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE: ACTION-PACKED DAY at O’Hare ✈️ | Plane Spotting, Chicago O’Hare, Live Aviation"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -64,7 +64,7 @@
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "isLive": true,
     "streamStatus": "live",
-    "streamTitle": "Heathrow Airport Live -Saturday 11th April 2026",
+    "streamTitle": "Heathrow Airport Live -WINDY Saturday 11th April 2026",
     "currentVideoId": "C5XtGn0Tt40",
     "airportCode": "LHR",
     "bbox": {
