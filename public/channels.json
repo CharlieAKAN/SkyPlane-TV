@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "CAUGHT LIVE: Lufthansa 747-8 100th Anniversary Livery(D-ABYN) Arrives & Departs Chicago O'Hare!",
-    "currentVideoId": "5U1eg-sBtVs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE WINDY & RAINY AIRPORT ACTION at CHICAGO O'HARE | AVGEEK PLANE SPOTTING | RAINY THUNDERSTORMS",
+    "currentVideoId": "xb4RIK7QYNQ",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
