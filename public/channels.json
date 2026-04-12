@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "N7E_qE2dK00",
+    "currentVideoId": "-Mu471_CM3k",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Arrivals - Jerry's back!"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
