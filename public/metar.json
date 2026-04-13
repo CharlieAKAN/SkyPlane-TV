@@ -1,6 +1,6 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 132200Z 27007KT CAVOK 17/09 Q1020",
+    "raw": "METAR YSSY 132230Z 27007KT CAVOK 18/09 Q1021",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 270,
@@ -8,11 +8,56 @@
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 17,
+    "temp": 18,
     "dewpoint": 9,
-    "altimeter": 30.12,
+    "altimeter": 30.15,
     "conditions": "",
-    "observationTime": "2026-04-13T22:00:00.000Z"
+    "observationTime": "2026-04-13T22:30:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 132256Z 20012G25KT 10SM SCT070 BKN100 BKN200 19/M04 A2985 RMK AO2 SLP096 T01891044",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 200,
+    "windSpeed": 12,
+    "windGust": 25,
+    "visibility": 10,
+    "ceiling": 10000,
+    "temp": 18.9,
+    "dewpoint": -4.4,
+    "altimeter": 29.85,
+    "conditions": "",
+    "observationTime": "2026-04-13T23:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 132253Z 25017KT 10SM FEW070 FEW100 19/08 A3002 RMK AO2 SLP163 T01890078 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 250,
+    "windSpeed": 17,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 18.9,
+    "dewpoint": 7.8,
+    "altimeter": 30.02,
+    "conditions": "",
+    "observationTime": "2026-04-13T23:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 132251Z 20010KT 10SM SCT120 BKN170 BKN250 25/12 A2984 RMK AO2 SLP101 TCU DSNT E T02500122",
+    "icao": "KORD",
+    "flightCategory": "VFR",
+    "windDir": 200,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 17000,
+    "temp": 25,
+    "dewpoint": 12.2,
+    "altimeter": 29.84,
+    "conditions": "",
+    "observationTime": "2026-04-13T23:00:00.000Z"
   },
   "LHR": {
     "raw": "METAR EGLL 132220Z COR AUTO 22007KT 9999 NCD 08/03 Q1015 NOSIG",
@@ -28,35 +73,5 @@
     "altimeter": 29.97,
     "conditions": "",
     "observationTime": "2026-04-13T22:20:00.000Z"
-  },
-  "LAS": {
-    "raw": "METAR KLAS 132156Z 24009G18KT 10SM SCT070 SCT100 BKN200 20/M04 A2987 RMK AO2 SLP101 T02001039",
-    "icao": "KLAS",
-    "flightCategory": "VFR",
-    "windDir": 240,
-    "windSpeed": 9,
-    "windGust": 18,
-    "visibility": 10,
-    "ceiling": 20000,
-    "temp": 20,
-    "dewpoint": -3.9,
-    "altimeter": 29.87,
-    "conditions": "",
-    "observationTime": "2026-04-13T22:00:00.000Z"
-  },
-  "LAX": {
-    "raw": "METAR KLAX 132153Z 27016KT 10SM FEW040 FEW070 SCT085 18/07 A3003 RMK AO2 LTG DSNT NE SLP167 TCU DSNT NE T01830072",
-    "icao": "KLAX",
-    "flightCategory": "VFR",
-    "windDir": 270,
-    "windSpeed": 16,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 18.3,
-    "dewpoint": 7.2,
-    "altimeter": 30.03,
-    "conditions": "",
-    "observationTime": "2026-04-13T22:00:00.000Z"
   }
 }
