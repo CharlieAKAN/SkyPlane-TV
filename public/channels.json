@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE WINDY & RAINY AIRPORT ACTION at CHICAGO O'HARE | AVGEEK PLANE SPOTTING | RAINY THUNDERSTORMS",
     "currentVideoId": "xb4RIK7QYNQ",
     "airportCode": "ORD",
