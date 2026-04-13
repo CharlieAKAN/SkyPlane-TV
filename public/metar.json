@@ -1,18 +1,48 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 131130Z AUTO 27007KT 9999 // NCD 18/08 Q1019",
+    "raw": "METAR YSSY 131200Z AUTO 27010KT 9999 // NCD 17/08 Q1019",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 270,
-    "windSpeed": 7,
+    "windSpeed": 10,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 18,
+    "temp": 17,
     "dewpoint": 8,
     "altimeter": 30.09,
     "conditions": "",
-    "observationTime": "2026-04-13T11:30:00.000Z"
+    "observationTime": "2026-04-13T12:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "SPECI KORD 131149Z 22009G18KT 10SM FEW013 BKN020 OVC035 18/16 A2988 RMK AO2",
+    "icao": "KORD",
+    "flightCategory": "MVFR",
+    "windDir": 220,
+    "windSpeed": 9,
+    "windGust": 18,
+    "visibility": 10,
+    "ceiling": 2000,
+    "temp": 18,
+    "dewpoint": 16,
+    "altimeter": 29.88,
+    "conditions": "",
+    "observationTime": "2026-04-13T11:49:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 131150Z AUTO 27016KT 9999 TS //////CB 10/04 Q1013 TEMPO 4000 +SHRA",
+    "icao": "EGLL",
+    "flightCategory": "UNKNOWN",
+    "windDir": 270,
+    "windSpeed": 16,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 10,
+    "dewpoint": 4,
+    "altimeter": 29.91,
+    "conditions": "TS",
+    "observationTime": "2026-04-13T12:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 131156Z 21010KT 10SM FEW140 FEW180 13/01 A2991 RMK AO2 SLP119 T01280011 10167 20128 56006",
@@ -43,35 +73,5 @@
     "altimeter": 30.01,
     "conditions": "",
     "observationTime": "2026-04-13T12:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "SPECI KORD 131117Z 23013G19KT 10SM BKN013 OVC027 18/16 A2986 RMK AO2 T01830161 $",
-    "icao": "KORD",
-    "flightCategory": "MVFR",
-    "windDir": 230,
-    "windSpeed": 13,
-    "windGust": 19,
-    "visibility": 10,
-    "ceiling": 1300,
-    "temp": 18.3,
-    "dewpoint": 16.1,
-    "altimeter": 29.86,
-    "conditions": "",
-    "observationTime": "2026-04-13T11:17:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 131120Z AUTO 19007KT 160V240 9999 -RA FEW044/// //////CB 12/02 Q1013 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 190,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 12,
-    "dewpoint": 2,
-    "altimeter": 29.91,
-    "conditions": "-RA",
-    "observationTime": "2026-04-13T11:20:00.000Z"
   }
 }
