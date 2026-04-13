@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Caught Live: Nippon Cargo (NCA132) 747-8 Pilot Waves at CHICAGO FLIGHTS after CROSSWIND LANDING!",
-    "currentVideoId": "cc-Z_-AxPN0",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE RAINY AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANES",
+    "currentVideoId": "y3l6w7DFgVg",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
