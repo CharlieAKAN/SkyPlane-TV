@@ -1,4 +1,34 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 141100Z AUTO 05003KT 9999 // NCD 20/13 Q1020",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 50,
+    "windSpeed": 3,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 20,
+    "dewpoint": 13,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-04-14T11:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 141050Z COR AUTO 19012KT 9999 SCT041 16/05 Q1017 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 190,
+    "windSpeed": 12,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 16,
+    "dewpoint": 5,
+    "altimeter": 30.03,
+    "conditions": "",
+    "observationTime": "2026-04-14T11:00:00.000Z"
+  },
   "ORD": {
     "raw": "METAR KORD 141051Z 07005KT 6SM -RA BR FEW015 BKN037 BKN055 OVC150 14/12 A2985 RMK AO2 RAB45 SLP104 P0001 T01440122",
     "icao": "KORD",
@@ -13,21 +43,6 @@
     "altimeter": 29.85,
     "conditions": "-RA BR",
     "observationTime": "2026-04-14T11:00:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 141030Z AUTO 00000KT 9999 // NCD 19/13 Q1020",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 0,
-    "windSpeed": 0,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 19,
-    "dewpoint": 13,
-    "altimeter": 30.12,
-    "conditions": "",
-    "observationTime": "2026-04-14T10:30:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 141056Z 00000KT 10SM BKN080 OVC095 14/01 A2997 RMK AO2 SLP138 T01390006",
@@ -58,20 +73,5 @@
     "altimeter": 30.07,
     "conditions": "",
     "observationTime": "2026-04-14T11:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 141020Z COR AUTO 19014KT 9999 FEW039 15/05 Q1018 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 190,
-    "windSpeed": 14,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 15,
-    "dewpoint": 5,
-    "altimeter": 30.06,
-    "conditions": "",
-    "observationTime": "2026-04-14T10:20:00.000Z"
   }
 }
