@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "0J2dRBWr6HU",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE: SUPER O'HARE ACTION ✈️ | Plane Spotting | Real time airport traffic"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Mysterious USAF/Janet King Air 350C, N910CB Arriving In Darkness Into LAS Vegas from EDWards AFB.",
-    "currentVideoId": "bSoP4fdo6v0",
+    "streamTitle": "Mysterious Sunrise Departure USAF/Janet Airlines King Air 350C, N910CD Headed Back to EDWards AFB.",
+    "currentVideoId": "ykTPA0gvuGU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
