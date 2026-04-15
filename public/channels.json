@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Classic United Airlines 757-200, N21108 On A Sporty Approach & Landing Into LAS Vegas From NEw yoRk!",
-    "currentVideoId": "glbdgg0dGQs",
+    "streamTitle": "Tossed Like A Rag Doll Approach For Flexjet Phenom 300E, N380FX From Scottsdale (SCF) Into LAS Vegas",
+    "currentVideoId": "svaYfj8joLw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 14th April 2026",
-    "currentVideoId": "ccGT-jzyHHk",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 15th April 2026",
+    "currentVideoId": "GcUWi5JhcFw",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
