@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
-    "currentVideoId": "NLKRJpp7OR0",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE- SEVERE WEATHER TODAY at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING | RAIN",
+    "currentVideoId": "Chlo0wf3HCk",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
