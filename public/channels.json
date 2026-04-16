@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Jeff Bezos Prefers Prime Packages Get Shaken, Not Stirred on 737-800BCF, N5227A Arrival In LAS Vegas",
-    "currentVideoId": "1DlV4ZPBhl4",
+    "streamTitle": "Modern Delta Air Lines A321-211, N322DN On Final & Landing In LAS Vegas From from MinneaPoliS.",
+    "currentVideoId": "4BZXT9-onpQ",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -65,7 +65,7 @@
     "isLive": false,
     "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - WINDY Wednesday 15th April 2026",
-    "currentVideoId": "c36Skzpttfc",
+    "currentVideoId": "GcUWi5JhcFw",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
