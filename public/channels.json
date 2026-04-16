@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "PQ7BZfKmevI",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE: SUPER O'HARE ACTION ✈️ | Plane Spotting | Real time airport traffic"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Early Rotation For Delta Air Lines 737-900ER, N810DN Departing LAS Vegas to DeTroit W!",
-    "currentVideoId": "3PedBx_iwkQ",
+    "streamTitle": "RAIDERS NATION BABY!!! VivaAerobus A320-232, XA-VAK On Final Approach Landing In LAS Vegas from MTY!",
+    "currentVideoId": "NHU_5zvJxHI",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
