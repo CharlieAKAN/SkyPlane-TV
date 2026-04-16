@@ -1,6 +1,6 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 162130Z 31005KT CAVOK 18/11 Q1013",
+    "raw": "METAR YSSY 162200Z 31005KT CAVOK 18/10 Q1013",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 310,
@@ -9,10 +9,25 @@
     "visibility": 6,
     "ceiling": null,
     "temp": 18,
-    "dewpoint": 11,
+    "dewpoint": 10,
     "altimeter": 29.91,
     "conditions": "",
-    "observationTime": "2026-04-16T21:30:00.000Z"
+    "observationTime": "2026-04-16T22:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 162150Z COR AUTO 20008KT 9999 NCD 12/09 Q1020 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 200,
+    "windSpeed": 8,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 12,
+    "dewpoint": 9,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-04-16T22:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 162156Z 21016G23KT 10SM FEW120 SCT170 BKN250 26/M07 A2975 RMK AO2 PK WND 20031/2058 SLP054 T02611067",
@@ -45,7 +60,7 @@
     "observationTime": "2026-04-16T22:00:00.000Z"
   },
   "ORD": {
-    "raw": "SPECI KORD 162125Z 06008KT 10SM BKN045TCU BKN075 23/11 A2982 RMK AO2 WSHFT 13 TCU E-SE T02280111 $",
+    "raw": "METAR KORD 162151Z 06008KT 10SM BKN045 23/12 A2983 RMK AO2 SLP099 WSHFT 13 T02330117 $",
     "icao": "KORD",
     "flightCategory": "VFR",
     "windDir": 60,
@@ -53,25 +68,10 @@
     "windGust": null,
     "visibility": 10,
     "ceiling": 4500,
-    "temp": 22.8,
-    "dewpoint": 11.1,
-    "altimeter": 29.82,
+    "temp": 23.3,
+    "dewpoint": 11.7,
+    "altimeter": 29.83,
     "conditions": "",
-    "observationTime": "2026-04-16T21:25:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 162120Z COR AUTO 21009KT 9999 NCD 12/09 Q1020 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 210,
-    "windSpeed": 9,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 12,
-    "dewpoint": 9,
-    "altimeter": 30.12,
-    "conditions": "",
-    "observationTime": "2026-04-16T21:20:00.000Z"
+    "observationTime": "2026-04-16T22:00:00.000Z"
   }
 }
