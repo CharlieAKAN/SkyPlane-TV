@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Las Vegas   Herry Reid International Airport from 04 14 2026 07 10 15 PM to 04 14 2026 07 11 09 PM",
-    "currentVideoId": "Ck_fOcLC5_I",
+    "streamTitle": "RAIDERS NATION!!!!  VivaAerobus A320-232, XA-VAK Depaerting Las Vegas to MonTereY MexIco!",
+    "currentVideoId": "HxE8jdbLp6k",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,9 +62,9 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Thursday 16th April 2026",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Friday 17th April 2026",
     "currentVideoId": "phUmCf4csWU",
     "airportCode": "LHR",
     "bbox": {
