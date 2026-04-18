@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockeys (April 19th, 2026)"
   },
   {
@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "nxx0ajXzXA0",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE: SUPER O'HARE ACTION ✈️ | Plane Spotting | Real time airport traffic"
   },
   {
@@ -65,7 +65,7 @@
     "isLive": false,
     "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Saturday 18th April 2026",
-    "currentVideoId": "J5zEB13i4yc",
+    "currentVideoId": "9Y3SxUi6xs4",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
