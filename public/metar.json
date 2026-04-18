@@ -1,18 +1,33 @@
 {
-  "SYD": {
-    "raw": "METAR YSSY 181030Z AUTO 25011KT 9999 // NCD 16/08 Q1020",
-    "icao": "YSSY",
+  "LHR": {
+    "raw": "METAR EGLL 181050Z AUTO 31008KT 280V010 9999 SCT038 15/05 Q1022",
+    "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 250,
-    "windSpeed": 11,
+    "windDir": 310,
+    "windSpeed": 8,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 16,
+    "temp": 15,
+    "dewpoint": 5,
+    "altimeter": 30.18,
+    "conditions": "",
+    "observationTime": "2026-04-18T11:00:00.000Z"
+  },
+  "SYD": {
+    "raw": "METAR YSSY 181100Z AUTO 26009KT 9999 // NCD 15/08 Q1020",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 260,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 15,
     "dewpoint": 8,
     "altimeter": 30.12,
     "conditions": "",
-    "observationTime": "2026-04-18T10:30:00.000Z"
+    "observationTime": "2026-04-18T11:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 181056Z 00000KT 10SM CLR 11/M16 A3009 RMK AO2 SLP180 T01111161",
@@ -58,20 +73,5 @@
     "altimeter": 29.68,
     "conditions": "",
     "observationTime": "2026-04-18T11:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 181020Z COR AUTO 32008KT 290V360 9999 FEW028 SCT034 14/05 Q1022 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 320,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 14,
-    "dewpoint": 5,
-    "altimeter": 30.18,
-    "conditions": "",
-    "observationTime": "2026-04-18T10:20:00.000Z"
   }
 }
