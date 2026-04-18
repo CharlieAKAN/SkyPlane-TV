@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "12KqO5IBLeY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 24L & 24R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Veteran Delta Air 757-200, N687DL With A Quick Taxi & Departure from LAS Vegas headed to ATLanta!",
-    "currentVideoId": "k7kRvpS0NUk",
+    "streamTitle": "Slight Crab For Southwest Airlines 737-700, N256WN Landng into LAS Vegas From San FranciscO!",
+    "currentVideoId": "oFv58MKHoVw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,9 +62,9 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Friday 17th April 2026",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Saturday 18th April 2026",
     "currentVideoId": "9Y3SxUi6xs4",
     "airportCode": "LHR",
     "bbox": {
@@ -94,8 +94,8 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE SEVERE THUNDER STORMS at CHICAGO O'HARE AIRPORT  | AVGEEK ORD PLANE SPOTTING | TORNADO RISK",
-    "currentVideoId": "WnhFqUcxsJw",
+    "streamTitle": "Caught Live: TRYING TO LIVESTREAM THROUGH A STORM w/WIND SHEAR | TRIPOD/CAMERA TOPPLES | DESTROYED",
+    "currentVideoId": "SBK5A55BBoE",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
