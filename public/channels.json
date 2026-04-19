@@ -11,14 +11,14 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockeys (April 19th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "PLY65VbG3w0",
+    "currentVideoId": "wPfDMm8TwjU",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "[v] 🔴 LIVE from  Chicago O’Hare ✈️"
+    "streamTitle": "FIRST TIME at O’Hare! Lufthansa 100th Anniversary Livery ✈️🔥 (D-ABYN)"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 18th April 2026",
-    "currentVideoId": "9Y3SxUi6xs4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 19th April 2026",
+    "currentVideoId": "J5zEB13i4yc",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
