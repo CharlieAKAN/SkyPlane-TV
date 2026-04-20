@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "One Wheel Landing For Brand New United Airlines A321neo, N14528 In LAS Vegas From DENver.",
-    "currentVideoId": "sk2rLyZQ15w",
+    "streamTitle": "Stunning Edelweiss Air A350-900, HB-IHA Departing LAS Vegas headed to ZuRicH!",
+    "currentVideoId": "m4LvsmQ6dBY",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 19th April 2026",
-    "currentVideoId": "J5zEB13i4yc",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 20th April 2026",
+    "currentVideoId": "yBW3k4o5C0I",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
