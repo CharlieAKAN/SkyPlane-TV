@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Forced Go Around Caused By Heavy Winds As Spirirt Airlines A320, N643NK Arrives In Las Vegas.",
-    "currentVideoId": "S1QO-ZS93kQ",
+    "streamTitle": "Amazing Capture Of Second Landing Attempt By Air France A350-900, F-HUVF \"Chartres\" Into LAS Vegas.",
+    "currentVideoId": "g8RWv5qfQME",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 20th April 2026",
-    "currentVideoId": "yBW3k4o5C0I",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 21st April 2026",
+    "currentVideoId": "XPb-pXel_eM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
