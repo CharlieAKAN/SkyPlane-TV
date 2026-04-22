@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Amazing Capture Of Second Landing Attempt By Air France A350-900, F-HUVF \"Chartres\" Into LAS Vegas.",
-    "currentVideoId": "g8RWv5qfQME",
+    "streamTitle": "Retro Air Reno Livery On American 737-823, N916NN Departure from LAS Vegas to Dalllas Fort Worth!",
+    "currentVideoId": "B9WbRHOfnYQ",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE Plane-Spotting at Sydney Airport 23.04.26🔴",
     "currentVideoId": "qYuIOuJpU9I",
     "airportCode": "SYD",
