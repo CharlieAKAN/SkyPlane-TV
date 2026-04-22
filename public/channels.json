@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "GVTVLnq16QE",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE Plane-Spotting at Sydney Airport 22.04.26🔴",
-    "currentVideoId": "kp3cP7B7yVo",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE Plane-Spotting at Sydney Airport 23.04.26🔴",
+    "currentVideoId": "qYuIOuJpU9I",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
