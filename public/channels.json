@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "1gOxm7_0MBc",
+    "currentVideoId": "Cq_UQ1kG6wo",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,7 +26,7 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE: NONSTOP TRAFFIC at the WORLD’S BUSIEST AIRPORT ✈️🔥"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Massive USAF C-17A Globemaster III, 93-0599 Departure LAS Vegas After President’s Visit Headed to ??",
-    "currentVideoId": "-eQG6Yn2Utk",
+    "streamTitle": "Crazy Winds Pushing \"Nahiku\" Around by the wind on departure from LAS Vegas headed to HoNoLulu!",
+    "currentVideoId": "OznNisGAHLU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
