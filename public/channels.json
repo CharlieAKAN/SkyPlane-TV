@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Retro Air Reno Livery On American 737-823, N916NN Departure from LAS Vegas to Dalllas Fort Worth!",
-    "currentVideoId": "B9WbRHOfnYQ",
+    "streamTitle": "Massive USAF C-17A Globemaster III, 93-0599 Departure LAS Vegas After President’s Visit Headed to ??",
+    "currentVideoId": "-eQG6Yn2Utk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE Plane-Spotting at Sydney Airport 23.04.26🔴",
     "currentVideoId": "qYuIOuJpU9I",
     "airportCode": "SYD",
