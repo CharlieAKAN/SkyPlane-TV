@@ -1,51 +1,51 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 230430Z 16010KT 9999 FEW047 BKN280 21/11 Q1029",
+    "raw": "METAR YSSY 230530Z 15009KT 9999 FEW047 21/11 Q1029",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 160,
-    "windSpeed": 10,
+    "windDir": 150,
+    "windSpeed": 9,
     "windGust": null,
     "visibility": 6,
-    "ceiling": 28000,
+    "ceiling": null,
     "temp": 21,
     "dewpoint": 11,
     "altimeter": 30.39,
     "conditions": "",
-    "observationTime": "2026-04-23T04:30:00.000Z"
+    "observationTime": "2026-04-23T05:30:00.000Z"
   },
   "LAS": {
-    "raw": "METAR KLAS 230456Z 24007KT 10SM CLR 21/M07 A2989 RMK AO2 SLP108 T02061072",
+    "raw": "METAR KLAS 230556Z 23007KT 10SM CLR 19/M07 A2989 RMK AO2 SLP106 T01941067 10244 20194 50012",
     "icao": "KLAS",
     "flightCategory": "VFR",
-    "windDir": 240,
+    "windDir": 230,
     "windSpeed": 7,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
-    "temp": 20.6,
-    "dewpoint": -7.2,
+    "temp": 19.4,
+    "dewpoint": -6.7,
     "altimeter": 29.89,
     "conditions": "",
-    "observationTime": "2026-04-23T05:00:00.000Z"
+    "observationTime": "2026-04-23T06:00:00.000Z"
   },
   "LAX": {
-    "raw": "METAR KLAX 230453Z 27013KT 10SM CLR 16/12 A3005 RMK AO2 SLP172 T01610117 $",
+    "raw": "METAR KLAX 230553Z 23006KT 10SM FEW250 16/12 A3004 RMK AO2 SLP170 T01560117 10189 20156 50004 $",
     "icao": "KLAX",
     "flightCategory": "VFR",
-    "windDir": 270,
-    "windSpeed": 13,
+    "windDir": 230,
+    "windSpeed": 6,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
-    "temp": 16.1,
+    "temp": 15.6,
     "dewpoint": 11.7,
-    "altimeter": 30.05,
+    "altimeter": 30.04,
     "conditions": "",
-    "observationTime": "2026-04-23T05:00:00.000Z"
+    "observationTime": "2026-04-23T06:00:00.000Z"
   },
   "ORD": {
-    "raw": "METAR KORD 230451Z 00000KT 10SM FEW250 11/02 A2995 RMK AO2 SLP141 T01110022",
+    "raw": "METAR KORD 230551Z 00000KT 10SM FEW250 11/03 A2994 RMK AO2 SLP139 T01110028 10156 20106 402280106 56002",
     "icao": "KORD",
     "flightCategory": "VFR",
     "windDir": 0,
@@ -54,24 +54,24 @@
     "visibility": 10,
     "ceiling": null,
     "temp": 11.1,
-    "dewpoint": 2.2,
-    "altimeter": 29.95,
+    "dewpoint": 2.8,
+    "altimeter": 29.94,
     "conditions": "",
-    "observationTime": "2026-04-23T05:00:00.000Z"
+    "observationTime": "2026-04-23T06:00:00.000Z"
   },
   "LHR": {
-    "raw": "METAR EGLL 230420Z COR AUTO 06008KT 9999 SCT009 07/05 Q1029 NOSIG",
+    "raw": "METAR EGLL 230520Z AUTO 06009KT 9999 OVC007 07/06 Q1030 TEMPO SCT007",
     "icao": "EGLL",
-    "flightCategory": "VFR",
+    "flightCategory": "IFR",
     "windDir": 60,
-    "windSpeed": 8,
+    "windSpeed": 9,
     "windGust": null,
     "visibility": 6,
-    "ceiling": null,
+    "ceiling": 700,
     "temp": 7,
-    "dewpoint": 5,
-    "altimeter": 30.39,
+    "dewpoint": 6,
+    "altimeter": 30.42,
     "conditions": "",
-    "observationTime": "2026-04-23T04:20:00.000Z"
+    "observationTime": "2026-04-23T05:20:00.000Z"
   }
 }
