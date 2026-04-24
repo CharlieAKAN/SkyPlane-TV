@@ -1,6 +1,21 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 241100Z AUTO 23006KT 9999 // FEW055 18/16 Q1032",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 230,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 18,
+    "dewpoint": 16,
+    "altimeter": 30.47,
+    "conditions": "",
+    "observationTime": "2026-04-24T11:00:00.000Z"
+  },
   "LHR": {
-    "raw": "METAR EGLL 241050Z COR AUTO 08009KT 050V110 9999 NCD 14/01 Q1026 NOSIG",
+    "raw": "METAR EGLL 241120Z COR AUTO 08009KT 040V130 9999 NCD 15/00 Q1026 NOSIG",
     "icao": "EGLL",
     "flightCategory": "VFR",
     "windDir": 80,
@@ -8,26 +23,11 @@
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 14,
-    "dewpoint": 1,
+    "temp": 15,
+    "dewpoint": 0,
     "altimeter": 30.3,
     "conditions": "",
-    "observationTime": "2026-04-24T11:00:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 241030Z AUTO 23007KT 9999 // FEW049 BKN055 18/17 Q1032",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 230,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 5500,
-    "temp": 18,
-    "dewpoint": 17,
-    "altimeter": 30.47,
-    "conditions": "",
-    "observationTime": "2026-04-24T10:30:00.000Z"
+    "observationTime": "2026-04-24T11:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 241056Z 00000KT 10SM BKN250 16/M10 A2985 RMK AO2 SLP092 T01561100 $",
@@ -56,21 +56,6 @@
     "temp": 14.4,
     "dewpoint": 11.7,
     "altimeter": 29.91,
-    "conditions": "",
-    "observationTime": "2026-04-24T11:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 241051Z 21005KT 10SM BKN031 BKN070 BKN250 20/14 A2962 RMK AO2 SLP025 T02000144",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 210,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 3100,
-    "temp": 20,
-    "dewpoint": 14.4,
-    "altimeter": 29.62,
     "conditions": "",
     "observationTime": "2026-04-24T11:00:00.000Z"
   }
