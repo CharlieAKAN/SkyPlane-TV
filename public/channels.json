@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "QYTgNqv_2u0",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE: NONSTOP TRAFFIC at the WORLD’S BUSIEST AIRPORT ✈️🔥Chicago O'Hare"
   },
   {
@@ -95,7 +95,7 @@
     "isLive": false,
     "streamStatus": "vod",
     "streamTitle": "🔴LIVE | TEST STREAM | FRIDAY NIGHT AIRPORT ACTION at CHICAGO O'HARE  |AVGEEK ORD PLANE SPOTTING",
-    "currentVideoId": "UKl5Z-tCAEU",
+    "currentVideoId": "5Can2hu6Mq0",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
