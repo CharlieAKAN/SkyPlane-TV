@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Caught Live: TRYING TO LIVESTREAM THROUGH A STORM w/WIND SHEAR | TRIPOD/CAMERA TOPPLES | DESTROYED",
-    "currentVideoId": "SBK5A55BBoE",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE FRIDAY NIGHT AIRPORT ACTION at CHICAGO O'HARE | SIGNTS & SOUNDS of PURE AVIATON |AVGEEK PLANES",
+    "currentVideoId": "UKl5Z-tCAEU",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
