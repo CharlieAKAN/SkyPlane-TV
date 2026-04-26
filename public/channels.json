@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockeys (April 26th, 2026)"
   },
   {
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Sunday 26th April 2026",
     "currentVideoId": "LyhCGG7I2tQ",
     "airportCode": "LHR",
