@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "J5qeOgFoV9M",
-    "isLive": true,
+    "currentVideoId": "QYTgNqv_2u0",
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
-    "streamTitle": "[v] 🔴  LIVE: NONSTOP TRAFFIC at the WORLD’S BUSIEST AIRPORT ✈️🔥"
+    "streamStatus": "vod",
+    "streamTitle": "🔴 LIVE: NONSTOP TRAFFIC at the WORLD’S BUSIEST AIRPORT ✈️🔥Chicago O'Hare"
   },
   {
     "channelName": "Big Jet TV (LHR)",
