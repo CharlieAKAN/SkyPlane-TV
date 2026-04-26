@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockeys (April 26th, 2026)"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Bathroom Emergency For \"Passenger In The Back\" Causes Takeoff Cancelation For Frontier A321, N634FR",
-    "currentVideoId": "EYab7gllU6o",
+    "streamTitle": "Forced Go Around For Spirirt Airlines A320-232, N643NK As it Almost Arrives Into LAS Vegas from ORD.",
+    "currentVideoId": "q7GoPSRy_kE",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "Heathrow Airport Live - Sunday 26th April 2026",
     "currentVideoId": "LyhCGG7I2tQ",
     "airportCode": "LHR",
