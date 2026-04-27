@@ -1,4 +1,19 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 272100Z 31007KT 9999 FEW030 SCT047 15/12 Q1026",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 310,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 15,
+    "dewpoint": 12,
+    "altimeter": 30.3,
+    "conditions": "",
+    "observationTime": "2026-04-27T21:00:00.000Z"
+  },
   "LHR": {
     "raw": "METAR EGLL 272050Z AUTO 04010KT 360V060 9999 -RA //////TCU 15/07 Q1023 TEMPO SHRA",
     "icao": "EGLL",
@@ -13,21 +28,6 @@
     "altimeter": 30.21,
     "conditions": "-RA",
     "observationTime": "2026-04-27T21:00:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 272030Z 32004KT 9999 FEW030 SCT047 15/12 Q1026",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 320,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 15,
-    "dewpoint": 12,
-    "altimeter": 30.3,
-    "conditions": "",
-    "observationTime": "2026-04-27T20:30:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 272056Z 19013G25KT 10SM FEW100 21/M04 A2986 RMK AO2 SLP098 T02111044 58014",
