@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "QYTgNqv_2u0",
+    "currentVideoId": "t3HSrXws06E",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE: NONSTOP TRAFFIC at the WORLD’S BUSIEST AIRPORT ✈️🔥Chicago O'Hare"
+    "streamTitle": "ATLAS AIR B747 Go-Around! Suparna 747 BLOCKS Rwy at O’Hare! (ATC audio included)"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 26th April 2026",
-    "currentVideoId": "LyhCGG7I2tQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 27th April 2026",
+    "currentVideoId": "AmrpEnTkLz8",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
