@@ -1,33 +1,48 @@
 {
   "ORD": {
-    "raw": "SPECI KORD 271715Z 19006KT 3SM -TSRA BR FEW029 BKN060CB OVC100 14/12 A2982 RMK AO2 TSB09 OCNL LTGIC N TS N MOV N P0006 T01440122 $",
+    "raw": "METAR KORD 271751Z 18009KT 1 3/4SM R10L/5500VP6000FT -TSRA BR BKN026 BKN040CB OVC075 14/13 A2982 RMK AO2 TSB09E24B34 SLP101 OCNL LTGIC OHD TS OHD MOV N P0026 60031 T01390128 10150 20128 53003 $",
     "icao": "KORD",
-    "flightCategory": "MVFR",
-    "windDir": 190,
-    "windSpeed": 6,
+    "flightCategory": "IFR",
+    "windDir": 180,
+    "windSpeed": 9,
     "windGust": null,
-    "visibility": 3,
-    "ceiling": 6000,
-    "temp": 14.4,
-    "dewpoint": 12.2,
+    "visibility": 1.75,
+    "ceiling": 2600,
+    "temp": 13.9,
+    "dewpoint": 12.8,
     "altimeter": 29.82,
     "conditions": "-TSRA BR",
-    "observationTime": "2026-04-27T17:15:00.000Z"
+    "observationTime": "2026-04-27T18:00:00.000Z"
   },
   "SYD": {
-    "raw": "METAR YSSY 271730Z AUTO 34007KT 9999 // BKN047 15/13 Q1025",
+    "raw": "METAR YSSY 271800Z AUTO 32006KT 9999 // FEW047 15/13 Q1025",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 340,
-    "windSpeed": 7,
+    "windDir": 320,
+    "windSpeed": 6,
     "windGust": null,
     "visibility": 6,
-    "ceiling": 4700,
+    "ceiling": null,
     "temp": 15,
     "dewpoint": 13,
     "altimeter": 30.27,
     "conditions": "",
-    "observationTime": "2026-04-27T17:30:00.000Z"
+    "observationTime": "2026-04-27T18:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 271750Z AUTO 05006KT 010V080 9999 NCD 19/05 Q1021 TEMPO 6000 SHRA",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 50,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 19,
+    "dewpoint": 5,
+    "altimeter": 30.15,
+    "conditions": "",
+    "observationTime": "2026-04-27T18:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 271756Z 18009G18KT 10SM FEW100 FEW250 18/M02 A2990 RMK AO2 SLP113 T01781022 10178 20117 51004",
@@ -58,20 +73,5 @@
     "altimeter": 30.01,
     "conditions": "",
     "observationTime": "2026-04-27T18:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 271720Z AUTO 03006KT 330V060 9999 NCD 19/05 Q1021 TEMPO 6000 SHRA",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 30,
-    "windSpeed": 6,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 19,
-    "dewpoint": 5,
-    "altimeter": 30.15,
-    "conditions": "",
-    "observationTime": "2026-04-27T17:20:00.000Z"
   }
 }
