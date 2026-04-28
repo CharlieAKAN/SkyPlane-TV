@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - CROSSWIND Tuesday 28th April 2026",
-    "currentVideoId": "DIS3dFWVJz0",
+    "currentVideoId": "by9oSntjnLg",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
