@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴LIVE  3 x B747 Freighters. SQ + Terra Avia + Kalitta at Sydney Airport with SydSquad - 28.04.26🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴3 x JUMBO B747 Freighters. SQ + Terra Avia + Kalitta at Sydney Airport with KURT - 28.04.26🔴",
     "currentVideoId": "_qXp0EokcxY",
     "airportCode": "SYD",
     "bbox": {
