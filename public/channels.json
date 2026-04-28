@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "t3HSrXws06E",
+    "currentVideoId": "IpYQbtJMwLE",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,8 +26,8 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "ATLAS AIR B747 Go-Around! Suparna 747 BLOCKS Rwy at O’Hare! (ATC audio included)"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE: PURE AVIATION MAYHEM at the WORLD’S BUSIEST ✈️👀"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -64,7 +64,7 @@
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "isLive": true,
     "streamStatus": "live",
-    "streamTitle": "Heathrow Airport Live - Tuesday 28th April 2026",
+    "streamTitle": "Heathrow Airport Live - CROSSWIND Tuesday 28th April 2026",
     "currentVideoId": "DIS3dFWVJz0",
     "airportCode": "LHR",
     "bbox": {
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 F-35 Low-Level ANZAC DAY FLY-BY @ Sydney Airport with KURT and GNARLY CHARLIE  25.04.26🔴",
-    "currentVideoId": "EGPpXc47xRM",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE  3 x B747 Freighters. SQ + Terra Avia + Kalitta at Sydney Airport with SydSquad - 28.04.26🔴",
+    "currentVideoId": "_qXp0EokcxY",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
