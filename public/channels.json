@@ -18,22 +18,22 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "XCHbZgA8n0Q",
-    "isLive": true,
+    "currentVideoId": "IpYQbtJMwLE",
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
-    "streamTitle": "[v] 🔴  LIVE: NONSTOP TRAFFIC at the WORLD’S BUSIEST AIRPORT ✈️🔥CHICAGO O'HARE"
+    "streamStatus": "vod",
+    "streamTitle": "🔴 LIVE: PURE AVIATION MAYHEM at the WORLD’S BUSIEST ✈️👀"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "B1__oH5WE_Y",
+    "currentVideoId": "0qpz7aK55P0",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,7 +41,7 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
