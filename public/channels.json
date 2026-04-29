@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"St. Columba\" Aer Lingus A330-200, EI-DUO Departure from LAS Vegas headed to DUBlin!",
-    "currentVideoId": "EZjFHtWRt9E",
+    "streamTitle": "Misidentified Citation Mustang, N510SW Lying On Their Online Profile To Attract The Plane Spotters.",
+    "currentVideoId": "7lQtCPwQb_o",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - CROSSWIND Tuesday 28th April 2026",
-    "currentVideoId": "DIS3dFWVJz0",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 29th April 2026",
+    "currentVideoId": "by9oSntjnLg",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
