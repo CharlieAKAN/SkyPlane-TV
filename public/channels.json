@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE - HEAVY INT'L RUSH Plane Spotting @ Sydney Airport - 29.04.26 🔴",
     "currentVideoId": "L7D8bWa90LY",
     "airportCode": "SYD",
@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE CHASING BIG PLANES at BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING | B747 B777",
     "currentVideoId": "3zm5xq_BgTY",
     "airportCode": "ORD",
