@@ -1,25 +1,10 @@
 {
-  "LHR": {
-    "raw": "METAR EGLL 292050Z COR AUTO 07012KT 9999 NCD 13/01 Q1023 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 70,
-    "windSpeed": 12,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 13,
-    "dewpoint": 1,
-    "altimeter": 30.21,
-    "conditions": "",
-    "observationTime": "2026-04-29T21:00:00.000Z"
-  },
   "SYD": {
-    "raw": "METAR YSSY 292030Z 30004KT 9999 FEW035 18/16 Q1030",
+    "raw": "METAR YSSY 292100Z 32005KT 9999 FEW035 18/16 Q1030",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 300,
-    "windSpeed": 4,
+    "windDir": 320,
+    "windSpeed": 5,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
@@ -27,7 +12,22 @@
     "dewpoint": 16,
     "altimeter": 30.42,
     "conditions": "",
-    "observationTime": "2026-04-29T20:30:00.000Z"
+    "observationTime": "2026-04-29T21:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 292120Z COR AUTO 07011KT 9999 NCD 12/01 Q1023 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 70,
+    "windSpeed": 11,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 12,
+    "dewpoint": 1,
+    "altimeter": 30.21,
+    "conditions": "",
+    "observationTime": "2026-04-29T21:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 292056Z 06004KT 10SM FEW120 25/M05 A2997 RMK AO2 SLP129 T02501050 58022",
@@ -60,18 +60,18 @@
     "observationTime": "2026-04-29T21:00:00.000Z"
   },
   "ORD": {
-    "raw": "SPECI KORD 292034Z 35013KT 10SM SCT023 BKN032 BKN065 10/04 A2995 RMK AO2 RAB12E26 P0000 T01000044",
+    "raw": "METAR KORD 292051Z 01013KT 10SM -RA SCT022 BKN037 OVC070 09/04 A2995 RMK AO2 RAB12E26B47 SLP144 P0000 60000 T00890044 51009",
     "icao": "KORD",
     "flightCategory": "VFR",
-    "windDir": 350,
+    "windDir": 10,
     "windSpeed": 13,
     "windGust": null,
     "visibility": 10,
-    "ceiling": 3200,
-    "temp": 10,
+    "ceiling": 3700,
+    "temp": 8.9,
     "dewpoint": 4.4,
     "altimeter": 29.95,
-    "conditions": "",
-    "observationTime": "2026-04-29T20:34:00.000Z"
+    "conditions": "-RA",
+    "observationTime": "2026-04-29T21:00:00.000Z"
   }
 }
