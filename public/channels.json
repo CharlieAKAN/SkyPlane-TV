@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Upstages by the \"Fearless Lady\" As Delta N318DN Is About To Land Virgin G-VEVE Departs To MANchester",
-    "currentVideoId": "cysDyyDSGQs",
+    "streamTitle": "Elegant BA Boeing 787-9 Dreamliner, G-ZBKC DepartingLAS Vegas headed to London HeathRow!",
+    "currentVideoId": "SEv2K4nMswc",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 29th April 2026",
-    "currentVideoId": "by9oSntjnLg",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 30th April 2026",
+    "currentVideoId": "oy1e70vzSRg",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
