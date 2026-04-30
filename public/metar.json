@@ -1,10 +1,10 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 300430Z 08013KT 9999 VCSH FEW025 SCT100 23/16 Q1028",
+    "raw": "METAR YSSY 300530Z 06012KT 9999 VCSH FEW030 SCT080 23/16 Q1028",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 80,
-    "windSpeed": 13,
+    "windDir": 60,
+    "windSpeed": 12,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
@@ -12,44 +12,44 @@
     "dewpoint": 16,
     "altimeter": 30.36,
     "conditions": "VCSH",
-    "observationTime": "2026-04-30T04:30:00.000Z"
+    "observationTime": "2026-04-30T05:30:00.000Z"
   },
   "LAS": {
-    "raw": "METAR KLAS 300456Z 23004KT 10SM FEW120 23/M03 A2992 RMK AO2 SLP115 T02331028",
+    "raw": "METAR KLAS 300556Z 04003KT 10SM CLR 22/M03 A2992 RMK AO2 SLP113 T02221033 10278 20222 50012",
     "icao": "KLAS",
     "flightCategory": "VFR",
-    "windDir": 230,
-    "windSpeed": 4,
+    "windDir": 40,
+    "windSpeed": 3,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
-    "temp": 23.3,
-    "dewpoint": -2.8,
+    "temp": 22.2,
+    "dewpoint": -3.3,
     "altimeter": 29.92,
     "conditions": "",
-    "observationTime": "2026-04-30T05:00:00.000Z"
+    "observationTime": "2026-04-30T06:00:00.000Z"
   },
   "LAX": {
-    "raw": "METAR KLAX 300453Z 25005KT 10SM CLR 16/13 A2999 RMK AO2 SLP155 T01610133",
+    "raw": "METAR KLAX 300553Z COR 24006KT 10SM FEW010 FEW010 16/13 A2999 RMK AO2 SLP153 T01610128 10194 20161 50006",
     "icao": "KLAX",
     "flightCategory": "VFR",
-    "windDir": 250,
-    "windSpeed": 5,
+    "windDir": 240,
+    "windSpeed": 6,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
     "temp": 16.1,
-    "dewpoint": 13.3,
+    "dewpoint": 12.8,
     "altimeter": 29.99,
     "conditions": "",
-    "observationTime": "2026-04-30T05:00:00.000Z"
+    "observationTime": "2026-04-30T06:00:00.000Z"
   },
   "ORD": {
-    "raw": "METAR KORD 300451Z 00000KT 10SM FEW090 05/04 A3002 RMK AO2 SLP167 T00500039",
+    "raw": "METAR KORD 300551Z 23004KT 10SM CLR 05/04 A3002 RMK AO2 SLP168 60000 T00500039 10083 20050 401390050 55001",
     "icao": "KORD",
     "flightCategory": "VFR",
-    "windDir": 0,
-    "windSpeed": 0,
+    "windDir": 230,
+    "windSpeed": 4,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
@@ -57,21 +57,21 @@
     "dewpoint": 3.9,
     "altimeter": 30.02,
     "conditions": "",
-    "observationTime": "2026-04-30T05:00:00.000Z"
+    "observationTime": "2026-04-30T06:00:00.000Z"
   },
   "LHR": {
-    "raw": "METAR EGLL 300420Z COR AUTO 08008KT 9999 NCD 11/04 Q1022 NOSIG",
+    "raw": "METAR EGLL 300520Z COR AUTO 07008KT 9999 NCD 11/04 Q1023 NOSIG",
     "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 80,
+    "windDir": 70,
     "windSpeed": 8,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
     "temp": 11,
     "dewpoint": 4,
-    "altimeter": 30.18,
+    "altimeter": 30.21,
     "conditions": "",
-    "observationTime": "2026-04-30T04:20:00.000Z"
+    "observationTime": "2026-04-30T05:20:00.000Z"
   }
 }
