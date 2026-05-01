@@ -1,33 +1,48 @@
 {
   "SYD": {
-    "raw": "SPECI YSSY 011725Z AUTO 34007KT 6000 +DZ FEW015 BKN022 BKN036 18/15 Q1025",
+    "raw": "SPECI YSSY 011752Z AUTO 33005KT 5000 HZ BKN014 BKN027 BKN034 17/15 Q1025",
     "icao": "YSSY",
     "flightCategory": "MVFR",
-    "windDir": 340,
-    "windSpeed": 7,
+    "windDir": 330,
+    "windSpeed": 5,
     "windGust": null,
-    "visibility": 3.73,
-    "ceiling": 2200,
-    "temp": 18,
+    "visibility": 3.11,
+    "ceiling": 1400,
+    "temp": 17,
     "dewpoint": 15,
     "altimeter": 30.27,
-    "conditions": "+DZ",
-    "observationTime": "2026-05-01T17:25:00.000Z"
+    "conditions": "HZ",
+    "observationTime": "2026-05-01T17:52:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 011750Z COR AUTO 24012KT 9999 NCD 21/12 Q1019 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 240,
+    "windSpeed": 12,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 21,
+    "dewpoint": 12,
+    "altimeter": 30.09,
+    "conditions": "",
+    "observationTime": "2026-05-01T18:00:00.000Z"
   },
   "LAS": {
-    "raw": "SPECI KLAS 011711Z 01012G16KT 10SM FEW140 25/M06 A3000 RMK AO2 T02501061",
+    "raw": "METAR KLAS 011756Z 03008G16KT 10SM FEW130 26/M07 A2999 RMK AO2 SLP135 T02561072 10261 20178 50004",
     "icao": "KLAS",
     "flightCategory": "VFR",
-    "windDir": 10,
-    "windSpeed": 12,
+    "windDir": 30,
+    "windSpeed": 8,
     "windGust": 16,
     "visibility": 10,
     "ceiling": null,
-    "temp": 25,
-    "dewpoint": -6.1,
-    "altimeter": 30,
+    "temp": 25.6,
+    "dewpoint": -7.2,
+    "altimeter": 29.99,
     "conditions": "",
-    "observationTime": "2026-05-01T17:11:00.000Z"
+    "observationTime": "2026-05-01T18:00:00.000Z"
   },
   "LAX": {
     "raw": "METAR KLAX 011753Z 18004KT 10SM BKN025 20/12 A2997 RMK AO2 SLP148 T02000122 10200 20161 50004",
@@ -58,20 +73,5 @@
     "altimeter": 30.01,
     "conditions": "",
     "observationTime": "2026-05-01T18:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 011720Z COR AUTO 23014KT 9999 FEW036 21/12 Q1018 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 230,
-    "windSpeed": 14,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 21,
-    "dewpoint": 12,
-    "altimeter": 30.06,
-    "conditions": "",
-    "observationTime": "2026-05-01T17:20:00.000Z"
   }
 }
