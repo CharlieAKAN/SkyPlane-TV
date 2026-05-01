@@ -1,33 +1,33 @@
 {
-  "LHR": {
-    "raw": "METAR EGLL 011050Z COR AUTO 13008KT 100V170 9999 NCD 22/05 Q1020 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 130,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 22,
-    "dewpoint": 5,
-    "altimeter": 30.12,
-    "conditions": "",
-    "observationTime": "2026-05-01T11:00:00.000Z"
-  },
   "SYD": {
-    "raw": "METAR YSSY 011030Z AUTO 07004KT 9999 // BKN075 20/16 Q1027",
+    "raw": "METAR YSSY 011100Z AUTO 07001KT 9999 // BKN075 19/16 Q1027",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 70,
-    "windSpeed": 4,
+    "windSpeed": 1,
     "windGust": null,
     "visibility": 6,
     "ceiling": 7500,
-    "temp": 20,
+    "temp": 19,
     "dewpoint": 16,
     "altimeter": 30.33,
     "conditions": "",
-    "observationTime": "2026-05-01T10:30:00.000Z"
+    "observationTime": "2026-05-01T11:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 011120Z AUTO 12009KT 9999 NCD 23/05 Q1020",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 120,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 23,
+    "dewpoint": 5,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-05-01T11:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 011056Z 09006KT 10SM FEW140 21/M04 A2990 RMK AO2 SLP105 T02061044",
@@ -56,21 +56,6 @@
     "temp": 16.7,
     "dewpoint": 12.8,
     "altimeter": 29.92,
-    "conditions": "",
-    "observationTime": "2026-05-01T11:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 011051Z 03005KT 10SM FEW017 FEW040 SCT070 BKN200 05/01 A2997 RMK AO2 RAE0952 SLP153 P0000 T00500011 $",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 30,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 20000,
-    "temp": 5,
-    "dewpoint": 1.1,
-    "altimeter": 29.97,
     "conditions": "",
     "observationTime": "2026-05-01T11:00:00.000Z"
   }
