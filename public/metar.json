@@ -1,4 +1,19 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 011950Z COR AUTO 21009KT 190V250 9999 NCD 18/11 Q1019 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 210,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 18,
+    "dewpoint": 11,
+    "altimeter": 30.09,
+    "conditions": "",
+    "observationTime": "2026-05-01T20:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 011956Z 04007G16KT 10SM FEW130 28/M07 A2996 RMK AO2 SLP122 T02781067",
     "icao": "KLAS",
@@ -15,10 +30,10 @@
     "observationTime": "2026-05-01T20:00:00.000Z"
   },
   "SYD": {
-    "raw": "METAR YSSY 011930Z 32004KT 9999 FEW035 BKN055 18/16 Q1025",
+    "raw": "METAR YSSY 012000Z 31004KT 9999 FEW040 BKN055 BKN280 18/16 Q1025",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 320,
+    "windDir": 310,
     "windSpeed": 4,
     "windGust": null,
     "visibility": 6,
@@ -27,7 +42,7 @@
     "dewpoint": 16,
     "altimeter": 30.27,
     "conditions": "",
-    "observationTime": "2026-05-01T19:30:00.000Z"
+    "observationTime": "2026-05-01T20:00:00.000Z"
   },
   "LAX": {
     "raw": "METAR KLAX 011953Z 24011KT 10SM FEW030 FEW070 21/13 A2995 RMK AO2 SLP139 T02060128",
@@ -58,20 +73,5 @@
     "altimeter": 30.04,
     "conditions": "",
     "observationTime": "2026-05-01T20:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 011920Z COR AUTO 23010KT 9999 NCD 19/11 Q1019 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 230,
-    "windSpeed": 10,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 19,
-    "dewpoint": 11,
-    "altimeter": 30.09,
-    "conditions": "",
-    "observationTime": "2026-05-01T19:20:00.000Z"
   }
 }
