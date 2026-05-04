@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Beautiful Condor A330-900neo, D-ANRD Returning To LAS Vegas For The Summer Season!",
-    "currentVideoId": "tt8FdfHRJxM",
+    "streamTitle": "Majestic Korean Air Boeing 777-300ER, HL7203 on arrival into LAS Vegas!",
+    "currentVideoId": "2z-9tC3j3fU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
