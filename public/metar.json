@@ -1,4 +1,49 @@
 {
+  "SYD": {
+    "raw": "SPECI YSSY 041649Z AUTO 25009KT 9999 // FEW067 SCT078 17/10 Q1016",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 250,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 17,
+    "dewpoint": 10,
+    "altimeter": 30,
+    "conditions": "",
+    "observationTime": "2026-05-04T16:49:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 041650Z COR AUTO 06007KT 030V090 9999 SCT021 15/10 Q1014 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 60,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 15,
+    "dewpoint": 10,
+    "altimeter": 29.94,
+    "conditions": "",
+    "observationTime": "2026-05-04T17:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 041656Z 17012G21KT 10SM SCT200 BKN250 19/03 A2982 RMK AO2 SLP079 T01940028",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 170,
+    "windSpeed": 12,
+    "windGust": 21,
+    "visibility": 10,
+    "ceiling": 25000,
+    "temp": 19.4,
+    "dewpoint": 2.8,
+    "altimeter": 29.82,
+    "conditions": "",
+    "observationTime": "2026-05-04T17:00:00.000Z"
+  },
   "LAX": {
     "raw": "METAR KLAX 041653Z 25013KT 10SM FEW027 FEW050 SCT075 BKN160 BKN250 18/09 A3000 RMK AO2 SLP158 T01780094",
     "icao": "KLAX",
@@ -28,35 +73,5 @@
     "altimeter": 29.55,
     "conditions": "",
     "observationTime": "2026-05-04T17:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 041620Z COR AUTO 01007KT 330V050 9999 BKN020 BKN024 BKN030 15/10 Q1014 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "MVFR",
-    "windDir": 10,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 2000,
-    "temp": 15,
-    "dewpoint": 10,
-    "altimeter": 29.94,
-    "conditions": "",
-    "observationTime": "2026-05-04T16:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 041600Z AUTO 24008KT 9999 // SCT039 BKN066 18/11 Q1016",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 240,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 6600,
-    "temp": 18,
-    "dewpoint": 11,
-    "altimeter": 30,
-    "conditions": "",
-    "observationTime": "2026-05-04T16:00:00.000Z"
   }
 }
