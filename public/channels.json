@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Late Flare For Brand-New Delta Airbus A321neo, N600DZ On Arrival Into LAS Vegas from New York JFK!",
-    "currentVideoId": "eoPxiQCalss",
+    "streamTitle": "180-Degree Departing Turn For Delta 737-900ER, N662DN On Its Way to Salt Lake City From LAS Vegas.",
+    "currentVideoId": "MCGNxSxe2ic",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 4th May 2026",
-    "currentVideoId": "sQWEjXIn4bU",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 5th May 2026",
+    "currentVideoId": "fJiyDJi4oQ4",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
