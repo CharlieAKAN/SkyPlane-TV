@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "T_hw9fTkEU0",
+    "currentVideoId": "WMmD2my2-kM",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,7 +41,7 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
