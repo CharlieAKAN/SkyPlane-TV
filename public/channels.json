@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 5th May 2026",
-    "currentVideoId": "fJiyDJi4oQ4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 6th May 2026",
+    "currentVideoId": "CCCy0Shzitk",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE-NONSTOP TAKEOFFS & LANDINGS at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
     "currentVideoId": "ZT5JtPisnOM",
     "airportCode": "ORD",
