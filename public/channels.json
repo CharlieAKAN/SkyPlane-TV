@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "x-8ZJCAG27s",
-    "isLive": false,
+    "currentVideoId": "ms0SMSzllKk",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴 LIVE FROM CHICAGO O'HARE ✈️ | Real-time Plane Spotting"
+    "streamStatus": "live",
+    "streamTitle": "[v] 🔴  LIVE: NONSTOP TRAFFIC at the WORLD’S BUSIEST AIRPORT ✈️🔥CHICAGO O'HARE"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "CAUGHT On Video: BRAND NEW (Spirit)Airbus A321n Lands at Chicago O'Hare Before the Airline Collapses",
+    "streamTitle": "CAUGHT On Video: BRAND NEW (Spirit)Airbus A321n Lands at Chicago O'Hare Before the Airline Collapsed",
     "currentVideoId": "XN9cZYlC6ZY",
     "airportCode": "ORD",
     "bbox": {
