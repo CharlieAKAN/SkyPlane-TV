@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "WscAAU6dVfg",
+    "currentVideoId": "x-8ZJCAG27s",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,8 +26,8 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE FROM THE BUSIEST AIRPORT ✈️ | Real-time Plane Spotting LIVE"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE FROM CHICAGO O'HARE ✈️ | Real-time Plane Spotting"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Watch This Elegant Delta Air Lines Airbus A330-300, N816NW Departing LAS Vegas!",
-    "currentVideoId": "dA8xlTf53II",
+    "streamTitle": "Go-Around Arrival For United Airlines 737-800, N77535 In LAS Vegas from San Francisco SFO! ✈️💨",
+    "currentVideoId": "bMrxqyXDcGM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
