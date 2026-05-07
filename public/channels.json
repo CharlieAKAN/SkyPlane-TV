@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Rare Dual Departure From LAS Vegas For Southwest 737-752 and Bombardier Global 5000.",
-    "currentVideoId": "eWAVWe957Ig",
+    "streamTitle": "Las Vegas   Harry Reid International Airport from 05 04 2026 02 20 31 PM to 05 04 2026 02 21 46 PM",
+    "currentVideoId": "j2qmxew3Dbg",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Thursday 7th May 2026",
     "currentVideoId": "dm5jTNFQpdA",
     "airportCode": "LHR",
