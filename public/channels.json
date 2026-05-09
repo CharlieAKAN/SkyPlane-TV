@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Double Bounce Landing For Alaska Airlines 737 MAX 9, N716AL In LAS Vegas from San Francisco SFO! ✈️💥",
-    "currentVideoId": "QaiA2L2s0jU",
+    "streamTitle": "Sporty Arrival For United Airlines A321neo, N14527 Into LAS Vegas from DENver!",
+    "currentVideoId": "pSGCTI2fqnw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE - NEW Location! NAHA OKINAWA Int'l Airport Plane Spotting with Timbo! - 9.5.26 🔴",
     "currentVideoId": "irEtZo1djps",
     "airportCode": "SYD",
