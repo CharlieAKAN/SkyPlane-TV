@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Beige Beach\" Condor Airbus A330-900neo, D-ANRL Arrival From FRAnkfurt into LAS Vegas! 🏖️✈️",
-    "currentVideoId": "yJ7jRnHpOok",
+    "streamTitle": "Watch BA275 British Airways Airbus A350-1000, G-XWBJ arriving into LAS Vegas From London HeathRow.",
+    "currentVideoId": "C0LuCzKHshM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
