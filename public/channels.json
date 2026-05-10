@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE - F-15 Chasing & Plane Spotting @ Naha Okinawa Airport with Timbo! - 9.5.26 🔴",
     "currentVideoId": "S0aLY_gUFg0",
     "airportCode": "SYD",
