@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "UPS Workhorse Boeing 767-300F, N306UP Arriving Into LAS Vegas from Louisville SDF.",
-    "currentVideoId": "QCJslincam8",
+    "streamTitle": "Elegant British Airways 787-9 Dreamliner, G-ZBKC on departure from LAS Vegas to London HeathRow!",
+    "currentVideoId": "dgIFqiiUM-0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 9th May 2026",
-    "currentVideoId": "goAKTnal2mQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 10th May 2026",
+    "currentVideoId": "AgFtrjYMr9c",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - NEW Location! NAHA OKINAWA Int'l Airport Plane Spotting with Timbo! - 9.5.26 🔴",
-    "currentVideoId": "irEtZo1djps",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - F-15 Chasing & Plane Spotting @ Naha Okinawa Airport with Timbo! - 9.5.26 🔴",
+    "currentVideoId": "S0aLY_gUFg0",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
