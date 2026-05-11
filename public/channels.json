@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Elegant British Airways 787-9 Dreamliner, G-ZBKC on departure from LAS Vegas to London HeathRow!",
-    "currentVideoId": "dgIFqiiUM-0",
+    "streamTitle": "Night Tine Departure For Beautiful Condor Airbus A330-900neo, D-ANRD From LAS Vegas!",
+    "currentVideoId": "st5IV4BgiqQ",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
