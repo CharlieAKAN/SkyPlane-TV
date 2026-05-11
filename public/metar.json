@@ -1,4 +1,34 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 112100Z 15013KT 9999 VCSH FEW028 SCT050 BKN065 18/14 Q1034",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 150,
+    "windSpeed": 13,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 6500,
+    "temp": 18,
+    "dewpoint": 14,
+    "altimeter": 30.53,
+    "conditions": "VCSH",
+    "observationTime": "2026-05-11T21:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 112050Z COR AUTO 07004KT 030V090 9999 NCD 09/M00 Q1015 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 70,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 9,
+    "dewpoint": 0,
+    "altimeter": 29.97,
+    "conditions": "",
+    "observationTime": "2026-05-11T21:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 112056Z 07008KT 10SM CLR 38/M05 A2994 RMK AO2 SLP109 T03831050 58023",
     "icao": "KLAS",
@@ -15,19 +45,19 @@
     "observationTime": "2026-05-11T21:00:00.000Z"
   },
   "LAX": {
-    "raw": "SPECI KLAX 112028Z COR 26009KT 7SM FEW006 SCT010 18/14 A2998 RMK AO2 T01830144",
+    "raw": "METAR KLAX 112053Z 26011KT 8SM FEW006 SCT009 19/14 A2998 RMK AO2 SLP152 T01890139 58001",
     "icao": "KLAX",
     "flightCategory": "VFR",
     "windDir": 260,
-    "windSpeed": 9,
+    "windSpeed": 11,
     "windGust": null,
-    "visibility": 7,
+    "visibility": 8,
     "ceiling": null,
-    "temp": 18.3,
-    "dewpoint": 14.4,
+    "temp": 18.9,
+    "dewpoint": 13.9,
     "altimeter": 29.98,
     "conditions": "",
-    "observationTime": "2026-05-11T20:28:00.000Z"
+    "observationTime": "2026-05-11T21:00:00.000Z"
   },
   "ORD": {
     "raw": "METAR KORD 112051Z 05015KT 10SM FEW250 12/M03 A3023 RMK AO2 SLP237 T01221033 58005 $",
@@ -43,35 +73,5 @@
     "altimeter": 30.23,
     "conditions": "",
     "observationTime": "2026-05-11T21:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 112020Z COR AUTO 04004KT 360V060 9999 NCD 09/M00 Q1015 NOSIG",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 40,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 9,
-    "dewpoint": 0,
-    "altimeter": 29.97,
-    "conditions": "",
-    "observationTime": "2026-05-11T20:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 112030Z 14008KT 110V170 9999 VCSH FEW024 BKN040 BKN048 17/14 Q1034 RESHRA",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 140,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 4000,
-    "temp": 17,
-    "dewpoint": 14,
-    "altimeter": 30.53,
-    "conditions": "VCSH",
-    "observationTime": "2026-05-11T20:30:00.000Z"
   }
 }
