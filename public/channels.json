@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Night Tine Departure For Beautiful Condor Airbus A330-900neo, D-ANRD From LAS Vegas!",
-    "currentVideoId": "st5IV4BgiqQ",
+    "streamTitle": "LUXurious Semi-Private JSX Embraer ERJ-135, N491JX on arrival into LAS Vegas from Santa BArbara!",
+    "currentVideoId": "gvjZ3TtkgrM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 11th May 2026",
-    "currentVideoId": "ASxhnDX-2Sg",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 12th May 2026",
+    "currentVideoId": "Dh71Lv4euzI",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,16 +77,16 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴SYDSQUAD Plane Spotting at Sydney Airport with KURT - 11.05.26🔴",
-    "currentVideoId": "_ihQxYxVTOM",
-    "airportCode": "SYD",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - Plane Spotting @ TOKYO HANEDA Airport! - 12.5.26 🔴",
+    "currentVideoId": "kRygpXOP-MY",
+    "airportCode": "HND",
     "bbox": {
-      "lamin": -34.09,
-      "lamax": -33.79,
-      "lomin": 151.02,
-      "lomax": 151.32
+      "lamin": 35.55,
+      "lamax": 35.56,
+      "lomin": 139.77,
+      "lomax": 139.79
     }
   },
   {
