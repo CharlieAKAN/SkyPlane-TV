@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "LUXurious Semi-Private JSX Embraer ERJ-135, N491JX on arrival into LAS Vegas from Santa BArbara!",
-    "currentVideoId": "gvjZ3TtkgrM",
+    "streamTitle": "Big Beautiful Fan (BBF) View Of Frontier A320neo, N620FR Taxing Off Runway 26L in LAS Vegas",
+    "currentVideoId": "Cj8KlrI00Rw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 12th May 2026",
-    "currentVideoId": "Dh71Lv4euzI",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 13th May 2026",
+    "currentVideoId": "VgZa6qfOqc8",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
