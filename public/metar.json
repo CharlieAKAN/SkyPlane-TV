@@ -1,18 +1,33 @@
 {
   "HND": {
-    "raw": "METAR RJTT 131930Z 36005KT 9999 FEW020 BKN120 19/14 Q1010 NOSIG",
+    "raw": "METAR RJTT 132000Z 30005KT 9999 FEW020 BKN120 18/15 Q1010 NOSIG",
     "icao": "RJTT",
     "flightCategory": "VFR",
-    "windDir": 360,
+    "windDir": 300,
     "windSpeed": 5,
     "windGust": null,
     "visibility": 6,
     "ceiling": 12000,
-    "temp": 19,
-    "dewpoint": 14,
+    "temp": 18,
+    "dewpoint": 15,
     "altimeter": 29.83,
     "conditions": "",
-    "observationTime": "2026-05-13T19:30:00.000Z"
+    "observationTime": "2026-05-13T20:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 132020Z AUTO 30005KT 9999 -RA //////CB 10/04 Q1002 NOSIG",
+    "icao": "EGLL",
+    "flightCategory": "UNKNOWN",
+    "windDir": 300,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 10,
+    "dewpoint": 4,
+    "altimeter": 29.59,
+    "conditions": "-RA",
+    "observationTime": "2026-05-13T20:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 131956Z 19010G17KT 10SM FEW120 FEW250 34/M01 A2990 RMK AO2 SLP094 T03441011",
@@ -43,35 +58,5 @@
     "altimeter": 30.1,
     "conditions": "",
     "observationTime": "2026-05-13T20:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 131951Z 07008KT 10SM BKN065 BKN080 12/03 A3003 RMK AO2 SLP169 T01170028 $",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 70,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 6500,
-    "temp": 11.7,
-    "dewpoint": 2.8,
-    "altimeter": 30.03,
-    "conditions": "",
-    "observationTime": "2026-05-13T20:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 131920Z AUTO 29003KT 250V030 9999 -RA //////CB 10/04 Q1002",
-    "icao": "EGLL",
-    "flightCategory": "UNKNOWN",
-    "windDir": 290,
-    "windSpeed": 3,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 10,
-    "dewpoint": 4,
-    "altimeter": 29.59,
-    "conditions": "-RA",
-    "observationTime": "2026-05-13T19:20:00.000Z"
   }
 }
