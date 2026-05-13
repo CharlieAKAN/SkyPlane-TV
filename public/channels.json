@@ -34,15 +34,15 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "X75Jp4YOhvI",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
-    "streamTitle": "LIVE: London Heathrow Airport."
+    "streamStatus": "vod",
+    "streamTitle": "LIVE: Crosswinds at London Heathrow Airport. Check the thumbnail time stamps from Ugur "
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Big Beautiful Fan (BBF) View Of Frontier A320neo, N620FR Taxing Off Runway 26L in LAS Vegas",
-    "currentVideoId": "Cj8KlrI00Rw",
+    "streamTitle": "Godspeed For Elder Dunsmoor, Begining His Two Year Mission Serving The People Of Romania Bucharest.",
+    "currentVideoId": "c75hd1B1670",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
