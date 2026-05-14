@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE - SYDSQUAD - Tokyo Haneda Airport Final Night Plane Spotting! - 14.5.26 🔴",
     "currentVideoId": "Y14sXwCVhJY",
     "airportCode": "SYD",
