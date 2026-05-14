@@ -1,4 +1,34 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 142200Z 31006KT 9999 VCSH FEW006 SCT050 FEW020TCU 16/15 Q1030",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 310,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 16,
+    "dewpoint": 15,
+    "altimeter": 30.42,
+    "conditions": "VCSH",
+    "observationTime": "2026-05-14T22:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 142151Z 10010KT 10SM SCT300 18/M01 A3002 RMK AO2 SLP165 T01831006",
+    "icao": "KORD",
+    "flightCategory": "VFR",
+    "windDir": 100,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 18.3,
+    "dewpoint": -0.6,
+    "altimeter": 30.02,
+    "conditions": "",
+    "observationTime": "2026-05-14T22:00:00.000Z"
+  },
   "LHR": {
     "raw": "METAR EGLL 142150Z COR AUTO 35003KT 300V030 9999 FEW048 09/04 Q1004 NOSIG",
     "icao": "EGLL",
@@ -13,21 +43,6 @@
     "altimeter": 29.65,
     "conditions": "",
     "observationTime": "2026-05-14T22:00:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 142130Z 30005KT 9999 VCSH VCFG FEW005 SCT045 FEW020TCU 15/14 Q1030",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 300,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 15,
-    "dewpoint": 14,
-    "altimeter": 30.42,
-    "conditions": "VCSH VCFG",
-    "observationTime": "2026-05-14T21:30:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 142156Z 11004KT 10SM FEW120 34/M02 A2985 RMK AO2 SLP079 T03441017",
@@ -56,21 +71,6 @@
     "temp": 20.6,
     "dewpoint": 11.7,
     "altimeter": 30,
-    "conditions": "",
-    "observationTime": "2026-05-14T22:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 142151Z 10010KT 10SM SCT300 18/M01 A3002 RMK AO2 SLP165 T01831006",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 100,
-    "windSpeed": 10,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 18.3,
-    "dewpoint": -0.6,
-    "altimeter": 30.02,
     "conditions": "",
     "observationTime": "2026-05-14T22:00:00.000Z"
   }
