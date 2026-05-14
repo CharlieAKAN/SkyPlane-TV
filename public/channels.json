@@ -78,15 +78,15 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - Plane Spotting @ TOKYO HANEDA Airport! - 12.5.26 🔴",
-    "currentVideoId": "kRygpXOP-MY",
-    "airportCode": "HND",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE - SYDSQUAD - Tokyo Haneda Airport Final Night Plane Spotting! - 14.5.26 🔴",
+    "currentVideoId": "Y14sXwCVhJY",
+    "airportCode": "SYD",
     "bbox": {
-      "lamin": 35.55,
-      "lamax": 35.56,
-      "lomin": 139.77,
-      "lomax": 139.79
+      "lamin": -34.09,
+      "lamax": -33.79,
+      "lomin": 151.02,
+      "lomax": 151.32
     }
   },
   {
