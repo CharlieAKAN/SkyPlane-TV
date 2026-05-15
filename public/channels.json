@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Unusual Not So Graceful Approach For Korean Air 777-300ER, HL7203 In LAS Vegas from Seoul ICN! ✈️🇰🇷",
-    "currentVideoId": "Zwa_HliEDls",
+    "streamTitle": "\"Pike The Sea Otter\" Frontier Airlines A321neo, N640FR Arrival into LAS Vegas!",
+    "currentVideoId": "NQUNqviOxxU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - SYDSQUAD - Tokyo Haneda Airport Final Night Plane Spotting! - 14.5.26 🔴",
-    "currentVideoId": "Y14sXwCVhJY",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴SYDSQUAD Plane Spotting at Sydney Airport with KURT and WILL - 15.05.26🔴",
+    "currentVideoId": "jsxf2gBpZzs",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
