@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴SYDSQUAD Plane Spotting at Sydney Airport with KURT and WILL - 15.05.26🔴",
     "currentVideoId": "jsxf2gBpZzs",
     "airportCode": "SYD",
