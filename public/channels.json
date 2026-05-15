@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "X75Jp4YOhvI",
+    "currentVideoId": "6u6YUT9rJKo",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: Crosswinds at London Heathrow Airport"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: B-1 Lancers at RAF Fairford"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴SYDSQUAD Plane Spotting at Sydney Airport with KURT and WILL - 15.05.26🔴",
     "currentVideoId": "jsxf2gBpZzs",
     "airportCode": "SYD",
