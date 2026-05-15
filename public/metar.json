@@ -1,4 +1,49 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 151650Z AUTO 30007KT 270V350 9999 NCD 13/M00 Q1007",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 300,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 13,
+    "dewpoint": 0,
+    "altimeter": 29.74,
+    "conditions": "",
+    "observationTime": "2026-05-15T17:00:00.000Z"
+  },
+  "SYD": {
+    "raw": "METAR YSSY 151700Z AUTO 24004KT 9999 // NCD 15/14 Q1025",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 240,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 15,
+    "dewpoint": 14,
+    "altimeter": 30.27,
+    "conditions": "",
+    "observationTime": "2026-05-15T17:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 151656Z 05004KT 10SM CLR 31/02 A2984 RMK AO2 SLP075 T03060022",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 50,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 30.6,
+    "dewpoint": 2.2,
+    "altimeter": 29.84,
+    "conditions": "",
+    "observationTime": "2026-05-15T17:00:00.000Z"
+  },
   "LAX": {
     "raw": "METAR KLAX 151653Z VRB03KT 10SM FEW010 OVC023 18/12 A3000 RMK AO2 SLP156 T01780122",
     "icao": "KLAX",
@@ -28,35 +73,5 @@
     "altimeter": 29.9,
     "conditions": "",
     "observationTime": "2026-05-15T17:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 151620Z AUTO 33007KT 270V030 9999 NCD 14/00 Q1007",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 330,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 14,
-    "dewpoint": 0,
-    "altimeter": 29.74,
-    "conditions": "",
-    "observationTime": "2026-05-15T16:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 151600Z AUTO 00000KT 9999 // SCT054 16/15 Q1025",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 0,
-    "windSpeed": 0,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 16,
-    "dewpoint": 15,
-    "altimeter": 30.27,
-    "conditions": "",
-    "observationTime": "2026-05-15T16:00:00.000Z"
   }
 }
