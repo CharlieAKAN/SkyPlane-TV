@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Smoking #1 Engine For Departing Delta Boeing 757-200, N557NW Leaving LAS Vegas!",
-    "currentVideoId": "UAY6lbPa_8Q",
+    "streamTitle": "\"Beige Beach\" Condor A330-900neo D-ANRL Departure from LAS Vegas to FRAnkfurt! 🏖️✈️",
+    "currentVideoId": "BO2pKCzi084",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
