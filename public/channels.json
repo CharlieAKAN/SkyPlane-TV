@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE SydSquad Plane-Spotting at Sydney Airport - 17.05.26🔴",
     "currentVideoId": "lOi6o62tUgM",
     "airportCode": "SYD",
