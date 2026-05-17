@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴ENGINE \"GLOW\" FEAST - Plane Spotting at Sydney Airport with KURT and WILL - 15.05.26🔴",
-    "currentVideoId": "jsxf2gBpZzs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE SydSquad Plane-Spotting at Sydney Airport - 17.05.26🔴",
+    "currentVideoId": "lOi6o62tUgM",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
