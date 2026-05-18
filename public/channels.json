@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Blue Sea\" Condor Airbus A330-900neo, D-ANRB Departure From LAS Vegas to FRAnkfurt! 🏖️🌊",
-    "currentVideoId": "WBCJGEC__gY",
+    "streamTitle": "\"Orléans\" Air France Airbus A350-900, F-HUVE Arrival into LAS Vegas from Paris CDG! 🇫🇷✈️",
+    "currentVideoId": "hutr-9plX5w",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 17th May 2026",
-    "currentVideoId": "CLVBhpNmcJw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 18th May 2026",
+    "currentVideoId": "JQVyjueYFaw",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
