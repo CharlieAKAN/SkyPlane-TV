@@ -1,9 +1,9 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 180430Z 32005KT 9999 -SHRA FEW033 BKN090 BKN120 20/16 Q1016",
+    "raw": "METAR YSSY 180600Z 29005KT 9999 -SHRA FEW034 BKN090 BKN120 20/16 Q1016",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 320,
+    "windDir": 290,
     "windSpeed": 5,
     "windGust": null,
     "visibility": 6,
@@ -12,10 +12,10 @@
     "dewpoint": 16,
     "altimeter": 30,
     "conditions": "-SHRA",
-    "observationTime": "2026-05-18T04:30:00.000Z"
+    "observationTime": "2026-05-18T06:00:00.000Z"
   },
   "LHR": {
-    "raw": "METAR EGLL 180450Z AUTO 22008KT 9999 NCD 08/06 Q1011",
+    "raw": "METAR EGLL 180550Z AUTO 22008KT 190V250 9999 NCD 09/06 Q1011",
     "icao": "EGLL",
     "flightCategory": "VFR",
     "windDir": 220,
@@ -23,10 +23,10 @@
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 8,
+    "temp": 9,
     "dewpoint": 6,
     "altimeter": 29.85,
     "conditions": "",
-    "observationTime": "2026-05-18T05:00:00.000Z"
+    "observationTime": "2026-05-18T06:00:00.000Z"
   }
 }
