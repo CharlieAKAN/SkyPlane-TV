@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - WINDY Tuesday 19th May 2026",
-    "currentVideoId": "5-iFB4yMi5Q",
+    "currentVideoId": "AiGKtfnf2gM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴Farewell UAL842 Pilot Cpt MARC RUSSELL - SydSquad Plane-Spotting at Sydney Airport - 20.05.26🔴",
     "currentVideoId": "-ptzUaAiFCI",
     "airportCode": "SYD",
