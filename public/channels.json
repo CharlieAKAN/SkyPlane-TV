@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "ANgmAqZ-P0E",
+    "currentVideoId": "z3wL3HRh-bE",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: Welcome to London Heathrow Airport @AlaskaAirlines ! #AS100"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
