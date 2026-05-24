@@ -1,4 +1,34 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 242050Z AUTO 08006KT 9999 NCD 24/16 Q1030",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 80,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 24,
+    "dewpoint": 16,
+    "altimeter": 30.42,
+    "conditions": "",
+    "observationTime": "2026-05-24T21:00:00.000Z"
+  },
+  "SYD": {
+    "raw": "METAR YSSY 242100Z 30007KT 9000 -DZ VCSH FEW009 SCT030 BKN040 17/16 Q1022",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 300,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 5.59,
+    "ceiling": 4000,
+    "temp": 17,
+    "dewpoint": 16,
+    "altimeter": 30.18,
+    "conditions": "-DZ VCSH",
+    "observationTime": "2026-05-24T21:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 242056Z 18012G22KT 10SM FEW130 FEW250 33/02 A2992 RMK AO2 SLP103 T03330022 58019",
     "icao": "KLAS",
@@ -15,19 +45,19 @@
     "observationTime": "2026-05-24T21:00:00.000Z"
   },
   "LAX": {
-    "raw": "SPECI KLAX 242014Z 24012KT 10SM SCT024 BKN036 19/12 A3003 RMK AO2 T01890117 $",
+    "raw": "METAR KLAX 242053Z 27013G19KT 10SM FEW019 FEW025 SCT280 19/12 A3001 RMK AO2 SLP163 T01940117 58008 $",
     "icao": "KLAX",
     "flightCategory": "VFR",
-    "windDir": 240,
-    "windSpeed": 12,
-    "windGust": null,
+    "windDir": 270,
+    "windSpeed": 13,
+    "windGust": 19,
     "visibility": 10,
-    "ceiling": 3600,
-    "temp": 18.9,
+    "ceiling": null,
+    "temp": 19.4,
     "dewpoint": 11.7,
-    "altimeter": 30.03,
+    "altimeter": 30.01,
     "conditions": "",
-    "observationTime": "2026-05-24T20:14:00.000Z"
+    "observationTime": "2026-05-24T21:00:00.000Z"
   },
   "ORD": {
     "raw": "METAR KORD 242051Z 34009KT 10SM FEW046 FEW110 24/08 A3002 RMK AO2 SLP162 T02440078 56010 $",
@@ -43,35 +73,5 @@
     "altimeter": 30.02,
     "conditions": "",
     "observationTime": "2026-05-24T21:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 242020Z AUTO 09005KT 9999 NCD 25/17 Q1029",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 90,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 25,
-    "dewpoint": 17,
-    "altimeter": 30.39,
-    "conditions": "",
-    "observationTime": "2026-05-24T20:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 242030Z 32005KT 9000 -SHRA SCT020 BKN025 BKN030 17/17 Q1021",
-    "icao": "YSSY",
-    "flightCategory": "MVFR",
-    "windDir": 320,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 5.59,
-    "ceiling": 2500,
-    "temp": 17,
-    "dewpoint": 17,
-    "altimeter": 30.15,
-    "conditions": "-SHRA",
-    "observationTime": "2026-05-24T20:30:00.000Z"
   }
 }
