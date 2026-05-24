@@ -1,18 +1,33 @@
 {
   "SYD": {
-    "raw": "SPECI YSSY 241430Z AUTO 32003KT 3400 +DZ BR FEW012 BKN019 OVC030 17/16 Q1022 RERA",
+    "raw": "SPECI YSSY 241457Z AUTO 32004KT 3800 DZ BR BKN012 BKN017 BKN022 17/17 Q1022",
     "icao": "YSSY",
     "flightCategory": "IFR",
     "windDir": 320,
-    "windSpeed": 3,
+    "windSpeed": 4,
     "windGust": null,
-    "visibility": 2.11,
-    "ceiling": 1900,
+    "visibility": 2.36,
+    "ceiling": 1200,
     "temp": 17,
-    "dewpoint": 16,
+    "dewpoint": 17,
     "altimeter": 30.18,
-    "conditions": "+DZ BR",
-    "observationTime": "2026-05-24T14:30:00.000Z"
+    "conditions": "DZ BR",
+    "observationTime": "2026-05-24T14:57:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 241450Z AUTO 25005KT 210V330 9999 NCD 31/10 Q1030",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 250,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 31,
+    "dewpoint": 10,
+    "altimeter": 30.42,
+    "conditions": "",
+    "observationTime": "2026-05-24T15:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 241456Z 16007KT 10SM CLR 27/00 A3000 RMK AO2 SLP131 T02670000 51020",
@@ -45,33 +60,18 @@
     "observationTime": "2026-05-24T15:00:00.000Z"
   },
   "ORD": {
-    "raw": "SPECI KORD 241411Z 30004KT 6SM -RA BR FEW070 OVC100 16/15 A3001 RMK AO2 P0002 T01610150 $",
+    "raw": "METAR KORD 241451Z 00000KT 10SM -RA OVC100 17/14 A3002 RMK AO2 SLP164 P0003 60037 T01670144 53007 $",
     "icao": "KORD",
     "flightCategory": "VFR",
-    "windDir": 300,
-    "windSpeed": 4,
+    "windDir": 0,
+    "windSpeed": 0,
     "windGust": null,
-    "visibility": 6,
+    "visibility": 10,
     "ceiling": 10000,
-    "temp": 16.1,
-    "dewpoint": 15,
-    "altimeter": 30.01,
-    "conditions": "-RA BR",
-    "observationTime": "2026-05-24T14:11:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 241420Z AUTO VRB06KT 9999 NCD 30/11 Q1030",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": null,
-    "windSpeed": 6,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 30,
-    "dewpoint": 11,
-    "altimeter": 30.42,
-    "conditions": "",
-    "observationTime": "2026-05-24T14:20:00.000Z"
+    "temp": 16.7,
+    "dewpoint": 14.4,
+    "altimeter": 30.02,
+    "conditions": "-RA",
+    "observationTime": "2026-05-24T15:00:00.000Z"
   }
 }
