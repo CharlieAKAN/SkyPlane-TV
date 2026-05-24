@@ -1,18 +1,48 @@
 {
-  "SYD": {
-    "raw": "SPECI YSSY 241222Z AUTO 36003KT 6000 -SHRA FEW012 BKN029 BKN042 18/17 Q1023",
-    "icao": "YSSY",
+  "ORD": {
+    "raw": "SPECI KORD 241336Z 00000KT 4SM -RA BR BKN075 OVC095 16/15 A3001 RMK AO2 OCNL LTGIC DSNT E CB DSNT E MOV NE P0007 T01560150 $",
+    "icao": "KORD",
     "flightCategory": "MVFR",
-    "windDir": 360,
-    "windSpeed": 3,
+    "windDir": 0,
+    "windSpeed": 0,
     "windGust": null,
-    "visibility": 3.73,
-    "ceiling": 2900,
+    "visibility": 4,
+    "ceiling": 7500,
+    "temp": 15.6,
+    "dewpoint": 15,
+    "altimeter": 30.01,
+    "conditions": "-RA BR",
+    "observationTime": "2026-05-24T13:36:00.000Z"
+  },
+  "SYD": {
+    "raw": "SPECI YSSY 241300Z AUTO 02005KT 3100 +DZ BR SCT013 BKN019 OVC025 18/17 Q1023 RERA",
+    "icao": "YSSY",
+    "flightCategory": "IFR",
+    "windDir": 20,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 1.93,
+    "ceiling": 1900,
     "temp": 18,
     "dewpoint": 17,
     "altimeter": 30.21,
-    "conditions": "-SHRA",
-    "observationTime": "2026-05-24T12:22:00.000Z"
+    "conditions": "+DZ BR",
+    "observationTime": "2026-05-24T13:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 241320Z AUTO 24006KT 150V310 9999 NCD 29/11 Q1030",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 240,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 29,
+    "dewpoint": 11,
+    "altimeter": 30.42,
+    "conditions": "",
+    "observationTime": "2026-05-24T13:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 241256Z 16005KT 10SM CLR 23/01 A2995 RMK AO2 SLP118 T02280006",
@@ -43,35 +73,5 @@
     "altimeter": 30,
     "conditions": "",
     "observationTime": "2026-05-24T13:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "SPECI KORD 241223Z 32005KT 3SM -TSRA BR FEW011 BKN036CB OVC048 15/14 A3000 RMK AO2 OCNL LTGIC OHD TS OHD MOV NE P0017 T01500139 $",
-    "icao": "KORD",
-    "flightCategory": "MVFR",
-    "windDir": 320,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 3,
-    "ceiling": 3600,
-    "temp": 15,
-    "dewpoint": 13.9,
-    "altimeter": 30,
-    "conditions": "-TSRA BR",
-    "observationTime": "2026-05-24T12:23:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 241220Z AUTO 25008KT 220V300 9999 NCD 28/10 Q1030",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 250,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 28,
-    "dewpoint": 10,
-    "altimeter": 30.42,
-    "conditions": "",
-    "observationTime": "2026-05-24T12:20:00.000Z"
   }
 }
