@@ -1,31 +1,16 @@
 {
-  "SYD": {
-    "raw": "METAR YSSY 241930Z 26003KT 9999 FEW012 SCT040 17/16 Q1021",
-    "icao": "YSSY",
+  "LHR": {
+    "raw": "METAR EGLL 241950Z AUTO 09007KT 9999 NCD 25/17 Q1029",
+    "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 260,
-    "windSpeed": 3,
+    "windDir": 90,
+    "windSpeed": 7,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 17,
-    "dewpoint": 16,
-    "altimeter": 30.15,
-    "conditions": "",
-    "observationTime": "2026-05-24T19:30:00.000Z"
-  },
-  "LAS": {
-    "raw": "METAR KLAS 241956Z 18011G19KT 10SM FEW130 FEW250 32/02 A2994 RMK AO2 SLP112 T03220022",
-    "icao": "KLAS",
-    "flightCategory": "VFR",
-    "windDir": 180,
-    "windSpeed": 11,
-    "windGust": 19,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 32.2,
-    "dewpoint": 2.2,
-    "altimeter": 29.94,
+    "temp": 25,
+    "dewpoint": 17,
+    "altimeter": 30.39,
     "conditions": "",
     "observationTime": "2026-05-24T20:00:00.000Z"
   },
@@ -44,6 +29,36 @@
     "conditions": "",
     "observationTime": "2026-05-24T20:00:00.000Z"
   },
+  "SYD": {
+    "raw": "METAR YSSY 242000Z 00000KT 9999 FEW012 SCT035 17/17 Q1021",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 0,
+    "windSpeed": 0,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 17,
+    "dewpoint": 17,
+    "altimeter": 30.15,
+    "conditions": "",
+    "observationTime": "2026-05-24T20:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 241956Z 18011G19KT 10SM FEW130 FEW250 32/02 A2994 RMK AO2 SLP112 T03220022",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 180,
+    "windSpeed": 11,
+    "windGust": 19,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 32.2,
+    "dewpoint": 2.2,
+    "altimeter": 29.94,
+    "conditions": "",
+    "observationTime": "2026-05-24T20:00:00.000Z"
+  },
   "ORD": {
     "raw": "METAR KORD 241951Z 32009KT 10SM FEW044 FEW110 24/09 A3002 RMK AO2 SLP162 T02440094 $",
     "icao": "KORD",
@@ -58,20 +73,5 @@
     "altimeter": 30.02,
     "conditions": "",
     "observationTime": "2026-05-24T20:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 241920Z AUTO 10009KT 070V160 9999 NCD 27/17 Q1029",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 100,
-    "windSpeed": 9,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 27,
-    "dewpoint": 17,
-    "altimeter": 30.39,
-    "conditions": "",
-    "observationTime": "2026-05-24T19:20:00.000Z"
   }
 }
