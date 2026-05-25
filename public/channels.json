@@ -48,8 +48,8 @@
     "channelName": "LAS Vegas Airport LIVE",
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
     "airportCode": "LAS",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "Official - LAS Vegas Airport LIVE 24/7",
     "currentVideoId": "sPf6j4Nchwk",
     "bbox": {
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 24th May 2026",
-    "currentVideoId": "d93y5lFRo70",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 25th May 2026",
+    "currentVideoId": "uQjg22rjiDk",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴SydSquad Plane-Spotting at Sydney Airport with KURT - 24.05.26🔴",
-    "currentVideoId": "DnoNcDLwkas",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE Virgin Australia 150th Boeing 737 RETRO LIVERY - Plane-Spotting at Sydney Airport - 25.05.26🔴",
+    "currentVideoId": "cCxaSS-FRmE",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
