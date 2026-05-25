@@ -48,8 +48,8 @@
     "channelName": "LAS Vegas Airport LIVE",
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
     "airportCode": "LAS",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Official - LAS Vegas Airport LIVE 24/7",
     "currentVideoId": "sPf6j4Nchwk",
     "bbox": {
