@@ -4,21 +4,21 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "mIVZkdvJvFo",
+    "currentVideoId": "quccjBt5JdI",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE FROM CHICAGO O'HARE ✈️  Real-time Plane Spotting"
+    "streamTitle": "[v] 🔴  LIVE: NONSTOP TRAFFIC at the WORLD’S BUSIEST AIRPORT ✈️🔥CHICAGO O'HARE"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "And Then There Was One. Final Departure Of Spirit Airlines Airbus A320-232, N645NK From LAS Vegas.",
-    "currentVideoId": "VGmPqFad3z0",
+    "streamTitle": "Arrival Of Porter Airlines Embraer E195-E2, C-GKQO From YYZ Toronto into LAS Vegas! 🇨🇦✈️",
+    "currentVideoId": "rh-CbbWXN9Y",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Thursday 28th May 2026",
-    "currentVideoId": "uuwyH8UFbaQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Friday 29th May 2026",
+    "currentVideoId": "MTPqCjF8jVk",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
