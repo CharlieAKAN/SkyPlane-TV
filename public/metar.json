@@ -1,6 +1,36 @@
 {
+  "ORD": {
+    "raw": "METAR KORD 311351Z 08007KT 10SM FEW200 BKN250 18/05 A3012 RMK AO2 SLP197 T01830050 $",
+    "icao": "KORD",
+    "flightCategory": "VFR",
+    "windDir": 80,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 25000,
+    "temp": 18.3,
+    "dewpoint": 5,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-05-31T14:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 311320Z AUTO 25014KT 9999 NCD 22/09 Q1016",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 250,
+    "windSpeed": 14,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 22,
+    "dewpoint": 9,
+    "altimeter": 30,
+    "conditions": "",
+    "observationTime": "2026-05-31T13:20:00.000Z"
+  },
   "SYD": {
-    "raw": "METAR YSSY 311230Z AUTO 28013KT 9999 // NCD 13/04 Q1012",
+    "raw": "METAR YSSY 311300Z AUTO 28013KT 9999 // NCD 12/04 Q1012",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 280,
@@ -8,11 +38,26 @@
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 13,
+    "temp": 12,
     "dewpoint": 4,
     "altimeter": 29.88,
     "conditions": "",
-    "observationTime": "2026-05-31T12:30:00.000Z"
+    "observationTime": "2026-05-31T13:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "SPECI KLAX 311321Z 10003KT 7SM FEW005 16/13 A2991 RMK AO2 T01560133 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 100,
+    "windSpeed": 3,
+    "windGust": null,
+    "visibility": 7,
+    "ceiling": null,
+    "temp": 15.6,
+    "dewpoint": 13.3,
+    "altimeter": 29.91,
+    "conditions": "",
+    "observationTime": "2026-05-31T13:21:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 311256Z 00000KT 10SM CLR 22/00 A2991 RMK AO2 SLP105 T02170000",
@@ -28,50 +73,5 @@
     "altimeter": 29.91,
     "conditions": "",
     "observationTime": "2026-05-31T13:00:00.000Z"
-  },
-  "LAX": {
-    "raw": "METAR KLAX 311253Z 12003KT 9SM CLR 16/13 A2990 RMK AO2 SLP125 T01560133 $",
-    "icao": "KLAX",
-    "flightCategory": "VFR",
-    "windDir": 120,
-    "windSpeed": 3,
-    "windGust": null,
-    "visibility": 9,
-    "ceiling": null,
-    "temp": 15.6,
-    "dewpoint": 13.3,
-    "altimeter": 29.9,
-    "conditions": "",
-    "observationTime": "2026-05-31T13:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 311251Z 10006KT 10SM FEW200 BKN250 16/06 A3011 RMK AO2 SLP197 T01610056 $",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 100,
-    "windSpeed": 6,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 25000,
-    "temp": 16.1,
-    "dewpoint": 5.6,
-    "altimeter": 30.11,
-    "conditions": "",
-    "observationTime": "2026-05-31T13:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 311220Z AUTO 27014KT 9999 NCD 22/08 Q1016",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 270,
-    "windSpeed": 14,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 22,
-    "dewpoint": 8,
-    "altimeter": 30,
-    "conditions": "",
-    "observationTime": "2026-05-31T12:20:00.000Z"
   }
 }
