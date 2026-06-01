@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Majestic Departure Of UPS 767-300F, N322UP From LAS Vegas to SDF Louisville!📦☁️",
-    "currentVideoId": "hJOibIKha6Q",
+    "streamTitle": "Got it!  Arrival Of A T-45 Goshawk Navy Training Jet, BLZR247 Into The LAS Vegas Airport.",
+    "currentVideoId": "EPW-Ya74XsM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE - Double Daily Emirates A380 Returns! Sydney Airport Night Plane Spotting! - 1.6.26 🔴",
     "currentVideoId": "0r-9FXOb3Qc",
     "airportCode": "SYD",
