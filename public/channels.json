@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE - Double Daily Emirates A380 Returns! Sydney Airport Night Plane Spotting! - 1.6.26 🔴",
     "currentVideoId": "0r-9FXOb3Qc",
     "airportCode": "SYD",
