@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Arrival Of \"Independance One\" Southwest Airlines 737 MAX 8, N1776R Into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "ujdEeTOp0eU",
+    "streamTitle": "Sticking The Landing For United 737-824, N35236 From San FranciscO into LAS Vegas Because of Winds.",
+    "currentVideoId": "PaZpFcmNMI8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 1st June 2026",
-    "currentVideoId": "y40O035OzPs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 2nd June 2026",
+    "currentVideoId": "2V6fWsw5jrc",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
