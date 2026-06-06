@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "LGLRChJNHd4",
+    "currentVideoId": "JO5fp8PrUOk",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "BIG JET TV is live Road trippin’"
+    "streamStatus": "upcoming",
+    "streamTitle": "The SIM Challenge - Back to basics!"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
