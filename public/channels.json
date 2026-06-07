@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -CROSSWIND Saturday 6th June 2026",
-    "currentVideoId": "vrGR0P-LQMo",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -Sunday 7th June 2026",
+    "currentVideoId": "GtxdopB-fY0",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
