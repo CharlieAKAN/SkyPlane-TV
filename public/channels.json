@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "JO5fp8PrUOk",
+    "currentVideoId": "nz73VGh6cSQ",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "The SIM Challenge - Back to basics!"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE SydSquad Plane-Spotting at Sydney Airport - 07.06.26🔴",
     "currentVideoId": "H6Es-_foVSY",
     "airportCode": "SYD",
