@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "9wRUrnqFo8A",
+    "currentVideoId": "Ze_Z7xy1Xto",
     "isLive": true,
     "bbox": {
       "lamin": 33.79,
@@ -12,7 +12,7 @@
       "lomax": -118.25
     },
     "streamStatus": "live",
-    "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockeys (June 7th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "nz73VGh6cSQ",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
