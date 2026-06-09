@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Imua One, LAS ANC Las Vegas   Harry Reid International Airport from 06 04 2026 06 44 00 PM to 06 04",
-    "currentVideoId": "Oz2nhtpm8MI",
+    "streamTitle": "Skilled Crosswind Arrival Of Hawaiian Airlines A330-243, N396HA Into LAS Vegas on a Windy Day! 🌺✈️",
+    "currentVideoId": "xGfjTZkJVOo",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴MEGA OVERFLYS - SydSquad Plane-Spotting at the HOTDOG Stand Sydney Airport with KURT  - 07.06.26🔴",
-    "currentVideoId": "H6Es-_foVSY",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - SydSquad - Sydney Airport Plane Spotting! - 9.6.26 🔴",
+    "currentVideoId": "1bj4j4gS4oo",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
