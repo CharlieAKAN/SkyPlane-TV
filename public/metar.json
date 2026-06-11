@@ -1,1 +1,62 @@
-{}
+{
+  "SYD": {
+    "raw": "METAR YSSY 110100Z 26007KT CAVOK 19/15 Q1031",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 260,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 19,
+    "dewpoint": 15,
+    "altimeter": 30.45,
+    "conditions": "",
+    "observationTime": "2026-06-11T01:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 110120Z AUTO 26008KT 9999 NCD 10/08 Q1020",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 260,
+    "windSpeed": 8,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 10,
+    "dewpoint": 8,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-06-11T01:20:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 110056Z 27008G15KT 10SM CLR 40/02 A2970 RMK AO2 SLP024 T04000022",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 270,
+    "windSpeed": 8,
+    "windGust": 15,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 40,
+    "dewpoint": 2.2,
+    "altimeter": 29.7,
+    "conditions": "",
+    "observationTime": "2026-06-11T01:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 110053Z 26010KT 10SM CLR 22/16 A2978 RMK AO2 SLP084 T02170161",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 260,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 21.7,
+    "dewpoint": 16.1,
+    "altimeter": 29.78,
+    "conditions": "",
+    "observationTime": "2026-06-11T01:00:00.000Z"
+  }
+}
