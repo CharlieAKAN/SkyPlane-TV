@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "FRAnkfurt bound after LAS Vegas Wind Ground Stop For Condor A330-900neo, D-ANRO! 🏖️✈️\"",
-    "currentVideoId": "bv9FNV6Xm3M",
+    "streamTitle": "\"Emmitt The Golden Cheeked Warbler\" Decides To Circle LAS Vegas One More Time After Go Around N641FR",
+    "currentVideoId": "SUDdASkkad8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 10th June 2026",
-    "currentVideoId": "p4ZjcXSN93o",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 11th June 2026",
+    "currentVideoId": "3OfjYAIN71s",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
