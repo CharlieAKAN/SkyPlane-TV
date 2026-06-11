@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - SydSquad - Sydney Airport Plane Spotting! - 9.6.26 🔴",
-    "currentVideoId": "1bj4j4gS4oo",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE SydSquad \"Hour-of-Power\" Plane-Spotting at Sydney Airport with KURT  - 11.06.26🔴",
+    "currentVideoId": "RGpo69Oqub0",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
