@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Go-Around Of Southwest Airlines Boeing 737-800, N8673F Arrival Into LAS Vegas! ✈️",
-    "currentVideoId": "r5lGF5F77lc",
+    "streamTitle": "\"250 America\" JSX Embraer ERJ-135LR, N940JX  Celebration Livery Departure From LAS Vegas! 🎉✈️",
+    "currentVideoId": "QzfoE5niqOk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴EPIC FLUFF - SydSquad \"Hour-of-Power\" Plane-Spotting at Sydney Airport with KURT  - 11.06.26🔴",
-    "currentVideoId": "RGpo69Oqub0",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE MEGA SATURDAY - SydSquad Plane-Spotting at Sydney Airport - 13.06.26🔴",
+    "currentVideoId": "uLRWONqNSTs",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
