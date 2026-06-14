@@ -1,18 +1,33 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 142030Z 15011KT 9999 FEW030 BKN044 BKN060 17/11 Q1033",
+    "raw": "METAR YSSY 142100Z 15011KT 9999 FEW030 SCT045 BKN060 17/11 Q1033",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 150,
     "windSpeed": 11,
     "windGust": null,
     "visibility": 6,
-    "ceiling": 4400,
+    "ceiling": 6000,
     "temp": 17,
     "dewpoint": 11,
     "altimeter": 30.5,
     "conditions": "",
-    "observationTime": "2026-06-14T20:30:00.000Z"
+    "observationTime": "2026-06-14T21:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 142050Z AUTO 36003KT 330V040 9999 NCD 19/09 Q1018",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 360,
+    "windSpeed": 3,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 19,
+    "dewpoint": 9,
+    "altimeter": 30.06,
+    "conditions": "",
+    "observationTime": "2026-06-14T21:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 142056Z 23021G31KT 10SM FEW120 FEW170 41/M02 A2987 RMK AO2 PK WND 23031/2055 SLP081 ACC DSNT NE-E T04061022 58013",
@@ -58,20 +73,5 @@
     "altimeter": 29.91,
     "conditions": "",
     "observationTime": "2026-06-14T21:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 142020Z AUTO 36004KT 9999 NCD 19/09 Q1018",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 360,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 19,
-    "dewpoint": 9,
-    "altimeter": 30.06,
-    "conditions": "",
-    "observationTime": "2026-06-14T20:20:00.000Z"
   }
 }
