@@ -1,18 +1,33 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 141830Z AUTO 15013KT 9999 // OVC069 17/11 Q1032",
+    "raw": "METAR YSSY 141900Z AUTO 16015KT 9999 // BKN035 BKN040 OVC069 17/11 Q1032",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 150,
-    "windSpeed": 13,
+    "windDir": 160,
+    "windSpeed": 15,
     "windGust": null,
     "visibility": 6,
-    "ceiling": 6900,
+    "ceiling": 3500,
     "temp": 17,
     "dewpoint": 11,
     "altimeter": 30.47,
     "conditions": "",
-    "observationTime": "2026-06-14T18:30:00.000Z"
+    "observationTime": "2026-06-14T19:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 141920Z AUTO 01004KT 330V030 9999 NCD 19/09 Q1018",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 10,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 19,
+    "dewpoint": 9,
+    "altimeter": 30.06,
+    "conditions": "",
+    "observationTime": "2026-06-14T19:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 141856Z 18013G19KT 10SM FEW120 FEW170 38/02 A2991 RMK AO2 SLP094 T03830022",
@@ -43,35 +58,5 @@
     "altimeter": 30.01,
     "conditions": "",
     "observationTime": "2026-06-14T19:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 141851Z 30014G24KT 10SM SCT039 OVC055 19/11 A2987 RMK AO2 PK WND 31026/1826 SLP111 T01890106 $",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 300,
-    "windSpeed": 14,
-    "windGust": 24,
-    "visibility": 10,
-    "ceiling": 5500,
-    "temp": 18.9,
-    "dewpoint": 10.6,
-    "altimeter": 29.87,
-    "conditions": "",
-    "observationTime": "2026-06-14T19:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 141820Z AUTO 36004KT 320V020 9999 NCD 19/09 Q1019",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 360,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 19,
-    "dewpoint": 9,
-    "altimeter": 30.09,
-    "conditions": "",
-    "observationTime": "2026-06-14T18:20:00.000Z"
   }
 }
