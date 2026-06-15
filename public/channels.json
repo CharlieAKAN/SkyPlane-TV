@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "After Go-Around Arrival Of Frontier Airlines Airbus A321-271NX, N604FR Into LAS Vegas! ✈️",
-    "currentVideoId": "ce2daxx0-cI",
+    "streamTitle": "\"Piz Bernina\" From ZuRicH Amooth Arrivial Into LAS Vegas. Edelweiss Air A350-941, HB-IHF",
+    "currentVideoId": "kjzwpfEVe3g",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 14yh June 2026",
-    "currentVideoId": "jSM18jcDguc",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 15th June 2026",
+    "currentVideoId": "RNr8dEBJs0Q",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
     "currentVideoId": "nqtxiUtEapE",
     "airportCode": "ORD",
