@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "9wRUrnqFo8A",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Audio Of Southwest Airlines Pilot Calling In A \"Turtle On The Taxiway\". 😂",
-    "currentVideoId": "gtjv-9ZK6Hw",
+    "streamTitle": "Landing Lights A Plenty For Southwest Airlines Boeing 737-700, N7738A From DENver Into LAS Vegas.",
+    "currentVideoId": "W2GYiXe05cw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 15th June 2026",
-    "currentVideoId": "RNr8dEBJs0Q",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 16th June 2026",
+    "currentVideoId": "H-4Ouh2RewI",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
