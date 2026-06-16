@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "Heathrow Airport Live - Tuesday 16th June 2026",
-    "currentVideoId": "H-4Ouh2RewI",
+    "currentVideoId": "foxk_liiOUo",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE - Qatar FIFA World Cup 2026 First Visit - Sydney Airport Plane Spotting! - 16.6.26 🔴",
     "currentVideoId": "XvzXDEpx2VE",
     "airportCode": "SYD",
