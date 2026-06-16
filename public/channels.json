@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 FOG N FLUFF and GO-AROUNDS and PELICANS - Plane-Spotting at Sydney Airport with KURT - 13.06.26 🔴",
-    "currentVideoId": "uLRWONqNSTs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE - Qatar FIFA World Cup 2026 First Visit - Sydney Airport Plane Spotting! - 16.6.26 🔴",
+    "currentVideoId": "XvzXDEpx2VE",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
