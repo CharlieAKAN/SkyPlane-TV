@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (June 18th, 2026)"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Blue Sea\" Arrival Of Condor Airbus A330-900neo, D-ANRG From FRAnkfurt into LAS Vegas! 🏖️🌊",
-    "currentVideoId": "YtlHYS3n4Vc",
+    "streamTitle": "Departure Of Viva Aerobus Airbus A321-271NX, XA-VXG From LAS Vegas to MEXico City! 🇲🇽✈️",
+    "currentVideoId": "xe_AP7KCq1s",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 17tth June 2026",
-    "currentVideoId": "q1h9MNjVnUc",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 18th June 2026",
+    "currentVideoId": "tqAyfJ0ir0g",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
