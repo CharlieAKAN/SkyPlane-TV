@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "cJzJ0fuCx7g",
+    "currentVideoId": "5H7T6wZhrPA",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,8 +11,8 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (June 18th, 2026)"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (June 19th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "Go13IgvyTjo",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "The SIM Challenge - Back to basics!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Sporty Arrival Of Southwest Airlines Boeing 737-700, N7732A From MCI Kansas City into LAS Vegas! ✈️",
-    "currentVideoId": "zAf1TCprebA",
+    "streamTitle": "A350-900 Air France, F-HYT1 Departs From LAS Vegas to Paris CDG! 🇫🇷✈️",
+    "currentVideoId": "5vU8dzSht4Y",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
