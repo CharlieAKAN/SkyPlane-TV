@@ -1,33 +1,33 @@
 {
-  "LHR": {
-    "raw": "METAR EGLL 192250Z AUTO 25010KT 9999 NCD 20/16 Q1015",
-    "icao": "EGLL",
+  "SYD": {
+    "raw": "METAR YSSY 192300Z 33010KT CAVOK 17/08 Q1020",
+    "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 250,
+    "windDir": 330,
     "windSpeed": 10,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 20,
-    "dewpoint": 16,
-    "altimeter": 29.97,
+    "temp": 17,
+    "dewpoint": 8,
+    "altimeter": 30.12,
     "conditions": "",
     "observationTime": "2026-06-19T23:00:00.000Z"
   },
-  "SYD": {
-    "raw": "METAR YSSY 192230Z 31008KT CAVOK 16/08 Q1020",
-    "icao": "YSSY",
+  "LHR": {
+    "raw": "METAR EGLL 192320Z AUTO 25008KT 9999 NCD 19/16 Q1015",
+    "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 310,
+    "windDir": 250,
     "windSpeed": 8,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 16,
-    "dewpoint": 8,
-    "altimeter": 30.12,
+    "temp": 19,
+    "dewpoint": 16,
+    "altimeter": 29.97,
     "conditions": "",
-    "observationTime": "2026-06-19T22:30:00.000Z"
+    "observationTime": "2026-06-19T23:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 192256Z 20009KT 10SM CLR 38/M03 A2978 RMK AO2 SLP053 T03831028",
@@ -56,21 +56,6 @@
     "temp": 20,
     "dewpoint": 13.9,
     "altimeter": 30,
-    "conditions": "",
-    "observationTime": "2026-06-19T23:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 192251Z 26013G23KT 10SM FEW060 BKN180 BKN250 24/09 A2996 RMK AO2 SLP143 T02390089 $",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 260,
-    "windSpeed": 13,
-    "windGust": 23,
-    "visibility": 10,
-    "ceiling": 18000,
-    "temp": 23.9,
-    "dewpoint": 8.9,
-    "altimeter": 29.96,
     "conditions": "",
     "observationTime": "2026-06-19T23:00:00.000Z"
   }
