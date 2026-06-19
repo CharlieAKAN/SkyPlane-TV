@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴LIVE SydSquad - \"Hour of Power\" - Pane Spotting at Sydney Airport - 19.06.26 🔴",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE SydSquad - \"Hour of Power\" - Plane Spotting at Sydney Airport - 19.06.26 🔴",
     "currentVideoId": "zp0iDa-qlaE",
     "airportCode": "SYD",
     "bbox": {
