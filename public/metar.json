@@ -1,24 +1,9 @@
 {
-  "LAX": {
-    "raw": "SPECI KLAX 201540Z 24005KT 10SM FEW008 SCT014 BKN017 18/14 A3000 RMK AO2 T01780139",
-    "icao": "KLAX",
-    "flightCategory": "MVFR",
-    "windDir": 240,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 1700,
-    "temp": 17.8,
-    "dewpoint": 13.9,
-    "altimeter": 30,
-    "conditions": "",
-    "observationTime": "2026-06-20T15:40:00.000Z"
-  },
   "SYD": {
-    "raw": "METAR YSSY 201530Z AUTO 31009KT 9999 // NCD 12/07 Q1025",
+    "raw": "METAR YSSY 201600Z AUTO 32009KT 9999 // NCD 12/07 Q1025",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 310,
+    "windDir": 320,
     "windSpeed": 9,
     "windGust": null,
     "visibility": 6,
@@ -27,7 +12,37 @@
     "dewpoint": 7,
     "altimeter": 30.27,
     "conditions": "",
-    "observationTime": "2026-06-20T15:30:00.000Z"
+    "observationTime": "2026-06-20T16:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 201550Z AUTO 23010KT 180V260 9999 FEW029 24/17 Q1020",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 230,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 24,
+    "dewpoint": 17,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-06-20T16:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 201553Z 25005KT 10SM FEW009 SCT014 BKN017 18/14 A3000 RMK AO2 SLP159 T01830139",
+    "icao": "KLAX",
+    "flightCategory": "MVFR",
+    "windDir": 250,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 1700,
+    "temp": 18.3,
+    "dewpoint": 13.9,
+    "altimeter": 30,
+    "conditions": "",
+    "observationTime": "2026-06-20T16:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 201556Z 16010G19KT 10SM CLR 29/M02 A2987 RMK AO2 SLP085 T02941017",
@@ -58,20 +73,5 @@
     "altimeter": 29.96,
     "conditions": "",
     "observationTime": "2026-06-20T16:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 201520Z AUTO 24013KT 9999 NCD 24/17 Q1020",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 240,
-    "windSpeed": 13,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 24,
-    "dewpoint": 17,
-    "altimeter": 30.12,
-    "conditions": "",
-    "observationTime": "2026-06-20T15:20:00.000Z"
   }
 }
