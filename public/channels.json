@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "Go13IgvyTjo",
+    "currentVideoId": "Gr7jI4WT_os",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "The SIM Challenge - Back to basics!"
+    "streamStatus": "upcoming",
+    "streamTitle": "The SIM Challenge - Chasing the Sun"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
