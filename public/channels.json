@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Rare ZIPAIR Tokyo Boeing 787-8 Dreamliner, JA850J From NRT Tokyo Narita Arriving In LAS Vegas! 🇯🇵✈️",
-    "currentVideoId": "iR_-k9yjps0",
+    "streamTitle": "June 22, 2026",
+    "currentVideoId": "zLUC8hLOleA",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Monday 22nd June 2026",
     "currentVideoId": "xYmxr-88c-8",
     "airportCode": "LHR",
