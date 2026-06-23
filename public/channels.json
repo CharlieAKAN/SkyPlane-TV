@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "KzsNnyN8D_Q",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Watch where you point that thing!",
-    "currentVideoId": "0R7i2rX6nW8",
+    "streamTitle": "Final Departure Wind Dealyed British Airways A350-1000, G-XWBI From LAS Vegas to London HeathRow!",
+    "currentVideoId": "sJItPdh6xsI",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 22nd June 2026",
-    "currentVideoId": "xYmxr-88c-8",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 23rd June 2026",
+    "currentVideoId": "Uyb29XM-lB8",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 B747 Terra Avia + Qatar B777 Retro - Plane Spotting at Sydney Airport with KURT - 19.06.26 🔴",
-    "currentVideoId": "zp0iDa-qlaE",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE SydSquad Plane Spotting at Sydney Airport - 23.06.26 🔴",
+    "currentVideoId": "IgZ8GbwN4Zc",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
