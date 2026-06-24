@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Arrival Of British Airways 787-9 Dreamliner, G-ZBKN From London HeathRow into LAS Vegas! 🇬🇧✈️",
-    "currentVideoId": "K0rpuOmoMrE",
+    "streamTitle": "\"Lady Of The Stars\" Virgin Atlantic 787-9, G-VBOB Arrival From MANchester into LAS Vegas! 🇬🇧✈️",
+    "currentVideoId": "5zn-5CiMHnw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴LIVE - SydSquad - Sydney Airport Plane Spotting! - 24.6.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴Tim & Mick bring it - SydSquad Live - Sydney Airport Plane-Spotting! - 24.06.26 🔴",
     "currentVideoId": "AprN-exfRP0",
     "airportCode": "SYD",
     "bbox": {
