@@ -1,33 +1,18 @@
 {
-  "LHR": {
-    "raw": "METAR EGLL 242250Z AUTO 10007KT 9999 NCD 25/19 Q1019",
-    "icao": "EGLL",
+  "ORD": {
+    "raw": "SPECI KORD 242341Z 11010KT 10SM TS SCT055CB BKN075 BKN150 OVC250 20/16 A2990 RMK AO2 TSE36B41 CONS LTGICCG W-N TS W-N MOV SE T02000161 $",
+    "icao": "KORD",
     "flightCategory": "VFR",
-    "windDir": 100,
-    "windSpeed": 7,
+    "windDir": 110,
+    "windSpeed": 10,
     "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 25,
-    "dewpoint": 19,
-    "altimeter": 30.09,
-    "conditions": "",
-    "observationTime": "2026-06-24T23:00:00.000Z"
-  },
-  "SYD": {
-    "raw": "SPECI YSSY 242230Z 21011KT 4000 SHRA FEW010 SCT020 BKN035 14/12 Q1034",
-    "icao": "YSSY",
-    "flightCategory": "IFR",
-    "windDir": 210,
-    "windSpeed": 11,
-    "windGust": null,
-    "visibility": 2.49,
-    "ceiling": 3500,
-    "temp": 14,
-    "dewpoint": 12,
-    "altimeter": 30.53,
-    "conditions": "SHRA",
-    "observationTime": "2026-06-24T22:30:00.000Z"
+    "visibility": 10,
+    "ceiling": 7500,
+    "temp": 20,
+    "dewpoint": 16.1,
+    "altimeter": 29.9,
+    "conditions": "TS",
+    "observationTime": "2026-06-24T23:41:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 242256Z 07014G23KT 10SM FEW085 FEW120 SCT200 36/12 A2991 RMK AO2 SLP096 T03560117",
@@ -44,34 +29,34 @@
     "conditions": "",
     "observationTime": "2026-06-24T23:00:00.000Z"
   },
-  "LAX": {
-    "raw": "METAR KLAX 242253Z 25013KT 10SM FEW012 FEW025 SCT060 21/14 A2997 RMK AO2 SLP147 T02060144 $",
-    "icao": "KLAX",
-    "flightCategory": "VFR",
-    "windDir": 250,
-    "windSpeed": 13,
+  "SYD": {
+    "raw": "METAR YSSY 242300Z 04005KT 010V090 9000 4000N -SHRA VCSH SCT006 BKN018 BKN030 14/13 Q1034",
+    "icao": "YSSY",
+    "flightCategory": "MVFR",
+    "windDir": 40,
+    "windSpeed": 5,
     "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 20.6,
-    "dewpoint": 14.4,
-    "altimeter": 29.97,
-    "conditions": "",
+    "visibility": 5.59,
+    "ceiling": 1800,
+    "temp": 14,
+    "dewpoint": 13,
+    "altimeter": 30.53,
+    "conditions": "VCSH -SHRA",
     "observationTime": "2026-06-24T23:00:00.000Z"
   },
-  "ORD": {
-    "raw": "METAR KORD 242251Z 15008KT 10SM SCT060 BKN110 BKN250 21/16 A2992 RMK AO2 SLP130 CB DSNT W-N MOV SE T02060161 $",
-    "icao": "KORD",
+  "LHR": {
+    "raw": "METAR EGLL 242320Z AUTO 07006KT 9999 NCD 24/19 Q1019",
+    "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 150,
-    "windSpeed": 8,
+    "windDir": 70,
+    "windSpeed": 6,
     "windGust": null,
-    "visibility": 10,
-    "ceiling": 11000,
-    "temp": 20.6,
-    "dewpoint": 16.1,
-    "altimeter": 29.92,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 24,
+    "dewpoint": 19,
+    "altimeter": 30.09,
     "conditions": "",
-    "observationTime": "2026-06-24T23:00:00.000Z"
+    "observationTime": "2026-06-24T23:20:00.000Z"
   }
 }
