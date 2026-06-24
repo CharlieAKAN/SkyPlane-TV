@@ -1,4 +1,34 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 242100Z 20014KT 9999 VCSH FEW018 SCT024 BKN035 14/12 Q1032",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 200,
+    "windSpeed": 14,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 3500,
+    "temp": 14,
+    "dewpoint": 12,
+    "altimeter": 30.47,
+    "conditions": "VCSH",
+    "observationTime": "2026-06-24T21:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 242050Z AUTO 07007KT 9999 NCD 28/18 Q1019",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 70,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 28,
+    "dewpoint": 18,
+    "altimeter": 30.09,
+    "conditions": "",
+    "observationTime": "2026-06-24T21:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 242056Z 07006KT 10SM SCT085 BKN120 34/13 A2998 RMK AO2 SLP122 VIRGA DSNT E-S 60001 T03440128 58018",
     "icao": "KLAS",
@@ -43,35 +73,5 @@
     "altimeter": 29.98,
     "conditions": "",
     "observationTime": "2026-06-24T21:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 242020Z AUTO 05009KT 9999 NCD 29/21 Q1018",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 50,
-    "windSpeed": 9,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 29,
-    "dewpoint": 21,
-    "altimeter": 30.06,
-    "conditions": "",
-    "observationTime": "2026-06-24T20:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 242030Z 20017KT 9999 -SHRA FEW018 SCT024 BKN040 15/12 Q1032",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 200,
-    "windSpeed": 17,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 4000,
-    "temp": 15,
-    "dewpoint": 12,
-    "altimeter": 30.47,
-    "conditions": "-SHRA",
-    "observationTime": "2026-06-24T20:30:00.000Z"
   }
 }
