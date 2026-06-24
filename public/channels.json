@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 MEGA PLANE-SPOTTING. QF A321XLR VH-OGG + QF A380 and more at Sydney Airport with Kurt - 23.06.26 🔴",
-    "currentVideoId": "IgZ8GbwN4Zc",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - SydSquad - Sydney Airport Plane Spotting! - 24.6.26 🔴",
+    "currentVideoId": "AprN-exfRP0",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
