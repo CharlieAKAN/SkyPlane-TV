@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Machu Picchu\" KLM Royal Dutch Airlines 777-206ER, PH-BQM arriving into LAS Vegas from AMS Amsterdam",
-    "currentVideoId": "aJ0QqUsC9Cc",
+    "streamTitle": "Go-Around Of Hawaiian Airlines Airbus A330-243, N361HA Into LAS Vegas! 🌺✈️",
+    "currentVideoId": "2Fd3xrer1gQ",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Thursday 25th June 2026",
     "currentVideoId": "2qscUeXGQ2M",
     "airportCode": "LHR",
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴 [ WEATHER PENDING ] Live DAWN STRIKE 2026 exercise at RAAF Base Williamtown - 26.06.26 🔴",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE = DAWN STRIKE 2026 at RAAF Base Williamtown - 26.06.26 🔴",
     "currentVideoId": "DUVoVPi3KRE",
     "airportCode": "SYD",
     "bbox": {
