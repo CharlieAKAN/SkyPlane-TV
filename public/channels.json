@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Go-Around Of Hawaiian Airlines Airbus A330-243, N361HA Into LAS Vegas! 🌺✈️",
-    "currentVideoId": "2Fd3xrer1gQ",
+    "streamTitle": "Arrival Of Korean Air Boeing 777-300ER, HL7202 From ICN Seoul into LAS Vegas! 🇰🇷✈️",
+    "currentVideoId": "-otcXHj1-_w",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": true,
     "streamStatus": "live",
-    "streamTitle": "🔴LIVE = DAWN STRIKE 2026 at RAAF Base Williamtown - 26.06.26 🔴",
+    "streamTitle": "🔴LIVE - DAWN STRIKE 2026 at RAAF Base Williamtown - 26.06.26 🔴",
     "currentVideoId": "DUVoVPi3KRE",
     "airportCode": "SYD",
     "bbox": {
