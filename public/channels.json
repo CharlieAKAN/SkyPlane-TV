@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "KzsNnyN8D_Q",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Floaty Arrival For \"Hazel The Chipmunk\" Frontier A320-251N, N614FR From ReNO into LAS Vegas! 🐿️✈️",
-    "currentVideoId": "V1tT3nVNVEU",
+    "streamTitle": "Go-Around Of NetJets Bombardier Global 6000, N636QS From KOKC Oklahoma City into LAS Vegas! ✈️",
+    "currentVideoId": "K5d3V1O95NM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "Heathrow Airport Live - Friday 26th June 2026",
     "currentVideoId": "cw5ljZZ9bnI",
     "airportCode": "LHR",
