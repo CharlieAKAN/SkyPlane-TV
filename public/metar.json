@@ -1,18 +1,33 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 271530Z AUTO 23006KT 9999 // NCD 13/12 Q1029",
+    "raw": "METAR YSSY 271600Z AUTO 21009KT 9999 // BKN041 BKN051 13/12 Q1029",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 230,
-    "windSpeed": 6,
+    "windDir": 210,
+    "windSpeed": 9,
     "windGust": null,
     "visibility": 6,
-    "ceiling": null,
+    "ceiling": 4100,
     "temp": 13,
     "dewpoint": 12,
     "altimeter": 30.39,
     "conditions": "",
-    "observationTime": "2026-06-27T15:30:00.000Z"
+    "observationTime": "2026-06-27T16:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 271550Z AUTO 20010KT 160V230 9999 NCD 30/16 Q1014",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 200,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 30,
+    "dewpoint": 16,
+    "altimeter": 29.94,
+    "conditions": "",
+    "observationTime": "2026-06-27T16:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 271556Z 20012G20KT 10SM FEW200 29/05 A2978 RMK AO2 PK WND 23026/1507 SLP055 T02890050",
@@ -30,19 +45,19 @@
     "observationTime": "2026-06-27T16:00:00.000Z"
   },
   "LAX": {
-    "raw": "SPECI KLAX 271531Z 14006KT 10SM FEW024 SCT027 BKN032 21/13 A2996 RMK AO2 T02060128",
+    "raw": "METAR KLAX 271553Z VRB06KT 10SM SCT026 BKN032 20/13 A2997 RMK AO2 SLP147 T02000128",
     "icao": "KLAX",
     "flightCategory": "VFR",
-    "windDir": 140,
+    "windDir": null,
     "windSpeed": 6,
     "windGust": null,
     "visibility": 10,
     "ceiling": 3200,
-    "temp": 20.6,
+    "temp": 20,
     "dewpoint": 12.8,
-    "altimeter": 29.96,
+    "altimeter": 29.97,
     "conditions": "",
-    "observationTime": "2026-06-27T15:31:00.000Z"
+    "observationTime": "2026-06-27T16:00:00.000Z"
   },
   "ORD": {
     "raw": "METAR KORD 271551Z 07007KT 10SM FEW026 SCT070 BKN085 23/17 A3000 RMK AO2 SLP156 T02280167 $",
@@ -58,20 +73,5 @@
     "altimeter": 30,
     "conditions": "",
     "observationTime": "2026-06-27T16:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 271520Z AUTO 16012KT 140V230 9999 NCD 30/16 Q1015",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 160,
-    "windSpeed": 12,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 30,
-    "dewpoint": 16,
-    "altimeter": 29.97,
-    "conditions": "",
-    "observationTime": "2026-06-27T15:20:00.000Z"
   }
 }
