@@ -1,4 +1,19 @@
 {
+  "SYD": {
+    "raw": "SPECI YSSY 272100Z 21007KT 8000 -SHRA FEW008 SCT026 BKN045 13/12 Q1030 RESHRA",
+    "icao": "YSSY",
+    "flightCategory": "MVFR",
+    "windDir": 210,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 4.97,
+    "ceiling": 4500,
+    "temp": 13,
+    "dewpoint": 12,
+    "altimeter": 30.42,
+    "conditions": "-SHRA",
+    "observationTime": "2026-06-27T21:00:00.000Z"
+  },
   "LHR": {
     "raw": "METAR EGLL 272050Z 23012KT CAVOK 24/16 Q1015",
     "icao": "EGLL",
@@ -13,21 +28,6 @@
     "altimeter": 29.97,
     "conditions": "",
     "observationTime": "2026-06-27T21:00:00.000Z"
-  },
-  "SYD": {
-    "raw": "SPECI YSSY 272030Z 21012KT 6000 SHRA VCSH FEW008 SCT028 BKN045 13/13 Q1030",
-    "icao": "YSSY",
-    "flightCategory": "MVFR",
-    "windDir": 210,
-    "windSpeed": 12,
-    "windGust": null,
-    "visibility": 3.73,
-    "ceiling": 4500,
-    "temp": 13,
-    "dewpoint": 13,
-    "altimeter": 30.42,
-    "conditions": "SHRA VCSH",
-    "observationTime": "2026-06-27T20:30:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 272056Z 22019G26KT 10SM FEW230 34/05 A2972 RMK AO2 PK WND 23031/2025 SLP034 T03390050 56012",
