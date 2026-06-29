@@ -1,4 +1,34 @@
 {
+  "SYD": {
+    "raw": "SPECI YSSY 291947Z 33003KT 6000 1500NW VCFG FEW002 11/10 Q1022",
+    "icao": "YSSY",
+    "flightCategory": "MVFR",
+    "windDir": 330,
+    "windSpeed": 3,
+    "windGust": null,
+    "visibility": 3.73,
+    "ceiling": null,
+    "temp": 11,
+    "dewpoint": 10,
+    "altimeter": 30.18,
+    "conditions": "VCFG",
+    "observationTime": "2026-06-29T19:47:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 291950Z AUTO 30006KT 9999 NCD 20/09 Q1025",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 300,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 20,
+    "dewpoint": 9,
+    "altimeter": 30.27,
+    "conditions": "",
+    "observationTime": "2026-06-29T20:00:00.000Z"
+  },
   "LAX": {
     "raw": "METAR KLAX 291953Z 26008KT 10SM FEW015 BKN028 OVC033 19/14 A2992 RMK AO2 SLP131 T01940144 $",
     "icao": "KLAX",
@@ -11,6 +41,21 @@
     "temp": 19.4,
     "dewpoint": 14.4,
     "altimeter": 29.92,
+    "conditions": "",
+    "observationTime": "2026-06-29T20:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 291956Z 35006KT 10SM CLR 29/M06 A2986 RMK AO2 SLP087 T02941061",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 350,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 29.4,
+    "dewpoint": -6.1,
+    "altimeter": 29.86,
     "conditions": "",
     "observationTime": "2026-06-29T20:00:00.000Z"
   },
@@ -28,35 +73,5 @@
     "altimeter": 29.89,
     "conditions": "",
     "observationTime": "2026-06-29T20:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 291920Z AUTO 28007KT 9999 NCD 21/09 Q1025",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 280,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 21,
-    "dewpoint": 9,
-    "altimeter": 30.27,
-    "conditions": "",
-    "observationTime": "2026-06-29T19:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 291900Z AUTO 34007KT 9999 // NCD 11/10 Q1022",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 340,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 11,
-    "dewpoint": 10,
-    "altimeter": 30.18,
-    "conditions": "",
-    "observationTime": "2026-06-29T19:00:00.000Z"
   }
 }
