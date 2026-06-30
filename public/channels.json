@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "KzsNnyN8D_Q",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Rare 747-400F \"Queen of the Skies\" ASL Airlines, OE-ILC Departing LAS Vegas to LGG Liège! ✈️",
-    "currentVideoId": "mWBpF4fn8KU",
+    "streamTitle": "\"Piz Kesch\" Sunset Departure Of Edelweiss Air Airbus A350-941, HB-IHB From LAS Vegas to ZuRicH 🇨🇭✈️",
+    "currentVideoId": "r15UFYsBw2A",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 29th June 2026",
-    "currentVideoId": "C0vSAParf7s",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 30th June 2026",
+    "currentVideoId": "u-vCLSN-gUo",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
