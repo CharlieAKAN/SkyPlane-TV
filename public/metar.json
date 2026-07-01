@@ -1,54 +1,54 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 010930Z AUTO 03014KT 9999 // NCD 19/14 Q1013",
+    "raw": "METAR YSSY 011030Z AUTO 02011KT 9999 // NCD 20/14 Q1012",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 30,
-    "windSpeed": 14,
+    "windDir": 20,
+    "windSpeed": 11,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 19,
+    "temp": 20,
     "dewpoint": 14,
-    "altimeter": 29.91,
+    "altimeter": 29.88,
     "conditions": "",
-    "observationTime": "2026-07-01T09:30:00.000Z"
+    "observationTime": "2026-07-01T10:30:00.000Z"
   },
   "LAS": {
-    "raw": "METAR KLAS 010956Z 18007KT 10SM CLR 26/M01 A2976 RMK AO2 SLP048 T02611006",
+    "raw": "METAR KLAS 011056Z 19006KT 10SM CLR 26/02 A2976 RMK AO2 SLP050 T02560017",
     "icao": "KLAS",
     "flightCategory": "VFR",
-    "windDir": 180,
-    "windSpeed": 7,
+    "windDir": 190,
+    "windSpeed": 6,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
-    "temp": 26.1,
-    "dewpoint": -0.6,
+    "temp": 25.6,
+    "dewpoint": 1.7,
     "altimeter": 29.76,
     "conditions": "",
-    "observationTime": "2026-07-01T10:00:00.000Z"
+    "observationTime": "2026-07-01T11:00:00.000Z"
   },
   "LAX": {
-    "raw": "METAR KLAX 010953Z 24004KT 10SM BKN016 OVC037 18/14 A2990 RMK AO2 SLP123 T01780139 $",
+    "raw": "METAR KLAX 011053Z 28006KT 10SM BKN016 OVC035 18/14 A2990 RMK AO2 SLP124 T01780144 $",
     "icao": "KLAX",
     "flightCategory": "MVFR",
-    "windDir": 240,
-    "windSpeed": 4,
+    "windDir": 280,
+    "windSpeed": 6,
     "windGust": null,
     "visibility": 10,
     "ceiling": 1600,
     "temp": 17.8,
-    "dewpoint": 13.9,
+    "dewpoint": 14.4,
     "altimeter": 29.9,
     "conditions": "",
-    "observationTime": "2026-07-01T10:00:00.000Z"
+    "observationTime": "2026-07-01T11:00:00.000Z"
   },
   "ORD": {
-    "raw": "METAR KORD 010951Z 22010KT 10SM CLR 27/23 A2993 RMK AO2 SLP128 T02670228 $",
+    "raw": "METAR KORD 011051Z 21010KT 10SM FEW250 27/23 A2993 RMK AO2 SLP129 T02670228 $",
     "icao": "KORD",
     "flightCategory": "VFR",
-    "windDir": 220,
+    "windDir": 210,
     "windSpeed": 10,
     "windGust": null,
     "visibility": 10,
@@ -57,21 +57,21 @@
     "dewpoint": 22.8,
     "altimeter": 29.93,
     "conditions": "",
-    "observationTime": "2026-07-01T10:00:00.000Z"
+    "observationTime": "2026-07-01T11:00:00.000Z"
   },
   "LHR": {
-    "raw": "METAR EGLL 010920Z AUTO 30007KT 260V340 9999 SCT031 21/12 Q1024",
+    "raw": "METAR EGLL 011050Z AUTO 31008KT 250V360 9999 SCT040 22/12 Q1024",
     "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 300,
-    "windSpeed": 7,
+    "windDir": 310,
+    "windSpeed": 8,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 21,
+    "temp": 22,
     "dewpoint": 12,
     "altimeter": 30.24,
     "conditions": "",
-    "observationTime": "2026-07-01T09:20:00.000Z"
+    "observationTime": "2026-07-01T11:00:00.000Z"
   }
 }
