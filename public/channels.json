@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "KzsNnyN8D_Q",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Becoming More And More Rare. Delta Air LInes Boeing 757-232, N6712B From ATLanta into LAS Vegas! ✈️",
-    "currentVideoId": "tGXLQt85vec",
+    "streamTitle": "Last Second Go-Around, Virgin Atlantic A350-1000, G-VNVR After Contact With Runway In LAS Vegas 🇬🇧✈️",
+    "currentVideoId": "2kkRFdP1hiI",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 30th June 2026",
-    "currentVideoId": "u-vCLSN-gUo",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 1st July 2026",
+    "currentVideoId": "6-a2WJtx7yM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
