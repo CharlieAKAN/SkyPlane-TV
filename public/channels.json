@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "ufxk8Qy7sKM",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Landing Corrections For \"Lyon\" Air France A360-900, F-HTYB  From Paris Arrives into LAS Vegas! 🇫🇷✈️",
-    "currentVideoId": "dA7GmIjEeNk",
+    "streamTitle": "Nighttime Go-Around Of Frontier Airlines A321-271NX, N664FR From San Francisco into LAS Vegas! ✈️",
+    "currentVideoId": "glTAEyYHK8c",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
