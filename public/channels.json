@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "f0HaHRZplHI",
+    "currentVideoId": "ufxk8Qy7sKM",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,7 +41,7 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "[4K] JASDF F-15 Eagles Takeoff & Plane Spotting @ Naha Airport Japan with SydSquad!",
-    "currentVideoId": "a-vlY0O6t4s",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - FIFA World Cup 2026 Qatar Special - Sydney Airport Plane Spotting! - 2.7.26 🔴",
+    "currentVideoId": "R1gGzfmpYAA",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
