@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - FIFA World Cup 2026 Qatar Special - Sydney Airport Plane Spotting! - 2.7.26 🔴",
-    "currentVideoId": "R1gGzfmpYAA",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE Plane-spotting at Sydney Airport with SydSquad - 03.07.26 🔴",
+    "currentVideoId": "RJOZdHfXeDw",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
