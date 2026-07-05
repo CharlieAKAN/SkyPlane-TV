@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Watch this sleek \"Glock Jet\" Bombardier Global 6000, D-ELGG arriving into LAS Vegas.",
-    "currentVideoId": "9EmmwZzIkDY",
+    "streamTitle": "Departure Of United Airlines Boeing 757-224, N14107 From LAS Vegas to EWR Newark! ✈️",
+    "currentVideoId": "IJfG2Qrosbg",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 4th July 2026",
-    "currentVideoId": "kOHetOtpg9I",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 5th July 2026",
+    "currentVideoId": "Xnxx4FM2S6Y",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
