@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "URKP-Djgr-Q",
+    "currentVideoId": "KzsNnyN8D_Q",
     "isLive": true,
     "bbox": {
       "lamin": 33.79,
@@ -12,7 +12,7 @@
       "lomax": -118.25
     },
     "streamStatus": "live",
-    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (July 4th, 2026)"
+    "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE Plane-spotting at Sydney Airport with SydSquad - 03.07.26 🔴",
+    "streamTitle": "🔴SydSquad Plane-spotting at the HOTDOG STAND Sydney Airport with Kurt - 03.07.26 🔴",
     "currentVideoId": "RJOZdHfXeDw",
     "airportCode": "SYD",
     "bbox": {
