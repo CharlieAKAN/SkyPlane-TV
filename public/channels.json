@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "sTo_LZ2AIe8",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Frankfurt to Las Vegas: Condor's Vibrant Beach-Themed Widebody",
-    "currentVideoId": "HttjaipjS5M",
+    "streamTitle": "10th Anniversary Livery Departure Of JSX Embraer ERJ-135LR, N928JX From LAS Vegas! 🎉✈️",
+    "currentVideoId": "5GfbvlO3C2Q",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
