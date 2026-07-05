@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "sTo_LZ2AIe8",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Departure Of United Airlines Boeing 757-224, N14107 From LAS Vegas to EWR Newark! ✈️",
-    "currentVideoId": "IJfG2Qrosbg",
+    "streamTitle": "Frankfurt to Las Vegas: Condor's Vibrant Beach-Themed Widebody",
+    "currentVideoId": "HttjaipjS5M",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
