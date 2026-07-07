@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Sneaky Arrival Of ZIPAIR Boeing 787-8, JA850J From LAX Into LAS Vegas for Quick Turnaround! 🇯🇵✈️",
-    "currentVideoId": "wfxO6HoiQAY",
+    "streamTitle": "VIP Arrival Of Las Vegas Sands Airbus A340-541, VP-BMS Into LAS Vegas! ✈️",
+    "currentVideoId": "mNFZ5vvm89k",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Tuesday 7th July 2026",
     "currentVideoId": "Kt8pH1AuZbU",
     "airportCode": "LHR",
