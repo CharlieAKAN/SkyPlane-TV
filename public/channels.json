@@ -65,7 +65,7 @@
     "isLive": true,
     "streamStatus": "live",
     "streamTitle": "Heathrow Airport Live - Tuesday 7th July 2026",
-    "currentVideoId": "zL3qJ9yXd0c",
+    "currentVideoId": "Kt8pH1AuZbU",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE Plane-spotting at Sydney Airport SYD/YSSY with SydSquad - 07.07.26 🔴",
     "currentVideoId": "uipsyoL_blg",
     "airportCode": "SYD",
