@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "KzsNnyN8D_Q",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - WINDY Monday 6th July 2026",
-    "currentVideoId": "noelupAhJEs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 7th July 2026",
+    "currentVideoId": "zL3qJ9yXd0c",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴SydSquad Plane-spotting at the HOTDOG STAND Sydney Airport with Kurt - 03.07.26 🔴",
-    "currentVideoId": "RJOZdHfXeDw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE Plane-spotting at Sydney Airport SYD/YSSY with SydSquad - 07.07.26 🔴",
+    "currentVideoId": "uipsyoL_blg",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE HIGH ABOVE CHICAGO O'HARE AIRPORT PLANE SPOTTING | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK",
+    "streamTitle": "🔴LIVE LATE NIGHT HIGH ABOVE CHICAGO O'HARE AIRPORT | ORD AVGEEK PLANE SPOTTING",
     "currentVideoId": "uD4Up4_ay2Q",
     "airportCode": "ORD",
     "bbox": {
