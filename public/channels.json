@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "KzsNnyN8D_Q",
+    "currentVideoId": "3Mj8OjTMuwY",
     "isLive": true,
     "bbox": {
       "lamin": 33.79,
@@ -12,7 +12,7 @@
       "lomax": -118.25
     },
     "streamStatus": "live",
-    "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (July 10th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -48,10 +48,10 @@
     "channelName": "LAS Vegas Airport LIVE",
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
     "airportCode": "LAS",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Arrival Of JSX Embraer ERJ-135LR, N242JX From SCF Scottsdale Into LAS Vegas! ✈️",
-    "currentVideoId": "FxTPzg5jAxs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Official - LAS Vegas Airport LIVE 24/7",
+    "currentVideoId": "iIUCaiiMmNs",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -65,7 +65,7 @@
     "isLive": false,
     "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Friday 10th July 2026",
-    "currentVideoId": "mNeNS68ycNs",
+    "currentVideoId": "SZ80AH33tnY",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
