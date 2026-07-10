@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Sea You Later! Departure Of Condor A330-900neo, D-ANRG \"Blue Sea\" From LAS Vegas to FRAnkfurt! 🏖️🌊",
-    "currentVideoId": "dPpgrJmEVw8",
+    "streamTitle": "LAS Vegas Airport LIVE 24/7 with views of 26R & 26L",
+    "currentVideoId": "V-re00HRgOA",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE Plane-spotting at Sydney Airport SYD/YSSY with SydSquad - 11.07.26 🔴",
     "currentVideoId": "FtClpqNvLwk",
     "airportCode": "SYD",
