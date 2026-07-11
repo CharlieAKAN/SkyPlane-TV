@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE HIGH ABOVE CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANE SPOTTING",
-    "currentVideoId": "uqMPnIHIGIk",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE FRIDAY NIGHT AIRPORT ACTION HIGH ABOVE CHICAGO O'HARE AIRPORT | AVGEEK PLANE SPOTTING",
+    "currentVideoId": "g8hH7EBb0_8",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
