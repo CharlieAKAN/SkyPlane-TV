@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE Plane-spotting at Sydney Airport SYD/YSSY with SydSquad - 11.07.26 🔴",
+    "streamTitle": "🔴 Plane-spotting at Sydney Airport SYD/YSSY with Kurt at the Millstream Lookout- 11.07.26 🔴",
     "currentVideoId": "FtClpqNvLwk",
     "airportCode": "SYD",
     "bbox": {
@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE FRIDAY NIGHT AIRPORT ACTION HIGH ABOVE CHICAGO O'HARE AIRPORT | AVGEEK PLANE SPOTTING",
     "currentVideoId": "g8hH7EBb0_8",
     "airportCode": "ORD",
