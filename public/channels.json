@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 11th July 2026",
-    "currentVideoId": "mNeNS68ycNs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 12th July 2026",
+    "currentVideoId": "otnhAMnFSwI",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
