@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "F9uAKE_lyl0",
+    "currentVideoId": "KzsNnyN8D_Q",
     "isLive": true,
     "bbox": {
       "lamin": 33.79,
@@ -12,7 +12,7 @@
       "lomax": -118.25
     },
     "streamStatus": "live",
-    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (July 12th, 2026)"
+    "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE LATE NIGHT SIGHTS & SOUNDS of PURE AVIATION HIGH ABOVE CHICAGO O'HARE AIRPORT | AVGEEK PLANES",
-    "currentVideoId": "g8hH7EBb0_8",
+    "currentVideoId": "xSJXFTQkr4E",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
