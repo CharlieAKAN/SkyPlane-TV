@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Beach Please! Condor Airbus A330-941, D-ANRH Arrives LAS Vegas from FRAnkfurt! ✈️",
-    "currentVideoId": "1iGfH-QaVrQ",
+    "streamTitle": "That Moment Contour Airlines, N16052 Lifted Off at LAS Vegas Harry Reid Airport.",
+    "currentVideoId": "Az-bBxnr_9w",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Tuesday 14th July 2026",
     "currentVideoId": "kUJABctufxo",
     "airportCode": "LHR",
