@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Rio de Janeiro\" KLM Dusk Departure Of Boeing 777-206ER, PH-BQP From LAS Vegas to AMSterdam! 🇳🇱✈️",
-    "currentVideoId": "CI-VDuWnhB8",
+    "streamTitle": "Deeparture Of Janet Airlines Boeing 737-600, N319BD From LAS Vegas to... We Can't Talk About It 👽✈️",
+    "currentVideoId": "7jCJ1rcJzOI",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Wednesday 15th July 2026",
-    "currentVideoId": "z1P_xh7Zo4A",
+    "currentVideoId": "DiqsnVTEwpM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
