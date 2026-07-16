@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "rqENc_i6DTM",
-    "isLive": false,
+    "currentVideoId": "Ge5itjfq4uo",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "London Heathrow Airport HEAD-ON DEPARTURES/NOISY CLIMB-OUTS"
+    "streamStatus": "live",
+    "streamTitle": "BA269. LAX LIVE DEPARTURE!"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
