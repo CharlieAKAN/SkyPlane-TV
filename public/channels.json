@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "KzsNnyN8D_Q",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE 24/7 LAX Airport Action Runways 25L & 25R | LIVE Plane Spotting with ATC!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Deeparture Of Janet Airlines Boeing 737-600, N319BD From LAS Vegas to... We Can't Talk About It 👽✈️",
-    "currentVideoId": "7jCJ1rcJzOI",
+    "streamTitle": "Departure Of Hawaiian Airlines Airbus A330-243, N395HA From LAS Vegas to HNL Honolulu! 🌺✈️",
+    "currentVideoId": "Z166WHSUo8E",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 15th July 2026",
-    "currentVideoId": "z1P_xh7Zo4A",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 16th July 2026",
+    "currentVideoId": "DiqsnVTEwpM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
