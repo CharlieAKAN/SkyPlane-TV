@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "Ge5itjfq4uo",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "BA269. LAX LIVE DEPARTURE!"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Departure Of Hawaiian Airlines Airbus A330-243, N395HA From LAS Vegas to HNL Honolulu! 🌺✈️",
-    "currentVideoId": "Z166WHSUo8E",
+    "streamTitle": "\"Blue Sea\" Arrival Of Condor Airbus A330-900neo, D-ANRG From FRAnkfurt into LAS Vegas! 🏖️🌊",
+    "currentVideoId": "Tw17_mYzTiw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
