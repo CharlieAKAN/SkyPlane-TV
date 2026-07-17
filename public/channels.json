@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "Ge5itjfq4uo",
-    "isLive": false,
+    "currentVideoId": "deDSs4rYBmA",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "BA269. LAX LIVE DEPARTURE!"
+    "streamStatus": "live",
+    "streamTitle": "The SIM Challenge - EGLL to EHAM"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
