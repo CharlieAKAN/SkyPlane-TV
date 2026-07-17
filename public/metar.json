@@ -1,1 +1,77 @@
-{}
+{
+  "SYD": {
+    "raw": "METAR YSSY 172300Z 32005KT 290V350 9999 FEW030 SCT040 13/12 Q1032",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 320,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 13,
+    "dewpoint": 12,
+    "altimeter": 30.47,
+    "conditions": "",
+    "observationTime": "2026-07-17T23:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 172250Z AUTO 06007KT 9999 NCD 20/15 Q1018",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 60,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 20,
+    "dewpoint": 15,
+    "altimeter": 30.06,
+    "conditions": "",
+    "observationTime": "2026-07-17T23:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 172256Z 21010G18KT 10SM FEW050 SCT100 BKN150 33/17 A2992 RMK AO2 WSHFT 2238 SLP103 CB DSNT N AND S-W T03280172 $",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 210,
+    "windSpeed": 10,
+    "windGust": 18,
+    "visibility": 10,
+    "ceiling": 15000,
+    "temp": 32.8,
+    "dewpoint": 17.2,
+    "altimeter": 29.92,
+    "conditions": "",
+    "observationTime": "2026-07-17T23:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 172253Z 27012KT 10SM FEW012 SCT100 SCT160 26/18 A2993 RMK AO2 SLP133 T02560183 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 270,
+    "windSpeed": 12,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 25.6,
+    "dewpoint": 18.3,
+    "altimeter": 29.93,
+    "conditions": "",
+    "observationTime": "2026-07-17T23:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 172251Z 27011KT 10SM SCT045TCU SCT090 BKN250 33/22 A2992 RMK AO2 SLP124 TCU SE-SW T03280222 $",
+    "icao": "KORD",
+    "flightCategory": "VFR",
+    "windDir": 270,
+    "windSpeed": 11,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 25000,
+    "temp": 32.8,
+    "dewpoint": 22.2,
+    "altimeter": 29.92,
+    "conditions": "",
+    "observationTime": "2026-07-17T23:00:00.000Z"
+  }
+}
