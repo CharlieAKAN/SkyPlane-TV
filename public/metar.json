@@ -1,1 +1,77 @@
-{}
+{
+  "SYD": {
+    "raw": "METAR YSSY 171800Z AUTO 35006KT 9999 // NCD 11/11 Q1031",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 350,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 11,
+    "dewpoint": 11,
+    "altimeter": 30.45,
+    "conditions": "",
+    "observationTime": "2026-07-17T18:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 171750Z AUTO 34006KT 280V020 9999 NCD 27/10 Q1015",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 340,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 27,
+    "dewpoint": 10,
+    "altimeter": 29.97,
+    "conditions": "",
+    "observationTime": "2026-07-17T18:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 171756Z 08010KT 10SM FEW100 SCT140 BKN180 32/18 A2997 RMK AO2 SLP117 T03170178 10322 20278 55004 $",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 80,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 18000,
+    "temp": 31.7,
+    "dewpoint": 17.8,
+    "altimeter": 29.97,
+    "conditions": "",
+    "observationTime": "2026-07-17T18:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 171753Z 11009G18KT 10SM FEW020 FEW110 SCT170 26/17 A2994 RMK AO2 SLP137 T02610172 10267 20206 53003 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 110,
+    "windSpeed": 9,
+    "windGust": 18,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 26.1,
+    "dewpoint": 17.2,
+    "altimeter": 29.94,
+    "conditions": "",
+    "observationTime": "2026-07-17T18:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 171751Z 24009KT 6SM FU SCT045TCU BKN080 32/21 A3000 RMK AO2 LTG DSNT W SLP153 TCU OHD T03220211 10328 20256 58014",
+    "icao": "KORD",
+    "flightCategory": "VFR",
+    "windDir": 240,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 8000,
+    "temp": 32.2,
+    "dewpoint": 21.1,
+    "altimeter": 30,
+    "conditions": "FU",
+    "observationTime": "2026-07-17T18:00:00.000Z"
+  }
+}
