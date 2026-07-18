@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Nose Job Needed For Arriving UPS 767-300F, N390UP Arriving From SDF Louisville Into LAS Vegas.📦✈️",
-    "currentVideoId": "j9HJRjFCeTo",
+    "streamTitle": "Triple Crown Winner Livery. Southwest Airlines Boeing 737 MAX 8, N8681M Arrival Into LAS Vegas! 🏆✈️",
+    "currentVideoId": "HO99jICowxo",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Saturday 18th July 2026",
-    "currentVideoId": "9HEwQVkNGBw",
+    "currentVideoId": "bkQl-vjNehM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
