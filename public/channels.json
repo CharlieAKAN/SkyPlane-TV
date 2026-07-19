@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Triple Crown Winner Livery. Southwest Airlines Boeing 737 MAX 8, N8681M Arrival Into LAS Vegas! 🏆✈️",
-    "currentVideoId": "HO99jICowxo",
+    "streamTitle": "Departure Of Hawaiian Airlines Airbus A330-243, N375HA From LAS Vegas LAS to HNL Honolulu! 🌺✈️",
+    "currentVideoId": "kUNQeiBHe6I",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 18th July 2026",
-    "currentVideoId": "9HEwQVkNGBw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 19th July 2026",
+    "currentVideoId": "bkQl-vjNehM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE Sunday Session - Plane-spotting at Sydney Airport SYD/YSSY with SydSquad - 19.07.26 🔴",
     "currentVideoId": "aO_q_lYWKl4",
     "airportCode": "SYD",
