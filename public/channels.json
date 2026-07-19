@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "xQXb8zt54qY",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Departure Of Hawaiian Airlines Airbus A330-243, N375HA From LAS Vegas LAS to HNL Honolulu! 🌺✈️",
-    "currentVideoId": "kUNQeiBHe6I",
+    "streamTitle": "Cool Engine Glow After Arrival For Frontier A321-271NX, N622FR From DENver into LAS Vegas.",
+    "currentVideoId": "7dTFVGpbcKU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE Sunday Session - Plane-spotting at Sydney Airport SYD/YSSY with SydSquad - 19.07.26 🔴",
     "currentVideoId": "aO_q_lYWKl4",
     "airportCode": "SYD",
