@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Crab Arrival Of Frontier Airlines Airbus A321-271NX, N604FR Into LAS Vegas! ✈️",
-    "currentVideoId": "kJ4kbexTL0Y",
+    "streamTitle": "Air Wisconsin (American Eagle) Bombardier CRJ-200LR, N463AW Departure From LAS Vegas to AZA Mesa! ✈️",
+    "currentVideoId": "g-cuJUdNj3c",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 19th July 2026",
-    "currentVideoId": "bkQl-vjNehM",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 20th July 2026",
+    "currentVideoId": "97wNoDiaPS8",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
