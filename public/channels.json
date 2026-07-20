@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Amsterdam \" Nighttime Departure Of KLM Royal Dutch Airlines 777-206ER, PH-BQA LAS to AMSterdam!",
-    "currentVideoId": "3QpI3-fnagQ",
+    "streamTitle": "Dual Departure & Arrival Of Southwest Airlines Boeing 737-700, N955WN Into LAS Vegas! ✈️",
+    "currentVideoId": "kjxoeppgdiE",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Monday 20th July 2026",
-    "currentVideoId": "97wNoDiaPS8",
+    "currentVideoId": "x3j_55NPDJU",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
