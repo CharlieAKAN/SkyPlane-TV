@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Arrival Of Delta Connection Embraer E175LR, N2892Y Into LAS Vegas! ✈️",
-    "currentVideoId": "jwYDFzPx9YQ",
+    "streamTitle": "Departure Of US Air Force C-130 Hercules From LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "XAa7LD4pK8I",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 21st July 2026",
-    "currentVideoId": "x3j_55NPDJU",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 22nd July 2026",
+    "currentVideoId": "YSYsJXSMpDw",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE Sydney Airport Plane Spotting with SydSquad!- 22.7.26 🔴",
-    "currentVideoId": "EUNsBivkwYc",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE - SydSquad's Final Freighter Night - Sydney Airport Plane Spotting!- 22.7.26 🔴",
+    "currentVideoId": "yJsbuq6MIMw",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
