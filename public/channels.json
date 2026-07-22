@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE - SydSquad's Final Freighter Night - Sydney Airport Plane Spotting!- 22.7.26 🔴",
     "currentVideoId": "yJsbuq6MIMw",
     "airportCode": "SYD",
