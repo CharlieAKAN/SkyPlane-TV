@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 Sunday Session - Plane-spotting at Sydney Airport SYD/YSSY Shep's Mound with KURT - 19.07.26 🔴",
-    "currentVideoId": "aO_q_lYWKl4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE Sydney Airport Plane Spotting with SydSquad!- 22.7.26 🔴",
+    "currentVideoId": "EUNsBivkwYc",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
