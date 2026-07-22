@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Air France A350 Arrives Las Vegas from Paris | Stunning Widebody Landing",
-    "currentVideoId": "KA2EMBizp1Y",
+    "streamTitle": "Arrival Of British Airways Airbus A350-1000, G-XWBJ From LHR London HeathRow into LAS Vegas! 🇬🇧✈️",
+    "currentVideoId": "fyQR8wJ8UCk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Wednesday 22nd July 2026",
-    "currentVideoId": "YSYsJXSMpDw",
+    "currentVideoId": "-wnGvD1WTrw",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
