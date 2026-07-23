@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴LIVE 1st Qantas A350-1000ULR - Project Sunrise Test Flight landing at Melbourne Airport - 24.07.26🔴",
-    "currentVideoId": "oWBSZErSdqQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE Plane-Spotting at Melbourne Airport MEL/YMML with SydSquad - 23.07.26 🔴",
+    "currentVideoId": "WB1Od03LH8Y",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
