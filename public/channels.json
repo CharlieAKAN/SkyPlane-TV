@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 22nd July 2026",
-    "currentVideoId": "YSYsJXSMpDw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 23rd July 2026",
+    "currentVideoId": "-wnGvD1WTrw",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - SydSquad's Final BAe146 Freighter Night - Sydney Airport Plane Spotting!- 22.7.26 🔴",
-    "currentVideoId": "yJsbuq6MIMw",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE 1st Qantas A350-1000ULR - Project Sunrise Test Flight landing at Melbourne Airport - 24.07.26🔴",
+    "currentVideoId": "oWBSZErSdqQ",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE CHASING BIG PLANES at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANES",
     "currentVideoId": "Mp7NlcqtLj4",
     "airportCode": "ORD",
