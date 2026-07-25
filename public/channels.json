@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "A2V8haj9Rg0",
+    "currentVideoId": "amqq9ZfkHF0",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,8 +11,8 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (July 19th, 2026)"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (July 26th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "xQXb8zt54qY",
+    "currentVideoId": "fNruk9BpCuo",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamStatus": "upcoming",
+    "streamTitle": "The SIM Challenge - EDDF to EGLL"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE 1st Qantas A350-1000ULR - Project Sunrise Test Flight landing at Melbourne Airport - 24.07.26🔴",
-    "currentVideoId": "oWBSZErSdqQ",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE Plane-Spotting at Sydney Airport SYD/YSSY with SYDSQUAD - 26.07.26 🔴",
+    "currentVideoId": "HeBqTFN6wH4",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
