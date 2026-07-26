@@ -1,66 +1,51 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 261000Z AUTO 14001KT 9999 // NCD 14/09 Q1025",
+    "raw": "METAR YSSY 261100Z AUTO 27005KT 9999 // BKN061 13/09 Q1025",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 140,
-    "windSpeed": 1,
+    "windDir": 270,
+    "windSpeed": 5,
     "windGust": null,
     "visibility": 6,
-    "ceiling": null,
-    "temp": 14,
+    "ceiling": 6100,
+    "temp": 13,
     "dewpoint": 9,
     "altimeter": 30.27,
     "conditions": "",
-    "observationTime": "2026-07-26T10:00:00.000Z"
+    "observationTime": "2026-07-26T11:00:00.000Z"
   },
   "LHR": {
-    "raw": "METAR EGLL 260950Z AUTO 31013KT 280V350 9999 SCT035 24/14 Q1004",
+    "raw": "METAR EGLL 261050Z AUTO 28018G29KT 9999 SCT048 24/12 Q1004",
     "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 310,
-    "windSpeed": 13,
-    "windGust": null,
+    "windDir": 280,
+    "windSpeed": 18,
+    "windGust": 29,
     "visibility": 6,
     "ceiling": null,
     "temp": 24,
-    "dewpoint": 14,
+    "dewpoint": 12,
     "altimeter": 29.65,
     "conditions": "",
-    "observationTime": "2026-07-26T10:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 260951Z 23004KT 8SM OVC008 22/21 A2993 RMK AO2 SLP129 T02220206 $",
-    "icao": "KORD",
-    "flightCategory": "IFR",
-    "windDir": 230,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 8,
-    "ceiling": 800,
-    "temp": 22.2,
-    "dewpoint": 20.6,
-    "altimeter": 29.93,
-    "conditions": "",
-    "observationTime": "2026-07-26T10:00:00.000Z"
+    "observationTime": "2026-07-26T11:00:00.000Z"
   },
   "LAS": {
-    "raw": "METAR KLAS 260956Z 20008KT 10SM FEW120 36/07 A2987 RMK AO2 SLP076 T03560067 $",
+    "raw": "METAR KLAS 261056Z 21011KT 10SM FEW120 FEW180 35/07 A2987 RMK AO2 SLP079 T03500072 $",
     "icao": "KLAS",
     "flightCategory": "VFR",
-    "windDir": 200,
-    "windSpeed": 8,
+    "windDir": 210,
+    "windSpeed": 11,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
-    "temp": 35.6,
-    "dewpoint": 6.7,
+    "temp": 35,
+    "dewpoint": 7.2,
     "altimeter": 29.87,
     "conditions": "",
-    "observationTime": "2026-07-26T10:00:00.000Z"
+    "observationTime": "2026-07-26T11:00:00.000Z"
   },
   "LAX": {
-    "raw": "METAR KLAX 260953Z 00000KT 9SM FEW010 SCT220 21/19 A2989 RMK AO2 SLP119 T02110189 $",
+    "raw": "METAR KLAX 261053Z 00000KT 9SM CLR 21/19 A2989 RMK AO2 SLP118 T02110189 $",
     "icao": "KLAX",
     "flightCategory": "VFR",
     "windDir": 0,
@@ -72,6 +57,21 @@
     "dewpoint": 18.9,
     "altimeter": 29.89,
     "conditions": "",
-    "observationTime": "2026-07-26T10:00:00.000Z"
+    "observationTime": "2026-07-26T11:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 261051Z 22005KT 6SM BR BKN007 OVC043 23/21 A2993 RMK AO2 SLP130 T02280211 $",
+    "icao": "KORD",
+    "flightCategory": "IFR",
+    "windDir": 220,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 700,
+    "temp": 22.8,
+    "dewpoint": 21.1,
+    "altimeter": 29.93,
+    "conditions": "BR",
+    "observationTime": "2026-07-26T11:00:00.000Z"
   }
 }
