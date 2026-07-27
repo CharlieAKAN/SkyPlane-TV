@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Green Island\" Arrival Of Condor Airbus A330-900neo, D-ANRM From FRAnkfurt into LAS Vegas! 🏝️🌴",
-    "currentVideoId": "hkHV1YI5wrM",
+    "streamTitle": "\"Imua One\" Departure Of Hawaiian Airlines Boeing 737-9 MAX, N8710M From LAS Vegas to ANChorage! 🌺✈️",
+    "currentVideoId": "gr7N-_Vp38I",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 26th July 2026",
-    "currentVideoId": "T2-exO6Qtrk",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 27th July 2026",
+    "currentVideoId": "tlWFgva18-c",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE - Qantas A350-1000ULR Departs To Toulouse! Melbourne Airport Plane-Spotting! TIM  27.07.26 🔴",
     "currentVideoId": "CO_8H54KLSA",
     "airportCode": "SYD",
