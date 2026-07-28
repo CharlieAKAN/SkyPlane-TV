@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Imua One\" Departure Of Hawaiian Airlines Boeing 737-9 MAX, N8710M From LAS Vegas to ANChorage! 🌺✈️",
-    "currentVideoId": "gr7N-_Vp38I",
+    "streamTitle": "Departure Of UPS Boeing 767-300F, N313UP From LAS Vegas LAS to SDF Louisville (UPS Worldport)! 📦✈️",
+    "currentVideoId": "n6JtFoYqWmQ",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 27th July 2026",
-    "currentVideoId": "tlWFgva18-c",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 28th July 2026",
+    "currentVideoId": "gnNPTqz81Us",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - Qantas A350-1000ULR AIB35LR To Toulouse! Melbourne Airport Project Sunrise - 27.07.26 🔴 ",
-    "currentVideoId": "CO_8H54KLSA",
+    "streamTitle": "[4K] Airbus/Qantas A350-1000ULR Landing From Toulouse Blagnac @ Melbourne Airport! #ProjectSunrise ",
+    "currentVideoId": "jOjGLPhU83c",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
