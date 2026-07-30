@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "amqq9ZfkHF0",
+    "currentVideoId": "UgbUm2kAnqE",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,8 +11,8 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (July 26th, 2026)"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (July 31st, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Night \"Pencil\" Departure Of Delta Air Lines 757-232, N594NW From LAS Vegas LAS to ATL Atlanta! ✈️🌃",
-    "currentVideoId": "ayh2g-d6ows",
+    "streamTitle": "Arrival Of Allegiant Air Airbus A320-214, N207NV Into LAS Vegas! ✈️",
+    "currentVideoId": "DxJnF8I_b2c",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
