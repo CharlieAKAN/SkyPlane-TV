@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (July 31st, 2026)"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Diverted After Circling SLC 5 Times! Aeroméxico 737 MAX 8, XA-SSR From GDL Arrives Into LAS Vegas!",
-    "currentVideoId": "oQ0zel8mpcs",
+    "streamTitle": "Elegant Departure Of British Airways 787-9 Dreamliner, G-ZBKE From LAS Vegas to London HeathRow 🇬🇧✈️",
+    "currentVideoId": "LYVSi5wNXuo",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Thursday 30th July 2026",
-    "currentVideoId": "0TRhJJHmHtc",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Friday 31st July 2026",
+    "currentVideoId": "4Dn2RRPtTBw",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -94,8 +94,8 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE- LATE NIGHT CHASING BIG PLANES at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
-    "currentVideoId": "fninkeeYKQQ",
+    "streamTitle": "🔴LIVE- BUSY AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANES",
+    "currentVideoId": "39WE-Yj015c",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
