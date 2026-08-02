@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "aSrGtLMV7wM",
+    "currentVideoId": "OKZag6WqipQ",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,14 +26,14 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE FROM CHICAGO O'HARE ✈️  Real-time Plane Spotting"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE FROM CHICAGO O'HARE ✈️ Plane Spotting Sunday"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "7TvA68C_MmQ",
+    "currentVideoId": "gG9qgx59Uyw",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "NEW LOCATION HIGHLIGHTS"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Night Arrival Of Amazon Air Cargo Boeing 767-300F, N496MM From CVG Cincinnati into LAS Vegas! 📦🌃",
-    "currentVideoId": "HmgG7TlkF1U",
+    "streamTitle": "Nightime Departure Of Hawaiian Airlines Airbus A330-243, N379HA From LAS Vegas to HNL HoNoLulu.🌺✈️",
+    "currentVideoId": "i1EerYojFbM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
