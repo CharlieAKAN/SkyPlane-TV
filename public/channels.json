@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"250 America\" Departure Of JSX ERJ-135LR, N940JX Livery From LAS Vegas to DALlas Love Field! 🇺🇸✈️",
-    "currentVideoId": "m1wJE5rzcCY",
+    "streamTitle": "USAF C-17 Globemaster III 00-0183 Short 27-Min Flight LAS Vegas to Nellis AFB! ✈️",
+    "currentVideoId": "eTRKjsLaOuI",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -65,7 +65,7 @@
     "isLive": false,
     "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Monday 3rd August 2026",
-    "currentVideoId": "uEhoVoXHQSQ",
+    "currentVideoId": "9ZW5ETcAtlo",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
-    "currentVideoId": "39WE-Yj015c",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE BUSY AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANES",
+    "currentVideoId": "5lEgG-vrNFk",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
