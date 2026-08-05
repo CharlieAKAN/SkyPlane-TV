@@ -33,15 +33,15 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "gG9qgx59Uyw",
-    "isLive": false,
+    "currentVideoId": "IQCI4x8NM0g",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Departure Of Cirrus SR-22T, N470BW From LAS Vegas to VISalia! 🛩️",
-    "currentVideoId": "q5em3PHjU-c",
+    "streamTitle": "113° Takeoff! Air France A350-900 “Lille”, F-HTYP Departs Hell… I Mean LAS Vegas for Paris! 🔥🇫🇷✈️",
+    "currentVideoId": "7JSjGWAqR_I",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
