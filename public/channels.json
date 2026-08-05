@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "USAF C-17 Globemaster III 00-0183 Arrives Into LAS Vegas from Andrews AFB! ✈️",
-    "currentVideoId": "Ik3703NwsaY",
+    "streamTitle": "Real Aviation Drama Southwest 737 MAX 8 N88565 Wind-Forced Go-Around LAS Vegas",
+    "currentVideoId": "nGar1T1zU8I",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,9 +62,9 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 4th August 2026",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 5th August 2026",
     "currentVideoId": "3wnlbHuTI9k",
     "airportCode": "LHR",
     "bbox": {
