@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "IQCI4x8NM0g",
-    "isLive": false,
+    "currentVideoId": "RIi5ig9wMrs",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamStatus": "live",
+    "streamTitle": "Road-trip to Aviation Retail Direct"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
