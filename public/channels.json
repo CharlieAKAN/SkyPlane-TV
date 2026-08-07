@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "113° Takeoff! Air France A350-900 “Lille”, F-HTYP Departs Hell… I Mean LAS Vegas for Paris! 🔥🇫🇷✈️",
-    "currentVideoId": "7JSjGWAqR_I",
+    "streamTitle": "Secret Departure Of N910CB From LAS Vegas to EDWards AFB! 👽✈️ Shhh..",
+    "currentVideoId": "IzZ4pcAfwHM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Thursday 6th August 2026",
     "currentVideoId": "iXF6n3k7kpE",
     "airportCode": "LHR",
