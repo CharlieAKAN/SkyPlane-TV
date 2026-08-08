@@ -34,15 +34,15 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "LKujvdWYn74",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
-    "streamTitle": "The SIM Challenge - EGLL to LFPG"
+    "streamStatus": "vod",
+    "streamTitle": "EGLL to LFPG NAILED IT 👏🏼 best descent/approach/landing yet. Thanks for everyone’s support!"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
