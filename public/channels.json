@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "K5iTrOsTbTU",
+    "currentVideoId": "i-Jthk46NDc",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,8 +11,8 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (August 2nd, 2026)"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (August 9th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "RIi5ig9wMrs",
+    "currentVideoId": "LKujvdWYn74",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "Road-trip to Aviation Retail Direct"
+    "streamStatus": "upcoming",
+    "streamTitle": "The SIM Challenge - EGLL to LFPG"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
