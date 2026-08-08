@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - SydSquad - Destination Dubai Emirates A380 - Sydney Airport Plane Spotting! 4.8.26 🔴",
-    "currentVideoId": "pmtek8uifAw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 Sunday Chill - Plane-Spotting at Sydney Airport SYD/YSSY with KURT - 09.08.26 🔴",
+    "currentVideoId": "reqZ3aFycq4",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
