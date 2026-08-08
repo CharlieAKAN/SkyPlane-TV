@@ -1,4 +1,49 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 081450Z AUTO 21010KT 9999 NCD 28/06 Q1018",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 210,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 28,
+    "dewpoint": 6,
+    "altimeter": 30.06,
+    "conditions": "",
+    "observationTime": "2026-08-08T15:00:00.000Z"
+  },
+  "SYD": {
+    "raw": "METAR YSSY 081500Z AUTO 30005KT 9999 // ////// 12/08 Q1019",
+    "icao": "YSSY",
+    "flightCategory": "UNKNOWN",
+    "windDir": 300,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 12,
+    "dewpoint": 8,
+    "altimeter": 30.09,
+    "conditions": "",
+    "observationTime": "2026-08-08T15:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 081456Z 33003KT 10SM FEW200 35/12 A3000 RMK AO2 SLP123 T03500122 51015",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 330,
+    "windSpeed": 3,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 35,
+    "dewpoint": 12.2,
+    "altimeter": 30,
+    "conditions": "",
+    "observationTime": "2026-08-08T15:00:00.000Z"
+  },
   "LAX": {
     "raw": "METAR KLAX 081453Z 33004KT 10SM FEW008 SCT011 22/19 A2998 RMK AO2 SLP149 T02170189 51008 $",
     "icao": "KLAX",
@@ -28,35 +73,5 @@
     "altimeter": 30.02,
     "conditions": "",
     "observationTime": "2026-08-08T15:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 081420Z AUTO 17009KT 140V200 9999 NCD 27/06 Q1018",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 170,
-    "windSpeed": 9,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 27,
-    "dewpoint": 6,
-    "altimeter": 30.06,
-    "conditions": "",
-    "observationTime": "2026-08-08T14:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 081400Z AUTO 31005KT 9999 // ////// 12/08 Q1019",
-    "icao": "YSSY",
-    "flightCategory": "UNKNOWN",
-    "windDir": 310,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 12,
-    "dewpoint": 8,
-    "altimeter": 30.09,
-    "conditions": "",
-    "observationTime": "2026-08-08T14:00:00.000Z"
   }
 }
