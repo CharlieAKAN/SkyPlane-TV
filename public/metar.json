@@ -1,6 +1,21 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 080850Z AUTO 16007KT 130V190 9999 NCD 21/09 Q1021",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 160,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 21,
+    "dewpoint": 9,
+    "altimeter": 30.15,
+    "conditions": "",
+    "observationTime": "2026-08-08T09:00:00.000Z"
+  },
   "SYD": {
-    "raw": "METAR YSSY 080800Z AUTO 05007KT 9999 // NCD 15/08 Q1020",
+    "raw": "METAR YSSY 080900Z AUTO 05007KT 9999 // NCD 15/08 Q1020",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 50,
@@ -12,66 +27,51 @@
     "dewpoint": 8,
     "altimeter": 30.12,
     "conditions": "",
-    "observationTime": "2026-08-08T08:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 080750Z AUTO 18003KT 120V220 9999 NCD 19/12 Q1021",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 180,
-    "windSpeed": 3,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 19,
-    "dewpoint": 12,
-    "altimeter": 30.15,
-    "conditions": "",
-    "observationTime": "2026-08-08T08:00:00.000Z"
+    "observationTime": "2026-08-08T09:00:00.000Z"
   },
   "LAS": {
-    "raw": "METAR KLAS 080756Z 00000KT 10SM SCT200 37/12 A2994 RMK AO2 SLP104 T03670122 404280322",
+    "raw": "METAR KLAS 080856Z 22007KT 10SM SCT200 35/12 A2994 RMK AO2 SLP104 T03500122 51003",
     "icao": "KLAS",
     "flightCategory": "VFR",
-    "windDir": 0,
-    "windSpeed": 0,
+    "windDir": 220,
+    "windSpeed": 7,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
-    "temp": 36.7,
+    "temp": 35,
     "dewpoint": 12.2,
     "altimeter": 29.94,
     "conditions": "",
-    "observationTime": "2026-08-08T08:00:00.000Z"
+    "observationTime": "2026-08-08T09:00:00.000Z"
   },
   "LAX": {
-    "raw": "METAR KLAX 080753Z 26006KT 10SM FEW009 21/18 A2998 RMK AO2 SLP148 T02110183 402670200 $",
+    "raw": "METAR KLAX 080853Z 27006KT 10SM FEW009 21/18 A2996 RMK AO2 SLP142 T02060183 58007 $",
     "icao": "KLAX",
     "flightCategory": "VFR",
-    "windDir": 260,
+    "windDir": 270,
     "windSpeed": 6,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
-    "temp": 21.1,
+    "temp": 20.6,
     "dewpoint": 18.3,
-    "altimeter": 29.98,
+    "altimeter": 29.96,
     "conditions": "",
-    "observationTime": "2026-08-08T08:00:00.000Z"
+    "observationTime": "2026-08-08T09:00:00.000Z"
   },
   "ORD": {
-    "raw": "METAR KORD 080751Z 00000KT 10SM FEW080 23/17 A2995 RMK AO2 SLP136 T02330172 $",
+    "raw": "METAR KORD 080851Z 26003KT 10SM SCT070 23/17 A2995 RMK AO2 SLP138 T02280172 55008 $",
     "icao": "KORD",
     "flightCategory": "VFR",
-    "windDir": 0,
-    "windSpeed": 0,
+    "windDir": 260,
+    "windSpeed": 3,
     "windGust": null,
     "visibility": 10,
     "ceiling": null,
-    "temp": 23.3,
+    "temp": 22.8,
     "dewpoint": 17.2,
     "altimeter": 29.95,
     "conditions": "",
-    "observationTime": "2026-08-08T08:00:00.000Z"
+    "observationTime": "2026-08-08T09:00:00.000Z"
   }
 }
