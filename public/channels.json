@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 Sunday Chill - Plane-Spotting at Sydney Airport SYD/YSSY with KURT - 09.08.26 🔴",
     "currentVideoId": "reqZ3aFycq4",
     "airportCode": "SYD",
