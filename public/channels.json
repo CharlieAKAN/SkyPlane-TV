@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 Sunday Chill - Plane-Spotting at Sydney Airport SYD/YSSY with KURT - 09.08.26 🔴",
-    "currentVideoId": "reqZ3aFycq4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - Vietnamese Presidential Departure @ Sydney Airport Plane Spotting! 10.8.26 🔴",
+    "currentVideoId": "BNVv5JzEyEA",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE POST SEVERE STORMS at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANES",
+    "streamTitle": "🔴LIVE POST-SEVERE STORMS at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANES",
     "currentVideoId": "e-HQWyocgGw",
     "airportCode": "ORD",
     "bbox": {
