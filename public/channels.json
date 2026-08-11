@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 Plane-Spotting at Sydney Airport SYD/YSSY with Rydges Hotel Views and KURT - 11.08.26 🔴",
-    "currentVideoId": "LlPBZYDoz70",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - Plane Spotting @ Sydney Airport Plane Spotting! 12.8.26 🔴",
+    "currentVideoId": "HgBOD_g52Fs",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
