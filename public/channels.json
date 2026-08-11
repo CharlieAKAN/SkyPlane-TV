@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE TORNADO THREAT INCREASING at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING |SEVERE STORMS",
-    "currentVideoId": "gsIkqayNohQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE TORNADO WARNING at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
+    "currentVideoId": "yWX0XDEOupI",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
