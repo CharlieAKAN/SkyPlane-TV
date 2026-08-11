@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "i-Jthk46NDc",
+    "currentVideoId": "3PTd4YPzf0E",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,8 +11,8 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (August 9th, 2026)"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (August 11th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
