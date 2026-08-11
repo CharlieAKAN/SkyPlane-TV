@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "zxczA_n4R_M",
+    "currentVideoId": "3kaSyRhYdic",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: Solar Eclipse at Heathrow Airport"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE Plane-Spotting at Sydney Airport SYD/YSSY with Rydges Hotel Views and SYDSQUAD - 11.08.26 🔴",
+    "streamTitle": "🔴 Plane-Spotting at Sydney Airport SYD/YSSY with Rydges Hotel Views and KURT - 11.08.26 🔴",
     "currentVideoId": "LlPBZYDoz70",
     "airportCode": "SYD",
     "bbox": {
