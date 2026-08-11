@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Bennie And The Jet\" Virgin Atlantic Airbus A350-1000, G-VELJ From LAS Vegas to MANchester! 🇬🇧✈️",
-    "currentVideoId": "djduh0JyG3o",
+    "streamTitle": "Departure Of British Airways Airbus A350-1000, G-XWBO From LAS Vegas to LHR London HeathRow! 🇬🇧✈️",
+    "currentVideoId": "bmwM2L6jYh4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE Plane-Spotting at Sydney Airport SYD/YSSY with Rydges Hotel Views and SYDSQUAD - 11.08.26 🔴",
     "currentVideoId": "LlPBZYDoz70",
     "airportCode": "SYD",
