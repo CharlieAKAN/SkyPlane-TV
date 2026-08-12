@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Wednesday 12th August 2026",
-    "currentVideoId": "f2PSNO4zZH4",
+    "currentVideoId": "RSIaw41Y-mQ",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
