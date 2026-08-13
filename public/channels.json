@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Let's Go To The Beach-Each, Condor Airbus A330-900neo, D-ANRO From LAS Vegas to FRAnkfurt! 🏖️✈️",
-    "currentVideoId": "6SGEMGz5v_U",
+    "streamTitle": "Arizona Cardinal Team Jet Departs LAS Vegas, 777-200ER, N865DA. Go Raiders!!!!!",
+    "currentVideoId": "JpAEmHiVx-0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 12th August 2026",
-    "currentVideoId": "f2PSNO4zZH4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 13th August 2026",
+    "currentVideoId": "RSIaw41Y-mQ",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
