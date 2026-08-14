@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Thursday 13th August 2026",
-    "currentVideoId": "RSIaw41Y-mQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Friday 14th August 2026",
+    "currentVideoId": "U3WxzVKrWRk",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - PACIFIC AIRSHOW 2026 - GOLD COAST - C17, C-130, YAK-110 (Day 1) with SydSquad - 14.08.26 🔴",
-    "currentVideoId": "-VhcAR5UWnE",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE - PACIFIC AIRSHOW 2026 - GOLD COAST - F-35, C-17, C-130, YAK-110 (Day 2) - 15.08.26 🔴",
+    "currentVideoId": "3SZNlBoxf3c",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
