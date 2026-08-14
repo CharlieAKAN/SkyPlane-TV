@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE - PACIFIC AIRSHOW 2026 - GOLD COAST - C17, C-130, YAK-110 (Day 1) with SydSquad - 14.08.26 🔴",
     "currentVideoId": "-VhcAR5UWnE",
     "airportCode": "SYD",
