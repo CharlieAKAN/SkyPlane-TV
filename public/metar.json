@@ -1,18 +1,33 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 151230Z AUTO 26007KT 9999 // SCT077 13/09 Q1032",
+    "raw": "METAR YSSY 151300Z AUTO 21009KT 9999 // SCT047 BKN077 13/10 Q1032",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 260,
-    "windSpeed": 7,
+    "windDir": 210,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 7700,
+    "temp": 13,
+    "dewpoint": 10,
+    "altimeter": 30.47,
+    "conditions": "",
+    "observationTime": "2026-08-15T13:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 151320Z AUTO 01008KT 320V070 9999 NCD 27/14 Q1017",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 10,
+    "windSpeed": 8,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 13,
-    "dewpoint": 9,
-    "altimeter": 30.47,
+    "temp": 27,
+    "dewpoint": 14,
+    "altimeter": 30.03,
     "conditions": "",
-    "observationTime": "2026-08-15T12:30:00.000Z"
+    "observationTime": "2026-08-15T13:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 151256Z 00000KT 10SM FEW100 FEW200 22/17 A3013 RMK AO2 SLP183 T02170167",
@@ -43,35 +58,5 @@
     "altimeter": 30.04,
     "conditions": "",
     "observationTime": "2026-08-15T13:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 151251Z 16004KT 10SM BKN011 BKN016 OVC024 23/22 A3009 RMK AO2 SLP184 T02330217 $",
-    "icao": "KORD",
-    "flightCategory": "MVFR",
-    "windDir": 160,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 1100,
-    "temp": 23.3,
-    "dewpoint": 21.7,
-    "altimeter": 30.09,
-    "conditions": "",
-    "observationTime": "2026-08-15T13:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 151220Z AUTO 02009KT 320V060 9999 FEW043 26/14 Q1017",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 20,
-    "windSpeed": 9,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 26,
-    "dewpoint": 14,
-    "altimeter": 30.03,
-    "conditions": "",
-    "observationTime": "2026-08-15T12:20:00.000Z"
   }
 }
