@@ -1,4 +1,34 @@
 {
+  "LAS": {
+    "raw": "SPECI KLAS 150437Z 00000KT 10SM VCTS SCT110CB BKN220 24/14 A3012 RMK AO2 TS S MOV N CB DSNT E-SW T02390144",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 0,
+    "windSpeed": 0,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 22000,
+    "temp": 23.9,
+    "dewpoint": 14.4,
+    "altimeter": 30.12,
+    "conditions": "VCTS",
+    "observationTime": "2026-08-15T04:37:00.000Z"
+  },
+  "SYD": {
+    "raw": "METAR YSSY 150430Z 18010KT 9999 FEW014 BKN025 BKN034 16/12 Q1030",
+    "icao": "YSSY",
+    "flightCategory": "MVFR",
+    "windDir": 180,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 2500,
+    "temp": 16,
+    "dewpoint": 12,
+    "altimeter": 30.42,
+    "conditions": "",
+    "observationTime": "2026-08-15T04:30:00.000Z"
+  },
   "LAX": {
     "raw": "METAR KLAX 150453Z 27010KT 10SM SCT015 21/17 A3003 RMK AO2 SLP166 T02060172 $",
     "icao": "KLAX",
@@ -30,48 +60,18 @@
     "observationTime": "2026-08-15T05:00:00.000Z"
   },
   "LHR": {
-    "raw": "METAR EGLL 150420Z AUTO 01006KT 330V050 9999 NCD 21/13 Q1016",
+    "raw": "METAR EGLL 150450Z AUTO 01007KT 330V050 9999 NCD 21/12 Q1016",
     "icao": "EGLL",
     "flightCategory": "VFR",
     "windDir": 10,
-    "windSpeed": 6,
+    "windSpeed": 7,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
     "temp": 21,
-    "dewpoint": 13,
+    "dewpoint": 12,
     "altimeter": 30,
     "conditions": "",
-    "observationTime": "2026-08-15T04:20:00.000Z"
-  },
-  "LAS": {
-    "raw": "SPECI KLAS 150437Z 00000KT 10SM VCTS SCT110CB BKN220 24/14 A3012 RMK AO2 TS S MOV N CB DSNT E-SW T02390144",
-    "icao": "KLAS",
-    "flightCategory": "VFR",
-    "windDir": 0,
-    "windSpeed": 0,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 22000,
-    "temp": 23.9,
-    "dewpoint": 14.4,
-    "altimeter": 30.12,
-    "conditions": "VCTS",
-    "observationTime": "2026-08-15T04:37:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 150400Z 18011KT 9999 FEW012 BKN025 BKN045 16/12 Q1030",
-    "icao": "YSSY",
-    "flightCategory": "MVFR",
-    "windDir": 180,
-    "windSpeed": 11,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 2500,
-    "temp": 16,
-    "dewpoint": 12,
-    "altimeter": 30.42,
-    "conditions": "",
-    "observationTime": "2026-08-15T04:00:00.000Z"
+    "observationTime": "2026-08-15T05:00:00.000Z"
   }
 }
