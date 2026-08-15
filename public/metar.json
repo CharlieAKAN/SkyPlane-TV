@@ -1,18 +1,33 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 151030Z AUTO 23007KT 9999 // NCD 14/09 Q1032",
+    "raw": "METAR YSSY 151100Z AUTO 24008KT 9999 // NCD 13/09 Q1032",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 230,
-    "windSpeed": 7,
+    "windDir": 240,
+    "windSpeed": 8,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
-    "temp": 14,
+    "temp": 13,
     "dewpoint": 9,
     "altimeter": 30.47,
     "conditions": "",
-    "observationTime": "2026-08-15T10:30:00.000Z"
+    "observationTime": "2026-08-15T11:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 151050Z AUTO 36011KT 330V030 9999 NCD 25/15 Q1017",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 360,
+    "windSpeed": 11,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 25,
+    "dewpoint": 15,
+    "altimeter": 30.03,
+    "conditions": "",
+    "observationTime": "2026-08-15T11:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 151056Z 00000KT 10SM SCT050 SCT090 22/17 A3011 RMK AO2 SLP173 T02220167",
@@ -30,48 +45,33 @@
     "observationTime": "2026-08-15T11:00:00.000Z"
   },
   "LAX": {
-    "raw": "SPECI KLAX 151025Z 30006KT 10SM BKN014 OVC019 20/17 A3003 RMK AO2 T02000172 $",
+    "raw": "SPECI KLAX 151046Z 32005KT 10SM BKN015 OVC019 20/17 A3002 RMK AO2 T02000167 $",
     "icao": "KLAX",
     "flightCategory": "MVFR",
-    "windDir": 300,
-    "windSpeed": 6,
+    "windDir": 320,
+    "windSpeed": 5,
     "windGust": null,
     "visibility": 10,
-    "ceiling": 1400,
+    "ceiling": 1500,
     "temp": 20,
-    "dewpoint": 17.2,
-    "altimeter": 30.03,
+    "dewpoint": 16.7,
+    "altimeter": 30.02,
     "conditions": "",
-    "observationTime": "2026-08-15T10:25:00.000Z"
+    "observationTime": "2026-08-15T10:46:00.000Z"
   },
   "ORD": {
-    "raw": "SPECI KORD 151038Z 00000KT 10SM BKN025 OVC100 23/21 A3008 RMK AO2 T02330206 $",
+    "raw": "SPECI KORD 151046Z 00000KT 10SM BKN023 BKN100 OVC250 23/21 A3009 RMK AO2 $",
     "icao": "KORD",
     "flightCategory": "MVFR",
     "windDir": 0,
     "windSpeed": 0,
     "windGust": null,
     "visibility": 10,
-    "ceiling": 2500,
-    "temp": 23.3,
-    "dewpoint": 20.6,
-    "altimeter": 30.08,
+    "ceiling": 2300,
+    "temp": 23,
+    "dewpoint": 21,
+    "altimeter": 30.09,
     "conditions": "",
-    "observationTime": "2026-08-15T10:38:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 151020Z AUTO 05010KT 9999 NCD 25/15 Q1017",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 50,
-    "windSpeed": 10,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 25,
-    "dewpoint": 15,
-    "altimeter": 30.03,
-    "conditions": "",
-    "observationTime": "2026-08-15T10:20:00.000Z"
+    "observationTime": "2026-08-15T10:46:00.000Z"
   }
 }
