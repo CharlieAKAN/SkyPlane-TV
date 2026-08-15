@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "rlPG7XntbJA",
+    "currentVideoId": "CiF9MkpwK4Y",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,8 +11,8 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "BRAND-NEW FedEx 777F Retro Livery Makes LAX Debut!"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (August 16th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
