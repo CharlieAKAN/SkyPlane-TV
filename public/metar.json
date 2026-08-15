@@ -1,9 +1,24 @@
 {
+  "ORD": {
+    "raw": "METAR KORD 151951Z 24006KT 10SM BKN014 BKN022 OVC036 26/23 A3003 RMK AO2 SLP164 T02610228 $",
+    "icao": "KORD",
+    "flightCategory": "MVFR",
+    "windDir": 240,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 1400,
+    "temp": 26.1,
+    "dewpoint": 22.8,
+    "altimeter": 30.03,
+    "conditions": "",
+    "observationTime": "2026-08-15T20:00:00.000Z"
+  },
   "LHR": {
-    "raw": "METAR EGLL 151850Z AUTO 05007KT 020V080 9999 NCD 25/14 Q1017",
+    "raw": "METAR EGLL 151920Z AUTO 06007KT 020V080 9999 NCD 25/14 Q1017",
     "icao": "EGLL",
     "flightCategory": "VFR",
-    "windDir": 50,
+    "windDir": 60,
     "windSpeed": 7,
     "windGust": null,
     "visibility": 6,
@@ -12,7 +27,7 @@
     "dewpoint": 14,
     "altimeter": 30.03,
     "conditions": "",
-    "observationTime": "2026-08-15T19:00:00.000Z"
+    "observationTime": "2026-08-15T19:20:00.000Z"
   },
   "SYD": {
     "raw": "METAR YSSY 151900Z AUTO 35008KT 9999 // FEW011 SCT034 BKN062 11/10 Q1032",
@@ -41,36 +56,6 @@
     "temp": 30,
     "dewpoint": 13.9,
     "altimeter": 30.15,
-    "conditions": "",
-    "observationTime": "2026-08-15T19:00:00.000Z"
-  },
-  "LAX": {
-    "raw": "METAR KLAX 151853Z 26009KT 10SM FEW020 FEW210 SCT270 24/16 A3009 RMK AO2 SLP187 T02390156 $",
-    "icao": "KLAX",
-    "flightCategory": "VFR",
-    "windDir": 260,
-    "windSpeed": 9,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 23.9,
-    "dewpoint": 15.6,
-    "altimeter": 30.09,
-    "conditions": "",
-    "observationTime": "2026-08-15T19:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 151851Z 00000KT 10SM BKN011 BKN019 OVC038 25/23 A3004 RMK AO2 SLP166 T02500228 $",
-    "icao": "KORD",
-    "flightCategory": "MVFR",
-    "windDir": 0,
-    "windSpeed": 0,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 1100,
-    "temp": 25,
-    "dewpoint": 22.8,
-    "altimeter": 30.04,
     "conditions": "",
     "observationTime": "2026-08-15T19:00:00.000Z"
   }
