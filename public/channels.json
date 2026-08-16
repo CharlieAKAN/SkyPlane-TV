@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "OKZag6WqipQ",
+    "currentVideoId": "hL4O0llMgv0",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,7 +26,7 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE FROM CHICAGO O'HARE ✈️ Plane Spotting Sunday"
   },
   {
@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "lQkWYUsMMF8",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
