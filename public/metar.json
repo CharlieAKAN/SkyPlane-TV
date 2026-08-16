@@ -1,1 +1,77 @@
-{}
+{
+  "ORD": {
+    "raw": "METAR KORD 161751Z 31009KT 10SM BKN027 BKN032 BKN250 28/22 A2996 RMK AO2 SLP139 T02830222 10283 20228 50001 $",
+    "icao": "KORD",
+    "flightCategory": "MVFR",
+    "windDir": 310,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 2700,
+    "temp": 28.3,
+    "dewpoint": 22.2,
+    "altimeter": 29.96,
+    "conditions": "",
+    "observationTime": "2026-08-16T18:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 161750Z AUTO 27009KT 240V300 9999 FEW046 25/14 Q1016",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 270,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 25,
+    "dewpoint": 14,
+    "altimeter": 30,
+    "conditions": "",
+    "observationTime": "2026-08-16T18:00:00.000Z"
+  },
+  "SYD": {
+    "raw": "SPECI YSSY 161734Z AUTO 02005KT 9999 -SHRA BKN012 BKN017 OVC022 13/12 Q1035 RESHRA",
+    "icao": "YSSY",
+    "flightCategory": "MVFR",
+    "windDir": 20,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 1200,
+    "temp": 13,
+    "dewpoint": 12,
+    "altimeter": 30.56,
+    "conditions": "-SHRA",
+    "observationTime": "2026-08-16T17:34:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 161756Z 36005KT 10SM FEW120 FEW200 34/13 A3012 RMK AO2 SLP171 T03390133 10339 20244 58000",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 360,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 33.9,
+    "dewpoint": 13.3,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-08-16T18:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 161753Z 26007KT 10SM FEW016 FEW120 23/17 A3009 RMK AO2 SLP186 T02330167 10239 20194 51007 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 260,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 23.3,
+    "dewpoint": 16.7,
+    "altimeter": 30.09,
+    "conditions": "",
+    "observationTime": "2026-08-16T18:00:00.000Z"
+  }
+}
