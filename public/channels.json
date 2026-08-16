@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "hL4O0llMgv0",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE FROM CHICAGO O'HARE ✈️ Plane Spotting Sunday"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Bounce Arrival Of Delta Air Lines Boeing 757-232, N553NW From MSP Minneapolis into LAS Vegas! ✈️",
-    "currentVideoId": "pqmRIkrHUzc",
+    "streamTitle": "Departure Of JSX ATR 42-600, N401JX \"Spirit of Santa Monica\" From LAS Vegas to SMO Santa Monica! 🛩️🌴",
+    "currentVideoId": "7J1KA2sr8E8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
