@@ -1,33 +1,48 @@
 {
   "SYD": {
-    "raw": "SPECI YSSY 161324Z AUTO 15014KT 9999 // BKN011 BKN021 BKN031 14/12 Q1036",
+    "raw": "SPECI YSSY 161400Z AUTO 16007KT 9999 -SHRA SCT041 SCT048 BKN061 13/12 Q1036",
     "icao": "YSSY",
-    "flightCategory": "MVFR",
-    "windDir": 150,
-    "windSpeed": 14,
+    "flightCategory": "VFR",
+    "windDir": 160,
+    "windSpeed": 7,
     "windGust": null,
     "visibility": 6,
-    "ceiling": 1100,
-    "temp": 14,
+    "ceiling": 6100,
+    "temp": 13,
     "dewpoint": 12,
     "altimeter": 30.59,
-    "conditions": "",
-    "observationTime": "2026-08-16T13:24:00.000Z"
+    "conditions": "-SHRA",
+    "observationTime": "2026-08-16T14:00:00.000Z"
   },
   "ORD": {
-    "raw": "SPECI KORD 161320Z 26006KT 3SM BR BKN003 OVC006 23/23 A2997 RMK AO2 T02330233 $",
+    "raw": "METAR KORD 161351Z 26006KT 6SM BR FEW002 BKN008 OVC025 24/23 A2998 RMK AO2 SLP145 T02390233 $",
     "icao": "KORD",
-    "flightCategory": "LIFR",
+    "flightCategory": "IFR",
     "windDir": 260,
     "windSpeed": 6,
     "windGust": null,
-    "visibility": 3,
-    "ceiling": 300,
-    "temp": 23.3,
+    "visibility": 6,
+    "ceiling": 800,
+    "temp": 23.9,
     "dewpoint": 23.3,
-    "altimeter": 29.97,
+    "altimeter": 29.98,
     "conditions": "BR",
-    "observationTime": "2026-08-16T13:20:00.000Z"
+    "observationTime": "2026-08-16T14:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 161350Z AUTO VRB02KT 9999 SCT043 25/14 Q1017",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": null,
+    "windSpeed": 2,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 25,
+    "dewpoint": 14,
+    "altimeter": 30.03,
+    "conditions": "",
+    "observationTime": "2026-08-16T14:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 161356Z 21003KT 10SM FEW200 26/15 A3011 RMK AO2 SLP171 T02560150",
@@ -58,20 +73,5 @@
     "altimeter": 30.06,
     "conditions": "",
     "observationTime": "2026-08-16T14:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 161320Z AUTO 26006KT 220V300 9999 SCT045 25/14 Q1017",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 260,
-    "windSpeed": 6,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 25,
-    "dewpoint": 14,
-    "altimeter": 30.03,
-    "conditions": "",
-    "observationTime": "2026-08-16T13:20:00.000Z"
   }
 }
