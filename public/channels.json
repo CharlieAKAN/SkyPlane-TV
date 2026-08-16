@@ -27,21 +27,21 @@
       "lomax": -87.75
     },
     "streamStatus": "live",
-    "streamTitle": "🔴 LIVE FROM CHICAGO O'HARE ✈️ Plane Spotting Sunday"
+    "streamTitle": "🔴 NEW TRAFFIC PATTERN 22L landings due to airshow - LIVE FROM CHICAGO O'HARE ✈️"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "lQkWYUsMMF8",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {

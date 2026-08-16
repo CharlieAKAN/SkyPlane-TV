@@ -1,1 +1,77 @@
-{}
+{
+  "SYD": {
+    "raw": "SPECI YSSY 161536Z AUTO 14005KT 9999 -SHRA FEW033 SCT041 BKN054 13/12 Q1035",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 140,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 5400,
+    "temp": 13,
+    "dewpoint": 12,
+    "altimeter": 30.56,
+    "conditions": "-SHRA",
+    "observationTime": "2026-08-16T15:36:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 161550Z AUTO 24011KT 9999 NCD 26/15 Q1016",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 240,
+    "windSpeed": 11,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 26,
+    "dewpoint": 15,
+    "altimeter": 30,
+    "conditions": "",
+    "observationTime": "2026-08-16T16:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 161556Z 05004KT 10SM FEW150 FEW200 31/14 A3012 RMK AO2 SLP174 T03060139",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 50,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 30.6,
+    "dewpoint": 13.9,
+    "altimeter": 30.12,
+    "conditions": "",
+    "observationTime": "2026-08-16T16:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "SPECI KLAX 161545Z 25004KT 10SM SCT016 BKN120 22/17 A3008 RMK AO2 T02220172 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 250,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 12000,
+    "temp": 22.2,
+    "dewpoint": 17.2,
+    "altimeter": 30.08,
+    "conditions": "",
+    "observationTime": "2026-08-16T15:45:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 161551Z 28009KT 10SM BKN019 BKN026 BKN150 27/23 A2996 RMK AO2 SLP140 T02670228 $",
+    "icao": "KORD",
+    "flightCategory": "MVFR",
+    "windDir": 280,
+    "windSpeed": 9,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 1900,
+    "temp": 26.7,
+    "dewpoint": 22.8,
+    "altimeter": 29.96,
+    "conditions": "",
+    "observationTime": "2026-08-16T16:00:00.000Z"
+  }
+}
