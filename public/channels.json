@@ -64,8 +64,8 @@
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 15th August 2026",
-    "currentVideoId": "J0f_mXv7okw",
+    "streamTitle": "Heathrow Airport Live - Sunday 16th August 2026",
+    "currentVideoId": "nB4pAkrLBUo",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - PACIFIC AIRSHOW 2026 DAY 2 - GOLD COAST - F-35, C-17, C-130, YAK-110  - 15.08.26 🔴",
-    "currentVideoId": "3SZNlBoxf3c",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 SPECIAL LIVE - PACIFIC AIRSHOW 2026 DAY 3 - GOLD COAST - F-35, MATT HALL & YAK-110 - 16.08.26 🔴",
+    "currentVideoId": "8bWJ1v6suqc",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
