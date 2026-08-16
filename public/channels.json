@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴 PACIFIC AIRSHOW AFTER PARTY - GOLD COAST AIRPORT  🔴",
     "currentVideoId": "9M_OpGkcHUg",
     "airportCode": "SYD",
