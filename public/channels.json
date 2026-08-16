@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 SPECIAL LIVE - PACIFIC AIRSHOW 2026 DAY 3 - GOLD COAST - F-35, MATT HALL & YAK-110 - 16.08.26 🔴",
     "currentVideoId": "8bWJ1v6suqc",
     "airportCode": "SYD",
