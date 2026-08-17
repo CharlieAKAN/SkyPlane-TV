@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamTitle": "BRING THE NOISE!  LIVE: London Heathrow Airport Arr into deps"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Departure Of JSX ATR 42-600, N401JX \"Spirit of Santa Monica\" From LAS Vegas to SMO Santa Monica! 🛩️🌴",
-    "currentVideoId": "7J1KA2sr8E8",
+    "streamTitle": "Arrival Of Air France Airbus A350-900, F-HTYB \"Lyon\" From CDG Paris into LAS Vegas! 🇫🇷✈️",
+    "currentVideoId": "AJfkXU8i7JE",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
