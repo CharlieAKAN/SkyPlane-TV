@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "upcoming",
-    "streamTitle": "🔴LIVE - Royal Thai Air Force A340-500 - Night Plane Spotting @ Sydney Airport! 18.8.26 🔴",
+    "streamTitle": "🔴LIVE - Royal Thai Air Force A340-500 Departure - Night Plane Spotting @ Sydney Airport! 18.8.26 🔴",
     "currentVideoId": "20Mc-9x55IY",
     "airportCode": "SYD",
     "bbox": {
@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE BUSY AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANES",
     "currentVideoId": "y2-e-Qux5yI",
     "airportCode": "ORD",
