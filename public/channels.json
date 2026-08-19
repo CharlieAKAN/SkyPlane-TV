@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - WINDY Tuesday 18th August 2026",
-    "currentVideoId": "nCfKEVbx97o",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 19th August 2026",
+    "currentVideoId": "W32C9kuefGc",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
