@@ -1,4 +1,34 @@
 {
+  "SYD": {
+    "raw": "METAR YSSY 202300Z 27007KT CAVOK 17/12 Q1022",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 270,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 17,
+    "dewpoint": 12,
+    "altimeter": 30.18,
+    "conditions": "",
+    "observationTime": "2026-08-20T23:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 202250Z AUTO 36005KT 330V030 9999 FEW032 16/12 Q1010",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 360,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 16,
+    "dewpoint": 12,
+    "altimeter": 29.83,
+    "conditions": "",
+    "observationTime": "2026-08-20T23:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 202256Z 15006G15KT 10SM FEW110 BKN250 42/07 A2990 RMK AO2 SLP091 T04220072",
     "icao": "KLAS",
@@ -43,35 +73,5 @@
     "altimeter": 30.05,
     "conditions": "",
     "observationTime": "2026-08-20T23:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 202220Z AUTO 36006KT 320V020 9999 FEW030 16/12 Q1009",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 360,
-    "windSpeed": 6,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 16,
-    "dewpoint": 12,
-    "altimeter": 29.8,
-    "conditions": "",
-    "observationTime": "2026-08-20T22:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 202230Z 28006KT CAVOK 17/11 Q1022",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 280,
-    "windSpeed": 6,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 17,
-    "dewpoint": 11,
-    "altimeter": 30.18,
-    "conditions": "",
-    "observationTime": "2026-08-20T22:30:00.000Z"
   }
 }
