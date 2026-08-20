@@ -1,18 +1,33 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 201030Z AUTO 02006KT 9999 // NCD 19/11 Q1023",
+    "raw": "METAR YSSY 201100Z AUTO 35007KT 9999 // NCD 19/10 Q1023",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 20,
-    "windSpeed": 6,
+    "windDir": 350,
+    "windSpeed": 7,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
     "temp": 19,
-    "dewpoint": 11,
+    "dewpoint": 10,
     "altimeter": 30.21,
     "conditions": "",
-    "observationTime": "2026-08-20T10:30:00.000Z"
+    "observationTime": "2026-08-20T11:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 201120Z AUTO 23016KT 9999 //////CB 21/11 Q1005",
+    "icao": "EGLL",
+    "flightCategory": "UNKNOWN",
+    "windDir": 230,
+    "windSpeed": 16,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 21,
+    "dewpoint": 11,
+    "altimeter": 29.68,
+    "conditions": "",
+    "observationTime": "2026-08-20T11:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 201056Z 19006KT 10SM CLR 33/11 A2993 RMK AO2 SLP098 T03330111",
@@ -41,36 +56,6 @@
     "temp": 20,
     "dewpoint": 18.3,
     "altimeter": 29.92,
-    "conditions": "",
-    "observationTime": "2026-08-20T11:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 201051Z 36006KT 10SM FEW250 17/13 A2999 RMK AO2 SLP150 T01670133",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 360,
-    "windSpeed": 6,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 16.7,
-    "dewpoint": 13.3,
-    "altimeter": 29.99,
-    "conditions": "",
-    "observationTime": "2026-08-20T11:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 201050Z AUTO 28016KT 9999 FEW038 SCT044 21/10 Q1005",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 280,
-    "windSpeed": 16,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 21,
-    "dewpoint": 10,
-    "altimeter": 29.68,
     "conditions": "",
     "observationTime": "2026-08-20T11:00:00.000Z"
   }
