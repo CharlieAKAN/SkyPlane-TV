@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "RfIU4HEMVc4",
-    "isLive": true,
+    "currentVideoId": "o_zIhiIvkG8",
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
-    "streamTitle": "LIVE: National Airlines 747 [N936CA] at London Heathrow Airport"
+    "streamStatus": "vod",
+    "streamTitle": "BIG JET TV is live"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
