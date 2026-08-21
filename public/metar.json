@@ -14,6 +14,21 @@
     "conditions": "",
     "observationTime": "2026-08-21T22:00:00.000Z"
   },
+  "LHR": {
+    "raw": "METAR EGLL 212150Z AUTO 03003KT 330V140 9999 NCD 15/09 Q1018",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 30,
+    "windSpeed": 3,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 15,
+    "dewpoint": 9,
+    "altimeter": 30.06,
+    "conditions": "",
+    "observationTime": "2026-08-21T22:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 212156Z 20007KT 10SM FEW110 SCT250 41/09 A2993 RMK AO2 SLP101 CB DSNT NW T04110094",
     "icao": "KLAS",
@@ -56,21 +71,6 @@
     "temp": 26.7,
     "dewpoint": 17.8,
     "altimeter": 29.95,
-    "conditions": "",
-    "observationTime": "2026-08-21T22:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 212150Z AUTO 03003KT 330V140 9999 NCD 15/09 Q1018",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 30,
-    "windSpeed": 3,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 15,
-    "dewpoint": 9,
-    "altimeter": 30.06,
     "conditions": "",
     "observationTime": "2026-08-21T22:00:00.000Z"
   }
