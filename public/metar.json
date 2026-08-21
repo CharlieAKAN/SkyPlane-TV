@@ -1,18 +1,33 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 212230Z 31006KT CAVOK 16/09 Q1021",
+    "raw": "METAR YSSY 212300Z 28008KT CAVOK 16/08 Q1021",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 310,
-    "windSpeed": 6,
+    "windDir": 280,
+    "windSpeed": 8,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
     "temp": 16,
-    "dewpoint": 9,
+    "dewpoint": 8,
     "altimeter": 30.15,
     "conditions": "",
-    "observationTime": "2026-08-21T22:30:00.000Z"
+    "observationTime": "2026-08-21T23:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 212250Z AUTO 35005KT 320V030 9999 NCD 15/09 Q1018",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 350,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 15,
+    "dewpoint": 9,
+    "altimeter": 30.06,
+    "conditions": "",
+    "observationTime": "2026-08-21T23:00:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 212256Z VRB03KT 10SM FEW110 SCT250 41/09 A2991 RMK AO2 SLP092 T04110094",
@@ -56,21 +71,6 @@
     "temp": 25,
     "dewpoint": 17.8,
     "altimeter": 29.95,
-    "conditions": "",
-    "observationTime": "2026-08-21T23:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 212250Z AUTO 35005KT 320V030 9999 NCD 15/09 Q1018",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 350,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 15,
-    "dewpoint": 9,
-    "altimeter": 30.06,
     "conditions": "",
     "observationTime": "2026-08-21T23:00:00.000Z"
   }
