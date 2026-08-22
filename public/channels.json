@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "3YLnbIeUfG0",
+    "currentVideoId": "8ldKRAfqPEY",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,8 +26,8 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE: NONSTOP O’HARE ACTION ✈️🔥 | Plane Spotting | Real-Time Airport Traffic"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE CHICAGO O’HARE ACTION ✈️🔥 | Plane Spotting | Real-Time Airport Traffic"
   },
   {
     "channelName": "Big Jet TV (LHR)",
