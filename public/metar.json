@@ -1,4 +1,19 @@
 {
+  "LHR": {
+    "raw": "METAR EGLL 222050Z AUTO 09005KT 9999 NCD 16/06 Q1024",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 90,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 16,
+    "dewpoint": 6,
+    "altimeter": 30.24,
+    "conditions": "",
+    "observationTime": "2026-08-22T21:00:00.000Z"
+  },
   "LAS": {
     "raw": "METAR KLAS 222056Z 10SM FEW120 SCT200 42/07 A2994 RMK AO2 SLP102 TCU DSNT N T04170067 58025",
     "icao": "KLAS",
@@ -13,6 +28,21 @@
     "altimeter": 29.94,
     "conditions": "",
     "observationTime": "2026-08-22T21:00:00.000Z"
+  },
+  "SYD": {
+    "raw": "METAR YSSY 222030Z 32006KT 9999 VCSH FEW025 SCT050 BKN065 13/07 Q1027",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 320,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 6500,
+    "temp": 13,
+    "dewpoint": 7,
+    "altimeter": 30.33,
+    "conditions": "VCSH",
+    "observationTime": "2026-08-22T20:30:00.000Z"
   },
   "LAX": {
     "raw": "METAR KLAX 222053Z 25011KT 10SM FEW120 27/18 A2994 RMK AO2 SLP138 T02670178 58010 $",
@@ -43,35 +73,5 @@
     "altimeter": 29.93,
     "conditions": "",
     "observationTime": "2026-08-22T21:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 222020Z AUTO 07004KT 9999 NCD 19/06 Q1024",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 70,
-    "windSpeed": 4,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 19,
-    "dewpoint": 6,
-    "altimeter": 30.24,
-    "conditions": "",
-    "observationTime": "2026-08-22T20:20:00.000Z"
-  },
-  "SYD": {
-    "raw": "METAR YSSY 222000Z 30005KT 9999 VCSH FEW025 BKN040 BKN065 13/07 Q1026",
-    "icao": "YSSY",
-    "flightCategory": "VFR",
-    "windDir": 300,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": 4000,
-    "temp": 13,
-    "dewpoint": 7,
-    "altimeter": 30.3,
-    "conditions": "VCSH",
-    "observationTime": "2026-08-22T20:00:00.000Z"
   }
 }
