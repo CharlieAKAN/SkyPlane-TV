@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 22nd August 2026",
-    "currentVideoId": "ZbJDld2kvQQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 23rd August 2026",
+    "currentVideoId": "fiS0AohSoj8",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -93,9 +93,9 @@
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE BUSY AIRPORT ACTION & BIG FIREWORKS SHOW at CHICAGO O'HARE | ORD AVGEEK PLANE SPOTTING",
-    "currentVideoId": "llb2HfR4byE",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE CHASING BIG PLANES BLASTING OFF & LANDING at CHICAGO O'HARE AIRPORT |ORD AVGEEK PLANE SPOTTING",
+    "currentVideoId": "adf0ftZZMGk",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
