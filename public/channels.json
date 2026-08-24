@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "_ioOAG6-RN8",
-    "isLive": false,
+    "currentVideoId": "Fr2w9VpAU-Q",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamStatus": "live",
+    "streamTitle": "Taking part in the @YouTube Creator Golf Cup 2026 @YouTubeCreators #youtubecreatorcollective"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
