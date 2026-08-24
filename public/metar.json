@@ -1,18 +1,48 @@
 {
+  "ORD": {
+    "raw": "METAR KORD 241951Z 30007KT 10SM FEW060 FEW250 25/11 A3005 RMK AO2 SLP174 T02500106 $",
+    "icao": "KORD",
+    "flightCategory": "VFR",
+    "windDir": 300,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 25,
+    "dewpoint": 10.6,
+    "altimeter": 30.05,
+    "conditions": "",
+    "observationTime": "2026-08-24T20:00:00.000Z"
+  },
   "SYD": {
-    "raw": "METAR YSSY 241830Z AUTO 01006KT 9999 // NCD 16/14 Q1018",
+    "raw": "METAR YSSY 241900Z AUTO 35006KT 9999 // NCD 16/13 Q1018",
     "icao": "YSSY",
     "flightCategory": "VFR",
-    "windDir": 10,
+    "windDir": 350,
     "windSpeed": 6,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
     "temp": 16,
-    "dewpoint": 14,
+    "dewpoint": 13,
     "altimeter": 30.06,
     "conditions": "",
-    "observationTime": "2026-08-24T18:30:00.000Z"
+    "observationTime": "2026-08-24T19:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 241920Z AUTO 07012KT 040V100 9999 NCD 18/09 Q1015",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 70,
+    "windSpeed": 12,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 18,
+    "dewpoint": 9,
+    "altimeter": 29.97,
+    "conditions": "",
+    "observationTime": "2026-08-24T19:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 241856Z 18007G15KT 10SM FEW120 FEW170 SCT220 39/05 A3001 RMK AO2 SLP126 T03940050",
@@ -28,50 +58,5 @@
     "altimeter": 30.01,
     "conditions": "",
     "observationTime": "2026-08-24T19:00:00.000Z"
-  },
-  "LAX": {
-    "raw": "METAR KLAX 241853Z 26011KT 10SM FEW025 SCT060 BKN120 28/19 A2995 RMK AO2 SLP140 T02780194 $",
-    "icao": "KLAX",
-    "flightCategory": "VFR",
-    "windDir": 260,
-    "windSpeed": 11,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": 12000,
-    "temp": 27.8,
-    "dewpoint": 19.4,
-    "altimeter": 29.95,
-    "conditions": "",
-    "observationTime": "2026-08-24T19:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 241851Z 30007KT 10SM FEW060 FEW250 26/12 A3007 RMK AO2 SLP181 T02560117",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 300,
-    "windSpeed": 7,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 25.6,
-    "dewpoint": 11.7,
-    "altimeter": 30.07,
-    "conditions": "",
-    "observationTime": "2026-08-24T19:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 241820Z AUTO 08013KT 050V110 9999 NCD 19/08 Q1015",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 80,
-    "windSpeed": 13,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 19,
-    "dewpoint": 8,
-    "altimeter": 29.97,
-    "conditions": "",
-    "observationTime": "2026-08-24T18:20:00.000Z"
   }
 }
