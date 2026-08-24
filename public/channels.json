@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "Taking part in the @YouTube Creator Golf Cup 2026 @YouTubeCreators #youtubecreatorcollective"
+    "streamTitle": "BIG JET TV in the @YouTube Creator Golf Cup 2026 @YouTubeCreators #youtubecreatorcollective"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - WINDY Monday 24th August 2026",
     "currentVideoId": "Ln08U_BeWko",
     "airportCode": "LHR",
