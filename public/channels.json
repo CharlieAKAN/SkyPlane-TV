@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE CHASING BIG PLANES BLASTING OFF & LANDING at CHICAGO O'HARE AIRPORT |ORD AVGEEK PLANE SPOTTING",
     "currentVideoId": "adf0ftZZMGk",
     "airportCode": "ORD",
