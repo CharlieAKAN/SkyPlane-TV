@@ -1,10 +1,10 @@
 {
   "SYD": {
-    "raw": "METAR YSSY 250330Z 04010KT 9999 -RA NSC 18/16 Q1016",
+    "raw": "METAR YSSY 250400Z 04012KT 9999 -RA NSC 18/16 Q1016 RERA",
     "icao": "YSSY",
     "flightCategory": "VFR",
     "windDir": 40,
-    "windSpeed": 10,
+    "windSpeed": 12,
     "windGust": null,
     "visibility": 6,
     "ceiling": null,
@@ -12,7 +12,22 @@
     "dewpoint": 16,
     "altimeter": 30,
     "conditions": "-RA",
-    "observationTime": "2026-08-25T03:30:00.000Z"
+    "observationTime": "2026-08-25T04:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 250420Z AUTO 06007KT 9999 NCD 15/12 Q1013",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 60,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 15,
+    "dewpoint": 12,
+    "altimeter": 29.91,
+    "conditions": "",
+    "observationTime": "2026-08-25T04:20:00.000Z"
   },
   "LAS": {
     "raw": "METAR KLAS 250356Z VRB03KT 10SM FEW120 FEW160 SCT200 37/08 A2996 RMK AO2 SLP111 T03670083",
@@ -28,50 +43,5 @@
     "altimeter": 29.96,
     "conditions": "",
     "observationTime": "2026-08-25T04:00:00.000Z"
-  },
-  "LAX": {
-    "raw": "METAR KLAX 250353Z VRB05KT 10SM FEW130 SCT170 23/19 A2991 RMK AO2 SLP126 T02330189 $",
-    "icao": "KLAX",
-    "flightCategory": "VFR",
-    "windDir": null,
-    "windSpeed": 5,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 23.3,
-    "dewpoint": 18.9,
-    "altimeter": 29.91,
-    "conditions": "",
-    "observationTime": "2026-08-25T04:00:00.000Z"
-  },
-  "ORD": {
-    "raw": "METAR KORD 250351Z 00000KT 10SM FEW200 FEW250 19/13 A3009 RMK AO2 SLP186 T01940133 $",
-    "icao": "KORD",
-    "flightCategory": "VFR",
-    "windDir": 0,
-    "windSpeed": 0,
-    "windGust": null,
-    "visibility": 10,
-    "ceiling": null,
-    "temp": 19.4,
-    "dewpoint": 13.3,
-    "altimeter": 30.09,
-    "conditions": "",
-    "observationTime": "2026-08-25T04:00:00.000Z"
-  },
-  "LHR": {
-    "raw": "METAR EGLL 250320Z AUTO 06008KT 9999 NCD 16/12 Q1013",
-    "icao": "EGLL",
-    "flightCategory": "VFR",
-    "windDir": 60,
-    "windSpeed": 8,
-    "windGust": null,
-    "visibility": 6,
-    "ceiling": null,
-    "temp": 16,
-    "dewpoint": 12,
-    "altimeter": 29.91,
-    "conditions": "",
-    "observationTime": "2026-08-25T03:20:00.000Z"
   }
 }
