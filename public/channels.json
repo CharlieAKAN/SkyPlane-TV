@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "i43gnv_FvAM",
+    "currentVideoId": "hQA1bCI3pAM",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -12,13 +12,13 @@
       "lomax": -118.25
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (August 23rd, 2026)"
+    "streamTitle": "🚨 BREAKING NEWS OUT OF LAX!"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "8ldKRAfqPEY",
+    "currentVideoId": "UgTEttDLCT0",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE CHICAGO O’HARE ACTION ✈️🔥 | Plane Spotting | Real-Time Airport Traffic"
+    "streamTitle": "You Can’t Beat a 747 Arrival at O'Hare"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Go-Around! American Airlines Airbus A321, N928AM Arrival into LAS Vegas! ✈️",
-    "currentVideoId": "j3b-uHDktmI",
+    "streamTitle": "\"Piz Bernina\" Crab Approach Edelweiss Air Airbus A350-941, HB-IHF  From ZuRicH into LAS Vegas! 🇨🇭✈️",
+    "currentVideoId": "5-i2eCHXQlk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Thursday 27th August 2026",
-    "currentVideoId": "-CEj5ws5v10",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Friday 28th August 2026",
+    "currentVideoId": "ISPvGlcPM7k",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - Morning International Takeoff Rush - Plane Spotting @ Sydney Airport! 21.8.26 🔴",
-    "currentVideoId": "-YLPp7w9J84",
+    "streamTitle": "🔴LIVE - Sydney Airport Plane Spotting with SydSquad! 28.8.26 🔴",
+    "currentVideoId": "Af-_G-hE-Dw",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
