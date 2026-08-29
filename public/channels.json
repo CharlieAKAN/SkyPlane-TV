@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "wyHldE5d_5E",
+    "currentVideoId": "Jsn9eyspY64",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamStatus": "upcoming",
+    "streamTitle": "The SIM Challenge - KBOS to KLGA [Boston to Laguardia]"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Piz Bernina\" Crab Approach Edelweiss Air Airbus A350-941, HB-IHF  From ZuRicH into LAS Vegas! 🇨🇭✈️",
-    "currentVideoId": "5-i2eCHXQlk",
+    "streamTitle": "Jet Skids Off Runway During Aborted Runway Into Dirt At LAS Vegas Airport. SkyCare Westwind, C-GIAW.",
+    "currentVideoId": "AjuKPqK-Gz0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Friday 28th August 2026",
     "currentVideoId": "ISPvGlcPM7k",
     "airportCode": "LHR",
