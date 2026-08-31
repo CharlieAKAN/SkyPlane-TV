@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Runway Emergency: Aircraft Off-Track, Fuel Leak! #shorts",
-    "currentVideoId": "3g6m2IrVJDY",
+    "streamTitle": "Emergency At 31,000' feet! United 757, N34131 Diverted Into LAS Vegas After Engine Issue. LAX to EWR",
+    "currentVideoId": "2-WOttkJP-Q",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE Action tonight - SydSquad Plane-Spotting at Sydney Airport SYD/YSSY - 31.08.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴 Night Action! SydSquad Plane-Spotting at Sydney Airport SYD/YSSY with KURT and MICK - 31.08.26 🔴",
     "currentVideoId": "fI2BOOylZ7o",
     "airportCode": "SYD",
     "bbox": {
