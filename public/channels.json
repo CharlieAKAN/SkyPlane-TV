@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 30th August 2026",
-    "currentVideoId": "VR0bVD7hX_M",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 31st August 2026",
+    "currentVideoId": "4sK0DqkOY_8",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE Action tonight - SydSquad Plane-Spotting at Sydney Airport SYD/YSSY - 31.08.26 🔴",
     "currentVideoId": "fI2BOOylZ7o",
     "airportCode": "SYD",
