@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - WINDY Tuesday 1st September 2026",
-    "currentVideoId": "e4LS9nHclvc",
+    "currentVideoId": "R6zVikJMBLE",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
