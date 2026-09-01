@@ -26,14 +26,14 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE from CHICAGO O’HARE ✈️🔥 | Plane Spotting | Real-Time Airport Traffic"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "M_7-F5IB9gY",
+    "currentVideoId": "UITjMTk79sc",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamTitle": "BIG JET TV is live AS101 Push & start"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -64,7 +64,7 @@
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "isLive": true,
     "streamStatus": "live",
-    "streamTitle": "Heathrow Airport Live - Tuesday 1st September 2026",
+    "streamTitle": "Heathrow Airport Live - WINDY Tuesday 1st September 2026",
     "currentVideoId": "e4LS9nHclvc",
     "airportCode": "LHR",
     "bbox": {
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴LIVE - SydSquad on Tour Plane Spotting @ Tokyo Haneda Airport! 1.9.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴LIVE - Night Plane Spotting @ Tokyo Haneda Airport! 1.9.26 🔴",
     "currentVideoId": "slUGUIPH9k4",
     "airportCode": "HND",
     "bbox": {
