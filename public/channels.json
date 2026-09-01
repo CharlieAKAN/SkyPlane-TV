@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "pdNrg8-b3xI",
+    "currentVideoId": "iYYAG5i--YI",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,8 +26,8 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "[v] 🔴  LIVE: NONSTOP TRAFFIC at the WORLD’S BUSIEST AIRPORT ✈️🔥CHICAGO O'HARE"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE from CHICAGO O’HARE ✈️🔥 | Plane Spotting | Real-Time Airport Traffic"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 31st August 2026",
-    "currentVideoId": "4sK0DqkOY_8",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 1st September 2026",
+    "currentVideoId": "e4LS9nHclvc",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,16 +77,16 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 Night Action! SydSquad Plane-Spotting at Sydney Airport SYD/YSSY with KURT and MICK - 31.08.26 🔴",
-    "currentVideoId": "fI2BOOylZ7o",
-    "airportCode": "SYD",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - SydSquad on Tour Plane Spotting @ Tokyo Haneda Airport! 1.9.26 🔴",
+    "currentVideoId": "slUGUIPH9k4",
+    "airportCode": "HND",
     "bbox": {
-      "lamin": -34.09,
-      "lamax": -33.79,
-      "lomin": 151.02,
-      "lomax": 151.32
+      "lamin": 35.55,
+      "lamax": 35.56,
+      "lomin": 139.77,
+      "lomax": 139.79
     }
   },
   {
