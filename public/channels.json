@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - CROSSWIND Wednesday 2nd September 2026",
-    "currentVideoId": "R6zVikJMBLE",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - WINDY Thursday 3rd September 2026",
+    "currentVideoId": "bIoXokLpxzQ",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴LIVE - SYDSQUAD - Tokyo Haneda Airport Night Plane Spotting! 3.9.26 🔴",
-    "currentVideoId": "iXgo6gbup8o",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 PART 2- LIVE NOW - Tokyo Haneda Airport Night Plane Spotting with TIM! 03.09.26 🔴",
+    "currentVideoId": "2ODvJqjpUBk",
     "airportCode": "HND",
     "bbox": {
       "lamin": 35.55,
