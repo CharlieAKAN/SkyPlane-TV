@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Climb Out! FedEx Boeing 767-300, N259FE From LAS Vegas to MEMphis! 🇺🇸✈️",
-    "currentVideoId": "3w3aP1fWC0U",
+    "streamTitle": "Arrival Of Frontier Airbus A320neo, N385FR From LAX Los Angeles into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "JikYkK9NlkQ",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -64,7 +64,7 @@
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "isLive": true,
     "streamStatus": "live",
-    "streamTitle": "Heathrow Airport Live - Friday 4th September 2026",
+    "streamTitle": "Heathrow Airport Live - WINDY Friday 4th September 2026",
     "currentVideoId": "mQK6lEbEYSs",
     "airportCode": "LHR",
     "bbox": {
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴LIVE - SydSquad - Final Tokyo Haneda Airport Plane Spotting Show! 04.09.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴LIVE - HEAVY RAIN @ Tokyo Haneda Airport Plane Spotting Show! 04.09.26 🔴",
     "currentVideoId": "o5UTMsvFvac",
     "airportCode": "SYD",
     "bbox": {
