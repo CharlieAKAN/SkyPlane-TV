@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "vS-gaklyQiY",
-    "isLive": false,
+    "currentVideoId": "dC-2Cg_aBfA",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴 LIVE: LABOR DAY WEEKEND RUSH at O’Hare ✈️🔥 | Plane Spotting"
+    "streamStatus": "live",
+    "streamTitle": "[v] 🔴  LIVE: NONSTOP TRAFFIC ✈️🔥at CHICAGO O'HARE"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -65,7 +65,7 @@
     "isLive": false,
     "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - WINDY Friday 4th September 2026",
-    "currentVideoId": "U1WLEzXrtXI",
+    "currentVideoId": "mQK6lEbEYSs",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
