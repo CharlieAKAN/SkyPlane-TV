@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "UITjMTk79sc",
-    "isLive": false,
+    "currentVideoId": "qzwYiyW0x5E",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "BIG JET TV is live AS101 Push & start"
+    "streamStatus": "live",
+    "streamTitle": "MEMBERS ONLY: Anchorage Day One - Part Three"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 PART 2- Tokyo Haneda Airport Night Plane Spotting with TIM! 03.09.26 🔴",
-    "currentVideoId": "2ODvJqjpUBk",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - Lufthansa '100 Years' Boeing 747-8 - Tokyo Haneda Airport Plane Spotting! 04.09.26 🔴",
+    "currentVideoId": "SOUUD1IzLnA",
     "airportCode": "HND",
     "bbox": {
       "lamin": 35.55,
