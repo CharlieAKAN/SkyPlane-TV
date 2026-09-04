@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "qzwYiyW0x5E",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "MEMBERS ONLY: Anchorage Day One - Part Three"
   },
   {
@@ -77,23 +77,23 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴LIVE - Lufthansa '100 Years' Boeing 747-8 - Tokyo Haneda Airport Plane Spotting! 04.09.26 🔴",
-    "currentVideoId": "SOUUD1IzLnA",
-    "airportCode": "HND",
+    "isLive": false,
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE - SydSquad - Final Tokyo Haneda Airport Plane Spotting Show! 04.09.26 🔴",
+    "currentVideoId": "o5UTMsvFvac",
+    "airportCode": "SYD",
     "bbox": {
-      "lamin": 35.55,
-      "lamax": 35.56,
-      "lomin": 139.77,
-      "lomax": 139.79
+      "lamin": -34.09,
+      "lamax": -33.79,
+      "lomin": 151.02,
+      "lomax": 151.32
     }
   },
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE BUSY HOLIDAY RUSH, BIG PLANES, BIG FIREWORKS, BIG SHOW | CHICAGO O'HARE AIRPORT |AVGEEK PLANES",
     "currentVideoId": "SqH-3SU6p10",
     "airportCode": "ORD",
