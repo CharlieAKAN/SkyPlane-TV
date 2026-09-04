@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "5PpYEHZ-0gQ",
+    "currentVideoId": "vS-gaklyQiY",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,8 +26,8 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE from Chicago O’Hare ✈️ Catching the Morning Rush at ORD"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE: LABOR DAY WEEKEND RUSH at O’Hare ✈️🔥 | Plane Spotting"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Arrival Of Frontier Airbus A320neo, N385FR From LAX Los Angeles into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "JikYkK9NlkQ",
+    "streamTitle": "\"Stars And Stripes\" United Boeing 737-800, N78285 From San FranciscO into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "QChd3p45UxU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - WINDY Friday 4th September 2026",
-    "currentVideoId": "mQK6lEbEYSs",
+    "currentVideoId": "U1WLEzXrtXI",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
