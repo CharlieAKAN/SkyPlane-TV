@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "qzwYiyW0x5E",
+    "currentVideoId": "UITjMTk79sc",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "MEMBERS ONLY: Anchorage Day One - Part Three"
+    "streamTitle": "BIG JET TV is live AS101 Push & start"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -62,9 +62,9 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - WINDY Thursday 3rd September 2026",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Friday 4th September 2026",
     "currentVideoId": "mQK6lEbEYSs",
     "airportCode": "LHR",
     "bbox": {
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴LIVE - SydSquad - Final Tokyo Haneda Airport Plane Spotting Show! 04.09.26 🔴",
     "currentVideoId": "o5UTMsvFvac",
     "airportCode": "SYD",
