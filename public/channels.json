@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "_CfwXTHojHA",
-    "isLive": false,
+    "currentVideoId": "_cbSroTsRRY",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴 LIVE: LABOR DAY WEEKEND RUSH at O’Hare ✈️"
+    "streamStatus": "live",
+    "streamTitle": "[v] 🔴  LIVE: NONSTOP TRAFFIC ✈️🔥at CHICAGO O'HARE"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE BUSY HOLIDAY RUSH at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
     "currentVideoId": "kPR4ue_ghwM",
     "airportCode": "ORD",
