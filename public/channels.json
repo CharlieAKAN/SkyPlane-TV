@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "dC-2Cg_aBfA",
+    "currentVideoId": "_CfwXTHojHA",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,8 +26,8 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "[v] 🔴  LIVE: NONSTOP TRAFFIC ✈️🔥at CHICAGO O'HARE"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE: LABOR DAY WEEKEND RUSH at O’Hare ✈️"
   },
   {
     "channelName": "Big Jet TV (LHR)",
