@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Arrival Of Hawaiian Airbus A330-200, N393HA From HONOLulu into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "T2Onv_TGGnY",
+    "streamTitle": "Night Departure! Discover Airlines Airbus A330-300, D-AIKH From LAS Vegas to FRAnkfurt! 🇩🇪✈️",
+    "currentVideoId": "3j69elWB3i4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 5th September 2026",
-    "currentVideoId": "U1WLEzXrtXI",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 6th September 2026",
+    "currentVideoId": "bb2gHZF2p5I",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴HEAVY RAIN @ Tokyo Haneda Airport - Plane Spotting - with a side of Osprey's @ Sydney 04.09.26 🔴",
-    "currentVideoId": "o5UTMsvFvac",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE Night Action! SydSquad Plane-Spotting at Sydney Airport SYD YSSY - 06.09.26 🔴",
+    "currentVideoId": "utdf6NXyoGk",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
