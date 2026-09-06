@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "gmlmha5Xwqc",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (September 6th, 2026)"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Night Departure! Discover Airlines Airbus A330-300, D-AIKH From LAS Vegas to FRAnkfurt! 🇩🇪✈️",
-    "currentVideoId": "3j69elWB3i4",
+    "streamTitle": "Arrival Of Korean Air Boeing 777-300ER, HL8011 From ICN Seoul into LAS Vegas! 🇰🇷✈️",
+    "currentVideoId": "WO98BaE8qUk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE Night Action! SydSquad Plane-Spotting at Sydney Airport SYD YSSY - 06.09.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴 MEGA Night Action! SydSquad Plane-Spotting at Sydney Airport SYD with KURT n STOCKO  - 06.09.26 🔴",
     "currentVideoId": "utdf6NXyoGk",
     "airportCode": "SYD",
     "bbox": {
@@ -95,7 +95,7 @@
     "isLive": false,
     "streamStatus": "vod",
     "streamTitle": "🔴LIVE BUSY HOLIDAY RUSH at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
-    "currentVideoId": "4jcwcb-ylMI",
+    "currentVideoId": "kPR4ue_ghwM",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
