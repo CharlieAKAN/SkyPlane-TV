@@ -19,15 +19,15 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "d56QIEOfbY0",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE NONSTOP O’HARE ACTION ✈️🔥 | Plane Spotting | Real-Time Airport Traffic"
+    "streamStatus": "vod",
+    "streamTitle": "747s, Heavy Jets & O’Hare Action ✈️🔥 | Chicago Plane Spotting (Sep 8, 2026)"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LOADED Night Action! SydSquad Plane-Spotting at Sydney Airport SYD with KURT - 08.09.26 🔴",
+    "streamTitle": "🔴 Emirates B777 Flag livery. Captain Emily A380. NSW Police wave. Sydney Airport planes - 08.09.26 🔴",
     "currentVideoId": "3UKwxs4Ri34",
     "airportCode": "SYD",
     "bbox": {
