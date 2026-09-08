@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "d56QIEOfbY0",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE NONSTOP O’HARE ACTION ✈️🔥 | Plane Spotting | Real-Time Airport Traffic"
   },
   {
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE Night Action! SydSquad Plane-Spotting at Sydney Airport SYD - 08.09.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴 LOADED Night Action! SydSquad Plane-Spotting at Sydney Airport SYD with KURT - 08.09.26 🔴",
     "currentVideoId": "3UKwxs4Ri34",
     "airportCode": "SYD",
     "bbox": {
