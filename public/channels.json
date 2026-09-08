@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "_CfwXTHojHA",
+    "currentVideoId": "d56QIEOfbY0",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -26,8 +26,8 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE: LABOR DAY WEEKEND RUSH at O’Hare ✈️"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE NONSTOP O’HARE ACTION ✈️🔥 | Plane Spotting | Real-Time Airport Traffic"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 MEGA Night Action! SydSquad Plane-Spotting at Sydney Airport SYD with KURT n STOCKO  - 06.09.26 🔴",
-    "currentVideoId": "utdf6NXyoGk",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE Night Action! SydSquad Plane-Spotting at Sydney Airport SYD - 08.09.26 🔴",
+    "currentVideoId": "3UKwxs4Ri34",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
