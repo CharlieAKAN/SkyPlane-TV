@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Hop Climb! JSX Embraer ERJ-145, N922JX From LAS Vegas to BURbank! 🇺🇸✈️",
-    "currentVideoId": "Izc-MYzOSxM",
+    "streamTitle": "Pencil Jet Arrival! Delta Boeing 757-200, N658DL From MSP Minneapolis into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "_L2hv5x97kM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 8th September 2026",
-    "currentVideoId": "yn2MOcAMoYw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 9th September 2026",
+    "currentVideoId": "QPa9qEyHCDE",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 Emirates B777 Flag livery. Captain Emily A380. NSW Police wave. Sydney Airport planes - 08.09.26 🔴",
-    "currentVideoId": "3UKwxs4Ri34",
+    "streamTitle": "🔵#LiveChatReacts - ANA Pokemon 787 @ Tokyo Haneda with SydSquad!🔵",
+    "currentVideoId": "b5et7Pc0W98",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
