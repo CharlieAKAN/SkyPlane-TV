@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "9b3tRtfNK2g",
-    "isLive": false,
+    "currentVideoId": "0ujYQhAQYpI",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "BTS: Anchorage Ted Stevens Intl Airport & Lake Hood Seaplane Base"
+    "streamStatus": "live",
+    "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE BUSY HOLIDAY RUSH at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
-    "currentVideoId": "kPR4ue_ghwM",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE RAINY AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
+    "currentVideoId": "6OWE_Fv71mE",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
