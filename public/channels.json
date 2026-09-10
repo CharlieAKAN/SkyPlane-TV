@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "Heathrow Airport Live - Thursday 10th September 2026",
-    "currentVideoId": "w2KxDlxGsY0",
+    "currentVideoId": "2oC3iPGa65s",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
