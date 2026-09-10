@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Game Day Invasion! Delta Airbus A321-211, N379DN From DTW Detroit into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "RJ7h1zK_NWk",
+    "streamTitle": "Arrival Of Air France Airbus A350-900, F-HUVT From CDG Paris into LAS Vegas! 🇷✈️",
+    "currentVideoId": "mVHSLH4X0_I",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Thursday 10th September 2026",
     "currentVideoId": "2oC3iPGa65s",
     "airportCode": "LHR",
