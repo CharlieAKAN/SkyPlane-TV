@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Prime Air Climb Out! Amazon Boeing 737-800BCF, N5227A From LAS Vegas to AFW Fort Worth! 🇺🇸✈️",
-    "currentVideoId": "sd7OMIBjzf8",
+    "streamTitle": "Purple Neo! Volaris Airbus A321-271NX, XA-XXV From MEXico City into LAS Vegas! 🇲🇽✈️",
+    "currentVideoId": "HgMaPFULAvo",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Friday 11th September 2026",
     "currentVideoId": "WNPnxZp3xvE",
     "airportCode": "LHR",
