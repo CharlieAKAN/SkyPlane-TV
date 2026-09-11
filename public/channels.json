@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "d56QIEOfbY0",
-    "isLive": false,
+    "currentVideoId": "aTN6vCrSPuA",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "747s, Heavy Jets & O’Hare Action ✈️🔥 | Chicago Plane Spotting (Sep 8, 2026)"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE Planespotting @ ORD with ATC (Chicago O'Hare International Airport)"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔵#LiveChatReacts - ANA Pokemon 787 @ Tokyo Haneda with SydSquad!🔵",
-    "currentVideoId": "b5et7Pc0W98",
+    "streamTitle": "🔴 LIVE Plane Spotting at Sydney Airport - 11.09.26 🔴",
+    "currentVideoId": "v_RVFRU58OA",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
