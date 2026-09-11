@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Arrival Of Air France Airbus A350-900, F-HUVT From CDG Paris into LAS Vegas! 🇷✈️",
-    "currentVideoId": "mVHSLH4X0_I",
+    "streamTitle": "Prime Air Climb Out! Amazon Boeing 737-800BCF, N5227A From LAS Vegas to AFW Fort Worth! 🇺🇸✈️",
+    "currentVideoId": "sd7OMIBjzf8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Thursday 10th September 2026",
-    "currentVideoId": "2oC3iPGa65s",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Friday 11th September 2026",
+    "currentVideoId": "WNPnxZp3xvE",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
