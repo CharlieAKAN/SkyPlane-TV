@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE BIG PLANES & BIG FIREWORKS SHOW | CHICAGO O'HARE INTERNATIONAL AIRPORT | AVGEEK PLANE SPOTTING",
     "currentVideoId": "LTUavqpeKS0",
     "airportCode": "ORD",
