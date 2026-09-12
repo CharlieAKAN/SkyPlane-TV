@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "D2iNwoBkxTY",
+    "currentVideoId": "jVGsKY2_Sqs",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "The SIM Challenge - KLAX to KOAK Los Angeles to Oakland]"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Widebody Arrival! Korean Air Boeing 777-300ER, HL8041 From InCheoN into LAS Vegas! 🇰🇷✈️",
-    "currentVideoId": "ImxKnslTEhE",
+    "streamTitle": "Blue Sea Stripes! Condor Airbus A330-900neo, D-ANRC From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
+    "currentVideoId": "CYd17zz80m0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - CROSSWIND Saturday 12th September 2026",
     "currentVideoId": "CmjDiQ6ueBc",
     "airportCode": "LHR",
