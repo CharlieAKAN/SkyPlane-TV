@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "Gl2GkS1xPwM",
+    "currentVideoId": "YUzFtL2AkOw",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Live Plane Spotting & Real-Time Airport Traffic"
+    "streamTitle": "[v] 🔴  LIVE: at CHICAGO O'HARE"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Purple Neo! Volaris Airbus A321-271NX, XA-XXV From MEXico City into LAS Vegas! 🇲🇽✈️",
-    "currentVideoId": "HgMaPFULAvo",
+    "streamTitle": "VGK Special + Pencil Jet! KaiserAir 737 N736KA & Delta 757-300 N586NW! 🇺🇸✈️",
+    "currentVideoId": "OKg8mHoP38Y",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Friday 11th September 2026",
-    "currentVideoId": "WNPnxZp3xvE",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Saturday 12th September 2026",
+    "currentVideoId": "CmjDiQ6ueBc",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 RARE Vietnam A350 at night. Qatar B777 One World. Plane-Spotting at Sydney Airport - 11.09.26 🔴",
-    "currentVideoId": "v_RVFRU58OA",
+    "streamTitle": "🔵#LiveChatReacts - Captain Emily Emirates A380 Takeoff @ Sydney Airport!🔵",
+    "currentVideoId": "Z-FS0pwJUhA",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
