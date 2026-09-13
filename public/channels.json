@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (September 13th, 2026)"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Blue Sea Stripes! Condor Airbus A330-900neo, D-ANRC From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
-    "currentVideoId": "CYd17zz80m0",
+    "streamTitle": "VGK Special! KaiserAir Boeing 737-700 N736KA From LAS Vegas to SJC San Jose! 🇺🇸✈️",
+    "currentVideoId": "ciMYbjwVoKA",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - CROSSWIND Saturday 12th September 2026",
-    "currentVideoId": "CmjDiQ6ueBc",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 13th September 2026",
+    "currentVideoId": "UayhGIfAeuw",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔵#LiveChatReacts - Captain Emily Emirates A380 Takeoff @ Sydney Airport!🔵",
-    "currentVideoId": "Z-FS0pwJUhA",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE Plane Spotting at Sydney Airport - 13.09.26 🔴",
+    "currentVideoId": "9j2CAr86qJg",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
