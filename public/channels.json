@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "wCx6UYR4wGg",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (September 13th, 2026)"
   },
   {
@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "jVGsKY2_Sqs",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Pencil Jet Roll! Delta Boeing 757-200, N550NW From LAS Vegas to ATLanta! 🇺🇸✈️",
-    "currentVideoId": "9O1_yUeeXFs",
+    "streamTitle": "Queen Of The Skies Bringing The Miami Dolphins To LAS Vegas. Atlas Air Boeing 747-400, GTI8086. 🇺🇸✈️",
+    "currentVideoId": "raxxcEi0OPI",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 Curfew EXCITEMENT + Pokemon Scoot + QF Emily B787 @ Sydney Airport Plane-Spotting - 13.09.26 🔴",
+    "streamTitle": "🔴 Curfew EXCITEMENT + Pokémon Scoot B787 + QF Emily B787 @ Sydney Airport Plane-Spotting 13.09.26 🔴",
     "currentVideoId": "9j2CAr86qJg",
     "airportCode": "SYD",
     "bbox": {
