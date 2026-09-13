@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "jVGsKY2_Sqs",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "VGK Special! KaiserAir Boeing 737-700 N736KA From LAS Vegas to SJC San Jose! 🇺🇸✈️",
-    "currentVideoId": "ciMYbjwVoKA",
+    "streamTitle": "Pencil Jet Roll! Delta Boeing 757-200, N550NW From LAS Vegas to ATLanta! 🇺🇸✈️",
+    "currentVideoId": "9O1_yUeeXFs",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE Plane Spotting at Sydney Airport - 13.09.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴 Curfew EXCITEMENT + Pokemon Scoot + QF Emily B787 @ Sydney Airport Plane-Spotting - 13.09.26 🔴",
     "currentVideoId": "9j2CAr86qJg",
     "airportCode": "SYD",
     "bbox": {
