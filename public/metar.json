@@ -1,1 +1,77 @@
-{}
+{
+  "LHR": {
+    "raw": "METAR EGLL 122350Z AUTO 24010KT 9999 FEW027 BKN039 19/16 Q1021",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 240,
+    "windSpeed": 10,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": 3900,
+    "temp": 19,
+    "dewpoint": 16,
+    "altimeter": 30.15,
+    "conditions": "",
+    "observationTime": "2026-09-13T00:00:00.000Z"
+  },
+  "SYD": {
+    "raw": "METAR YSSY 130000Z 31007KT 9999 FEW030 19/14 Q1026",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 310,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 19,
+    "dewpoint": 14,
+    "altimeter": 30.3,
+    "conditions": "",
+    "observationTime": "2026-09-13T00:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 122356Z 23019G26KT 10SM FEW250 38/02 A2982 RMK AO2 PK WND 23026/2356 SLP065 T03830017 10389 20361 56019",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 230,
+    "windSpeed": 19,
+    "windGust": 26,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 38.3,
+    "dewpoint": 1.7,
+    "altimeter": 29.82,
+    "conditions": "",
+    "observationTime": "2026-09-13T00:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 122353Z 27012G18KT 9SM BKN013 24/20 A2987 RMK AO2 SLP113 T02440200 10278 20244 58014",
+    "icao": "KLAX",
+    "flightCategory": "MVFR",
+    "windDir": 270,
+    "windSpeed": 12,
+    "windGust": 18,
+    "visibility": 9,
+    "ceiling": 1300,
+    "temp": 24.4,
+    "dewpoint": 20,
+    "altimeter": 29.87,
+    "conditions": "",
+    "observationTime": "2026-09-13T00:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 122351Z 27005KT 10SM FEW050 SCT240 BKN250 28/19 A2985 RMK AO2 SLP102 T02830194 10311 20283 51004 $",
+    "icao": "KORD",
+    "flightCategory": "VFR",
+    "windDir": 270,
+    "windSpeed": 5,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": 25000,
+    "temp": 28.3,
+    "dewpoint": 19.4,
+    "altimeter": 29.85,
+    "conditions": "",
+    "observationTime": "2026-09-13T00:00:00.000Z"
+  }
+}
