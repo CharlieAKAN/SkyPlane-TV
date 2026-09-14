@@ -18,15 +18,15 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "YUzFtL2AkOw",
-    "isLive": false,
+    "currentVideoId": "ls_rkSsI_vg",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "[v] 🔴  LIVE: at CHICAGO O'HARE"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Touchdown Smoke! Discover Airlines Airbus A330-300, D-AIKH From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
-    "currentVideoId": "04iXSrZ3hVc",
+    "streamTitle": "Pencil Jet Climb! Delta Boeing 757-200, N900PC From LAS Vegas to JFK New York! 🇺🇸✈️",
+    "currentVideoId": "HrxF_I9JANQ",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
