@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Pencil Jet Climb! Delta Boeing 757-200, N900PC From LAS Vegas to JFK New York! 🇺🇸✈️",
-    "currentVideoId": "HrxF_I9JANQ",
+    "streamTitle": "Purple Roll! Volaris Airbus A321-271NX, XA-XXV From LAS Vegas to MEXico City! 🇲🇽✈️",
+    "currentVideoId": "w3aVLNjRiDU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Monday 14th September 2026",
     "currentVideoId": "av7xrmSgI7s",
     "airportCode": "LHR",
