@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 Curfew EXCITEMENT + Pokémon Scoot B787 + QF Emily B787 @ Sydney Airport Plane-Spotting 13.09.26 🔴",
-    "currentVideoId": "9j2CAr86qJg",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - US Marines MV-22 Osprey Returns to Sydney Airport! Plane Spotting with SydSquad! 14.9.26 🔴",
+    "currentVideoId": "3viU_ivY5N4",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE BIG PLANES & BIG FIREWORKS SHOW | CHICAGO O'HARE INTERNATIONAL AIRPORT | AVGEEK PLANE SPOTTING",
-    "currentVideoId": "LTUavqpeKS0",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE BUSY AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of OURE AVIATION | AVGEEK PLANES",
+    "currentVideoId": "OKxwnQdGI0k",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
