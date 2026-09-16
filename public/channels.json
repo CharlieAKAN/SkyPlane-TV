@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "qG-1F4pXdOc",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Touchdown! Aeromexico Boeing 737 MAX 8, XA-MAG From MEXico City into LAS Vegas! 🇲🇽✈️",
-    "currentVideoId": "bCT89UbaXLY",
+    "streamTitle": "Aborted Takeoff! ABX Air Boeing 767-300, N362CM From LAS Vegas to CVG Cincinnati! 🇺🇸✈️",
+    "currentVideoId": "q4W9lySgNOM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 15th September 2026",
-    "currentVideoId": "rybdMUNe040",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 16th September 2026",
+    "currentVideoId": "Qqcd3IZWtOs",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴US Marines MV-22 Osprey Landing & Takeoff at Sydney Airport! SydSquad Plane Spotting! 14.9.26 🔴",
-    "currentVideoId": "3viU_ivY5N4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE - Emirates \"RUGBY WORLD CUP 2027\" Special A380 Livery @ Sydney Airport Spotting - 16.09.26 🔴",
+    "currentVideoId": "S25FFy2C488",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
