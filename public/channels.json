@@ -18,30 +18,30 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "8tXHereaROs",
-    "isLive": false,
+    "currentVideoId": "tt8uCspe_ew",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "Queen of the Skies at ORD! Lufthansa 747 RW10C Landing"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Live Plane Spotting & Real-Time Airport Traffic"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "qG-1F4pXdOc",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE - Emirates \"RUGBY WORLD CUP 2027\" Special A380 Livery @ Sydney Airport Spotting - 16.09.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴 *NEW* Emirates \"RUGBY WORLD CUP 2027\" Special A380 Livery @ Sydney Airport Spotting - 16.09.26 🔴",
     "currentVideoId": "S25FFy2C488",
     "airportCode": "SYD",
     "bbox": {
@@ -95,7 +95,7 @@
     "isLive": false,
     "streamStatus": "vod",
     "streamTitle": "🔴LIVE LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
-    "currentVideoId": "2ayEtM9LpG8",
+    "currentVideoId": "OKxwnQdGI0k",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
