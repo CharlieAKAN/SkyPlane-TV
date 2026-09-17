@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Maria the Bald Eagle\"! Frontier Airbus A321neo, N604FR From RNO Reno into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "ipb1o19fwWk",
+    "streamTitle": "Stretch Pencil Touchdown! Delta Boeing 757-300, N585NW From DTW Detroit into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "ZssY5i-phOA",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 16th September 2026",
-    "currentVideoId": "Qqcd3IZWtOs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 17th September 2026",
+    "currentVideoId": "KBZeI2rgH40",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
