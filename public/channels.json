@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Friday 18th September 2026",
     "currentVideoId": "XfGD1i19T8g",
     "airportCode": "LHR",
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE - DUAL Sydney & Gold Coast Airports. Emirates \"RWC\" A380 Livery. Kurt and Matt  - 19.09.26 🔴",
     "currentVideoId": "I2bEhFoTUTw",
     "airportCode": "SYD",
