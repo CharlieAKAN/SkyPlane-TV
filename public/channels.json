@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (September 20th, 2026)"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Sporty Climb! Gulfstream G200 N673DM Rockets Out of LAS Vegas! ✈️",
-    "currentVideoId": "SBHJHg6PQH8",
+    "streamTitle": "Art Jet Crab Landing! Citation CJ3 N1RD From Moffett Field to LAS Vegas! ✈️",
+    "currentVideoId": "aN8vX_c5p7M",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Friday 18th September 2026",
-    "currentVideoId": "XfGD1i19T8g",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Saturday 19th September 2026",
+    "currentVideoId": "L34p0gFAF6g",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
