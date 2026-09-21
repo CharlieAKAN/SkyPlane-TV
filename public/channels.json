@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Art Jet Crab Landing! Citation CJ3 N1RD From Moffett Field to LAS Vegas! ✈️",
-    "currentVideoId": "aN8vX_c5p7M",
+    "streamTitle": "Little Feddy! FedEx Feeder Cessna 208 N772FE PCM8801 LAS to Lake Havasu! ✈️",
+    "currentVideoId": "2rWI94dvWc0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 20th September 2026",
-    "currentVideoId": "r8beRNhhE9I",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 21st September 2026",
+    "currentVideoId": "38UUc-cHs4k",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE - High Southerly WINDS - Plane-Spotting at Sydney Airport! 21.09.26 🔴",
+    "streamTitle": "🔴HIGH WIND ACTION - Plane-Spotting at Sydney Airport! 21.09.26 🔴",
     "currentVideoId": "sTX8llt2oaM",
     "airportCode": "SYD",
     "bbox": {
