@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "s5TBVfctzNg",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (September 20th, 2026)"
   },
   {
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - DUAL Sydney & Gold Coast Airports. Emirates \"RWC\" A380 Livery. Kurt and Matt  - 19.09.26 🔴",
-    "currentVideoId": "I2bEhFoTUTw",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE - High Southerly WINDS - Plane-Spotting at Sydney Airport! 21.09.26 🔴",
+    "currentVideoId": "sTX8llt2oaM",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
