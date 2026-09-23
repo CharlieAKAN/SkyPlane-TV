@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Little Feddy! FedEx Feeder Cessna 208 N772FE PCM8801 LAS to Lake Havasu! ✈️",
-    "currentVideoId": "2rWI94dvWc0",
+    "streamTitle": "\"Liberty One\" Roll! Southwest 737 MAX N8719Q LAS to OGG Maui! 🇺🇸✈️",
+    "currentVideoId": "Cc76Y7Sg7X4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,9 +62,9 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 22nd September 2026",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 23rd September 2026",
     "currentVideoId": "c_J9c853udw",
     "airportCode": "LHR",
     "bbox": {
