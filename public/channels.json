@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "4auXoGKxPa0",
+    "currentVideoId": "BcfUlJZ2-lg",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "Waiting For a Plane: Destination Toulouse [BA374]"
+    "streamTitle": "RTO test for the 1st A350F at @airbus Toulouse"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 23rd September 2026",
-    "currentVideoId": "c_J9c853udw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 24th September 2026",
+    "currentVideoId": "NoJu_lzwCrs",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
