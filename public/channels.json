@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Friday 25th September 2026",
     "currentVideoId": "ja-1TjYuyQA",
     "airportCode": "LHR",
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE - Sydney Airport 🔴",
     "currentVideoId": "KiqIdPIf5kc",
     "airportCode": "SYD",
