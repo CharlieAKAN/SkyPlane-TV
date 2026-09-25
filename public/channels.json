@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE-STREAM AHEAD of AIR FORCE ONE AT CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING | C-17",
     "currentVideoId": "sbDmPPVa28c",
     "airportCode": "ORD",
