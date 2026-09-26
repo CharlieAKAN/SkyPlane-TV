@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Friday 25th September 2026",
-    "currentVideoId": "ja-1TjYuyQA",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Saturday 26th September 2026",
+    "currentVideoId": "eWhl9cAZtzQ",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - Sydney Airport 🔴",
+    "streamTitle": "🔴 Qatar FIFA Word Cup Livery B777 + Stunning Korean B787 NEW livery - Sydney Airport - 26.09.26 🔴",
     "currentVideoId": "KiqIdPIf5kc",
     "airportCode": "SYD",
     "bbox": {
