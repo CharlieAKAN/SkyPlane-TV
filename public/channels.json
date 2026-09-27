@@ -18,22 +18,22 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "QV8aOQQHiqQ",
-    "isLive": false,
+    "currentVideoId": "We0Hn1Qu4xQ",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Live Plane Spotting & Real-Time Airport Traffic"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE AIRPORT | AIR FORCE ONE Watch at O’Hare + Nonstop Plane Action ✈️"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "BcfUlJZ2-lg",
+    "currentVideoId": "1MdtPpaLCFE",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "RTO test for the 1st A350F at @airbus Toulouse"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -94,8 +94,8 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE-STREAM AHEAD of AIR FORCE ONE at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING | C-17",
-    "currentVideoId": "wJWRYTd84N0",
+    "streamTitle": "🔴LIVE AIR FORCE ONE LAND & TAKEOFF from BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
+    "currentVideoId": "tulgc1r_G78",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
