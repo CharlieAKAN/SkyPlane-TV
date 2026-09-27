@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (September 27th, 2026)"
   },
   {
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 26th September 2026",
-    "currentVideoId": "eWhl9cAZtzQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 27th September 2026",
+    "currentVideoId": "DaRZQ9Oexm4",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
