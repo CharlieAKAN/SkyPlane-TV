@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "PP2Yr69MzNc",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (September 27th, 2026)"
   },
   {
@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "We0Hn1Qu4xQ",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE AIRPORT | AIR FORCE ONE Watch at O’Hare + Nonstop Plane Action ✈️"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Special Livery! Copa \"El Avión de la Sele\" 737 MAX 8 HP-9819CMP into LAS Vegas! 🇵🇦✈️",
-    "currentVideoId": "tbq6lvjFhjQ",
+    "streamTitle": "Floss & Go Around, KC! UNLV Rebels Dentist, Frontier A320neo N409FR PDX Portland to LAS Vegas 🇺🇸✈️",
+    "currentVideoId": "v8R4vBg5k3E",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Sunday 27th September 2026",
     "currentVideoId": "DaRZQ9Oexm4",
     "airportCode": "LHR",
@@ -95,7 +95,7 @@
     "isLive": true,
     "streamStatus": "live",
     "streamTitle": "🔴LIVE AIR FORCE ONE LAND & TAKEOFF from BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
-    "currentVideoId": "tulgc1r_G78",
+    "currentVideoId": "7IivYO8S7-I",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
