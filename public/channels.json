@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "We0Hn1Qu4xQ",
+    "currentVideoId": "uWQ-fIjQsTw",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE AIRPORT | AIR FORCE ONE Watch at O’Hare + Nonstop Plane Action ✈️"
+    "streamTitle": "🔴 LIVE: AIR FORCE ONE at CHICAGO O'HARE [v]"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Sunday 27th September 2026",
-    "currentVideoId": "DaRZQ9Oexm4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 28th September 2026",
+    "currentVideoId": "kCfZ09rjemY",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE AIR FORCE ONE LAND & TAKEOFF from BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
+    "streamTitle": "🔴LIVE (Part 2) AIR FORCE ONE TAKESOFF from BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANES",
     "currentVideoId": "7IivYO8S7-I",
     "airportCode": "ORD",
     "bbox": {
