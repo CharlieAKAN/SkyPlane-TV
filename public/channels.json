@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "uWQ-fIjQsTw",
+    "currentVideoId": "R55meRR-lFs",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE: AIR FORCE ONE at CHICAGO O'HARE [v]"
+    "streamTitle": "ORD Pilots Joke About Ordering Pizza During Pushback Delay 🍕✈️ #shorts"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 28th September 2026",
-    "currentVideoId": "kCfZ09rjemY",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 29th September 2026",
+    "currentVideoId": "yhx8aYMM3po",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 Qatar FIFA Word Cup Livery B777 + Stunning Korean B787 NEW livery - Sydney Airport - 26.09.26 🔴",
-    "currentVideoId": "KiqIdPIf5kc",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE - EK A380 UAE Flag Livery + QR B77W F1 + TK A359 400th Aircraft - Sydney Airport - 29.09.26 🔴",
+    "currentVideoId": "idkg_wzyZ3s",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE (Part 2) AIR FORCE ONE TAKEOFFS from BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANES",
+    "streamTitle": "🔴LIVE (Part 2) AIR FORCE ONE TAKES OFF from BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANES",
     "currentVideoId": "7IivYO8S7-I",
     "airportCode": "ORD",
     "bbox": {
