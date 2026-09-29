@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Floss & Go Around, KC! UNLV Rebels Dentist, Frontier A320neo N409FR PDX Portland to LAS Vegas 🇺🇸✈️",
-    "currentVideoId": "v8R4vBg5k3E",
+    "streamTitle": "Beautiful Rare Equatorial Guinea VIP 777, P4-SKN Departs LAS Vegas! ✈️",
+    "currentVideoId": "UEpOHlsTnqs",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - CROSSWIND Tuesday 29th September 2026",
     "currentVideoId": "yhx8aYMM3po",
     "airportCode": "LHR",
