@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE - EK A380 UAE Flag Livery + QR B77W F1 + TK A359 400th Aircraft - Sydney Airport - 29.09.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴 EK A380 UAE Flag Livery + QR B77W F1 + TK A359 400th Aircraft - Sydney Airport KURT - 29.09.26 🔴",
     "currentVideoId": "idkg_wzyZ3s",
     "airportCode": "SYD",
     "bbox": {
