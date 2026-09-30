@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "2YW-C4ULa70",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -64,7 +64,7 @@
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "isLive": true,
     "streamStatus": "live",
-    "streamTitle": "Heathrow Airport Live - Wednesday 30th September 2026",
+    "streamTitle": "Heathrow Airport Live - CROSSWIND Wednesday 30th September 2026",
     "currentVideoId": "V7o2tJHFPh4",
     "airportCode": "LHR",
     "bbox": {
@@ -78,7 +78,7 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE - Emirates NBA A380 + Qatar FIFA 777-300/ER @ Sydney Airport - 30.09.26 🔴",
     "currentVideoId": "o-IybbFURjw",
     "airportCode": "SYD",
