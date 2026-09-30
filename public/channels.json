@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - CROSSWIND Tuesday 29th September 2026",
-    "currentVideoId": "yhx8aYMM3po",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 30th September 2026",
+    "currentVideoId": "V7o2tJHFPh4",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 EK A380 UAE Flag Livery + QR B77W F1 + TK A359 400th Aircraft - Sydney Airport KURT - 29.09.26 🔴",
-    "currentVideoId": "idkg_wzyZ3s",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE - Emirates NBA A380 + Qatar FIFA 777-300/ER @ Sydney Airport - 30.09.26 🔴",
+    "currentVideoId": "o-IybbFURjw",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
