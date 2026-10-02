@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Friday 2nd October 2026",
     "currentVideoId": "TJXBqKpbvDU",
     "airportCode": "LHR",
@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE (Part 2) AIR FORCE ONE TAKES OFF from BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANES",
-    "currentVideoId": "7IivYO8S7-I",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE BUSY AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANES",
+    "currentVideoId": "TiQdHerfOO8",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
