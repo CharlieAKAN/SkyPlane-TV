@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Thursday 1st October 2026",
-    "currentVideoId": "vVJTkzw7cmM",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Friday 2nd October 2026",
+    "currentVideoId": "TJXBqKpbvDU",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - EK A380 Rugby World Cup Livery - Hour of Power! - Sydney Airport - With KURT - 01.10.26 🔴",
+    "streamTitle": "🔴 SPECIAL EK A380 Rugby World Cup Livery - Hour of Power! - Sydney Airport - With KURT - 01.10.26 🔴",
     "currentVideoId": "G3fzsdE2Bgg",
     "airportCode": "SYD",
     "bbox": {
