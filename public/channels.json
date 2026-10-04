@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "Tp49a8I5zYE",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Butter Arrival For Southwest 737, N217JC Into LAS Vegas from GRand Rapids! ✈️",
-    "currentVideoId": "a9mftaBdxFA",
+    "streamTitle": "Climb Out! Delta Boeing 757-300 N581NW From LAS Vegas to DETroit! 🇺🇸✈️",
+    "currentVideoId": "XlaPAThjwUE",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
