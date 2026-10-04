@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (October 4th, 2026)"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Beautiful Rare Equatorial Guinea VIP 777, P4-SKN Departs LAS Vegas! ✈️",
-    "currentVideoId": "UEpOHlsTnqs",
+    "streamTitle": "Butter Arrival For Southwest 737, N217JC Into LAS Vegas from GRand Rapids! ✈️",
+    "currentVideoId": "a9mftaBdxFA",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Saturday 3rd October 2026",
-    "currentVideoId": "OmLBXcHsr20",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Sunday 4th October 2026",
+    "currentVideoId": "ZEUjsPb8yis",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
