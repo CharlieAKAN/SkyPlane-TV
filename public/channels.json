@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "3HigNDCiOp8",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (October 4th, 2026)"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Climb Out! Delta Boeing 757-300 N581NW From LAS Vegas to DETroit! 🇺🇸✈️",
-    "currentVideoId": "XlaPAThjwUE",
+    "streamTitle": "Climb Out! JetBlue A321neo N2199J From LAS to New York JFK! 🇺🇸✈️",
+    "currentVideoId": "4Css1kauPuY",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
