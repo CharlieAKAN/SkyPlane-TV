@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "1m7esb9D92w",
-    "isLive": false,
+    "currentVideoId": "fLCdxCL3tWE",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "Air Force One Over Chicago! From O’Hare Flyover to Medinah and Back for Landing"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE AIRPORT | Plane Spotting at Chicago O’Hare ✈️"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Janet Climb! Boeing 737-600 N365SR JANET25 Out of LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "qVyyS2JhSWI",
+    "streamTitle": "Night Push! Discover Airlines Airbus A330-300 D-AIKD From LAS Vegas to FRAnkfurt! 🇩🇪✈️",
+    "currentVideoId": "9E9YSosYwJU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
