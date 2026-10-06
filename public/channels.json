@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Night Push! Discover Airlines Airbus A330-300 D-AIKD From LAS Vegas to FRAnkfurt! 🇩🇪✈️",
-    "currentVideoId": "9E9YSosYwJU",
+    "streamTitle": "Night Push! Korean Air Boeing 777-300ER HL8347 From LAS Vegas to ICN Seoul! 🇰🇷✈️",
+    "currentVideoId": "N2juxicdH5o",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Tuesday 6th October 2026",
     "currentVideoId": "8xW74EocYb8",
     "airportCode": "LHR",
