@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "uDBYuEV4zjI",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "Heathrow Airport LIVE 24/7"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Night Push! Korean Air Boeing 777-300ER HL8347 From LAS Vegas to ICN Seoul! 🇰🇷✈️",
-    "currentVideoId": "N2juxicdH5o",
+    "streamTitle": "Arrival! British Airways Airbus A350-1000 G-XWBN From London HeathRow into LAS Vegas! 🇬🇧✈️",
+    "currentVideoId": "KeJPASZ4Ge4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 6th October 2026",
-    "currentVideoId": "8xW74EocYb8",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 7th October 2026",
+    "currentVideoId": "2m43gmv2It4",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
