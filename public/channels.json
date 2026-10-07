@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Arrival! \"Dream Jeannie\" Virgin Atlantic Boeing 787-9 G-VZIG From London HeathRow into LAS Vegas! ✈️",
-    "currentVideoId": "8XgzZO4DIzM",
+    "streamTitle": "Night Push! Edelweiss Airbus A350-900 HB-IHC From LAS Vegas to ZuRicH! 🇨🇭✈️",
+    "currentVideoId": "LzygokoMKfE",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Wednesday 7th October 2026",
     "currentVideoId": "2m43gmv2It4",
     "airportCode": "LHR",
