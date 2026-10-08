@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "fLCdxCL3tWE",
+    "currentVideoId": "3ZpX9B3DKVE",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE AIRPORT | Plane Spotting at Chicago O’Hare ✈️"
+    "streamTitle": "Can a 747 Take Off on O’Hare’s 8,000-ft Crosswind Runway?!"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Night Push! Edelweiss Airbus A350-900 HB-IHC From LAS Vegas to ZuRicH! 🇨🇭✈️",
-    "currentVideoId": "LzygokoMKfE",
+    "streamTitle": "Climb Out! UPS Boeing 767-300F N302UP From LAS Vegas to SDF Louisville! 🇺🇸✈️",
+    "currentVideoId": "v82MaMNLqW4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 7th October 2026",
-    "currentVideoId": "2m43gmv2It4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 8th October 2026",
+    "currentVideoId": "qddpAlvradk",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴⛈️Severe THUNDERSTORM Watch⛈️ Live at Sydney Airport Plane-Spotting - 03.10.26 🔴",
-    "currentVideoId": "5kOw1f3lLWM",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - Qatar Retro B777 + Emirates Flag Livery B777 at Sydney Airport - Plane-Spotting - 08.10.26 🔴",
+    "currentVideoId": "j3eTUWmwoZ8",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
