@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Climb Out! UPS Boeing 767-300F N302UP From LAS Vegas to SDF Louisville! 🇺🇸✈️",
-    "currentVideoId": "v82MaMNLqW4",
+    "streamTitle": "Climb Out! Air France Airbus A350-900 F-HTYL From LAS Vegas to CDG Paris! 🇫🇷✈️",
+    "currentVideoId": "tTbi2YaYtgw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴LIVE - Qatar Retro B777 + Emirates Flag Livery B777 at Sydney Airport - Plane-Spotting - 08.10.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴Qatar Retro B777 + Emirates Flag Livery B777 at Sydney Airport - Plane-Spotting - 08.10.26 🔴",
     "currentVideoId": "j3eTUWmwoZ8",
     "airportCode": "SYD",
     "bbox": {
