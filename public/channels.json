@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "uDBYuEV4zjI",
-    "isLive": false,
+    "currentVideoId": "F9v67px4gRM",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport LIVE 24/7"
+    "streamStatus": "live",
+    "streamTitle": "Road-Trip to Aviation Retail Direct Model Store"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - WINDY Friday 9th October 2026",
-    "currentVideoId": "9dPO7bvPCH0",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - WINDY Saturday 10th October 2026",
+    "currentVideoId": "pB9rhhpAtKg",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴Qatar Retro B777 + Emirates Flag Livery B777 at Sydney Airport - Plane-Spotting - 08.10.26 🔴",
-    "currentVideoId": "j3eTUWmwoZ8",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE Sydney Airport - Plane-Spotting - 11.10.26 🔴",
+    "currentVideoId": "DuZbEXyqjiU",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
