@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Arrival! Delta Boeing 757-300 N583NW From DETroit into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "Wj9dbpCQBy4",
+    "streamTitle": "Rare Visit! United Boeing 757-200 N67134 From NEWeRk into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "EEv8tVSLJDU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - WINDY Friday 9th October 2026",
     "currentVideoId": "9dPO7bvPCH0",
     "airportCode": "LHR",
