@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "m59tAY_dv74",
+    "currentVideoId": "VmIK8-C0QRk",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,8 +11,8 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "A380 Uses EVERY INCH of LAX Runway 24L! | Asiana Airlines"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (October 11th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "F9v67px4gRM",
+    "currentVideoId": "uDBYuEV4zjI",
     "isLive": true,
     "bbox": {
       "lamin": 51.32,
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "live",
-    "streamTitle": "Road-Trip to Aviation Retail Direct Model Store"
+    "streamTitle": "Heathrow Airport LIVE 24/7 - Windy Arrivals"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Rare Visit! United Boeing 757-200 N67134 From NEWeRk into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "EEv8tVSLJDU",
+    "streamTitle": "Departure! Copa \"El Avión de la Sele\" 737 MAX 8 HP-9819CMP From LAS Vegas to PTY! 🇵🇦✈️",
+    "currentVideoId": "l6kFsddsYHk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
