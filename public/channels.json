@@ -42,14 +42,14 @@
       "lomax": -0.3
     },
     "streamStatus": "live",
-    "streamTitle": "Heathrow Airport LIVE 24/7 - Windy Arrivals"
+    "streamTitle": "Heathrow Airport LIVE 24/7"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
     "airportCode": "LAS",
     "isLive": false,
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "Military Heavy Climb! USAF C-17 Globemaster III 06-6165 RCH3285 Departs LAS Vegas! 🇺🇸✈️",
     "currentVideoId": "GGBknNNCG_Y",
     "bbox": {
