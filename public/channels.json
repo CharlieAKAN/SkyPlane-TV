@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "uDBYuEV4zjI",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport LIVE 24/7"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Sphere Climb Out! British Airways Boeing 787-9 G-ZBKN From LAS Vegas to London HeathRow! 🇬🇧✈️",
-    "currentVideoId": "IT4ZQyuGpo8",
+    "streamTitle": "\"Cloudtop Cruiser\" Touchdown! JetBlue Airbus A320 N561JB From JFK New York into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "OJx9DdN236o",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - CROSSWIND Monday 12th October 2026",
     "currentVideoId": "0eHyboh-Yek",
     "airportCode": "LHR",
