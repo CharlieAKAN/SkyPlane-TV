@@ -34,24 +34,24 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "uDBYuEV4zjI",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport LIVE 24/7"
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport LIVE 24/7 - Windy Arrivals"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
     "airportCode": "LAS",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "\"Cloudtop Cruiser\" Touchdown! JetBlue Airbus A320 N561JB From JFK New York into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "OJx9DdN236o",
+    "streamStatus": "upcoming",
+    "streamTitle": "Military Heavy Climb! USAF C-17 Globemaster III 06-6165 RCH3285 Departs LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "GGBknNNCG_Y",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - CROSSWIND Monday 12th October 2026",
-    "currentVideoId": "0eHyboh-Yek",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - WINDY Tuesday 13th October 2026",
+    "currentVideoId": "IXBGPVcSngE",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
