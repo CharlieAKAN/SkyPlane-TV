@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Military Heavy Climb! USAF C-17 Globemaster III 06-6165 RCH3285 Departs LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "GGBknNNCG_Y",
+    "streamTitle": "Widebody Touchdown! Virgin Atlantic Airbus A350-1000 G-VLIB From MANchester into LAS Vegas! 🇬🇧✈️",
+    "currentVideoId": "85STWHw_LwA",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 Sunday Chill-out. Shep's Mound. Sydney Airport - Plane-Spotting with KURT - 11.10.26 🔴",
-    "currentVideoId": "DuZbEXyqjiU",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE - HIGH GUSTY WINDS Morning Rush Action @ Sydney Airport - 14.10.26 🔴",
+    "currentVideoId": "E6pcftR17JU",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
