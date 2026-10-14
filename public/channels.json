@@ -18,22 +18,22 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "blR-W3zPVu4",
-    "isLive": false,
+    "currentVideoId": "bJMtY4Uyl8Y",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE: at CHICAGO O'HARE [v]"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "uDBYuEV4zjI",
+    "currentVideoId": "og_SfY1Tbv0",
     "isLive": true,
     "bbox": {
       "lamin": 51.32,
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "live",
-    "streamTitle": "Heathrow Airport LIVE 24/7"
+    "streamTitle": "LIVE: London Heathrow Airport - The Midweek Show - 14th October"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Cannes\" Touchdown! Air France Airbus A350-900 F-HTYJ From CDG Paris into LAS Vegas! 🇫🇷✈️",
-    "currentVideoId": "ehy6Mbr84dk",
+    "streamTitle": "\"Big Brown\" Touchdown! UPS Boeing 767-300F N370UP From SDF Louisville into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "2z8cOVGcRTs",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE Sydney Airport - Plane-Spotting - 14.10.26 🔴",
     "currentVideoId": "peZSdslcrAc",
     "airportCode": "SYD",
