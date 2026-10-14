@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "uDBYuEV4zjI",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport LIVE 24/7"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Big Brown\" Touchdown! UPS Boeing 767-300F N370UP From SDF Louisville into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "2z8cOVGcRTs",
+    "streamTitle": "Black & Gold Bizjet! Gulfstream G550 N33055 From JAcksoN into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "coWv7aYX44Q",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Wednesday 14th October 2026",
     "currentVideoId": "vIsvFgOtSUo",
     "airportCode": "LHR",
