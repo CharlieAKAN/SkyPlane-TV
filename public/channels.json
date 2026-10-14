@@ -18,22 +18,22 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "bJMtY4Uyl8Y",
-    "isLive": true,
+    "currentVideoId": "YaQPwJ1EAEA",
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
+    "streamStatus": "vod",
+    "streamTitle": "🔴 LIVE BUSY O’HARE AIRPORT ACTION ✈️🔥 | Chicago Plane Spotting | Big Jets & Cargo"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "og_SfY1Tbv0",
+    "currentVideoId": "uDBYuEV4zjI",
     "isLive": true,
     "bbox": {
       "lamin": 51.32,
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "live",
-    "streamTitle": "LIVE: London Heathrow Airport - The Midweek Show - 14th October"
+    "streamTitle": "Heathrow Airport LIVE 24/7"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE Sydney Airport - Plane-Spotting - 14.10.26 🔴",
+    "streamTitle": "🔴 Emirates B77W “This Flag Will Always Fly” Livery - Sydney Airport Plane-Spotting KURT - 14.10.26 🔴",
     "currentVideoId": "peZSdslcrAc",
     "airportCode": "SYD",
     "bbox": {
