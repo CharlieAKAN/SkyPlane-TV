@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Short Hop Touchdown! Southwest Boeing 737-700 N296WN From BURbank into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "CB8k8Tv2e84",
+    "streamTitle": "\"Siegen\" Touchdown! Discover Airlines Airbus A330-300 D-AIKD From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
+    "currentVideoId": "mGC5llrhnB8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Thursday 15th October 2026",
     "currentVideoId": "TPuHVC-D_YM",
     "airportCode": "LHR",
