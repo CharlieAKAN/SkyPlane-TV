@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Black & Gold Bizjet! Gulfstream G550 N33055 From JAcksoN into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "coWv7aYX44Q",
+    "streamTitle": "Turn & Burn! Air France Airbus A350-900 F-HTYJ From LAS Vegas to CDG Paris! 🇫🇷✈️",
+    "currentVideoId": "4YE5oNUuT2Q",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 14th October 2026",
-    "currentVideoId": "vIsvFgOtSUo",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Thursday 15th October 2026",
+    "currentVideoId": "TPuHVC-D_YM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 Emirates B77W “This Flag Will Always Fly” Livery - Sydney Airport Plane-Spotting KURT - 14.10.26 🔴",
-    "currentVideoId": "peZSdslcrAc",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE RAINY- Cathay Retro A350- Qatar FIFA World Cup B77W- Cpt EMILY EK- Sydney Airport- 15.10.26🔴",
+    "currentVideoId": "yOuUhUCqVp8",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
