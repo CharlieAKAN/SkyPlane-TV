@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Turn & Burn! Air France Airbus A350-900 F-HTYJ From LAS Vegas to CDG Paris! 🇫🇷✈️",
-    "currentVideoId": "4YE5oNUuT2Q",
+    "streamTitle": "Short Hop Touchdown! Southwest Boeing 737-700 N296WN From BURbank into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "CB8k8Tv2e84",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE RAINY- Cathay Retro A350- Qatar FIFA World Cup B77W- Cpt EMILY EK- Sydney Airport- 15.10.26🔴",
     "currentVideoId": "yOuUhUCqVp8",
     "airportCode": "SYD",
