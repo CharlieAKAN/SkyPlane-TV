@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE CHASING BIG PLANES at CHICAGO O'HARE AIRPORT | ORD AVGEEK PLANE SPOTTING | B747 B777 A340 B787",
-    "currentVideoId": "2H7DOvZqhcw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE WINDY AIRPORT ACTION at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
+    "currentVideoId": "d_Y_OyjuFmw",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
