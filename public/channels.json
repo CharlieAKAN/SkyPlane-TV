@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Siegen\" Touchdown! Discover Airlines Airbus A330-300 D-AIKD From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
-    "currentVideoId": "mGC5llrhnB8",
+    "streamTitle": "Pyramid Lift-Off! British Airways Boeing 787-9 G-ZBKE From LAS Vegas to London HeathRow! 🇬🇧✈️",
+    "currentVideoId": "vKLHEOW5wJ0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -79,14 +79,14 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE RAINY- Cathay Retro A350- Qatar FIFA World Cup B77W- Cpt EMILY EK- Sydney Airport- 15.10.26🔴",
-    "currentVideoId": "yOuUhUCqVp8",
-    "airportCode": "SYD",
+    "streamTitle": "🔵[4K] Lufthansa 100 Year Anniversary Livery @ Tokyo Haneda Airport - Plane Spotting with SydSquad!🔵",
+    "currentVideoId": "6MQu6HGD-ZA",
+    "airportCode": "HND",
     "bbox": {
-      "lamin": -34.09,
-      "lamax": -33.79,
-      "lomin": 151.02,
-      "lomax": 151.32
+      "lamin": 35.55,
+      "lamax": 35.56,
+      "lomin": 139.77,
+      "lomax": 139.79
     }
   },
   {
