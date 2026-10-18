@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "RzoaKk8epJU",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Triple Seven Touchdown! Korean Air Boeing 777-300ER HL8010 From ICN Seoul into LAS Vegas! 🇰🇷✈️",
-    "currentVideoId": "1NHfdXWc604",
+    "streamTitle": "Retro Jet Touchdown! Sun Country Boeing 737-800 N826SY From MSP Minneapolis into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "aBjGoxfKa5c",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
