@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Retro Jet Touchdown! Sun Country Boeing 737-800 N826SY From MSP Minneapolis into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "aBjGoxfKa5c",
+    "streamTitle": "Luxor Lift-Off! Retro Sun Country Boeing 737-800 N826SY From LAS Vegas to XWA Williston! 🇺🇸✈️",
+    "currentVideoId": "MuezMuT2hbs",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Sunday 18th October 2026",
     "currentVideoId": "0ubEy0lRWNo",
     "airportCode": "LHR",
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "CAUGHT LIVE: WIND SPEED SHEAR | 747 TAKEOFF with CROSSWINDS & UPPER LEVEL AIR PUSHES PLANE SIDEWAYS",
+    "streamTitle": "CAUGHT LIVE: SPEED SHEAR | 747 TAKEOFF with CROSSWINDS & UPPER LEVEL AIR PUSHES PLANE SIDEWAYS",
     "currentVideoId": "rcb7Dnvrb3I",
     "airportCode": "ORD",
     "bbox": {
