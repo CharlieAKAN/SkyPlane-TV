@@ -11,14 +11,14 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (October 18th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "fJ8dZrjFiU8",
+    "currentVideoId": "ntC6v-FhgWM",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,21 +27,21 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "O’Hare Tower Gets Impatient Over Pilot’s 2-Minute Wake Turbulence Separation Request"
+    "streamTitle": "😂 Pilot Requests a NEW Squawk Code… Gets 6767!"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "RzoaKk8epJU",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Saturday 17th October 2026",
-    "currentVideoId": "tY-FFLw8tsw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Sunday 18th October 2026",
+    "currentVideoId": "0ubEy0lRWNo",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
