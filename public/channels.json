@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "WnVpcWa5zio",
+    "currentVideoId": "AXYOMPe7ZLE",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -12,7 +12,7 @@
       "lomax": -118.25
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAX Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (October 18th, 2026)"
+    "streamTitle": "KLM Cargo 747 Arrives at LAX From Amsterdam! 🇳🇱 | VERY RARE SIGHT"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Speedbird Heavy! British Airways Boeing 787-9 G-ZBKD From London HeathRow into LAS Vegas! 🇬🇧✈️",
-    "currentVideoId": "QDGJgIgC2wE",
+    "streamTitle": "Pacific Heavy Touchdown! Korean Air Boeing 777-300ER HL8042 From ICN Seoul into LAS Vegas! 🇰🇷✈️",
+    "currentVideoId": "R3dINg3hEXk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE BUSY AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK ORD PLANES",
+    "streamTitle": "🔴LIVE-THE LAST A340 at BUSY CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANES",
     "currentVideoId": "v1S5Efc6FPk",
     "airportCode": "ORD",
     "bbox": {
