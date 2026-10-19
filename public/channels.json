@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Luxor Lift-Off! Retro Sun Country Boeing 737-800 N826SY From LAS Vegas to XWA Williston! 🇺🇸✈️",
-    "currentVideoId": "MuezMuT2hbs",
+    "streamTitle": "Smoky Touchdown! Retro Sun Country Boeing 737-800 N826SY From XWA Williston into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "t_wgX3ufk7I",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Sunday 18th October 2026",
-    "currentVideoId": "0ubEy0lRWNo",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Monday 19th October 2026",
+    "currentVideoId": "mrafALsHOj4",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
