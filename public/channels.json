@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "KwCKDpC5ZFE",
+    "currentVideoId": "_DlO3D9XxUM",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
+    "streamTitle": "🔴 LIVE BUSY O’HARE AIRPORT ACTION ✈️🔥 | Chicago Plane Spotting | Big Jets & Cargo"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "In & Out! Aero Embraer Legacy 600 N809TD From YVR Vancouver to LAS Vegas to VNY Van Nuys! 🇨🇦🇺🇸✈️",
-    "currentVideoId": "c2b3aoEFOUY",
+    "streamTitle": "Go-Around! TOGA Power! Contour Embraer ERJ-135 N16501 From MCE Merced at LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "v8-Ig8-jqug",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Tuesday 20th October 2026",
     "currentVideoId": "V_royqIDgIM",
     "airportCode": "LHR",
