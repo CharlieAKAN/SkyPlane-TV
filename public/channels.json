@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "lVK4PibzmS0",
-    "isLive": false,
+    "currentVideoId": "KwCKDpC5ZFE",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "FedEx Goes Retro! Boeing 777 N884FD Landing at Chicago O’Hare"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Storm Cloud Climb Out! Breeze Airways Airbus A220-300 N230BZ From LAS Vegas to SNA Santa Ana! 🇺🇸✈️",
-    "currentVideoId": "4EO6TfW3XC4",
+    "streamTitle": "In & Out! Aero Embraer Legacy 600 N809TD From YVR Vancouver to LAS Vegas to VNY Van Nuys! 🇨🇦🇺🇸✈️",
+    "currentVideoId": "c2b3aoEFOUY",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE | 3 BIG RIGS | Asiana A380 + EK A380 \"Arsenal\" + EK A380 \"Rugby\" | Sydney Airport 20.10.26 🔴",
     "currentVideoId": "I1dBJEI0nmo",
     "airportCode": "SYD",
