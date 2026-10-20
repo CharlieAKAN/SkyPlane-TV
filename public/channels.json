@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "KwCKDpC5ZFE",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
   },
   {
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE | 3 BIG RIGS | Asiana A380 + EK A380 \"Arsenal\" + EK A380 \"Rugby\" | Sydney Airport 20.10.26 🔴",
+    "streamTitle": "🔴 3 BIG RIGS | Asiana A380 + EK A380 \"Arsenal\" + EK A380 \"Rugby\" | Sydney Airport KURT 20.10.26 🔴",
     "currentVideoId": "I1dBJEI0nmo",
     "airportCode": "SYD",
     "bbox": {
@@ -94,8 +94,8 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE-THE LAST A340 at BUSY CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION |AVGEEK PLANES",
-    "currentVideoId": "v1S5Efc6FPk",
+    "streamTitle": " A340-600 TAKEOFF from CHICAGO O'HARE AIRPORT | FAREWELL AFTER 23 YEARS | AVGEEK ORD PLANE SPOTTING",
+    "currentVideoId": "MeHxroEW9AA",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
