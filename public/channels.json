@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Pacific Heavy Touchdown! Korean Air Boeing 777-300ER HL8042 From ICN Seoul into LAS Vegas! 🇰🇷✈️",
-    "currentVideoId": "R3dINg3hEXk",
+    "streamTitle": "Storm Cloud Climb Out! Breeze Airways Airbus A220-300 N230BZ From LAS Vegas to SNA Santa Ana! 🇺🇸✈️",
+    "currentVideoId": "4EO6TfW3XC4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Monday 19th October 2026",
-    "currentVideoId": "mrafALsHOj4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Tuesday 20th October 2026",
+    "currentVideoId": "V_royqIDgIM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
