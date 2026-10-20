@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "ntC6v-FhgWM",
+    "currentVideoId": "lVK4PibzmS0",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "😂 Pilot Requests a NEW Squawk Code… Gets 6767!"
+    "streamTitle": "FedEx Goes Retro! Boeing 777 N884FD Landing at Chicago O’Hare"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -77,16 +77,16 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔵[4K] Lufthansa 100 Year Anniversary Livery @ Tokyo Haneda Airport - Plane Spotting with SydSquad!🔵",
-    "currentVideoId": "6MQu6HGD-ZA",
-    "airportCode": "HND",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE | 3 BIG RIGS | Asiana A380 + EK A380 \"Arsenal\" + EK A380 \"Rugby\" | Sydney Airport 20.10.26 🔴",
+    "currentVideoId": "I1dBJEI0nmo",
+    "airportCode": "SYD",
     "bbox": {
-      "lamin": 35.55,
-      "lamax": 35.56,
-      "lomin": 139.77,
-      "lomax": 139.79
+      "lamin": -34.09,
+      "lamax": -33.79,
+      "lomin": 151.02,
+      "lomax": 151.32
     }
   },
   {
