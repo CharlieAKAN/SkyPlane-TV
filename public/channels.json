@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Go-Around! TOGA Power! Contour Embraer ERJ-135 N16501 From MCE Merced at LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "v8-Ig8-jqug",
+    "streamTitle": "\"Tiana's Bayou Adventure\"! Alaska Boeing 737-800 N596AS From STS Santa Rosa into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "YDBePP-1SMA",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Tuesday 20th October 2026",
-    "currentVideoId": "V_royqIDgIM",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live - Wednesday 21st October 2026",
+    "currentVideoId": "1LHnDtr2f5w",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 3 BIG RIGS | Asiana A380 + EK A380 \"Arsenal\" + EK A380 \"Rugby\" | Sydney Airport KURT 20.10.26 🔴",
-    "currentVideoId": "I1dBJEI0nmo",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE - Charter Boeing 747 + Asiana A380 Night Ops @ Sydney Airport - 21.10.26 🔴",
+    "currentVideoId": "9BztzZ0ZwHI",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
