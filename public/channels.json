@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Tiana's Bayou Adventure\"! Alaska Boeing 737-800 N596AS From STS Santa Rosa into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "YDBePP-1SMA",
+    "streamTitle": "Cloud Climber! JSX ATR 42-600 N401JX From LAS Vegas to SMO Santa Monica! 🇺🇸✈️",
+    "currentVideoId": "l1IQh15vsFo",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴LIVE - Charter Boeing 747 + Asiana A380 Night Ops @ Sydney Airport - 21.10.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴LIVE | Low Clouds & Terra Avia 747-400F Plane Spotting @ Sydney Airport - 21.10.26 🔴",
     "currentVideoId": "9BztzZ0ZwHI",
     "airportCode": "SYD",
     "bbox": {
