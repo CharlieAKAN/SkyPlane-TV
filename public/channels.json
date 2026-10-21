@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Cloud Climber! JSX ATR 42-600 N401JX From LAS Vegas to SMO Santa Monica! 🇺🇸✈️",
-    "currentVideoId": "l1IQh15vsFo",
+    "streamTitle": "Second Try Touchdown! Contour Embraer ERJ-135 N16501 From MCE Merced into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "rfnamO39z8g",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live - Wednesday 21st October 2026",
     "currentVideoId": "1LHnDtr2f5w",
     "airportCode": "LHR",
