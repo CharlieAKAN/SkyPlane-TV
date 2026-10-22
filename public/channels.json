@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "tep3pqgxp0o",
+    "currentVideoId": "KL24jyFxbH8",
     "isLive": true,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "live",
-    "streamTitle": "🔴 LIVE BUSY O’HARE AIRPORT ACTION ✈️🔥 | Chicago Plane Spotting | Big Jets & Cargo"
+    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Grey Sky Heavy! Discover Airlines Airbus A330-300 D-AIKH From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
-    "currentVideoId": "6EHeCel026k",
+    "streamTitle": "Quick Turn Climb Out! Contour Embraer ERJ-135 N16501 From LAS Vegas to MCE Merced! 🇺🇸✈️",
+    "currentVideoId": "VQ4zTLiwuYk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
