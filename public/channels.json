@@ -18,15 +18,15 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "_DlO3D9XxUM",
-    "isLive": false,
+    "currentVideoId": "tep3pqgxp0o",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE BUSY O’HARE AIRPORT ACTION ✈️🔥 | Chicago Plane Spotting | Big Jets & Cargo"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Second Try Touchdown! Contour Embraer ERJ-135 N16501 From MCE Merced into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "rfnamO39z8g",
+    "streamTitle": "Grey Sky Heavy! Discover Airlines Airbus A330-300 D-AIKH From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
+    "currentVideoId": "6EHeCel026k",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live - Wednesday 21st October 2026",
-    "currentVideoId": "1LHnDtr2f5w",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  WINDY Thursday 22nd October 2026",
+    "currentVideoId": "uA9tbyk4lJ8",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
