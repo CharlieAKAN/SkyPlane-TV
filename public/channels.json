@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE | Night Time Heavy Rush | Plane Spotting with SydSquad @ Sydney Airport - 23.10.26 🔴",
-    "currentVideoId": "cG8M5ImBK7c",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE - MELBOURNE AIRPORT - Final scheduled QANTAS A380 out of Melbourne. Plane-Spotting 23.10.26 🔴",
+    "currentVideoId": "aF7PwtQikUg",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
