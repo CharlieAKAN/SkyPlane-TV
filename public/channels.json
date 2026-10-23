@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Speedbird Turnaround! British Airways Boeing 787-9 G-ZBKD From LAS Vegas to London HeathRow! 🇬🇧✈️",
-    "currentVideoId": "Vw4ntItV8bY",
+    "streamTitle": "Military Heavy! USAF C-17 Globemaster III 92-3293 FAMUS36 From ORD Chicago into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "ifV0kj5iWF8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  WINDY Friday 23rd October 2026",
     "currentVideoId": "GpQB4CAut8U",
     "airportCode": "LHR",
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": true,
     "streamStatus": "live",
-    "streamTitle": "🔴 LIVE - MELBOURNE AIRPORT - Final scheduled QANTAS A380 out of Melbourne. Plane-Spotting 23.10.26 🔴",
+    "streamTitle": "🔴 LIVE - MELBOURNE AIRPORT - Final scheduled QANTAS A380 out of Melbourne. Plane-Spotting 24.10.26 🔴",
     "currentVideoId": "aF7PwtQikUg",
     "airportCode": "SYD",
     "bbox": {
