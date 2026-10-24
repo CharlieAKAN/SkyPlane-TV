@@ -18,22 +18,22 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "KL24jyFxbH8",
-    "isLive": false,
+    "currentVideoId": "GbpNKdjLK5g",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE: Sunset Plane Spotting at Chicago O’Hare ✈️ Jumbo Jets, Landings & Takeoffs!"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "RzoaKk8epJU",
+    "currentVideoId": "mpy6II46kSE",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,8 +41,8 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamStatus": "upcoming",
+    "streamTitle": "LIVE: Storm Boelo at London Heathrow Airport"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
