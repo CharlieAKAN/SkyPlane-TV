@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "GbpNKdjLK5g",
+    "currentVideoId": "mC3l72Wz_04",
     "isLive": true,
     "bbox": {
       "lamin": 41.83,
@@ -27,22 +27,22 @@
       "lomax": -87.75
     },
     "streamStatus": "live",
-    "streamTitle": "🔴 LIVE: Sunset Plane Spotting at Chicago O’Hare ✈️ Jumbo Jets, Landings & Takeoffs!"
+    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "mpy6II46kSE",
-    "isLive": false,
+    "currentVideoId": "uDBYuEV4zjI",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
-    "streamTitle": "LIVE: Storm Boelo at London Heathrow Airport"
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport LIVE 24/7"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Uhiuhi\" Sunset Glow! Hawaiian Airbus A321neo N215HA From OGG Kahului into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "hwKgaBhgwCw",
+    "streamTitle": "Night Freighter Climb! FedEx Boeing 767-300F N246FE FX1240 From LAS Vegas to MEMphis! 🇺🇸✈️",
+    "currentVideoId": "h02hfFtTuAw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  STORM BOELO Saturday 24th October 2026",
     "currentVideoId": "3-TLrqqe2Hw",
     "airportCode": "LHR",
