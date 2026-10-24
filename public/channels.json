@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Military Heavy! USAF C-17 Globemaster III 92-3293 FAMUS36 From ORD Chicago into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "ifV0kj5iWF8",
+    "streamTitle": "Night Starburst! American Airlines Airbus A321 N195UW From DFW DALlas into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "N6T24lRTiiU",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE - MELBOURNE AIRPORT - Final scheduled QANTAS A380 out of Melbourne. Plane-Spotting 24.10.26 🔴",
-    "currentVideoId": "aF7PwtQikUg",
+    "isLive": false,
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE - Western Sydney International Opening Day + Gold Coast Airport - Plane-Spotting - 20.10.26 🔴",
+    "currentVideoId": "MGgesSkC-dw",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
