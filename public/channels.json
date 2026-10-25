@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Beach Neo Touchdown! Condor Airbus A330-900neo D-ANRE From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
-    "currentVideoId": "GgHcg4cJfX0",
+    "streamTitle": "\"Bordeaux\" Climb Out! Air France Airbus A350-900 F-HTYE From LAS Vegas to CDG Paris! 🇫🇷✈️",
+    "currentVideoId": "EMsccvpJ6fo",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  STRONG WINDS Sunday 25th October 2026",
     "currentVideoId": "B1NPaF7gR7s",
     "airportCode": "LHR",
