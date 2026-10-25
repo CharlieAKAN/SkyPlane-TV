@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "A86yVJ_QYCQ",
+    "currentVideoId": "ZHdq8eRULB8",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,8 +11,8 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE SFO Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (October 24th, 2026)"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE SFO Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (October 25th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -41,7 +41,7 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: Storm Boelo at London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Lightning Inbound! JSX ATR 42-600 N401JX From SMO Santa Monica into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "KtrXDpY1Goo",
+    "streamTitle": "Beach Neo Touchdown! Condor Airbus A330-900neo D-ANRE From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
+    "currentVideoId": "GgHcg4cJfX0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - Western Sydney International Opening Day + Gold Coast Airport - Plane-Spotting - 25.10.26 🔴",
-    "currentVideoId": "MGgesSkC-dw",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE - Western Sydney Intl Airport - INAUGURAL International movements - Plane-Spotting 26.10.26 🔴",
+    "currentVideoId": "H4-7j764QWM",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
