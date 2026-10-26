@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "ZHdq8eRULB8",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE SFO Plane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (October 25th, 2026)"
   },
   {
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE - Western Sydney Intl Airport - INAUGURAL International movements - Plane-Spotting 26.10.26 🔴",
     "currentVideoId": "H4-7j764QWM",
     "airportCode": "SYD",
