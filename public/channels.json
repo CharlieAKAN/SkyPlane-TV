@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "3BEwNHnobYE",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
   },
   {
@@ -93,9 +93,9 @@
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
-    "currentVideoId": "plW1o1SFUws",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴LIVE CHASING BIG PLANES at BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING | 747, 777, 787",
+    "currentVideoId": "MF4kfN6L7hQ",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
