@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "mpy6II46kSE",
+    "currentVideoId": "3NzzVmiXMGE",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "LIVE: Storm Boelo at London Heathrow Airport"
+    "streamTitle": "Munich Fire training"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Sands Climb Out! Las Vegas Sands Boeing 737 BBJ N887LS Departing LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "MdL3R33NiOg",
+    "streamTitle": "Gold Lineage Taxi! Embraer Lineage 1000 N783MM at LAS Vegas Harry Reid! 🇺🇸✈️",
+    "currentVideoId": "uXhyruT_AGc",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -78,8 +78,8 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴 LIVE - China Southn Special A350 + Turkish A350 400th + Sydney Airport Plane-Spotting - 27.10.26 🔴",
+    "streamStatus": "vod",
+    "streamTitle": "🔴 LIVE - China Southern Special A350 + Turkish A350 400th +Sydney Airport Plane-Spotting - 27.10.26🔴",
     "currentVideoId": "DXVYJ_VGmu4",
     "airportCode": "SYD",
     "bbox": {
