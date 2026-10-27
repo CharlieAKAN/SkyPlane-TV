@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Bordeaux\" Climb Out! Air France Airbus A350-900 F-HTYE From LAS Vegas to CDG Paris! 🇫🇷✈️",
-    "currentVideoId": "EMsccvpJ6fo",
+    "streamTitle": "Sands Climb Out! Las Vegas Sands Boeing 737 BBJ N887LS Departing LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "MdL3R33NiOg",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Monday 26th October 2026",
-    "currentVideoId": "pk4VGDMjZos",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Tuesday 27th October 2026",
+    "currentVideoId": "V1usNkBAsJs",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - Western Sydney Intl Airport - INAUGURAL International movements - Plane-Spotting 26.10.26 🔴",
-    "currentVideoId": "H4-7j764QWM",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE - China Southn Special A350 + Turkish A350 400th + Sydney Airport Plane-Spotting - 27.10.26 🔴",
+    "currentVideoId": "DXVYJ_VGmu4",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
