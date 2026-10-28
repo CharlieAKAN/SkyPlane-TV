@@ -41,7 +41,7 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Gold Lineage Taxi! Embraer Lineage 1000 N783MM at LAS Vegas Harry Reid! 🇺🇸✈️",
-    "currentVideoId": "uXhyruT_AGc",
+    "streamTitle": "Freighter Climb! Sun Country Boeing 737-800BCF N5209A From LAS Vegas to Nashville! 🇺🇸✈️",
+    "currentVideoId": "dqU6DfhVKPQ",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Tuesday 27th October 2026",
-    "currentVideoId": "V1usNkBAsJs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Wednesday 28th October 2026",
+    "currentVideoId": "TAxBEEJZxao",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -94,8 +94,8 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE (VERTICAL MODE) BUSY CHICAGO O'HARE AIRPORT ACTION | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK",
-    "currentVideoId": "LXBYdmqmuV8",
+    "streamTitle": "🔴LIVE CHASING BIG PLANES at BUSY CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING | 747, 777, 787",
+    "currentVideoId": "MF4kfN6L7hQ",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
