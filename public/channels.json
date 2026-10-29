@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE: Chicago O’Hare Airport ✈️ Nonstop Landings & Takeoffs | Plane Spotting"
+    "streamTitle": "7 HOURS of Nonstop O’Hare Action ✈️ |  Korean Air’s New Look & More | ORD Plane Spotting"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Nice Climb! Delta Boeing 757-200 N696DL From LAS Vegas to DETroit! 🇺🇸✈️",
-    "currentVideoId": "tIMJB4imX-s",
+    "streamTitle": "Namesake Hop Out! JSX ATR 42-600 N402JX From LAS Vegas to SMO Santa Monica! 🇺🇸✈️",
+    "currentVideoId": "uj8pth-mjJw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Wednesday 28th October 2026",
-    "currentVideoId": "TAxBEEJZxao",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Thursday 29th October 2026",
+    "currentVideoId": "B9UYX_BVAmQ",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
