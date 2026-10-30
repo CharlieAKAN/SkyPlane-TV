@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "Xnsz_e9CksI",
-    "isLive": false,
+    "currentVideoId": "3s1PNfdOGiw",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "Kalitta Air 747 Landing Seen from O’Hare’s City Operations Tower ✈️"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE: Friday Morning Rush at Chicago O’Hare! ✈️ Nonstop Landings & Takeoffs"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "SEAttle Climb! Southwest Boeing 737 MAX N8768Q From LAS Vegas to SEAttle! 🇺🇸✈️",
-    "currentVideoId": "Aj6Pfu-IR24",
+    "streamTitle": "Falcon Climb! Dassault Falcon 7X N577CF EJM145 From LAS Vegas to DuPage! 🇺🇸✈️",
+    "currentVideoId": "JYYV3SJp6_o",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴LIVE | Friday Night Plane Spotting with SydSquad @ Sydney Airport | 30.10.26 🔴",
-    "currentVideoId": "J4eVZfAKecg",
+    "isLive": false,
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE - SydSquad Saturday Morning Plane Spotting at SYD Sydney Airport with KURT - 31.10.26🔴",
+    "currentVideoId": "fSddo7RVKqs",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE BUSY GOLDEN HOUR at CHICAGO O'HARE AIRPORT | SIGHTS & SOUNDS of PURE AVIATION | AVGEEK PLANES",
+    "streamTitle": "🔴LIVE GOLDEN HOUR RUSH & LATE NIGHT AIRPORT ACTION at CHICAGO O'HARE | AVGEEK ORD PLANE SPOTTING",
     "currentVideoId": "br8afC2BCNg",
     "airportCode": "ORD",
     "bbox": {
