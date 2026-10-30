@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "3s1PNfdOGiw",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE: Friday Morning Rush at Chicago O’Hare! ✈️ Nonstop Landings & Takeoffs"
   },
   {
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
+    "isLive": true,
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE - SydSquad Saturday Morning Plane Spotting at SYD Sydney Airport with KURT - 31.10.26🔴",
     "currentVideoId": "fSddo7RVKqs",
     "airportCode": "SYD",
