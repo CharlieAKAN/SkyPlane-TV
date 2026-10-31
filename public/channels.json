@@ -33,7 +33,7 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "MSgnSmH7sZ4",
+    "currentVideoId": "3i-UaF6biQo",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -41,7 +41,7 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Soul Rebel\" Climb Out! Virgin Atlantic A350-1000 G-VBOB From LAS Vegas to MANchester! 🇬🇧✈️",
-    "currentVideoId": "f_UcMx3tP2s",
+    "streamTitle": "Pacific Heavy Touchdown! Korean Air Boeing 777-300ER HL8250 From ICN Seoul into LAS Vegas! 🇰🇷✈️",
+    "currentVideoId": "RdH4AXrrxrA",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Saturday 31st October 2026",
     "currentVideoId": "DlZxbYjuZ7g",
     "airportCode": "LHR",
