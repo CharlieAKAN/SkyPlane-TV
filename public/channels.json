@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "3i-UaF6biQo",
-    "isLive": true,
+    "currentVideoId": "dhbYCbST5QY",
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamStatus": "vod",
+    "streamTitle": "American 173 B772 right turn 09R departure out of Heathrow"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE Hour of Power - Sydney Airport - 01.11.26 🔴",
+    "streamTitle": "🔴 LIVE Hour of Power Plane-Spotting @ Sydney Airport with KURT - 01.11.26 🔴",
     "currentVideoId": "GGAHtJamxZA",
     "airportCode": "SYD",
     "bbox": {
