@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "3i-UaF6biQo",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Freedom One\" Roll! Southwest 737-800 N500WR From LAS Vegas to Louisville! 🇺🇸✈️",
-    "currentVideoId": "Q5sN_n-ju3s",
+    "streamTitle": "\"Independence One\" Roll! Southwest 737 MAX N1776R From LAS Vegas to Oakland! 🇺🇸✈️",
+    "currentVideoId": "eIwZpQtnE7c",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - SydSquad Saturday Morning Plane Spotting at SYD Sydney Airport with KURT - 31.10.26🔴",
-    "currentVideoId": "fSddo7RVKqs",
+    "streamTitle": "🔴 LIVE Hour of Power - Sydney Airport - 01.11.26 🔴",
+    "currentVideoId": "GGAHtJamxZA",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
