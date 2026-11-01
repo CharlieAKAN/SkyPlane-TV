@@ -41,7 +41,7 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "LIVE: London Heathrow Airport"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Pacific Heavy Touchdown! Korean Air Boeing 777-300ER HL8250 From ICN Seoul into LAS Vegas! 🇰🇷✈️",
-    "currentVideoId": "RdH4AXrrxrA",
+    "streamTitle": "\"Freedom One\" Roll! Southwest 737-800 N500WR From LAS Vegas to Louisville! 🇺🇸✈️",
+    "currentVideoId": "Q5sN_n-ju3s",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Saturday 31st October 2026",
-    "currentVideoId": "DlZxbYjuZ7g",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Sunday 1st November 2026",
+    "currentVideoId": "tX6GNfvALc8",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
