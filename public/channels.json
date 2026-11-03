@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "Over 5 Hours of INSANE Monday Rush at Chicago O’Hare! ✈️ | Plane SpottingConvert to PDF"
+    "streamTitle": "Over 5 Hours of INSANE Monday Rush at Chicago O’Hare! ✈️ | Plane Spotting"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Monday 2nd November 2026",
-    "currentVideoId": "u3E_Mqn3hj8",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Tuesday 3rd November 2026",
+    "currentVideoId": "64M66aM_XCM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
