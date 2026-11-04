@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "sY4d8ASWwaI",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
   },
   {
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport - The Midweek Show"
+    "streamTitle": "LIVE: London Heathrow Airport - The Midweek Show [November 4th]"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Smoky Touchdown! Delta Boeing 757-200 N689DL From ATLanta into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "97V8Q8ECmXY",
+    "streamTitle": "Canyon Arrival! Southwest Boeing 737-700 N217JC From GRR Grand Rapids into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "FnTkpQDUeAk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
