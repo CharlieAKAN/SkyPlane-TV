@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "6YikpZR-gHo",
-    "isLive": false,
+    "currentVideoId": "sY4d8ASWwaI",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "Over 5 Hours of INSANE Monday Rush at Chicago O’Hare! ✈️ | Plane Spotting"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport"
+    "streamTitle": "LIVE: London Heathrow Airport - The Midweek Show"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Chiefs Charter Touchdown! United Boeing 777-300ER N2534U From Kansas City into LAS Vegas! 🏈✈️",
-    "currentVideoId": "pvkhbzAq1HE",
+    "streamTitle": "Smoky Touchdown! Delta Boeing 757-200 N689DL From ATLanta into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "97V8Q8ECmXY",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Tuesday 3rd November 2026",
-    "currentVideoId": "64M66aM_XCM",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Wednesday 4th November 2026",
+    "currentVideoId": "evYvRt0buTs",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE Hour of Power Plane-Spotting @ Sydney Airport with KURT - 01.11.26 🔴",
-    "currentVideoId": "GGAHtJamxZA",
+    "streamTitle": "🔴 JUMBO - Terra Avia Boeing 747-400(F) Plane-Spotting @ Sydney Airport with KURT - 04.11.26 🔴",
+    "currentVideoId": "tL7cf-SujxI",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
