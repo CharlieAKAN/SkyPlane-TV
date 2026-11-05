@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "2L1aoKCL814",
+    "currentVideoId": "fEjMXPIqq1U",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "Qatar’s World Cup 777 Arrives at O’Hare! ✈️ 14 Hours from Doha"
+    "streamTitle": "🔴 LIVE: Plane Spotting at Chicago O’Hare! ✈️ Nonstop Landings, Takeoffs & Airport Action!"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Luxor Rollout! Cessna Citation Encore N250PK Lands in LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "jj0K5pZ7poE",
+    "streamTitle": "Big Apple Bound! Delta Boeing 767-300ER N1603 From LAS Vegas to JFK New York! 🇺🇸✈️",
+    "currentVideoId": "84krNgT9bD8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
