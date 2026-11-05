@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "sY4d8ASWwaI",
+    "currentVideoId": "2L1aoKCL814",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
+    "streamTitle": "Qatar’s World Cup 777 Arrives at O’Hare! ✈️ 14 Hours from Doha"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Canyon Arrival! Southwest Boeing 737-700 N217JC From GRR Grand Rapids into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "FnTkpQDUeAk",
+    "streamTitle": "Luxor Rollout! Cessna Citation Encore N250PK Lands in LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "jj0K5pZ7poE",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Wednesday 4th November 2026",
-    "currentVideoId": "evYvRt0buTs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Thursday 5th November 2026",
+    "currentVideoId": "GGq0vJ29wHg",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
