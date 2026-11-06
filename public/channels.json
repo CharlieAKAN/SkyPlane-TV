@@ -26,7 +26,7 @@
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "🔴 **LIVE PLANE SPOTTING FROM CHICAGO O’HARE!** ✈️"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Military Heavy Climb! USAF C-17 Globemaster III 92-3293 FAMOUS91 Departs LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "gGut8xnmsVI",
+    "streamTitle": "Purple Neo Touchdown! Volaris Airbus A321neo XA-VUJ From MEXico City into LAS Vegas! 🇲🇽✈️",
+    "currentVideoId": "T-gXF7ORzMM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
