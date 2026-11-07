@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "HFfaSoNLYKA",
+    "currentVideoId": "iUsu-jwxkc0",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,14 +11,14 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (October 31st, 2026)"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 8th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "82tp4GweVes",
+    "currentVideoId": "i0n-oIPR084",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 **LIVE PLANE SPOTTING FROM CHICAGO O’HARE!** ✈️"
+    "streamTitle": "✈️ UPS Airbus A300 Flies RIGHT OVER MY HEAD! Incredible Landing at O’Hare 🔥 #Shorts"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Glowing Engines Night Push! Korean Air Boeing 777-300ER HL8010 From LAS Vegas to ICN Seoul! 🇰🇷✈️",
-    "currentVideoId": "B-Dpo3mxFJM",
+    "streamTitle": "Juan the Parrot Touchdown! Frontier Airbus A320neo N390FR From DENver into LAS Vegas! 🦜✈️",
+    "currentVideoId": "FcMArn1P2ss",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
