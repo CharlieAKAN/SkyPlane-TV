@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
+    "streamStatus": "upcoming",
     "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 8th, 2026)"
   },
   {
@@ -33,16 +33,16 @@
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "bM0zc1xjdYU",
-    "isLive": false,
+    "currentVideoId": "De6iLs3UwEg",
+    "isLive": true,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport - The Midweek Show [November 4th]"
+    "streamStatus": "live",
+    "streamTitle": "LIVE: London Heathrow Airport - The Sunday Show"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Juan the Parrot Touchdown! Frontier Airbus A320neo N390FR From DENver into LAS Vegas! 🦜✈️",
-    "currentVideoId": "FcMArn1P2ss",
+    "streamTitle": "Privat E190 Touchdown! Embraer E190 N111NH From CONCORd into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "GkpP34TftCk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Saturday 7th November 2026",
-    "currentVideoId": "AfUHI9dGJHs",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Sunday 8th November 2026",
+    "currentVideoId": "Iq0W6_KHJfw",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 JUMBO - Terra Avia Boeing 747-400(F) Plane-Spotting @ Sydney Airport with KURT - 04.11.26 🔴",
-    "currentVideoId": "tL7cf-SujxI",
+    "streamTitle": "🔴LIVE | WET + Windy  Night Plane Spotting with SydSquad @ Sydney Airport | 08.11.26 🔴",
+    "currentVideoId": "Ayv1Ycuwn08",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
