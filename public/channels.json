@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "iUsu-jwxkc0",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 8th, 2026)"
   },
   {
@@ -34,14 +34,14 @@
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
     "currentVideoId": "De6iLs3UwEg",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 51.32,
       "lamax": 51.62,
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport - The Sunday Show"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Privat E190 Touchdown! Embraer E190 N111NH From CONCORd into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "GkpP34TftCk",
+    "streamTitle": "Chiefs Charter Long Cut! United Boeing 777-300ER N2534U From Kansas City into LAS Vegas! 🏈✈️",
+    "currentVideoId": "J6Pt2faIgYw",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
