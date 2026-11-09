@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "i0n-oIPR084",
-    "isLive": false,
+    "currentVideoId": "hD6_tf728rk",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "✈️ UPS Airbus A300 Flies RIGHT OVER MY HEAD! Incredible Landing at O’Hare 🔥 #Shorts"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE: Philippine Airlines’ Inaugural Landing at Chicago O’Hare ✈️ + Plane Spottingg 🔥 [v]"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport - The Sunday Show"
+    "streamTitle": "LIVE: London Heathrow Airport - The Sunday Show [November 8th]"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Mad Dog Climb! USA Jet MD-88 N836US JUS101 From LAS Vegas to LARedo! 🇺🇸✈️",
-    "currentVideoId": "PJLOWQEfVkQ",
+    "streamTitle": "Mad Dog Full Monty! USA Jet MD-88 N836US Taxi to Takeoff From LAS Vegas to LARedo! 🇺🇸✈️",
+    "currentVideoId": "sZsKUyJO8SM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -78,8 +78,8 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴 LIVE - Special Liveries galore! Plane-Spotting @ Sydney Airport with Kurt n Mick - 09.11.26 🔴",
+    "streamStatus": "vod",
+    "streamTitle": "🔴 Special Liveries galore! Plane-Spotting @ Sydney Airport with Kurt n Mick - 09.11.26 🔴",
     "currentVideoId": "uI4RJbdm-DI",
     "airportCode": "SYD",
     "bbox": {
@@ -94,7 +94,7 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "upcoming",
-    "streamTitle": "🔴LIVE- CHICAGO O'HARE AIRPORT | FIRST NONSTOP PHILIPPINE AIRLINES FLIGHT LAND & TAKEOFF | ORD PLANES",
+    "streamTitle": "🔴LIVE- PHILIPPINE AIRLINES INAUGURAL FLIGHT at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
     "currentVideoId": "3rTbO_Tk8nU",
     "airportCode": "ORD",
     "bbox": {
