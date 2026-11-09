@@ -1,1 +1,77 @@
-{}
+{
+  "SYD": {
+    "raw": "METAR YSSY 090800Z AUTO 17016KT 9999 // FEW034 17/11 Q1018",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 170,
+    "windSpeed": 16,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 17,
+    "dewpoint": 11,
+    "altimeter": 30.06,
+    "conditions": "",
+    "observationTime": "2026-11-09T08:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 090750Z 06004KT 1600 BR OVC001 06/06 Q1018 TEMPO 3000 BKN002",
+    "icao": "EGLL",
+    "flightCategory": "LIFR",
+    "windDir": 60,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 0.99,
+    "ceiling": 100,
+    "temp": 6,
+    "dewpoint": 6,
+    "altimeter": 30.06,
+    "conditions": "BR",
+    "observationTime": "2026-11-09T08:00:00.000Z"
+  },
+  "LAS": {
+    "raw": "METAR KLAS 090756Z 22004KT 10SM FEW250 14/01 A3015 RMK AO2 SLP197 T01390011 402330111",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 220,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 13.9,
+    "dewpoint": 1.1,
+    "altimeter": 30.15,
+    "conditions": "",
+    "observationTime": "2026-11-09T08:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 090753Z 03007KT 10SM CLR 22/05 A3000 RMK AO2 SLP155 T02170050 403110167 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 30,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 21.7,
+    "dewpoint": 5,
+    "altimeter": 30,
+    "conditions": "",
+    "observationTime": "2026-11-09T08:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 090751Z 29006KT 10SM FEW250 07/03 A3005 RMK SLP177 T00670028",
+    "icao": "KORD",
+    "flightCategory": "VFR",
+    "windDir": 290,
+    "windSpeed": 6,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 6.7,
+    "dewpoint": 2.8,
+    "altimeter": 30.05,
+    "conditions": "",
+    "observationTime": "2026-11-09T08:00:00.000Z"
+  }
+}

@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Big Apple Bound Again! Delta Boeing 767-300ER N1603 From LAS Vegas to JFK New York! 🇺🇸✈️",
-    "currentVideoId": "i8jL5rKbqug",
+    "streamTitle": "Mad Dog Climb! USA Jet MD-88 N836US JUS101 From LAS Vegas to LARedo! 🇺🇸✈️",
+    "currentVideoId": "PJLOWQEfVkQ",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Sunday 8th November 2026",
-    "currentVideoId": "Iq0W6_KHJfw",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Monday 9th November 2026",
+    "currentVideoId": "QBB0xKK8cG4",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -78,9 +78,9 @@
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴LIVE | WET + Windy  Night Plane Spotting with SydSquad @ Sydney Airport | 08.11.26 🔴",
-    "currentVideoId": "Ayv1Ycuwn08",
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE - Special Liveries galore! Plane-Spotting @ Sydney Airport with Kurt n Mick - 09.11.26 🔴",
+    "currentVideoId": "uI4RJbdm-DI",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
