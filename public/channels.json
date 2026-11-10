@@ -18,22 +18,22 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "Qx69wId52lo",
-    "isLive": false,
+    "currentVideoId": "MXAns8H7SQI",
+    "isLive": true,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "vod",
-    "streamTitle": "Emirates’ Flying Flag Lands at O’Hare! ✈️ UAE Flag Livery Boeing 777-300ER"
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "De6iLs3UwEg",
+    "currentVideoId": "zErB0tdrt5M",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "LIVE: London Heathrow Airport - The Sunday Show [November 8th]"
+    "streamTitle": "Destination Atlanta: Live take off on board VS103 #Starlink"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Peeling Paint Touchdown! United Boeing 737-900 N31412 From HOUston into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "XUyynM7KPpk",
+    "streamTitle": "Pencil Jet Bound! United Boeing 757-200 N29129 From LAS Vegas to NEWeRk! 🇺🇸✈️",
+    "currentVideoId": "Q8sj32g6-C8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
