@@ -19,14 +19,14 @@
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
     "currentVideoId": "hD6_tf728rk",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE: Philippine Airlines’ Inaugural Landing at Chicago O’Hare ✈️ + Plane Spottingg 🔥 [v]"
   },
   {
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Monday 9th November 2026",
     "currentVideoId": "QBB0xKK8cG4",
     "airportCode": "LHR",
@@ -93,7 +93,7 @@
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE- PHILIPPINE AIRLINES INAUGURAL FLIGHT at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
     "currentVideoId": "3rTbO_Tk8nU",
     "airportCode": "ORD",
