@@ -18,22 +18,22 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "MXAns8H7SQI",
-    "isLive": true,
+    "currentVideoId": "WSa7pPtWUdo",
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]"
+    "streamStatus": "vod",
+    "streamTitle": "🔴 LIVE PLANE SPOTTING FROM CHICAGO O’HARE! ✈️"
   },
   {
     "channelName": "Big Jet TV (LHR)",
     "youtubeChannelId": "UCkQef3Fidr7tm3gNuXgGKPw",
     "airportCode": "LHR",
-    "currentVideoId": "zErB0tdrt5M",
+    "currentVideoId": "jVxc54tCC2A",
     "isLive": false,
     "bbox": {
       "lamin": 51.32,
@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "Destination Atlanta: Live take off on board VS103 #Starlink"
+    "streamTitle": "Destination Atlanta: Live decent and landing into KATL on VS103 #Starlink"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Pencil Jet Bound! United Boeing 757-200 N29129 From LAS Vegas to NEWeRk! 🇺🇸✈️",
-    "currentVideoId": "Q8sj32g6-C8",
+    "streamTitle": "Dawn Freighter Touchdown! FedEx Boeing 757-200 N934FD From INDianapolis into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "gJPOArrFYow",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -94,8 +94,8 @@
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE- PHILIPPINE AIRLINES INAUGURAL FLIGHT at CHICAGO O'HARE AIRPORT | AVGEEK ORD PLANE SPOTTING",
-    "currentVideoId": "3rTbO_Tk8nU",
+    "streamTitle": "PHILIPPINE AIRLINES ARRIVAL & LATE NIGHT TAKEOFF w/ LIVE ATC l CHICAGO O'HARE AIRPORT | ORD AVGEEK",
+    "currentVideoId": "W61c5vBFaF0",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
