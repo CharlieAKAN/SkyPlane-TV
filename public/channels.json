@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "hD6_tf728rk",
+    "currentVideoId": "Qx69wId52lo",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE: Philippine Airlines’ Inaugural Landing at Chicago O’Hare ✈️ + Plane Spottingg 🔥 [v]"
+    "streamTitle": "Emirates’ Flying Flag Lands at O’Hare! ✈️ UAE Flag Livery Boeing 777-300ER"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Mad Dog Full Monty! USA Jet MD-88 N836US Taxi to Takeoff From LAS Vegas to LARedo! 🇺🇸✈️",
-    "currentVideoId": "sZsKUyJO8SM",
+    "streamTitle": "Peeling Paint Touchdown! United Boeing 737-900 N31412 From HOUston into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "XUyynM7KPpk",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Monday 9th November 2026",
-    "currentVideoId": "QBB0xKK8cG4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Tuesday 10th November 2026",
+    "currentVideoId": "NFYWw8jHcw8",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
