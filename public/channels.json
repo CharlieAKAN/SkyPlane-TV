@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Go-Around Behind Southwest! Frontier Airbus A320neo N372FR From SEAttle at LAS Vegas! 🦌✈️",
-    "currentVideoId": "aZJoUygTFp4",
+    "streamTitle": "In-N-Out JANET Double Header! Boeing 737-600s N273RH In, N319BD Out at LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "CdOPFH7qaUE",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "🔴 3 x JUMBOS - Terra Avia + OneAir 747-400(F) Plane-Spotting @ Sydney Airport KURT MICK - 11.11.26 🔴",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "🔴 4 x B747-400F JUMBOS - Terra Avia + OneAir + Atlas + UPS  @ Sydney Airport KURT MICK - 11.11.26 🔴",
     "currentVideoId": "ru-GD8hHDlo",
     "airportCode": "SYD",
     "bbox": {
