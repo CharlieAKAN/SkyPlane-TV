@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "In-N-Out JANET Double Header! Boeing 737-600s N273RH In, N319BD Out at LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "CdOPFH7qaUE",
+    "streamTitle": "Beige Beach Climb-Out! Condor Airbus A330-900neo D-ANRP From LAS Vegas to FRAnkfurt! 🇩🇪✈️",
+    "currentVideoId": "SiKDUe-uW5E",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Wednesday 11th November 2026",
     "currentVideoId": "8r9XDBCkBNg",
     "airportCode": "LHR",
