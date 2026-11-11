@@ -42,7 +42,7 @@
       "lomax": -0.3
     },
     "streamStatus": "vod",
-    "streamTitle": "Destination Atlanta: Live decent and landing into KATL on VS103 #Starlink"
+    "streamTitle": "Destination Atlanta: Live descent and landing into KATL on VS103 #Starlink"
   },
   {
     "channelName": "LAS Vegas Airport LIVE",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Dawn Freighter Touchdown! FedEx Boeing 757-200 N934FD From INDianapolis into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "gJPOArrFYow",
+    "streamTitle": "Go-Around Behind Southwest! Frontier Airbus A320neo N372FR From SEAttle at LAS Vegas! 🦌✈️",
+    "currentVideoId": "aZJoUygTFp4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Tuesday 10th November 2026",
     "currentVideoId": "NFYWw8jHcw8",
     "airportCode": "LHR",
