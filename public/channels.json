@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Tuesday 10th November 2026",
-    "currentVideoId": "NFYWw8jHcw8",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Wednesday 11th November 2026",
+    "currentVideoId": "8r9XDBCkBNg",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -77,10 +77,10 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "🔴 Special Liveries galore! Plane-Spotting @ Sydney Airport with Kurt n Mick - 09.11.26 🔴",
-    "currentVideoId": "uI4RJbdm-DI",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 3 x JUMBOS - Terra Avia + OneAir 747-400(F) Plane-Spotting @ Sydney Airport KURT MICK - 11.11.26 🔴",
+    "currentVideoId": "ru-GD8hHDlo",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
