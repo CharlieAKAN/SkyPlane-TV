@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "WSa7pPtWUdo",
+    "currentVideoId": "HodIdPidcLg",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE PLANE SPOTTING FROM CHICAGO O’HARE! ✈️"
+    "streamTitle": "American Airlines Flight AA3028 Rejects Takeoff at Chicago O’Hare"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Beige Beach Climb-Out! Condor Airbus A330-900neo D-ANRP From LAS Vegas to FRAnkfurt! 🇩🇪✈️",
-    "currentVideoId": "SiKDUe-uW5E",
+    "streamTitle": "Northwest's First Pencil Climb-Out! Delta Boeing 757-300 N582NW From LAS Vegas to ATLanta! 🇺🇸✈️",
+    "currentVideoId": "3oVSQJIt4a4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Wednesday 11th November 2026",
-    "currentVideoId": "8r9XDBCkBNg",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Thursday 12th November 2026",
+    "currentVideoId": "JvdKHzy76NE",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 4 x B747-400F JUMBOS - Terra Avia + OneAir + Atlas + UPS  @ Sydney Airport KURT MICK - 11.11.26 🔴",
-    "currentVideoId": "ru-GD8hHDlo",
+    "streamTitle": "🔴LIVE | OneAir 747 Charter + SingCargo & UPS 747's! - Plane Spotting @ Sydney Airport | 12.11.26 🔴",
+    "currentVideoId": "jsOqWuKSGMM",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
