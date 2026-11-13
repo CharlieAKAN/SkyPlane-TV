@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "iUsu-jwxkc0",
+    "currentVideoId": "MrMf8DMJoOU",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -11,8 +11,8 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 8th, 2026)"
+    "streamStatus": "upcoming",
+    "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 15th, 2026)"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"ʻIwakeliʻi\" Red-Eye Landing! Hawaiian Airbus A330-200 N382HA From HoNoLulu into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "f5ixOU92cCM",
+    "streamTitle": "Prime Air Climb Out! ABX Boeing 767-300F N1361A From LAS Vegas to CVG Cincinnati! 🇺🇸✈️",
+    "currentVideoId": "DaA7uBlmie8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
