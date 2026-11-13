@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "R2GlUXxhTpU",
+    "currentVideoId": "EV_7mI9gsVk",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "ANA’s Pokémon Jet Lands at Chicago O’Hare! ✈️ Eevee Jet Up Close"
+    "streamTitle": "Cleared to Land! 🪿 Two Canada Geese Make a Graceful Landing Near O’Hare"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Big Brown\" Twilight Climb! UPS Boeing 767-300F N374UP From LAS Vegas to SDF Louisville! 🇺🇸✈️",
-    "currentVideoId": "aPu9Nv6G0uE",
+    "streamTitle": "\"ʻIwakeliʻi\" Red-Eye Landing! Hawaiian Airbus A330-200 N382HA From HoNoLulu into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "f5ixOU92cCM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
