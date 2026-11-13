@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Flying Pencil Lift-Off! Delta Boeing 757-300 N585NW From LAS Vegas to MSP Minneapolis! 🇺🇸✈️",
-    "currentVideoId": "UCDYPI7JtkE",
+    "streamTitle": "\"Maui's Hook\" Sphere Lift-Off! Hawaiian Airbus A330-200 N385HA From LAS Vegas to HoNoLulu! 🇺🇸✈️",
+    "currentVideoId": "kiY4ZbGfLio",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Thursday 12th November 2026",
     "currentVideoId": "JvdKHzy76NE",
     "airportCode": "LHR",
