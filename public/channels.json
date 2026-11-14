@@ -11,7 +11,7 @@
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 15th, 2026)"
   },
   {
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Friday 13th November 2026",
     "currentVideoId": "CDlL3SGg_J8",
     "airportCode": "LHR",
