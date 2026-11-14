@@ -92,10 +92,10 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "PHILIPPINE AIRLINES ARRIVAL & LATE NIGHT TAKEOFF w/ LIVE ATC l CHICAGO O'HARE AIRPORT | ORD AVGEEK",
-    "currentVideoId": "W61c5vBFaF0",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴LIVE AFTERMATH GROUND STOP at CHICAGO O'HARE AIRPORT | ORD AVGEEK PLANE SPOTTING",
+    "currentVideoId": "6zhTHsgaVCc",
     "airportCode": "ORD",
     "bbox": {
       "lamin": 41.83,
