@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "MrMf8DMJoOU",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 15th, 2026)"
   },
   {
@@ -48,10 +48,10 @@
     "channelName": "LAS Vegas Airport LIVE",
     "youtubeChannelId": "UCYDCnc3YBEqxfuhvQ4rxqSA",
     "airportCode": "LAS",
-    "isLive": true,
-    "streamStatus": "live",
-    "streamTitle": "OFFICIAL LAS Vegas Airport LIVE Camera: Departures, Arrivals, and the Strip - All in One!",
-    "currentVideoId": "iIUCaiiMmNs",
+    "isLive": false,
+    "streamStatus": "vod",
+    "streamTitle": "Sea Neo Climb-Out! Condor Airbus A330-900neo D-ANRN From LAS Vegas to FRAnkfurt! 🇩🇪✈️",
+    "currentVideoId": "4mDAEQBDMIY",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
