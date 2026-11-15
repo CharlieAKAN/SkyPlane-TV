@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Sea Neo Climb-Out! Condor Airbus A330-900neo D-ANRN From LAS Vegas to FRAnkfurt! 🇩🇪✈️",
-    "currentVideoId": "4mDAEQBDMIY",
+    "streamTitle": "Fran The Sea Lion Touchdown! Frontier Airbus A320neo N341FR From PHoeniX into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "KJDC9uqMUO8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Sunday 15th November 2026",
     "currentVideoId": "O5LydUGrdg8",
     "airportCode": "LHR",
