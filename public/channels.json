@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Fran The Sea Lion Touchdown! Frontier Airbus A320neo N341FR From PHoeniX into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "KJDC9uqMUO8",
+    "streamTitle": "Triple Seven Touchdown! Korean Air Boeing 777-300ER HL8347 From ICN Seoul into LAS Vegas! 🇰🇷✈️",
+    "currentVideoId": "5fO4XRdC8yc",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Sunday 15th November 2026",
-    "currentVideoId": "O5LydUGrdg8",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Monday 16th November 2026",
+    "currentVideoId": "yWLgzcEa5eg",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
