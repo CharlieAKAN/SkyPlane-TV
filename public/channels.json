@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Zwickau Touchdown! Discover Airlines Airbus A330-300 D-AIKQ From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
-    "currentVideoId": "cRsbOQEFAlA",
+    "streamTitle": "\"Bennie Jet\" Touchdown! Virgin Atlantic Airbus A350-1000 G-VELJ From MANchester into LAS Vegas! 🇬🇧✈️",
+    "currentVideoId": "cptXK6zPHac",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Monday 16th November 2026",
     "currentVideoId": "yWLgzcEa5eg",
     "airportCode": "LHR",
