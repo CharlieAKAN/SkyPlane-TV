@@ -1,1 +1,77 @@
-{}
+{
+  "LAS": {
+    "raw": "METAR KLAS 180256Z 20004KT 10SM FEW090 FEW200 13/M01 A3007 RMK AO2 SLP176 T01331011 53026",
+    "icao": "KLAS",
+    "flightCategory": "VFR",
+    "windDir": 200,
+    "windSpeed": 4,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 13.3,
+    "dewpoint": -1.1,
+    "altimeter": 30.07,
+    "conditions": "",
+    "observationTime": "2026-11-18T03:00:00.000Z"
+  },
+  "LAX": {
+    "raw": "METAR KLAX 180253Z 32008KT 10SM FEW250 18/03 A3008 RMK AO2 SLP185 T01780028 53013 $",
+    "icao": "KLAX",
+    "flightCategory": "VFR",
+    "windDir": 320,
+    "windSpeed": 8,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 17.8,
+    "dewpoint": 2.8,
+    "altimeter": 30.08,
+    "conditions": "",
+    "observationTime": "2026-11-18T03:00:00.000Z"
+  },
+  "ORD": {
+    "raw": "METAR KORD 180251Z 17007KT 10SM FEW250 08/01 A3041 RMK AO2 SLP301 T00780006 58005 $",
+    "icao": "KORD",
+    "flightCategory": "VFR",
+    "windDir": 170,
+    "windSpeed": 7,
+    "windGust": null,
+    "visibility": 10,
+    "ceiling": null,
+    "temp": 7.8,
+    "dewpoint": 0.6,
+    "altimeter": 30.41,
+    "conditions": "",
+    "observationTime": "2026-11-18T03:00:00.000Z"
+  },
+  "LHR": {
+    "raw": "METAR EGLL 180220Z AUTO 24015KT 9999 -RA SCT041 10/08 Q0982 TEMPO SHRA",
+    "icao": "EGLL",
+    "flightCategory": "VFR",
+    "windDir": 240,
+    "windSpeed": 15,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 10,
+    "dewpoint": 8,
+    "altimeter": 29,
+    "conditions": "-RA",
+    "observationTime": "2026-11-18T02:20:00.000Z"
+  },
+  "SYD": {
+    "raw": "METAR YSSY 180230Z 09014KT 9999 FEW047 SCT230 23/11 Q1025",
+    "icao": "YSSY",
+    "flightCategory": "VFR",
+    "windDir": 90,
+    "windSpeed": 14,
+    "windGust": null,
+    "visibility": 6,
+    "ceiling": null,
+    "temp": 23,
+    "dewpoint": 11,
+    "altimeter": 30.27,
+    "conditions": "",
+    "observationTime": "2026-11-18T02:30:00.000Z"
+  }
+}
