@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "MurgB3Dqq6E",
+    "currentVideoId": "ItQT2q1nqAU",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -41,7 +41,7 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport - The Midweek Show [November 18th]"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Dreamliner Touchdown! British Airways 787-9 G-ZBKB From London HeathRow into LAS Vegas! 🇬🇧✈️",
-    "currentVideoId": "eJ7AN15qWAM",
+    "streamTitle": "Twin Departures! New United 737 MAX 9 N47434 Climbs Out of LAS Vegas to IAD Washington! ✈️✈️",
+    "currentVideoId": "yNJLPvew_9I",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
