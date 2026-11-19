@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "America West Lives! A321 N580UW Heritage Livery Takeoff From LAS Vegas to CharLoTte! 🧡✈️",
-    "currentVideoId": "IpaukWWgpv4",
+    "streamTitle": "SkyTeam Touchdown! Korean Air 777-300ER HL7783 From ICN Seoul into LAS Vegas! 🇰🇷✈️",
+    "currentVideoId": "iHp0a_Z7_jM",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Wednesday 18th November 2026",
-    "currentVideoId": "sF-LliWaWS4",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Thursday 19th November 2026",
+    "currentVideoId": "z3sa1Cqwp6U",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
