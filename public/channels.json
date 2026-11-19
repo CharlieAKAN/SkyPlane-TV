@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "ItQT2q1nqAU",
+    "currentVideoId": "UNtqMoLbn04",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE: Chicago O’Hare Plane Spotting ✈️ | NOW with Real-Time Telemetry & Crystal-Clear ATC"
+    "streamTitle": "🔴 LIVE ✈️ Chicago O’Hare AIRPORT | Nonstop Plane Spotting 🔥 [v]"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Twin Departures! New United 737 MAX 9 N47434 Climbs Out of LAS Vegas to IAD Washington! ✈️✈️",
-    "currentVideoId": "yNJLPvew_9I",
+    "streamTitle": "America West Lives! A321 N580UW Heritage Livery Takeoff From LAS Vegas to CharLoTte! 🧡✈️",
+    "currentVideoId": "IpaukWWgpv4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Wednesday 18th November 2026",
     "currentVideoId": "sF-LliWaWS4",
     "airportCode": "LHR",
