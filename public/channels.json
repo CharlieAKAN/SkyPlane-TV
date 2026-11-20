@@ -18,16 +18,16 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "gh780GAYCFc",
-    "isLive": true,
+    "currentVideoId": "-7x0EwK1-34",
+    "isLive": false,
     "bbox": {
       "lamin": 41.83,
       "lamax": 42.13,
       "lomin": -88.05,
       "lomax": -87.75
     },
-    "streamStatus": "live",
-    "streamTitle": "🔴 LIVE ✈️ Chicago O’Hare AIRPORT | Nonstop Plane Spotting 🔥 [v]"
+    "streamStatus": "vod",
+    "streamTitle": "🔴 LIVE: FRIDAY O’HARE ACTION! ✈️ Nonstop Landings, Takeoffs & Plane Spotting | Chicago ORD"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Sunset Climb Out! Air France Airbus A350-900 F-HUVU From LAS Vegas to CDG Paris! 🇫🇷✈️",
-    "currentVideoId": "kFw75kg-9cA",
+    "streamTitle": "Neon Night Rotation! Virgin Atlantic Boeing 787-9 G-VCRU From LAS Vegas to London HeathRow! 🇬🇧✈️",
+    "currentVideoId": "nR7vwzGNs4k",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  CROSSWIND Friday 20th November 2026",
     "currentVideoId": "GKdm990PCfQ",
     "airportCode": "LHR",
@@ -77,9 +77,9 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": false,
-    "streamStatus": "upcoming",
-    "streamTitle": "🔴 LIVE - AUCKLAND AIRPORT Plane-Spotting. SydSquad on Tour - Day 2 - with KURT - 21.11.26 🔴",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "🔴 LIVE - AUCKLAND AIRPORT Plane-Spotting. SydSquad on Tour - Day 2 - with KURT AND MIKE - 21.11.26 🔴",
     "currentVideoId": "0sxjqZ5GU-8",
     "airportCode": "SYD",
     "bbox": {
