@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  CROSSWIND Friday 20th November 2026",
-    "currentVideoId": "GKdm990PCfQ",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Saturday 21st November 2026",
+    "currentVideoId": "iBRSHViKumk",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,7 +79,7 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE - AUCKLAND AIRPORT Plane-Spotting. SydSquad on Tour - Day 2 - with KURT AND MIKE - 21.11.26 🔴",
+    "streamTitle": "🔴 CLOSE-UP MUCH? AUCKLAND AIRPORT Plane-Spotting. SydSquad on Tour- Day 2 - KURT & MIKE - 21.11.26 🔴",
     "currentVideoId": "0sxjqZ5GU-8",
     "airportCode": "SYD",
     "bbox": {
