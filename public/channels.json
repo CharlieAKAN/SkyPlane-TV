@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Neon Night Rotation! Virgin Atlantic Boeing 787-9 G-VCRU From LAS Vegas to London HeathRow! 🇬🇧✈️",
-    "currentVideoId": "nR7vwzGNs4k",
+    "streamTitle": "Night Touchdown! Breeze Airways Airbus A220-300 N272BZ From MSY New Orleans into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "VVRxwPlo4q8",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -77,8 +77,8 @@
   {
     "channelName": "SydSquad",
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE - AUCKLAND AIRPORT Plane-Spotting. SydSquad on Tour - Day 2 - with KURT AND MIKE - 21.11.26 🔴",
     "currentVideoId": "0sxjqZ5GU-8",
     "airportCode": "SYD",
