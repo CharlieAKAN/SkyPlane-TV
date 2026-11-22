@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "vnzVuxCMhKc",
-    "isLive": false,
+    "isLive": true,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "live",
     "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 22nd, 2026)"
   },
   {
@@ -41,7 +41,7 @@
       "lomin": -0.6,
       "lomax": -0.3
     },
-    "streamStatus": "upcoming",
+    "streamStatus": "vod",
     "streamTitle": "LIVE: London Heathrow Airport - The Sunday Show [November 22nd]"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Island Stripes Touchdown! Condor Airbus A330-900neo D-ANRK From FRAnkfurt into LAS Vegas! 🇩🇪✈️",
-    "currentVideoId": "SnnM-IOJghQ",
+    "streamTitle": "Flying Pencil Rotation! Delta Boeing 757-300 N594NW Takeoff From LAS Vegas to MSP Minneapolis! 🇺🇸✈️",
+    "currentVideoId": "Fki43StrThg",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -64,7 +64,7 @@
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
     "isLive": true,
     "streamStatus": "live",
-    "streamTitle": "Heathrow Airport Live -  Sunday 22nd November 2026",
+    "streamTitle": "Heathrow Airport Live -  WINDY Sunday 22nd November 2026",
     "currentVideoId": "Jh3tv2fi8cM",
     "airportCode": "LHR",
     "bbox": {
