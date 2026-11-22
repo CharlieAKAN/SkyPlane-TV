@@ -18,7 +18,7 @@
     "channelName": "The Curious Spotter (ORD)",
     "youtubeChannelId": "UCtNU9KHJgefhdU5N0mFUU8g",
     "airportCode": "ORD",
-    "currentVideoId": "QNncJZwVz5I",
+    "currentVideoId": "MYmEWjHOuug",
     "isLive": false,
     "bbox": {
       "lamin": 41.83,
@@ -27,7 +27,7 @@
       "lomax": -87.75
     },
     "streamStatus": "vod",
-    "streamTitle": "O’Hare Tower Spots United A319 With Gear Still Down"
+    "streamTitle": "CAUGHT IN ONE LIVESTREAM: 14 Boeing 747 Landings & Takeoffs at Chicago O’Hare!"
   },
   {
     "channelName": "Big Jet TV (LHR)",
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Saturday 21st November 2026",
-    "currentVideoId": "iBRSHViKumk",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Sunday 22nd November 2026",
+    "currentVideoId": "Jh3tv2fi8cM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴 CLOSE-UP MUCH? AUCKLAND AIRPORT Plane-Spotting. SydSquad on Tour- Day 2 - KURT & MIKE - 21.11.26 🔴",
-    "currentVideoId": "0sxjqZ5GU-8",
+    "streamTitle": "🔴LIVE | 5 Special Aircraft in 1 Night! Plane Spotting @ Sydney Airport | 22.11.26 🔴",
+    "currentVideoId": "qwi9D1aiZqU",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
