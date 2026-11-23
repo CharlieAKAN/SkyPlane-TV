@@ -4,14 +4,14 @@
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
     "currentVideoId": "vnzVuxCMhKc",
-    "isLive": true,
+    "isLive": false,
     "bbox": {
       "lamin": 33.79,
       "lamax": 34.09,
       "lomin": -118.55,
       "lomax": -118.25
     },
-    "streamStatus": "live",
+    "streamStatus": "vod",
     "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 22nd, 2026)"
   },
   {
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Flying Pencil Rotation! Delta Boeing 757-300 N594NW Takeoff From LAS Vegas to MSP Minneapolis! 🇺🇸✈️",
-    "currentVideoId": "Fki43StrThg",
+    "streamTitle": "Sphere Backdrop Landing! Air Wisconsin CRJ-200 AWI7215 From DENver into LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "8O1pJiumc94",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  WINDY Sunday 22nd November 2026",
     "currentVideoId": "Jh3tv2fi8cM",
     "airportCode": "LHR",
