@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Sphere Backdrop Landing! Air Wisconsin CRJ-200 AWI7215 From DENver into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "8O1pJiumc94",
+    "streamTitle": "Climbing Bank! Janet Boeing 737-600 N288DP JANET51 Departs LAS Vegas! 🇺🇸✈️",
+    "currentVideoId": "xVny85gs4Cg",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  WINDY Sunday 22nd November 2026",
-    "currentVideoId": "Jh3tv2fi8cM",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Monday 23rd November 2026",
+    "currentVideoId": "YWnA98AY09M",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
