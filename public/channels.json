@@ -3,7 +3,7 @@
     "channelName": "AirlineVideosLive+ (LAX)",
     "youtubeChannelId": "UCox5yCEEjk4iYbhLgyj90EQ",
     "airportCode": "LAX",
-    "currentVideoId": "vnzVuxCMhKc",
+    "currentVideoId": "Wn4B-VXaqIk",
     "isLive": false,
     "bbox": {
       "lamin": 33.79,
@@ -12,7 +12,7 @@
       "lomax": -118.25
     },
     "streamStatus": "vod",
-    "streamTitle": "🔴 LIVE LAXPlane Spotting — Behind-the-Scenes with the Plane Jockey Kevin (November 22nd, 2026)"
+    "streamTitle": "CAUGHT LIVE! JetBlue A321neo Suffers Tail Strike Landing at LAX"
   },
   {
     "channelName": "The Curious Spotter (ORD)",
@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "\"Freedom One\" Touchdown! Southwest 737-800 N500WR From SBA Santa Barbara into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "kT2Bbg-_LDg",
+    "streamTitle": "Flying Pencil Climb-Out! Delta Boeing 757-300 N590NW DL2238 From LAS Vegas to MSP Minneapolis! 🇺🇸✈️",
+    "currentVideoId": "z1_6vDYiFCc",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,8 +62,8 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "Heathrow Airport Live -  Monday 23rd November 2026",
     "currentVideoId": "aXoxfv-xqkg",
     "airportCode": "LHR",
@@ -79,8 +79,8 @@
     "youtubeChannelId": "UC8tLfsImEWybHQB_3CI-JDQ",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "🔴LIVE | 5 Special Aircraft in 1 Night! Plane Spotting @ Sydney Airport | 22.11.26 🔴",
-    "currentVideoId": "qwi9D1aiZqU",
+    "streamTitle": "🔴LIVE | VIP Turkish Government A330-200 | Plane Spotting @ Sydney Airport | 24.11.26 🔴",
+    "currentVideoId": "QCPJQneAALA",
     "airportCode": "SYD",
     "bbox": {
       "lamin": -34.09,
