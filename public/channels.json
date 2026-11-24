@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Flying Pencil Climb-Out! Delta Boeing 757-300 N590NW DL2238 From LAS Vegas to MSP Minneapolis! 🇺🇸✈️",
-    "currentVideoId": "z1_6vDYiFCc",
+    "streamTitle": "Scottsdale Livery Climb! JSX Embraer ERJ-145 N912JX JSX202 From LAS Vegas to BURbank! 🇺🇸✈️",
+    "currentVideoId": "fIUmDD4LlM4",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Monday 23rd November 2026",
-    "currentVideoId": "aXoxfv-xqkg",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Tuesday 24th November 2026",
+    "currentVideoId": "QpE2ecAz0zU",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
