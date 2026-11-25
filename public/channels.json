@@ -50,8 +50,8 @@
     "airportCode": "LAS",
     "isLive": false,
     "streamStatus": "vod",
-    "streamTitle": "Scottsdale Livery Touchdown! JSX Embraer ERJ-145 N912JX JSX203 From BURbank into LAS Vegas! 🇺🇸✈️",
-    "currentVideoId": "txQbjB5dEOo",
+    "streamTitle": "Dusk Sea Neo Takeoff! Condor Airbus A330-900neo D-ANRN DE2063 From LAS Vegas to FRAnkfurt! 🇩🇪✈️",
+    "currentVideoId": "2MXG3HIjHJ0",
     "bbox": {
       "lamin": 35.93,
       "lamax": 36.23,
@@ -62,10 +62,10 @@
   {
     "channelName": "Flight Focus 365",
     "youtubeChannelId": "UC6q_hfBThkGdmQ5Vb4kWjWA",
-    "isLive": false,
-    "streamStatus": "vod",
-    "streamTitle": "Heathrow Airport Live -  Tuesday 24th November 2026",
-    "currentVideoId": "QpE2ecAz0zU",
+    "isLive": true,
+    "streamStatus": "live",
+    "streamTitle": "Heathrow Airport Live -  Wednesday 25th November 2026",
+    "currentVideoId": "SeXJ9oe3nJM",
     "airportCode": "LHR",
     "bbox": {
       "lamin": 51.32,
@@ -92,8 +92,8 @@
   {
     "channelName": "Chicago Flights",
     "youtubeChannelId": "UCA_zxmsx0JaCDYGK3aUVyaQ",
-    "isLive": true,
-    "streamStatus": "live",
+    "isLive": false,
+    "streamStatus": "vod",
     "streamTitle": "🔴LIVE BUSY AIRPORT ACTION at CHICAGO O'HARE INTERNATIONAL AIRPORT | AVGEEK ORD PLANE SPOTTING",
     "currentVideoId": "QGFO3H48Dgw",
     "airportCode": "ORD",
